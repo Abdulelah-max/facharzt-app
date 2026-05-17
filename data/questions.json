@@ -2636,5 +2636,1408 @@
       "Koloskopie",
       "iFOBT"
     ]
+  },
+  {
+    "id": "krk_9_1_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.1",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Beginn der adjuvanten Chemotherapie",
+    "thema": "Kolon adjuvant",
+    "statement": "Die adjuvante Chemotherapie eines Kolonkarzinoms sollte laut S3-LL baldmöglichst postoperativ eingeleitet werden — in RCTs erfolgte der Beginn innerhalb von 8 Wochen.",
+    "answer": true,
+    "explanation": "Empf. 9.1 (Grad B, LoE 3b) + Statement 9.2 (LoE 1b). Übersicht aus 30 Studien: Beginn >8 Wochen postop assoziiert mit HR 1,37 für schlechteres Überleben. <4 vs. 5-8 Wochen: kein Unterschied.",
+    "leitlinie_wortlaut": "Die adjuvante Chemotherapie sollte baldmöglichst postoperativ eingeleitet werden. In den randomisierten Studien wurde die adjuvante Chemotherapie innerhalb von 8 Wochen eingeleitet.",
+    "evidenz": "Grad B; LoE 3b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 176,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Adjuvanz",
+      "Kolon",
+      "Beginn",
+      "Timing"
+    ]
+  },
+  {
+    "id": "krk_9_3_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.3",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Stadium III Kolonkarzinom",
+    "thema": "Kolon adjuvant",
+    "statement": "Bei einem R0-resezierten Kolonkarzinom im UICC-Stadium III sollte laut S3-LL eine adjuvante Chemotherapie durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.3 (Grad B, LoE 1a). Klar etablierter Überlebensvorteil. Standard: FOLFOX oder CAPOX, Dauer 3-6 Monate (IDEA-Studie: 3 Monate ausreichend für T1-3/N1).",
+    "leitlinie_wortlaut": "Bei Patienten mit einem R0 resezierten Kolonkarzinom im Stadium III sollte eine adjuvante Chemotherapie durchgeführt werden.",
+    "evidenz": "Grad B; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 178,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Stadium III",
+      "FOLFOX",
+      "CAPOX",
+      "Adjuvanz"
+    ]
+  },
+  {
+    "id": "krk_9_4_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.4",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Alter und adjuvante Chemotherapie",
+    "thema": "Kolon adjuvant",
+    "statement": "Allein aus Altersgründen sollte laut S3-LL eine adjuvante Chemotherapie im Stadium III nicht unterlassen werden — auf Performance-Status, Rekonvaleszenz und Komorbiditäten ist zu achten.",
+    "answer": true,
+    "explanation": "Empf. 9.4 (EK). Auch ältere Patienten (70-79J: 68 %, >80J: 24 %) profitieren in retrospektiven Analysen. Oxaliplatin-Effekt bei >69J reduziert (HR 0,91 vs. 0,80 bei jüngeren). Capecitabin wirkt auch im Alter, Oxaliplatin-Kombi mit zurückhaltender Empfehlung.",
+    "leitlinie_wortlaut": "Allein aus Altersgründen sollte eine adjuvante Chemotherapie im Stadium III nicht unterlassen werden. Bei älteren Patienten soll ein guter Performancestatus, eine ausreichende Rekonvaleszenz und das Fehlen limitierender Komorbiditäten beachtet werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 178,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Alter",
+      "Adjuvanz",
+      "Performance-Status"
+    ]
+  },
+  {
+    "id": "krk_9_5_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.5",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Stadium II ohne Risikofaktoren",
+    "thema": "Kolon adjuvant",
+    "statement": "Bei einem Kolonkarzinom im UICC-Stadium II ohne Risikofaktoren ist laut S3-LL eine adjuvante Chemotherapie obligat — der Überlebensvorteil ist klar belegt.",
+    "answer": false,
+    "explanation": "Empf. 9.5 (Grad 0, LoE 1b): KANN-Empfehlung. Absoluter OS-Vorteil nur 2-5 %. Meta-Analysen zeigen keinen signifikanten OS-Vorteil im Stadium II ohne Risikofaktoren (Gill: 80 % vs. 81 %, p=0,11). QUASAR zeigte 3 % Vorteil, aber methodische Schwächen. Mit Patient besprechen.",
+    "leitlinie_wortlaut": "Bei Patienten mit einem kurativ resezierten Kolonkarzinom im Stadium II kann eine adjuvante Chemotherapie durchgeführt werden.",
+    "evidenz": "Grad 0; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 180,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Stadium II",
+      "Adjuvanz",
+      "Risiko"
+    ]
+  },
+  {
+    "id": "krk_9_6_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.6",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Stadium II mit Risikofaktoren",
+    "thema": "Kolon adjuvant",
+    "statement": "Im Kolonkarzinom-Stadium II kann laut S3-LL eine adjuvante Chemotherapie in Risikosituationen erwogen werden — dazu zählen: T4, Tumorperforation/-einriss, Notfall-OP, zu wenige untersuchte Lymphknoten oder ctDNA-Nachweis.",
+    "answer": true,
+    "explanation": "Empf. 9.6 (Grad B, LoE 3b). Risikofaktoren prognostisch ungünstig identifiziert. ctDNA-Nachweis postop (4-6 Wochen) = MRD → erhöhtes Rezidivrisiko, Adjuvanz-Empfehlung stärker (siehe Empf. 8.14).",
+    "leitlinie_wortlaut": "Im Stadium II kann in ausgewählten Risikosituationen (T4, Tumorperforation/-einriss, Operation unter Notfallbedingungen, Anzahl untersuchter Lymphknoten zu gering) oder bei Nachweis von ctDNA eine adjuvante Chemotherapie erwogen werden.",
+    "evidenz": "Grad B; LoE 3b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 181,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Stadium II",
+      "Risikofaktoren",
+      "T4",
+      "ctDNA"
+    ]
+  },
+  {
+    "id": "krk_9_7_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.7",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "MSI vor Adjuvanz Stadium II",
+    "thema": "Kolon adjuvant",
+    "statement": "Bei Patienten im Stadium II soll laut S3-LL vor der Indikationsstellung zu einer adjuvanten Chemotherapie der Mikrosatellitenstatus bestimmt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.7 (Grad A). MSI-H/dMMR Stadium II (10-15 %) = sehr gute Prognose, KEIN Nutzen einer Fluoropyrimidin-Monotherapie (Sargent-Daten). MSI-H = keine adjuvante 5-FU-Monotherapie empfohlen.",
+    "leitlinie_wortlaut": "Bei Patienten im Stadium II soll vor der Indikationsstellung für eine adjuvante Chemotherapie der Mikrosatellitenstatus bestimmt werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 183,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "MSI",
+      "Stadium II",
+      "Adjuvanz"
+    ]
+  },
+  {
+    "id": "krk_9_16_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.16",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Neoadjuvante Chemotherapie Kolon (pMMR/MSS)",
+    "thema": "Kolon neoadjuvant",
+    "statement": "Eine neoadjuvante/perioperative Chemotherapie mit FOLFOX oder CAPOX KANN laut der neuen Empf. 9.16 beim lokal fortgeschrittenen, mismatch-repair-profizienten (pMMR) bzw. MSS-Kolonkarzinom nach Tumorboard-Diskussion durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.16 (Grad 0, LoE 2, neu 2025). FoxTrot-Studie: R0-Rate 94 % vs. 89 %, 2-J-Rezidivrate 16,9 % vs. 21,5 % (HR 0,72). Kein OS-Vorteil belegt. CT-Staging T-Kategorie nicht optimal → ~25 % Übertherapie-Gefahr → daher KANN-Empfehlung.",
+    "leitlinie_wortlaut": "Eine neoadjuvante/perioperative Chemotherapie mit FOLFOX oder CAPOX kann beim lokal fortgeschrittenen, Mismatch-Repair-profizienten (pMMR) und/oder Mikrosatelliten-stabilen Kolonkarzinom nach Diskussion im Tumorboard durchgeführt werden.",
+    "evidenz": "Grad 0; LoE 2 (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 195,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "FoxTrot",
+      "neoadjuvant",
+      "Kolon",
+      "FOLFOX",
+      "CAPOX"
+    ]
+  },
+  {
+    "id": "krk_9_17_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.17",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Neoadjuvante Immuntherapie Kolon (dMMR)",
+    "thema": "Kolon neoadjuvant",
+    "statement": "Eine neoadjuvante Immuntherapie KANN laut der neuen Empf. 9.17 beim lokal fortgeschrittenen, MSI-instabilen/dMMR-Kolonkarzinom nach Tumorboard-Diskussion durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.17 (Grad 0, LoE 3, neu 2025). NICHE2-Studie: Phase II, 115 Patienten dMMR-Kolon-CA, Nivolumab + Ipilimumab präop. → pCR 68 %, MPR 95 %, kein Rezidiv nach 26 Monaten. Studienlage klein, daher KANN-Empfehlung. Neoadjuvante Chemo bei dMMR wenig effektiv.",
+    "leitlinie_wortlaut": "Eine neoadjuvante Immuntherapie kann beim lokal fortgeschrittenen, Mikrosatelliten-instabilen/Mismatch Repair-defizienten (dMMR) Kolonkarzinom nach Diskussion im Tumorboard durchgeführt werden.",
+    "evidenz": "Grad 0; LoE 3 (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 196,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "NICHE2",
+      "dMMR",
+      "Kolon",
+      "Nivolumab",
+      "Ipilimumab"
+    ]
+  },
+  {
+    "id": "krk_9_18_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.18",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "RChT statt TME bei high-risk pT1",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Bei einem high-risk pT1-Rektumkarzinom nach lokaler Exzision stellt laut der neuen Aussage 9.18 die postoperative Radiochemotherapie eine Alternative zur Komplettierungs-TME dar.",
+    "answer": true,
+    "explanation": "Statement 9.18 (EK, neu 2025). Borstlap/Oostendorp-Metaanalysen: Lokalrezidivrate nach adj. RChT 4-13 % vs. 4-15 % nach Komplettierungs-TME. Vergleichbare Onkologie, aber: bei pT2-Tumoren weiterhin TME bevorzugt. Funktionelle Endpunkte fehlen.",
+    "leitlinie_wortlaut": "Eine Alternative zur totalen mesorektalen Exzision als Komplettierung nach initialer lokaler Exzision eines high-risk pT1-Tumors stellt die postoperative Radiochemotherapie dar.",
+    "evidenz": "Statement; EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 198,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "pT1",
+      "high-risk",
+      "RChT",
+      "Komplettierungs-TME"
+    ]
+  },
+  {
+    "id": "krk_9_19_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.19",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "5x5 Gy/RChT bei cT1-high-risk/cT2N0 mit Sphinkterverlust",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Bei cT1-high-risk- oder cT2N0-Rektumtumoren — insbesondere wenn die Resektion einen Sphinkterverlust bedeuten würde — kann laut der neuen Empf. 9.19 eine Radiotherapie 5x5 Gy oder RChT gefolgt von lokaler Exzision oder Watch-and-Wait bei (nahezu) klinischer Komplettremission durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.19 (EK, neu 2025). Ziel Organerhalt — Vermeidung der APE bei tiefsitzenden cT1/T2-Tumoren.",
+    "leitlinie_wortlaut": "Alternativ zur primären Resektion - insbesondere bei notwendiger Exstirpation mit Sphinkterverlust - kann bei cT1-high-risk- oder cT2N0-Tumoren die Radiotherapie mit 5x5 Gray oder die Radiochemotherapie gefolgt von lokaler Exzision oder Watch&Wait bei Erreichen einer (nahezu) klinischen Komplettremission durchgeführt werden.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 199,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "cT1",
+      "cT2N0",
+      "Organerhalt",
+      "Sphinkter"
+    ]
+  },
+  {
+    "id": "krk_9_4_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.4",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Alter bei Adjuvanz — wide",
+    "thema": "Kolon adjuvant",
+    "statement": "Patienten >75 Jahren sollten laut S3-LL allein wegen ihres Alters keine adjuvante Chemotherapie im Stadium III erhalten, da der Nebenwirkungsbenefit das Risiko überwiegt.",
+    "answer": false,
+    "explanation": "Empf. 9.4: Allein aus Altersgründen NICHT unterlassen. Entscheidend: Performance-Status, Rekonvaleszenz, Komorbiditäten. Capecitabin-Monotherapie bei Älteren gut verträglich.",
+    "leitlinie_wortlaut": "Allein aus Altersgründen sollte eine adjuvante Chemotherapie im Stadium III nicht unterlassen werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 178,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Alter",
+      "Adjuvanz",
+      "Altersgrenze"
+    ]
+  },
+  {
+    "id": "krk_10_1_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.1",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "Allgemeine Behandlungsstrategie",
+    "thema": "Metastasen",
+    "statement": "Patienten mit metastasiertem KRK sollen laut der neuen Empf. 10.1 im Laufe ihrer Erkrankung Zugang zu allen Therapiemodalitäten haben — die Therapiestrategie soll in einem interdisziplinären Tumorboard festgelegt werden, vorzugsweise in zertifizierten Zentren.",
+    "answer": true,
+    "explanation": "Empf. 10.1 (EK, neu 2025). Versorgungsstudien zeigen besseres OS in zertifizierten Zentren. Pro Therapielinie verlieren 25-30 % der Pat. den Anschluss → wirksame Medikamente in der Erstlinie nicht zurückhalten.",
+    "leitlinie_wortlaut": "Grundsätzlich sollen Patienten im Laufe ihrer Erkrankung Zugang zu allen Therapiemodalitäten haben und die Therapiestrategie soll in einem interdisziplinären Tumorboard festgelegt werden, vorzugsweise in zertifizierten Zentren.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 224,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "MDT",
+      "Zertifizierung",
+      "Strategie"
+    ]
+  },
+  {
+    "id": "krk_10_5_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.5",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "Molekulares Profiling vor Erstlinie",
+    "thema": "Metastasen",
+    "statement": "Vor Einleitung einer Erstlinientherapie beim metastasierten KRK soll laut der neuen Empf. 10.5 die Bestimmung des molekularen Tumorprofils — dMMR/MSI, RAS- und BRAF-Mutationen — erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 10.5 (Grad A, LoE 1a, neu 2025). Steuert die Erstlinie: dMMR/MSI-H → ICI. RAS-mut → anti-EGFR kontraindiziert. BRAF-V600 → Encorafenib + Cetuximab + FOLFOX (Breakwater).",
+    "leitlinie_wortlaut": "Vor Einleitung einer Erstlinientherapie soll die Bestimmung des molekularen Tumorprofils (dMMR/MSI, RAS- und BRAF-Mutationen) erfolgen.",
+    "evidenz": "Grad A; LoE 1a (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 225,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "RAS",
+      "BRAF",
+      "MSI",
+      "Profiling"
+    ]
+  },
+  {
+    "id": "krk_10_6_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.6",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "DPD-Mutation vor 5-FU",
+    "thema": "Metastasen",
+    "statement": "Vor Einsatz einer Fluoropyrimidin-haltigen Therapie soll laut der neuen Empf. 10.6 eine Mutation in den 4 wichtigsten DPD-Loci ausgeschlossen werden — bei DPD-Mangel ist die Dosis entsprechend anzupassen.",
+    "answer": true,
+    "explanation": "Empf. 10.6 (Grad A, LoE 2a, neu 2025). DPYD*2A, DPYD*13, c.2846A>T, HaplotypB3. Bis 9 % der Kaukasier betroffen. Bei DPD-Mangel: schwere Toxizität durch 5-FU/Capecitabin (kann letal sein) → Dosisreduktion oder alternative Therapie.",
+    "leitlinie_wortlaut": "Vor Einsatz einer Fluoropyrimidinhaltigen (FP) Therapie soll eine Mutation in den 4 wichtigsten DPD-Loci ausgeschlossen werden. Die FP Dosis ist bei einem DPD Mangel entsprechend anzupassen.",
+    "evidenz": "Grad A; LoE 2a (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 225,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "DPD",
+      "5-FU",
+      "Capecitabin",
+      "Toxizität"
+    ]
+  },
+  {
+    "id": "krk_10_7_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.7",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "UGT1A1 vor Irinotecan",
+    "thema": "Metastasen",
+    "statement": "Eine UGT1A1-Genotypisierung vor Beginn einer Chemotherapie mit Irinotecan kann laut der neuen Empf. 10.7 hilfreich sein, um Patienten mit erhöhtem Risiko für schwere Neutropenien und Durchfälle zu identifizieren (z.B. Morbus Meulengracht).",
+    "answer": true,
+    "explanation": "Empf. 10.7 (EK, neu 2025). Langsame UGT1A1-Metabolisierer (homozygot UGT1A1*28 oder *6) → schwere Toxizität bei Irinotecan, v.a. >180 mg/m². Bei reduzierter Aktivität: niedrigere Anfangsdosis.",
+    "leitlinie_wortlaut": "Vor Beginn einer CTx mit Irinotecan kann eine UGT1A1-Genotypisierung hilfreich sein, um Patienten mit einem erhöhten Risiko für schwere Neutropenien und Durchfälle zu identifizieren, z. B. bei v.a. Morbus Meulengracht oder anderen Bilirubin-Konjugationsstörungen.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 225,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "UGT1A1",
+      "Irinotecan",
+      "Meulengracht"
+    ]
+  },
+  {
+    "id": "krk_10_13_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.13",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "MSI-H → ICI Erstlinie",
+    "thema": "Metastasen",
+    "statement": "Patienten mit metastasiertem KRK und dMMR/MSI-H-Status sollen laut S3-LL eine Checkpoint-Inhibitor-Therapie erhalten.",
+    "answer": true,
+    "explanation": "Empf. 10.13 (Grad A, LoE 2, geprüft 2026). KEYNOTE-177: Pembrolizumab > Chemo. CheckMate 8HW (NEU 2026): Nivolumab + Ipilimumab in Erstlinie überlegen. ICI = neuer Standard für MSI-H/dMMR.",
+    "leitlinie_wortlaut": "Patienten mit metastasierter Erkrankung und dMMR/MSI-H-Status sollen eine Checkpoint-Inhibitor-Therapie erhalten.",
+    "evidenz": "Grad A; LoE 2",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 231,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "MSI",
+      "dMMR",
+      "ICI",
+      "Pembrolizumab",
+      "Nivolumab"
+    ]
+  },
+  {
+    "id": "krk_10_14_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.14",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "RAS-wt + BRAF-wt + linksseitig",
+    "thema": "Metastasen",
+    "statement": "Patienten mit RAS-Wildtyp + BRAF-Wildtyp und LINKSseitiger Lokalisation des Primärtumors sollen in der Erstlinientherapie laut S3-LL mit einer Chemotherapie-Doublette plus anti-EGFR-Therapie behandelt werden.",
+    "answer": true,
+    "explanation": "Empf. 10.14 (EK, modif 2025). Linksseitig = Splenische Flexur bis Rektum. anti-EGFR (Cetuximab/Panitumumab) klar überlegen bei linksseitig. Triplette + EGFR-AK NICHT empfohlen — kein Mehrwert, mehr Toxizität.",
+    "leitlinie_wortlaut": "Patienten mit RAS-Wildtyp (RAS-wt) und BRAF-wt Erkrankung und linksseitiger Lokalisation des Primärtumors sollen in der Erstlinientherapie mit einer Chemotherapie-Doublette plus anti-EGFR-Therapie behandelt werden. Eine Triplette plus EGFR-AK sollte nicht gegeben werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 231,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "RAS-wt",
+      "anti-EGFR",
+      "linksseitig",
+      "Cetuximab"
+    ]
+  },
+  {
+    "id": "krk_10_15_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.15",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "RAS-wt + BRAF-wt + rechtsseitig",
+    "thema": "Metastasen",
+    "statement": "Patienten mit RAS-Wildtyp + BRAF-Wildtyp und RECHTSseitiger Lokalisation des Primärtumors sollen in der Erstlinientherapie laut der neuen Empf. 10.15 präferentiell mit einer Chemotherapie-Doublette plus anti-VEGF-Therapie behandelt werden.",
+    "answer": true,
+    "explanation": "Empf. 10.15 (Grad A/B, neu 2025). Rechtsseitige Tumoren biologisch anders — anti-EGFR weniger wirksam, anti-VEGF (Bevacizumab) bevorzugt. Doublette/Triplette + EGFR-AK NICHT empfohlen.",
+    "leitlinie_wortlaut": "Patienten mit RAS-Wildtyp (RAS-wt), BRAFwt Erkrankung und rechtsseitiger Lokalisation des Primärtumors sollen in der Erstlinientherapie präferentiell mit einer Chemotherapie-Doublette plus anti-VEGF Therapie behandelt werden.",
+    "evidenz": "Grad A/B (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 232,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "RAS-wt",
+      "anti-VEGF",
+      "Bevacizumab",
+      "rechtsseitig"
+    ]
+  },
+  {
+    "id": "krk_10_15_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.15",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "RAS-wt rechtsseitig — Fehlannahme",
+    "thema": "Metastasen",
+    "statement": "Bei einem RAS-Wildtyp + BRAF-Wildtyp-Rechtsseiten-Kolonkarzinom in der metastasierten Situation soll laut S3-LL eine Erstlinientherapie mit anti-EGFR-Therapie (Cetuximab) gewählt werden — analog zur Linksseiten-Konstellation.",
+    "answer": false,
+    "explanation": "Empf. 10.15: Bei rechtsseitiger Lokalisation präferentiell anti-VEGF (Bevacizumab). Anti-EGFR ist weniger wirksam und sollte hier NICHT primär eingesetzt werden.",
+    "leitlinie_wortlaut": "Patienten mit RAS-Wildtyp (RAS-wt), BRAFwt Erkrankung und rechtsseitiger Lokalisation des Primärtumors sollen in der Erstlinientherapie präferentiell mit einer Chemotherapie-Doublette plus anti-VEGF Therapie behandelt werden. Eine Doublette oder Triplette plus EGFR-AK sollte nicht gegeben werden.",
+    "evidenz": "Grad A/B (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 232,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "anti-EGFR",
+      "rechtsseitig",
+      "Cetuximab",
+      "Verwechslung"
+    ]
+  },
+  {
+    "id": "krk_10_16_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.16",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "RAS-mutiert",
+    "thema": "Metastasen",
+    "statement": "Patienten mit RAS-mutiertem KRK sollen in der Erstlinientherapie laut der neuen Empf. 10.16 — unabhängig von der Tumorlokalisation — präferentiell mit einer Chemotherapie-Doublette oder Triplette ± Bevacizumab behandelt werden.",
+    "answer": true,
+    "explanation": "Empf. 10.16 (Grad A, neu 2025). RAS-Mutation = Resistenz gegen anti-EGFR. Bevacizumab (anti-VEGF) als Standard-Biologikum.",
+    "leitlinie_wortlaut": "Patienten mit RAS-mutierter (RAS-mut) Erkrankung unabhängig von der Lokalisation des Primärtumors sollen in der Erstlinientherapie präferentiell mit einer Chemotherapie-Doublette oder Triplette +/- Bevacizumab behandelt werden.",
+    "evidenz": "Grad A (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 232,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "RAS-mutiert",
+      "Bevacizumab",
+      "Erstlinie"
+    ]
+  },
+  {
+    "id": "krk_10_17_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.17",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "BRAF-V600E Erstlinie (Breakwater)",
+    "thema": "Metastasen",
+    "statement": "Patienten mit metastasiertem KRK und BRAF-V600E-Mutation sollten laut der neuen/modifizierten Empf. 10.17 in der Erstlinientherapie eine Therapie mit FOLFOX + Encorafenib + Cetuximab erhalten.",
+    "answer": true,
+    "explanation": "Empf. 10.17 (Grad B, LoE 2, modifiziert 2026). Breakwater-Studie (2024/2025) → Standard der Erstlinie für BRAF-V600E. Bisher schlechte Prognose. Mutationsrate 8-12 % beim mKRK.",
+    "leitlinie_wortlaut": "Patienten mit BRAF-V600E-Mutation sollten in der Erstlinie eine Therapie mit FOLFOX + Encorafenib + Cetuximab erhalten.",
+    "evidenz": "Grad B; LoE 2 (modif 2026)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 232,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "BRAF",
+      "V600E",
+      "Encorafenib",
+      "Breakwater",
+      "Cetuximab"
+    ]
+  },
+  {
+    "id": "krk_10_17_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.17",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "BRAF-V600E falsche Erstlinie",
+    "thema": "Metastasen",
+    "statement": "Patienten mit einem BRAF-V600E-mutierten metastasierten KRK sollen laut S3-LL in der Erstlinientherapie nur FOLFOX als Monotherapie ohne molekular gezielte Add-on erhalten.",
+    "answer": false,
+    "explanation": "Empf. 10.17 (modif 2026): Erstlinie = FOLFOX + Encorafenib + Cetuximab (Breakwater-Studie). FOLFOX allein wäre Unterbehandlung — BRAF-V600E hat schlechte Prognose ohne zielgerichtete Therapie.",
+    "leitlinie_wortlaut": "Patienten mit BRAF-V600E-Mutation sollten in der Erstlinie eine Therapie mit FOLFOX + Encorafenib + Cetuximab erhalten.",
+    "evidenz": "Grad B; LoE 2 (modif 2026)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 232,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "BRAF",
+      "FOLFOX",
+      "Erstlinie"
+    ]
+  },
+  {
+    "id": "krk_10_24_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.24",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "SIRT/TARE",
+    "thema": "Metastasen",
+    "statement": "Im Einzelfall kann laut der neuen Empf. 10.24 bei leberdominanter Erkrankung nach Tumorboard-Beschluss eine SIRT (Selective Internal Radiation Therapy) bzw. transarterielle Radioembolisation (TARE) erwogen werden.",
+    "answer": true,
+    "explanation": "Empf. 10.24 (EK, Konsens, neu 2025). Lokoregionale Therapie bei dominanter Leber-Metastasen-Last nach Versagen oder Begleitung systemischer Therapie. Im Einzelfall + MDT-Beschluss.",
+    "leitlinie_wortlaut": "Im Einzelfall kann bei leberdominanter Erkrankung nach Tumorboard-Beschluss eine SIRT/Transaterielle Radioembolisation (TARE) erwogen werden.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 242,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "SIRT",
+      "TARE",
+      "Lebermetastasen",
+      "leberdominant"
+    ]
+  },
+  {
+    "id": "krk_10_3_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.3",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "Therapiebeginn bei Met-Nachweis",
+    "thema": "Metastasen",
+    "statement": "Eine Tumortherapie soll laut der neuen Empf. 10.3 zum Zeitpunkt des Nachweises von Metastasen unabhängig von metastasenbezogenen Symptomen eingeleitet werden.",
+    "answer": true,
+    "explanation": "Empf. 10.3 (EK, neu 2025). Frühe systemische Therapie verbessert Prognose, auch bei asymptomatischen Mets. Watch-and-wait nur in begründeten Einzelfällen.",
+    "leitlinie_wortlaut": "Eine Tumortherapie soll zum Zeitpunkt des Nachweises von Metastasen unabhängig von metastasenbezogenen Symptomen eingeleitet werden.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 224,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Therapiebeginn",
+      "Mets",
+      "asymptomatisch"
+    ]
+  },
+  {
+    "id": "krk_10_8_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.8",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "Resektable Mets",
+    "thema": "Metastasen",
+    "statement": "Bei primär resektabler Metastasierung (inklusive Oligometastasierung) ist laut S3-LL die Anwendung lokaler Therapieverfahren — Resektion, SRBT, Thermoablation, TACE, intraarterielle Chemotherapie — zu prüfen.",
+    "answer": true,
+    "explanation": "Statement 10.8 (EK, neu 2025). Bei R0-resezierbaren Leber-/Lungenmets: bis 50 % 5-Jahres-DFS möglich. Bis 25 % der M+-Patienten haben kurative Option.",
+    "leitlinie_wortlaut": "Bei primär resektabler Metastasierung (inklusive Oligometastasierung) ist die Anwendung lokaler Therapieverfahren zu prüfen. Neben einer Operation sind andere lokalen Therapieverfahren zu berücksichtigen.",
+    "evidenz": "Statement; EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 227,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "resektabel",
+      "Oligometastasen",
+      "Resektion"
+    ]
+  },
+  {
+    "id": "krk_10_12_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.12",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "Asympt. Primärtumor bei inop. Mets",
+    "thema": "Metastasen",
+    "statement": "Bei inoperabler metastasierter Erkrankung soll laut der neuen Empf. 10.12 die Resektion eines asymptomatischen Primärtumors (keine Stenose, keine Blutung) nicht erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 10.12 (Grad A, LoE 1b, neu 2025). Synchronous + CCRe-IV-Studie: kein OS-Vorteil. Operierte Pat. erhielten zudem seltener systemische Chemotherapie. Ausnahmen: Blutung, mech. Ileus (ggf. Stoma).",
+    "leitlinie_wortlaut": "Die Resektion eines asymptomatischen Primärtumors (keine Stenosesymptomatik, keine klinisch relevanten Blutungen) bei Patienten mit inoperabler metastasierter Erkrankung soll nicht erfolgen.",
+    "evidenz": "Grad A; LoE 1b (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 230,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Primärtumor",
+      "asymptomatisch",
+      "inop. Mets"
+    ]
+  },
+  {
+    "id": "krk_11_1_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.1",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "Nachsorge UICC I-III",
+    "thema": "Nachsorge",
+    "statement": "Nach R0-Resektion eines kolorektalen Karzinoms im UICC-Stadium I bis III sollten laut S3-LL regelmäßige Nachsorgeuntersuchungen empfohlen werden, sofern sich daraus therapeutische Konsequenzen ergeben.",
+    "answer": true,
+    "explanation": "Statement 11.1 (LoE 1a). Programmiertes Schema (Tab. 17): Anamnese 6/12/18/24 Mon, Koloskopie 12+60 Mon, Sono 12 Mon + jährlich, CT 12 Mon. 90 % der Rezidive in den ersten 3 J. Stadium I: oft reduzierte Nachsorge ausreichend.",
+    "leitlinie_wortlaut": "Nach R0-Resektion von kolorektalen Karzinomen des UICC-Stadiums I bis III sollten regelmäßige Nachsorgeuntersuchungen empfohlen werden, sofern sich daraus therapeutische Konsequenzen ergeben.",
+    "evidenz": "Statement; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 244,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Nachsorge",
+      "UICC I-III",
+      "Schema"
+    ]
+  },
+  {
+    "id": "krk_11_2_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.2",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "Anamnese + körp. Untersuchung",
+    "thema": "Nachsorge",
+    "statement": "Eine symptomorientierte Anamnese und körperliche Untersuchung sind laut dem neuen Statement 11.2 grundsätzlicher Bestandteil der KRK-Nachsorge.",
+    "answer": true,
+    "explanation": "Statement 11.2 (EK, neu 2025). Tragen wenig zur Rezidivdetektion bei, sind aber Basis-Maßnahmen vor jeder weiteren Untersuchung.",
+    "leitlinie_wortlaut": "Eine symptomorientierte Anamneseerhebung und körperliche Untersuchung sind grundsätzlicher Bestandteil der Nachsorge.",
+    "evidenz": "Statement; EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 245,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Anamnese",
+      "Untersuchung",
+      "Nachsorge"
+    ]
+  },
+  {
+    "id": "krk_11_6_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.6",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "Koloskopie-Schema in der Nachsorge",
+    "thema": "Nachsorge",
+    "statement": "Allen KRK-Patienten soll laut S3-LL prä- oder innerhalb von 6 Monaten postoperativ eine komplette Koloskopie empfohlen werden; danach Kontroll-Koloskopie nach 1 Jahr und — bei unauffälligem Befund — im 5. Jahr.",
+    "answer": true,
+    "explanation": "Empf. 11.6 (Grad A/B, LoE 2b, modif 2025). 90 % der Anastomosenrezidive in den ersten 36 Monaten. Erste Kontroll-Kolo nach 12 Monaten — wegen evtl. übersehener synchroner Mets. Lebenslange Nachkontrollen analog zur Vorsorge.",
+    "leitlinie_wortlaut": "Allen Patienten soll prä- oder innerhalb von 6 Monaten postoperativ eine komplette Koloskopie empfohlen werden. Eine Koloskopie sollte nach einem Jahr und bei unauffälligem Befund im fünften Jahr empfohlen werden.",
+    "evidenz": "Grad A/B; LoE 2b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 247,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Koloskopie",
+      "Nachsorge",
+      "12 Monate"
+    ]
+  },
+  {
+    "id": "krk_11_6_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.6",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "Nachsorge-Koloskopie Verwechslung",
+    "thema": "Nachsorge",
+    "statement": "Die erste Nachsorge-Koloskopie nach kurativer KRK-Resektion soll laut S3-LL bereits 6 Monate postoperativ erfolgen — danach jährlich für die ersten 5 Jahre.",
+    "answer": false,
+    "explanation": "Empf. 11.6: 12 Monate postop (NICHT 6 Monate), danach bei unauffälligem Befund Kontrolle im 5. Jahr. 6-Monats-Postop-Koloskopie nur als Aufholungs-Index bei präop nicht kompletter Koloskopie.",
+    "leitlinie_wortlaut": "Eine Koloskopie sollte nach einem Jahr und bei unauffälligem Befund im fünften Jahr empfohlen werden.",
+    "evidenz": "Grad A/B; LoE 2b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 247,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Koloskopie",
+      "Nachsorge",
+      "Intervall"
+    ]
+  },
+  {
+    "id": "krk_11_7_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.7",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "Beginn der Nachsorge",
+    "thema": "Nachsorge",
+    "statement": "Der Beginn der KRK-Nachsorge errechnet sich laut S3-LL ab dem Zeitpunkt der Operation.",
+    "answer": true,
+    "explanation": "Statement 11.7 (EK). 90 % der Rezidive in den ersten 3 Jahren postoperativ. Nach 5 Jahren praktisch keine neuen Rezidive mehr. Nachsorge nicht über 5 Jahre hinaus.",
+    "leitlinie_wortlaut": "Der Beginn der Nachsorge errechnet sich ab dem Zeitpunkt der Operation.",
+    "evidenz": "Statement; EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 249,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Beginn",
+      "Nachsorge"
+    ]
+  },
+  {
+    "id": "krk_11_8_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.8",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "Nachsorge nach Metastasentherapie",
+    "thema": "Nachsorge",
+    "statement": "Nach kurativer Metastasen-Therapie sollte laut S3-LL eine strukturierte Nachsorge erfolgen — CT-Thorax/Abdomen alle 3 Monate im ersten Jahr und danach alle 6 Monate bis zum 5. Jahr.",
+    "answer": true,
+    "explanation": "Empf. 11.8 (EK, modif 2025). Intensivere Nachsorge wegen hoher Rezidivrate nach Met-Resektion. Engmaschige Bildgebung zur Frühdetektion.",
+    "leitlinie_wortlaut": "Nach kurativer Metastasentherapie sollte eine strukturierte Nachsorge empfohlen werden: CT-Thorax/Abdomen alle 3 Monate im ersten Jahr und danach alle 6 Monate bis zum fünften Jahr.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 249,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Mets",
+      "Nachsorge",
+      "CT",
+      "kurativ"
+    ]
+  },
+  {
+    "id": "krk_11_4_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.4",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "Sonografie in der Nachsorge",
+    "thema": "Nachsorge",
+    "statement": "Die abdominelle Sonografie kann laut S3-LL zur Detektion von Lebermetastasen in der KRK-Nachsorge nach kurativ intendierter Therapie eingesetzt werden — der Nutzen im Hinblick auf eine Verbesserung der Mortalität ist jedoch nicht beurteilbar.",
+    "answer": true,
+    "explanation": "Empf. 11.4 (Grad 0, LoE 5, modif 2025). Sensitivität 53-82 %, CT meist überlegen. Praktisch akzeptiert wegen Verfügbarkeit + Kosten. Alternative: CT (Statement 11.5).",
+    "leitlinie_wortlaut": "Die Sonografie kann zur Detektion von Lebermetastasen nach kurativ intendierter Therapie eingesetzt werden. Der Nutzen der Sonografie in der Nachsorge des kolorektalen Karzinoms im Hinblick auf eine mögliche Verbesserung der krebsbedingten Mortalität kann nicht beurteilt werden.",
+    "evidenz": "Grad 0; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 246,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Sonografie",
+      "Nachsorge",
+      "Lebermets"
+    ]
+  },
+  {
+    "id": "krk_11_5_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.5",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "CT in der Nachsorge",
+    "thema": "Nachsorge",
+    "statement": "Die Computertomografie ist laut S3-LL zur Erkennung von Lebermetastasen, Lokalrezidiven im kleinen Becken und Lungenmetastasen in der Nachsorge technisch geeignet.",
+    "answer": true,
+    "explanation": "Statement 11.5 (LoE 1b). FACT-RCT: häufigere CTs entdeckten mehr Rezidive (15,3 % vs. 7,3 %) — aber kein OS-Vorteil. Cochrane 2019: Mortalitäts-Vorteil zwischen intensiver vs. minimaler Nachsorge nicht mehr signifikant.",
+    "leitlinie_wortlaut": "Die Computertomografie ist zur Erkennung von Lebermetastasen, von Lokalrezidiven im kleinen Becken sowie von Lungenmetastasen technisch geeignet.",
+    "evidenz": "Statement; LoE 1b",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 247,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "CT",
+      "Nachsorge",
+      "Mets"
+    ]
+  },
+  {
+    "id": "krk_11_3_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.3",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "CEA in der Nachsorge",
+    "thema": "Nachsorge",
+    "statement": "Die regelmäßige Bestimmung des CEA-Wertes in der KRK-Nachsorge ist laut S3-LL eindeutig mit einer Reduktion der krebsbedingten Mortalität assoziiert.",
+    "answer": false,
+    "explanation": "Statement 11.3 (LoE modif 2025): Der Nutzen der CEA-Bestimmung in der Nachsorge ist umstritten. Eine eindeutige Mortalitätsreduktion ist nicht belegt. CEA wird in der Praxis dennoch häufig zur Trend-Beurteilung herangezogen.",
+    "leitlinie_wortlaut": "Der Nutzen der Bestimmung des karzinoembryonalen Antigens (CEA) in der Nachsorge des kolorektalen Karzinoms ist nicht eindeutig.",
+    "evidenz": "Statement; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 245,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "CEA",
+      "Nachsorge",
+      "Tumormarker"
+    ]
+  },
+  {
+    "id": "krk_13_1_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "13.1",
+    "kapitel": "Rehabilitation / LARS",
+    "unterkapitel": "Anschlussheilbehandlung (AHB)",
+    "thema": "Reha",
+    "statement": "Nach Abschluss der KRK-Primärtherapie soll laut S3-LL eine Anschlussheilbehandlung (AHB) allen rehabilitationsfähigen Patienten angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 13.1 (EK, modif 2025). Wenn AHB unmittelbar postoperativ erfolgt: zeitgerechte Einleitung der adjuvanten Chemo sicherstellen. Alternativ: AHB nach Adjuvanz. SGB IX-Anspruch.",
+    "leitlinie_wortlaut": "Nach Abschluss der Primärtherapie soll eine AHB allen rehabilitationsfähigen Patienten angeboten werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 265,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "AHB",
+      "Reha",
+      "Anschlussheilbehandlung"
+    ]
+  },
+  {
+    "id": "krk_13_2_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "13.2",
+    "kapitel": "Rehabilitation / LARS",
+    "unterkapitel": "LARS multimodale Therapie",
+    "thema": "LARS",
+    "statement": "Bei bestehendem Postresektionssyndrom (LARS) nach Stomarückverlagerung soll laut der neuen Empf. 13.2 auf Reha-Maßnahmen UND/ODER eine multimodale Therapie hingewiesen werden — Ernährungsberatung, medikamentöse Therapie, Beckenboden-/Schließmuskeltraining, ggf. Biofeedback, ggf. transanale Irrigation.",
+    "answer": true,
+    "explanation": "Empf. 13.2 (EK, neu 2025). LARS-Inzidenz bis 80 % nach Stoma-Rückverlagerung. Schwere Symptomatik bei 40-50 %. Multimodal: Stuhleindicker (Flohsamen, Apfelpektin), Loperamid/Opium, Biofeedback, anale Irrigation als Mittel der Wahl bei nicht-erfolgreicher Therapie. Schweregrad nach Emmertsen-Score.",
+    "leitlinie_wortlaut": "Bei bestehendem Postresektionssyndrom (LARS) nach Stomarückverlagerung soll auf die Möglichkeit einer Rehabilitationsmaßnahme hingewiesen werden und/oder eine multimodale Therapie (begleitende Ernährungsberatung, medikamentöse Therapie, Beckenboden-/Schließmuskeltraining, ggf. Biofeedback, ggf. transanale Irrigation) hingewiesen werden.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 267,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "LARS",
+      "Postresektionssyndrom",
+      "Biofeedback",
+      "Irrigation"
+    ]
+  },
+  {
+    "id": "krk_13_3_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "13.3",
+    "kapitel": "Rehabilitation / LARS",
+    "unterkapitel": "Orale Medikation bei Stoma",
+    "thema": "Stoma",
+    "statement": "Nach einer Stomaanlage soll laut der neuen Empf. 13.3 die orale Medikation des Patienten bezüglich der Resorption überprüft werden.",
+    "answer": true,
+    "explanation": "Empf. 13.3 (EK, neu 2025). Veränderte Resorption durch verkürzten Magen-Darm-Passage. Unkritisch: Sublingual, Tropfen, Saft, Brause. Kritisch: Filmtabletten, Kapseln, Dragees, Retard-Formen (mups, ZOK, SR). Stomaträger nach Sichtbarkeit der Tablette im Beutel fragen.",
+    "leitlinie_wortlaut": "Nach einer Stomaanlage soll die orale Medikation bezüglich der Resorption überprüft werden.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 269,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Stoma",
+      "Medikation",
+      "Resorption",
+      "Retard"
+    ]
+  },
+  {
+    "id": "krk_13_4_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "13.4",
+    "kapitel": "Rehabilitation / LARS",
+    "unterkapitel": "Körperliche Aktivität nach Adjuvanz",
+    "thema": "Tertiärprävention",
+    "statement": "Nach Primärtherapie und adjuvanter Chemotherapie eines KRK soll laut der neuen/modifizierten Empf. 13.4 angeleitete körperliche Aktivität empfohlen werden — sie führt zu einer signifikanten Verbesserung von krankheitsfreiem und Gesamtüberleben.",
+    "answer": true,
+    "explanation": "Empf. 13.4 (Grad A, LoE 2, modif 2026). CHALLENGE-Studie: 889 Patienten, 55 Zentren — strukturiertes Bewegungsprogramm über 3 Jahre vs. nur Infomaterial. Personal Trainer + 10 MET-Stunden/Woche (= 2,5h zügiges Gehen). Signifikante DFS- und OS-Verbesserung. Erste harte RCT-Evidenz.",
+    "leitlinie_wortlaut": "Nach Primärtherapie und adjuvanter Chemotherapie eines kolorektalen Karzinoms soll angeleitete körperliche Aktivität empfohlen werden, da diese zu einer signifikanten Verbesserung von krankheitsfreiem und Gesamtüberleben führt.",
+    "evidenz": "Grad A; LoE 2 (modif 2026)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 271,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Bewegung",
+      "CHALLENGE",
+      "Tertiärprävention",
+      "MET"
+    ]
+  },
+  {
+    "id": "krk_13_4_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "13.4",
+    "kapitel": "Rehabilitation / LARS",
+    "unterkapitel": "Bewegung falsch",
+    "thema": "Tertiärprävention",
+    "statement": "Eine strukturierte körperliche Aktivität nach KRK-Adjuvanz hat laut S3-LL keinen relevanten Einfluss auf das Gesamt- oder krankheitsfreie Überleben — sie dient nur der Lebensqualität.",
+    "answer": false,
+    "explanation": "Empf. 13.4 (Grad A, modif 2026): CHALLENGE-Studie zeigt SIGNIFIKANTEN DFS- und OS-Vorteil. Bewegung = krankheitsmodifizierend, nicht nur QoL.",
+    "leitlinie_wortlaut": "Nach Primärtherapie und adjuvanter Chemotherapie eines kolorektalen Karzinoms soll angeleitete körperliche Aktivität empfohlen werden, da diese zu einer signifikanten Verbesserung von krankheitsfreiem und Gesamtüberleben führt.",
+    "evidenz": "Grad A; LoE 2 (modif 2026)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 271,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Bewegung",
+      "DFS",
+      "OS"
+    ]
+  },
+  {
+    "id": "krk_6_7_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.7",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "pT1-Pflichtangaben im Resektat",
+    "thema": "pT1-Karzinom",
+    "statement": "Bei Karzinomnachweis im endoskopischen pT1-Resektat soll laut S3-LL der histologische Befund Tiefeninfiltration (bei sessilen Polypen sm-Invasion in µm), Grading, L-Klassifikation und R-Status zu Tiefe + Seite enthalten.",
+    "answer": true,
+    "explanation": "Empf. 6.7 (Grad A, LoE 3). sm1/sm2/sm3 nach Haggitt/Kikuchi — sm-Invasionsmessung in µm essentiell für Risikoeinschätzung. Cut-off <1000 µm = low-risk SM-Invasionstiefe.",
+    "leitlinie_wortlaut": "Bei Karzinomnachweis im endoskopischen Resektat soll der histologische Befund folgende Merkmale enthalten: das Ausmaß der Tiefeninfiltration (pT-Kategorie), bei sessilen Polypen die sm-Invasionsmessung in µm; den histologischen Differenzierungsgrad (Grading); das Vorhandensein oder Fehlen von Lymphgefäßinvasion (L-Klassifikation); und die Beurteilung der Resektionsränder (R-Klassifikation) im Hinblick auf die lokale Entfernung im Gesunden (zur Tiefe und zur Seite).",
+    "evidenz": "Grad A; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 107,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "pT1",
+      "Pathologie",
+      "sm-Invasion"
+    ]
+  },
+  {
+    "id": "krk_6_9_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.9",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Tumorzellbudding als high-risk-Kriterium",
+    "thema": "pT1-Karzinom",
+    "statement": "Tumorzellbudding > 1 kann laut S3-LL als high-risk-Kriterium beim pT1-Kolorektalkarzinom gewertet werden.",
+    "answer": true,
+    "explanation": "Empf. 6.9 (EK). Budding = isolierte Tumorzell-Nester an der Invasionsfront. Bd2/Bd3 (≥5 Buds in 0,785 mm²) korreliert mit LK-Metastasen-Risiko.",
+    "leitlinie_wortlaut": "Tumorzellbudding > 1 kann als high-risk-Kriterium gewertet werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 108,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Budding",
+      "pT1",
+      "high-risk"
+    ]
+  },
+  {
+    "id": "krk_6_16_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.16",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Nachsorge ≥5 LRA",
+    "thema": "Polypen-Nachsorge",
+    "statement": "Bei Patienten mit ≥5 low-risk-Adenomen sollte laut S3-LL das Kontrollintervall <3 Jahre betragen.",
+    "answer": true,
+    "explanation": "Empf. 6.16 (Grad B, LoE 5). Höhere Polypenlast → höheres metachrones Risiko.",
+    "leitlinie_wortlaut": "Bei Patienten mit ≥ 5 low-risk-Adenomen sollte das Kontrollintervall < 3 Jahre betragen.",
+    "evidenz": "Grad B; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 115,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "LRA",
+      "Adenom",
+      "Nachsorge"
+    ]
+  },
+  {
+    "id": "krk_9_5_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.5",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Stadium II — partizipative Entscheidung",
+    "thema": "Kolon adjuvant",
+    "statement": "Auch im Kolonkarzinom-Stadium II ohne Risikofaktoren sollte laut S3-LL die Option einer adjuvanten Chemotherapie mit dem Patienten besprochen werden, da ein leichter Nutzen aus der QUASAR-Studie ableitbar bleibt.",
+    "answer": true,
+    "explanation": "Empf. 9.5: 'kann' — kein Standard. Aber Vor- und Nachteile partizipativ besprechen. QUASAR: 3 % absoluter Vorteil im Gesamtkollektiv (auch wenn methodisch schwach).",
+    "leitlinie_wortlaut": "Aufgrund der positiven Ergebnisse der QUASAR Studie kann der Nutzen einer adjuvanten Therapie im Stadium II ohne Risikofaktoren nicht gänzlich ausgeschlossen werden. Deshalb sollte eine Therapie in diesem Stadium zumindest in Betracht gezogen werden, in jedem Fall sollten die Vorteile und Risiken einer solchen Therapie mit dem Patienten besprochen werden.",
+    "evidenz": "Grad 0; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 181,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Stadium II",
+      "QUASAR",
+      "partizipativ"
+    ]
+  },
+  {
+    "id": "krk_10_2_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.2",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "Lokale Therapien immer prüfen",
+    "thema": "Metastasen",
+    "statement": "Das Tumorboard soll laut der neuen Empf. 10.2 bei jedem Patienten mit metastasiertem KRK initial sowie unter laufender Behandlung prüfen, ob lokale Therapieverfahren in kurativer Intention in die Strategie integriert werden können.",
+    "answer": true,
+    "explanation": "Empf. 10.2 (EK, neu 2025). Lokale Therapieverfahren: Metastasenresektion, SRBT, thermoablative Verfahren, TACE, intraarterielle Chemotherapie. Initial UND wiederholt unter Therapie prüfen — Konversion möglich.",
+    "leitlinie_wortlaut": "Das Tumorboard soll bei jedem Patienten initial sowie unter laufender Behandlung prüfen, ob lokale Therapieverfahren in kurativer Intention in die Therapiestrategie integriert werden können.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 224,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Tumorboard",
+      "lokale Therapien",
+      "kurativ"
+    ]
+  },
+  {
+    "id": "krk_10_4_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.4",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "Intensität an AZ + Mol-Profil",
+    "thema": "Metastasen",
+    "statement": "Die Intensität der Tumortherapie beim metastasierten KRK soll laut der neuen Empf. 10.4 an den Allgemeinzustand des Patienten und das molekulare Tumorprofil angepasst werden — Alter per se stellt keine Kontraindikation dar.",
+    "answer": true,
+    "explanation": "Empf. 10.4 (EK, neu 2025). Tumorbedingt reduzierter AZ ≠ Patientenbedingt → trotzdem evtl. intensive Therapie sinnvoll. Patient in Entscheidung einbeziehen.",
+    "leitlinie_wortlaut": "Die Intensität der Tumortherapie soll an den Allgemeinzustand des Patienten und das molekulare Tumorprofil angepasst werden. Alter per se stellt keine Kontraindikation dar. Bei der Therapieentscheidung sollen die Patienten mit einbezogen werden.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 225,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Allgemeinzustand",
+      "Alter",
+      "Therapieentscheidung"
+    ]
+  },
+  {
+    "id": "krk_10_5_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.5",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "Mol-Profil nach Erstlinie? — falsch",
+    "thema": "Metastasen",
+    "statement": "Beim metastasierten KRK soll laut S3-LL die Bestimmung des molekularen Tumorprofils (dMMR/MSI, RAS-, BRAF-Mutationen) erst nach Versagen der Erstlinientherapie erfolgen — dann beeinflusst es die Zweitlinien-Entscheidung.",
+    "answer": false,
+    "explanation": "Empf. 10.5 (Grad A): Vor Beginn der Erstlinientherapie. Profil bestimmt die initiale Therapie — RAS-mut → keine anti-EGFR, MSI-H → ICI, BRAF-V600 → Encorafenib-Kombi.",
+    "leitlinie_wortlaut": "Vor Einleitung einer Erstlinientherapie soll die Bestimmung des molekularen Tumorprofils (dMMR/MSI, RAS- und BRAF-Mutationen) erfolgen.",
+    "evidenz": "Grad A; LoE 1a (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 225,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "RAS",
+      "BRAF",
+      "MSI",
+      "Erstlinie"
+    ]
+  },
+  {
+    "id": "krk_11_1_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.1",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "Nachsorge Stadium I — Aufwand",
+    "thema": "Nachsorge",
+    "statement": "Im UICC-Stadium I des KRK sollte nach R0-Resektion laut S3-LL die volle Nachsorge analog Stadium II/III mit CT, Sonografie und CEA in vollem Umfang erfolgen.",
+    "answer": false,
+    "explanation": "Statement 11.1 + Tabelle 17: Bei Stadium I (sehr niedriges Rezidivrisiko) reduziertes Schema. Volle Nachsorge primär ab Stadium II. Lediglich Koloskopie analog Vorsorge.",
+    "leitlinie_wortlaut": "Nach R0-Resektion von kolorektalen Karzinomen des UICC-Stadiums I bis III sollten regelmäßige Nachsorgeuntersuchungen empfohlen werden, sofern sich daraus therapeutische Konsequenzen ergeben.",
+    "evidenz": "Statement; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 243,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Stadium I",
+      "Nachsorge",
+      "Aufwand"
+    ]
+  },
+  {
+    "id": "krk_13_1_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "13.1",
+    "kapitel": "Rehabilitation / LARS",
+    "unterkapitel": "AHB-Timing nach Adjuvanz",
+    "thema": "Reha",
+    "statement": "Wenn die KRK-Anschlussheilbehandlung (AHB) unmittelbar postoperativ erfolgt, muss laut S3-LL sichergestellt werden, dass eine indizierte adjuvante Chemotherapie zeitgerecht (in der Regel innerhalb von 8 Wochen) eingeleitet wird.",
+    "answer": true,
+    "explanation": "Empf. 13.1 (EK). Alternativ: AHB nach Abschluss der Adjuvanz. Verzögerung der adjuvanten Chemo >8 Wochen → schlechtere Prognose (Empf. 9.1).",
+    "leitlinie_wortlaut": "Wenn die AHB unmittelbar postoperativ erfolgt, muss sichergestellt werden, dass eine indizierte adjuvante Chemotherapie zeitgerecht eingeleitet wird. Alternativ kann die AHB nach Abschluss der adjuvanten Chemotherapie erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 265,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "AHB",
+      "Adjuvanz",
+      "Timing"
+    ]
+  },
+  {
+    "id": "krk_11_8_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "11.8",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "Mets-Nachsorge Intervall — falsch",
+    "thema": "Nachsorge",
+    "statement": "Nach kurativer Metastasenresektion eines KRK reicht laut S3-LL eine halbjährliche CT-Thorax/Abdomen für die strukturierte Nachsorge aus.",
+    "answer": false,
+    "explanation": "Empf. 11.8: alle 3 Monate im 1. Jahr, dann 6-monatlich bis 5. Jahr. Engmaschig wegen hoher Rezidivrate nach Mets-Resektion.",
+    "leitlinie_wortlaut": "Nach kurativer Metastasentherapie sollte eine strukturierte Nachsorge empfohlen werden: CT-Thorax/Abdomen alle 3 Monate im ersten Jahr und danach alle 6 Monate bis zum fünften Jahr.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 249,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Mets-Nachsorge",
+      "CT",
+      "Intervall"
+    ]
+  },
+  {
+    "id": "krk_10_13_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.13",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "MSI-H Erstlinie — Verwechslung",
+    "thema": "Metastasen",
+    "statement": "Bei metastasiertem KRK mit dMMR/MSI-H-Status sollen laut S3-LL Checkpoint-Inhibitoren erst nach Versagen der Standard-Chemotherapie als 2. Linie eingesetzt werden.",
+    "answer": false,
+    "explanation": "Empf. 10.13 (Grad A): ICI in der ERSTLINIE — Pembrolizumab (KEYNOTE-177) und Nivolumab+Ipilimumab (CheckMate 8HW) sind Standard-Erstlinie bei MSI-H/dMMR.",
+    "leitlinie_wortlaut": "Patienten mit metastasierter Erkrankung und dMMR/MSI-H-Status sollen eine Checkpoint-Inhibitor-Therapie erhalten.",
+    "evidenz": "Grad A; LoE 2",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 231,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "MSI",
+      "ICI",
+      "Erstlinie",
+      "CheckMate"
+    ]
+  },
+  {
+    "id": "krk_9_7_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.7",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "MSI-H Stadium II — keine 5-FU-Monotherapie",
+    "thema": "Kolon adjuvant",
+    "statement": "Bei einem Stadium-II-Kolonkarzinom mit MSI-H-Status soll laut S3-LL keine adjuvante 5-Fluorouracil-Monotherapie eingesetzt werden — dieser Tumortyp profitiert nicht davon.",
+    "answer": true,
+    "explanation": "Empf. 9.7 + Hintergrund. Sargent-Daten: dMMR Stadium II → KEINE Wirksamkeit der 5-FU-Monotherapie. Wenn doch Adjuvanz: Oxaliplatin-Kombination. Aber MSI-H Stadium II hat ohnehin sehr gute Prognose → meist keine Adjuvanz nötig.",
+    "leitlinie_wortlaut": "Der MSI-/MMR-Status sollte insbesondere genutzt werden, um eine Subgruppe (10-15 %) von Patienten im UICC-Stadium II zu identifizieren, die ein sehr geringes Rezidivrisiko haben und bei denen der Nutzen einer Fluoropyrimidin-basierten antitumoralen Therapie nicht nachgewiesen werden konnte. Die Durchführung einer adjuvanten Chemotherapie ist bei diesen Patienten nicht zu empfehlen.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 183,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "MSI",
+      "Stadium II",
+      "5-FU"
+    ]
+  },
+  {
+    "id": "krk_10_14_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "10.14",
+    "kapitel": "Therapie bei Metastasierung",
+    "unterkapitel": "RAS-wt linksseitig — Triplette + EGFR-AK",
+    "thema": "Metastasen",
+    "statement": "Bei einem RAS-Wildtyp + BRAF-Wildtyp + linksseitigem metastasiertem KRK kann laut S3-LL die Erstlinientherapie als Triplette + anti-EGFR-Antikörper eskaliert werden, um die Ansprechrate zu erhöhen.",
+    "answer": false,
+    "explanation": "Empf. 10.14: Triplette + EGFR-AK sollte NICHT gegeben werden. Doublette + anti-EGFR ist Standard. Triplette nur bei besonderen Indikationen (z.B. BRAF-mut TRIBE-Studie) oder rechtsseitig in Einzelfällen mit anti-VEGF.",
+    "leitlinie_wortlaut": "Patienten mit RAS-Wildtyp (RAS-wt) und BRAF-wt Erkrankung und linksseitiger Lokalisation des Primärtumors sollen in der Erstlinientherapie mit einer Chemotherapie-Doublette plus anti-EGFR-Therapie behandelt werden. Eine Triplette plus EGFR-AK sollte nicht gegeben werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 231,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "RAS-wt",
+      "Triplette",
+      "anti-EGFR",
+      "linksseitig"
+    ]
   }
 ]
