@@ -1,0 +1,16 @@
+{
+  "name": "Facharzt KRK – S3-Leitlinie",
+  "short_name": "Facharzt",
+  "description": "True/False-Quiz aus den deutschen S3-Leitlinien zur Facharztprüfung Viszeralchirurgie.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4efe6",
+  "theme_color": "#d6c9b3",
+  "lang": "de",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

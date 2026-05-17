@@ -1,0 +1,337 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#d6c9b3">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Facharzt">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<title>Facharzt KRK – S3-Leitlinie Quiz</title>
+<style>
+  :root {
+    --bg: #f4efe6;
+    --bg-card: #faf6ee;
+    --bg-elev: #ede5d4;
+    --ink: #2a2622;
+    --ink-soft: #5b544a;
+    --ink-muted: #8a8378;
+    --line: #d8cdb7;
+    --accent: #5a6b52;
+    --accent-soft: #e5ebdf;
+    --correct: #3f6b4e;
+    --correct-bg: #e3eedd;
+    --wrong: #993b3b;
+    --wrong-bg: #f3dede;
+    --serif: 'Charter', 'Iowan Old Style', 'Georgia', 'Source Serif Pro', serif;
+    --sans: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); font-family: var(--sans); }
+  body { min-height: 100dvh; padding-bottom: env(safe-area-inset-bottom); }
+
+  header { padding: 18px 20px 8px; max-width: 720px; margin: 0 auto; }
+  header h1 { font-family: var(--serif); font-weight: 600; font-size: 20px; letter-spacing: .2px; margin: 0; }
+  header .sub { color: var(--ink-muted); font-size: 12px; margin-top: 2px; }
+
+  main { padding: 8px 16px 120px; max-width: 720px; margin: 0 auto; }
+
+  .filters { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0 16px; }
+  .filter {
+    background: var(--bg-card); border: 1px solid var(--line); color: var(--ink-soft);
+    padding: 8px 12px; border-radius: 999px; font-size: 13px; font-family: var(--sans);
+    appearance: none; -webkit-appearance: none; min-height: 36px;
+  }
+
+  .scorebar {
+    display: flex; align-items: center; gap: 12px; padding: 10px 14px;
+    background: var(--bg-card); border: 1px solid var(--line); border-radius: 12px;
+    font-size: 13px; color: var(--ink-soft); margin-bottom: 14px;
+  }
+  .scorebar .num { font-weight: 600; color: var(--ink); font-variant-numeric: tabular-nums; }
+  .scorebar .grow { flex: 1; }
+  .scorebar button.linkish {
+    background: none; border: none; color: var(--accent); font-size: 13px; padding: 4px 0;
+    cursor: pointer; font-family: var(--sans);
+  }
+
+  .card {
+    background: var(--bg-card); border: 1px solid var(--line); border-radius: 16px;
+    padding: 20px; margin-bottom: 16px;
+  }
+  .meta { display: flex; gap: 8px; flex-wrap: wrap; font-size: 11px; color: var(--ink-muted); margin-bottom: 12px; }
+  .meta .chip { background: var(--bg-elev); padding: 3px 8px; border-radius: 6px; }
+  .meta .chip.nr { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+
+  .statement {
+    font-family: var(--serif); font-size: 19px; line-height: 1.5; color: var(--ink);
+    margin: 4px 0 20px;
+  }
+
+  .answers { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .answers button {
+    min-height: 56px; border-radius: 12px; border: 1.5px solid var(--line);
+    background: var(--bg-card); font-family: var(--sans); font-size: 16px; font-weight: 500;
+    color: var(--ink); cursor: pointer; transition: all .15s ease; padding: 12px;
+  }
+  .answers button:active { transform: scale(.98); }
+  .answers button.true-btn:hover { border-color: var(--correct); }
+  .answers button.false-btn:hover { border-color: var(--wrong); }
+  .answers button.picked.correct { background: var(--correct-bg); border-color: var(--correct); color: var(--correct); }
+  .answers button.picked.wrong { background: var(--wrong-bg); border-color: var(--wrong); color: var(--wrong); }
+  .answers button.reveal-correct { border-color: var(--correct); color: var(--correct); }
+  .answers button:disabled { cursor: default; opacity: .85; }
+
+  .explanation {
+    margin-top: 18px; padding: 14px 16px; background: var(--bg-elev);
+    border-left: 3px solid var(--accent); border-radius: 8px; font-size: 14px;
+    line-height: 1.55; color: var(--ink-soft);
+  }
+  .explanation h4 { margin: 0 0 6px; font-size: 12px; text-transform: uppercase; letter-spacing: .8px; color: var(--ink-muted); font-weight: 600; }
+  .explanation .quote { font-family: var(--serif); font-style: italic; color: var(--ink); margin: 8px 0; padding-left: 10px; border-left: 2px solid var(--line); }
+  .explanation .src { margin-top: 8px; font-size: 12px; color: var(--ink-muted); }
+
+  .nextbar { display: flex; gap: 8px; margin-top: 16px; }
+  .nextbar button {
+    flex: 1; min-height: 48px; border-radius: 12px; border: 1px solid var(--accent);
+    background: var(--accent); color: white; font-size: 15px; font-weight: 500;
+    cursor: pointer; font-family: var(--sans);
+  }
+  .nextbar button.ghost { background: transparent; color: var(--accent); }
+
+  .empty {
+    text-align: center; padding: 60px 20px; color: var(--ink-muted);
+  }
+  .empty h2 { font-family: var(--serif); color: var(--ink); font-weight: 600; }
+  .empty code { background: var(--bg-elev); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+
+  @media (max-width: 480px) {
+    .statement { font-size: 17px; }
+    .card { padding: 16px; border-radius: 14px; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Facharzt KRK</h1>
+  <div class="sub">S3-Leitlinie Kolorektales Karzinom · v3.2 · März 2026</div>
+</header>
+
+<main id="app">
+  <div id="filters" class="filters" hidden>
+    <select id="f-chapter" class="filter"><option value="">Alle Kapitel</option></select>
+    <select id="f-topic" class="filter"><option value="">Alle Themen</option></select>
+    <select id="f-difficulty" class="filter">
+      <option value="">Alle Schwierigkeiten</option>
+      <option value="leicht">leicht</option>
+      <option value="mittel">mittel</option>
+      <option value="schwer">schwer</option>
+    </select>
+    <select id="f-mode" class="filter">
+      <option value="all">Alle Fragen</option>
+      <option value="wrong">Nur falsche wiederholen</option>
+      <option value="new">Nur neue</option>
+    </select>
+  </div>
+
+  <div id="scorebar" class="scorebar" hidden>
+    <span><span class="num" id="s-progress">0/0</span> · richtig <span class="num" id="s-correct">0</span></span>
+    <span class="grow"></span>
+    <button class="linkish" id="s-reset">Reset</button>
+  </div>
+
+  <div id="quiz"></div>
+</main>
+
+<script>
+const $ = (s, r=document) => r.querySelector(s);
+const STORAGE = 'facharzt-krk-v1';
+
+let questions = [];
+let queue = [];
+let idx = 0;
+let answered = 0;
+let correct = 0;
+let progress = loadProgress();
+
+function loadProgress() {
+  try { return JSON.parse(localStorage.getItem(STORAGE)) || { history: {} }; }
+  catch { return { history: {} }; }
+}
+function saveProgress() {
+  localStorage.setItem(STORAGE, JSON.stringify(progress));
+}
+
+async function init() {
+  try {
+    const res = await fetch('data/questions.json', { cache: 'no-store' });
+    questions = await res.json();
+  } catch (e) {
+    questions = [];
+  }
+
+  if (!questions.length) {
+    renderEmpty();
+    return;
+  }
+
+  $('#filters').hidden = false;
+  $('#scorebar').hidden = false;
+  buildFilters();
+  applyFilters();
+  renderCurrent();
+
+  $('#f-chapter').addEventListener('change', applyFilters);
+  $('#f-topic').addEventListener('change', applyFilters);
+  $('#f-difficulty').addEventListener('change', applyFilters);
+  $('#f-mode').addEventListener('change', applyFilters);
+  $('#s-reset').addEventListener('click', () => {
+    if (confirm('Fortschritt wirklich zurücksetzen?')) {
+      progress = { history: {} };
+      saveProgress();
+      applyFilters();
+    }
+  });
+}
+
+function buildFilters() {
+  const chapters = [...new Set(questions.map(q => q.kapitel).filter(Boolean))].sort();
+  const topics = [...new Set(questions.map(q => q.thema).filter(Boolean))].sort();
+  for (const c of chapters) $('#f-chapter').insertAdjacentHTML('beforeend', `<option value="${esc(c)}">${esc(c)}</option>`);
+  for (const t of topics) $('#f-topic').insertAdjacentHTML('beforeend', `<option value="${esc(t)}">${esc(t)}</option>`);
+}
+
+function applyFilters() {
+  const ch = $('#f-chapter').value;
+  const tp = $('#f-topic').value;
+  const df = $('#f-difficulty').value;
+  const md = $('#f-mode').value;
+
+  queue = questions.filter(q => {
+    if (ch && q.kapitel !== ch) return false;
+    if (tp && q.thema !== tp) return false;
+    if (df && q.schwierigkeit !== df) return false;
+    const h = progress.history[q.id];
+    if (md === 'wrong') return h && h.lastCorrect === false;
+    if (md === 'new') return !h;
+    return true;
+  });
+
+  shuffle(queue);
+  idx = 0;
+  answered = 0;
+  correct = 0;
+  updateScore();
+  renderCurrent();
+}
+
+function shuffle(a) {
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+}
+
+function updateScore() {
+  $('#s-progress').textContent = `${Math.min(idx, queue.length)}/${queue.length}`;
+  $('#s-correct').textContent = correct;
+}
+
+function renderEmpty() {
+  $('#quiz').innerHTML = `
+    <div class="empty">
+      <h2>Noch keine Fragen</h2>
+      <p>Trage Fragen in <code>data/questions.json</code> ein.<br>
+      Schema siehe README.</p>
+    </div>`;
+}
+
+function renderCurrent() {
+  if (!queue.length) {
+    $('#quiz').innerHTML = `<div class="empty"><h2>Keine Fragen im Filter</h2><p>Versuche andere Filter-Einstellungen.</p></div>`;
+    return;
+  }
+  if (idx >= queue.length) {
+    $('#quiz').innerHTML = `
+      <div class="empty">
+        <h2>Durchlauf abgeschlossen</h2>
+        <p>${correct} von ${queue.length} richtig (${Math.round(correct/queue.length*100)}%).</p>
+        <div class="nextbar"><button onclick="applyFilters()">Neue Runde</button></div>
+      </div>`;
+    return;
+  }
+
+  const q = queue[idx];
+  $('#quiz').innerHTML = `
+    <div class="card" id="card">
+      <div class="meta">
+        <span class="chip nr">Empf. ${esc(q.empfehlung_nr || '?')}</span>
+        ${q.evidenz ? `<span class="chip">${esc(q.evidenz)}</span>` : ''}
+        ${q.konsensstaerke ? `<span class="chip">${esc(q.konsensstaerke)}</span>` : ''}
+        ${q.kapitel ? `<span class="chip">${esc(q.kapitel)}</span>` : ''}
+        ${q.seite_pdf ? `<span class="chip">S. ${esc(q.seite_pdf)}</span>` : ''}
+      </div>
+      <div class="statement">${esc(q.statement)}</div>
+      <div class="answers">
+        <button class="true-btn" data-pick="true">Richtig</button>
+        <button class="false-btn" data-pick="false">Falsch</button>
+      </div>
+      <div id="reveal"></div>
+    </div>`;
+
+  $('#card').querySelectorAll('[data-pick]').forEach(btn => {
+    btn.addEventListener('click', () => handlePick(btn.dataset.pick === 'true'));
+  });
+}
+
+function handlePick(picked) {
+  const q = queue[idx];
+  const isCorrect = picked === q.answer;
+  answered++;
+  if (isCorrect) correct++;
+
+  progress.history[q.id] = {
+    lastCorrect: isCorrect,
+    lastSeen: Date.now(),
+    count: (progress.history[q.id]?.count || 0) + 1,
+  };
+  saveProgress();
+
+  const btns = $('#card').querySelectorAll('[data-pick]');
+  btns.forEach(b => {
+    b.disabled = true;
+    const v = b.dataset.pick === 'true';
+    if (v === picked) b.classList.add('picked', isCorrect ? 'correct' : 'wrong');
+    if (v === q.answer && !isCorrect) b.classList.add('reveal-correct');
+  });
+
+  $('#reveal').innerHTML = `
+    <div class="explanation">
+      <h4>${isCorrect ? 'Richtig' : 'Falsch'} · Empfehlung ${esc(q.empfehlung_nr || '')}</h4>
+      <div>${esc(q.explanation || '')}</div>
+      ${q.leitlinie_wortlaut ? `<div class="quote">„${esc(q.leitlinie_wortlaut)}"</div>` : ''}
+      <div class="src">${esc(q.leitlinie?.name || '')} ${esc(q.leitlinie?.version || '')}${q.seite_pdf ? ` · S. ${esc(q.seite_pdf)}` : ''}</div>
+    </div>
+    <div class="nextbar">
+      <button id="next-btn">Weiter</button>
+    </div>`;
+
+  $('#next-btn').addEventListener('click', () => { idx++; updateScore(); renderCurrent(); });
+  updateScore();
+}
+
+function esc(s) {
+  return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+}
+
+init();
+</script>
+</body>
+</html>
