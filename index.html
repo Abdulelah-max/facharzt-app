@@ -148,50 +148,67 @@
 
 <script>
 const $ = (s, r=document) => r.querySelector(s);
-const STORAGE = 'facharzt-krk-v1';
+const STORAGE_KEY = 'facharzt-krk';
+const STORAGE_VERSION = 2;
 
 let questions = [];
 let queue = [];
 let idx = 0;
 let answered = 0;
-let correct = 0;
-let progress = loadProgress();
+let correctCount = 0;
+let state = loadState();
+let currentKey = '';
 
-function loadProgress() {
-  try { return JSON.parse(localStorage.getItem(STORAGE)) || { history: {} }; }
-  catch { return { history: {} }; }
+function loadState() {
+  try {
+    const raw = JSON.parse(localStorage.getItem(STORAGE_KEY));
+    if (raw && raw.version === STORAGE_VERSION) return raw;
+  } catch {}
+  return { version: STORAGE_VERSION, progress: {}, answers: {}, sessions: {}, lastFilter: null };
 }
-function saveProgress() {
-  localStorage.setItem(STORAGE, JSON.stringify(progress));
+
+function saveState() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+}
+
+function getFilterKey() {
+  return [$('#f-chapter').value, $('#f-topic').value, $('#f-difficulty').value, $('#f-mode').value].join('|');
+}
+
+function todayStr() {
+  return new Date().toISOString().slice(0, 10);
 }
 
 async function init() {
   try {
     const res = await fetch('data/questions.json', { cache: 'no-store' });
     questions = await res.json();
-  } catch (e) {
+  } catch {
     questions = [];
   }
-
-  if (!questions.length) {
-    renderEmpty();
-    return;
-  }
+  if (!questions.length) { renderEmpty(); return; }
 
   $('#filters').hidden = false;
   $('#scorebar').hidden = false;
   buildFilters();
+
+  if (state.lastFilter) {
+    if ($('#f-chapter').querySelector(`option[value="${cssEsc(state.lastFilter.chapter)}"]`)) $('#f-chapter').value = state.lastFilter.chapter;
+    if ($('#f-topic').querySelector(`option[value="${cssEsc(state.lastFilter.topic)}"]`)) $('#f-topic').value = state.lastFilter.topic;
+    $('#f-difficulty').value = state.lastFilter.difficulty || '';
+    $('#f-mode').value = state.lastFilter.mode || 'all';
+  }
+
   applyFilters();
-  renderCurrent();
 
   $('#f-chapter').addEventListener('change', applyFilters);
   $('#f-topic').addEventListener('change', applyFilters);
   $('#f-difficulty').addEventListener('change', applyFilters);
   $('#f-mode').addEventListener('change', applyFilters);
   $('#s-reset').addEventListener('click', () => {
-    if (confirm('Fortschritt wirklich zurücksetzen?')) {
-      progress = { history: {} };
-      saveProgress();
+    if (confirm('Fortschritt für diese Filter-Auswahl von vorne starten?')) {
+      delete state.progress[currentKey];
+      saveState();
       applyFilters();
     }
   });
@@ -204,26 +221,55 @@ function buildFilters() {
   for (const t of topics) $('#f-topic').insertAdjacentHTML('beforeend', `<option value="${esc(t)}">${esc(t)}</option>`);
 }
 
+function matchesFilter(q, ch, tp, df, md) {
+  if (ch && q.kapitel !== ch) return false;
+  if (tp && q.thema !== tp) return false;
+  if (df && q.schwierigkeit !== df) return false;
+  const a = state.answers[q.id];
+  if (md === 'wrong') return a && a.lastAnswer !== q.answer;
+  if (md === 'new') return !a;
+  return true;
+}
+
 function applyFilters() {
+  currentKey = getFilterKey();
   const ch = $('#f-chapter').value;
   const tp = $('#f-topic').value;
   const df = $('#f-difficulty').value;
   const md = $('#f-mode').value;
 
-  queue = questions.filter(q => {
-    if (ch && q.kapitel !== ch) return false;
-    if (tp && q.thema !== tp) return false;
-    if (df && q.schwierigkeit !== df) return false;
-    const h = progress.history[q.id];
-    if (md === 'wrong') return h && h.lastCorrect === false;
-    if (md === 'new') return !h;
-    return true;
-  });
+  state.lastFilter = { chapter: ch, topic: tp, difficulty: df, mode: md };
 
-  shuffle(queue);
-  idx = 0;
-  answered = 0;
-  correct = 0;
+  const matching = questions.filter(q => matchesFilter(q, ch, tp, df, md));
+  const matchingIds = new Set(matching.map(q => q.id));
+
+  const saved = state.progress[currentKey];
+  if (saved && Array.isArray(saved.queue) && saved.queue.length) {
+    queue = saved.queue
+      .filter(id => matchingIds.has(id))
+      .map(id => questions.find(q => q.id === id))
+      .filter(Boolean);
+    idx = Math.min(saved.currentIndex || 0, queue.length);
+  } else {
+    queue = matching.slice();
+    shuffle(queue);
+    state.progress[currentKey] = {
+      queue: queue.map(q => q.id),
+      currentIndex: 0,
+      lastSeen: new Date().toISOString()
+    };
+    idx = 0;
+  }
+  saveState();
+
+  // recompute counters from saved answers for current prefix
+  answered = idx;
+  correctCount = 0;
+  for (let i = 0; i < idx && i < queue.length; i++) {
+    const a = state.answers[queue[i].id];
+    if (a && a.lastAnswer === queue[i].answer) correctCount++;
+  }
+
   updateScore();
   renderCurrent();
 }
@@ -237,15 +283,14 @@ function shuffle(a) {
 
 function updateScore() {
   $('#s-progress').textContent = `${Math.min(idx, queue.length)}/${queue.length}`;
-  $('#s-correct').textContent = correct;
+  $('#s-correct').textContent = correctCount;
 }
 
 function renderEmpty() {
   $('#quiz').innerHTML = `
     <div class="empty">
       <h2>Noch keine Fragen</h2>
-      <p>Trage Fragen in <code>data/questions.json</code> ein.<br>
-      Schema siehe README.</p>
+      <p>Trage Fragen in <code>data/questions.json</code> ein.</p>
     </div>`;
 }
 
@@ -255,11 +300,14 @@ function renderCurrent() {
     return;
   }
   if (idx >= queue.length) {
+    const pct = queue.length ? Math.round(correctCount / queue.length * 100) : 0;
     $('#quiz').innerHTML = `
       <div class="empty">
         <h2>Durchlauf abgeschlossen</h2>
-        <p>${correct} von ${queue.length} richtig (${Math.round(correct/queue.length*100)}%).</p>
-        <div class="nextbar"><button onclick="applyFilters()">Neue Runde</button></div>
+        <p>${correctCount} von ${queue.length} richtig (${pct}%).</p>
+        <div class="nextbar">
+          <button onclick="newRound()">Neue Runde mit denselben Filtern</button>
+        </div>
       </div>`;
     return;
   }
@@ -287,18 +335,30 @@ function renderCurrent() {
   });
 }
 
+function newRound() {
+  delete state.progress[currentKey];
+  saveState();
+  applyFilters();
+}
+
 function handlePick(picked) {
   const q = queue[idx];
   const isCorrect = picked === q.answer;
   answered++;
-  if (isCorrect) correct++;
+  if (isCorrect) correctCount++;
 
-  progress.history[q.id] = {
-    lastCorrect: isCorrect,
-    lastSeen: Date.now(),
-    count: (progress.history[q.id]?.count || 0) + 1,
-  };
-  saveProgress();
+  const a = state.answers[q.id] = state.answers[q.id] || { correct: 0, wrong: 0 };
+  if (isCorrect) a.correct++; else a.wrong++;
+  a.lastAnswer = picked;
+  a.lastAnsweredAt = new Date().toISOString();
+
+  const today = todayStr();
+  const s = state.sessions[today] = state.sessions[today] || { answered: 0, correct: 0 };
+  s.answered++;
+  if (isCorrect) s.correct++;
+
+  state.progress[currentKey].lastSeen = new Date().toISOString();
+  saveState();
 
   const btns = $('#card').querySelectorAll('[data-pick]');
   btns.forEach(b => {
@@ -312,19 +372,28 @@ function handlePick(picked) {
     <div class="explanation">
       <h4>${isCorrect ? 'Richtig' : 'Falsch'} · Empfehlung ${esc(q.empfehlung_nr || '')}</h4>
       <div>${esc(q.explanation || '')}</div>
-      ${q.leitlinie_wortlaut ? `<div class="quote">„${esc(q.leitlinie_wortlaut)}"</div>` : ''}
+      ${q.leitlinie_wortlaut ? `<div class="quote">${esc(q.leitlinie_wortlaut)}</div>` : ''}
       <div class="src">${esc(q.leitlinie?.name || '')} ${esc(q.leitlinie?.version || '')}${q.seite_pdf ? ` · S. ${esc(q.seite_pdf)}` : ''}</div>
     </div>
     <div class="nextbar">
       <button id="next-btn">Weiter</button>
     </div>`;
 
-  $('#next-btn').addEventListener('click', () => { idx++; updateScore(); renderCurrent(); });
+  $('#next-btn').addEventListener('click', () => {
+    idx++;
+    state.progress[currentKey].currentIndex = idx;
+    saveState();
+    updateScore();
+    renderCurrent();
+  });
   updateScore();
 }
 
 function esc(s) {
   return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function cssEsc(s) {
+  return String(s ?? '').replace(/["\\]/g, '\\$&');
 }
 
 if ('serviceWorker' in navigator) {
