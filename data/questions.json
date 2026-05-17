@@ -1,502 +1,2640 @@
 [
   {
     "id": "krk_7_1_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.1", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Interdisziplinäre Tumorkonferenz", "thema": "Tumorkonferenz",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.1",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Interdisziplinäre Tumorkonferenz",
+    "thema": "Tumorkonferenz",
     "statement": "Laut S3-Leitlinie KRK sollen ALLE Patienten mit kolorektalem Karzinom in einer interdisziplinären Tumorkonferenz vorgestellt werden.",
     "answer": true,
     "explanation": "Genereller Satz gilt für alle KRK. Die zusätzliche prätherapeutische Pflicht trifft nur auf 5 Konstellationen zu.",
     "leitlinie_wortlaut": "Alle Patienten mit KRK sollen in einer interdisziplinären Tumorkonferenz vorgestellt werden.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 123, "schwierigkeit": "leicht", "tags": ["Tumorkonferenz", "MDT"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 123,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Tumorkonferenz",
+      "MDT"
+    ]
   },
   {
     "id": "krk_7_1_b",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.1", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Interdisziplinäre Tumorkonferenz", "thema": "Tumorkonferenz",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.1",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Interdisziplinäre Tumorkonferenz",
+    "thema": "Tumorkonferenz",
     "statement": "Ein Kolonkarzinom im UICC-Stadium II zählt zu den Konstellationen, die laut S3-LL prätherapeutisch zwingend in der Tumorkonferenz vorgestellt werden sollen.",
     "answer": false,
     "explanation": "Prätherapeutisch zwingend nur: Rektum-CA, Kolon-CA Stadium IV, metachrone Mets, Lokalrezidive, vor Metastasen-gerichteter Therapie. Kolon-CA II → erst postoperativ.",
     "leitlinie_wortlaut": "Zusätzlich prätherapeutisch sollen Patienten in folgenden Konstellationen vorgestellt werden: jedes Rektumkarzinom; jedes Kolonkarzinom im Stadium IV; metachrone Fernmetastasen; Lokalrezidive; vor jeder Metastasen-gerichteten Therapie.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 123, "schwierigkeit": "mittel", "tags": ["Tumorkonferenz", "MDT", "Stadium"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 123,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Tumorkonferenz",
+      "MDT",
+      "Stadium"
+    ]
   },
   {
     "id": "krk_7_2_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.2", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Prätherapeutische Ausbreitungsdiagnostik", "thema": "Staging",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.2",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Prätherapeutische Ausbreitungsdiagnostik",
+    "thema": "Staging",
     "statement": "Beim Kolonkarzinom (ohne Rektumbeteiligung) gehören laut S3-LL weder die starre Rektoskopie noch ein Becken-MRT zur Standard-Ausbreitungsdiagnostik.",
     "answer": true,
     "explanation": "Starre Rektoskopie + Becken-MRT + Endosono = nur Rektum-CA. Kolon-CA: DRU, Koloskopie, CT Thx/Abd/Becken.",
     "leitlinie_wortlaut": "Folgende Untersuchungen sollten Bestandteil der prätherapeutischen Ausbreitungsdiagnostik beim kolorektalen Karzinom sein (Tabelle 15).",
-    "evidenz": "Grad B; LoE 5/4/3b", "konsensstaerke": "Konsens", "seite_pdf": 124, "schwierigkeit": "mittel", "tags": ["Staging", "MRT", "Kolon", "Rektum"]
+    "evidenz": "Grad B; LoE 5/4/3b",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 124,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Staging",
+      "MRT",
+      "Kolon",
+      "Rektum"
+    ]
   },
   {
     "id": "krk_7_3_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.3", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "PET/PET-CT bei Primärdiagnostik", "thema": "Bildgebung",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.3",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "PET/PET-CT bei Primärdiagnostik",
+    "thema": "Bildgebung",
     "statement": "Eine PET/PET-CT hat laut S3-LL einen festen Stellenwert in der primären Ausbreitungsdiagnostik bei Erstdiagnose eines kolorektalen Karzinoms.",
     "answer": false,
     "explanation": "Statement 7.3 (LoE 2b) sagt explizit: KEIN Stellenwert. Sensitivität für LK-Metastasen niedrig (29-85 %), keine Überlegenheit ggü. CT/MRT.",
     "leitlinie_wortlaut": "Die PET/PET-CT hat keinen Stellenwert in der Ausbreitungsdiagnostik bei Erstdiagnose eines kolorektalen Karzinoms.",
-    "evidenz": "Statement; LoE 2b", "konsensstaerke": "Starker Konsens", "seite_pdf": 127, "schwierigkeit": "leicht", "tags": ["PET-CT", "Primärdiagnostik"]
+    "evidenz": "Statement; LoE 2b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 127,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "PET-CT",
+      "Primärdiagnostik"
+    ]
   },
   {
     "id": "krk_7_4_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.4", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "FDG-PET-CT vor Resektion kolorektaler Lebermetastasen", "thema": "Bildgebung",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.4",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "FDG-PET-CT vor Resektion kolorektaler Lebermetastasen",
+    "thema": "Bildgebung",
     "statement": "Eine FDG-PET-CT KANN laut S3-LL bei Patienten mit resektablen Lebermetastasen eines KRK mit dem Ziel durchgeführt werden, eine unnötige Laparotomie zu vermeiden.",
     "answer": true,
     "explanation": "PET-CT findet okkulte extrahepatische Streuung (Peritoneum, mediastinale LK, Lunge, Knochen) oder zusätzliche Leberherde → R0 wird unmöglich, kurative OP entfällt. Ruers-RCT: futile Laparotomien 45 % → 28 %, kein Überlebensvorteil. Daher nur 'Kann'-Empfehlung.",
     "leitlinie_wortlaut": "Eine FDG-PET-CT kann bei Patienten mit resektablen Lebermetastasen eines kolorektalen Karzinoms mit dem Ziel der Vermeidung einer unnötigen Laparotomie durchgeführt werden.",
-    "evidenz": "Grad 0; LoE 2b", "konsensstaerke": "Starker Konsens", "seite_pdf": 128, "schwierigkeit": "leicht", "tags": ["PET-CT", "Lebermetastasen", "Bildgebung"]
+    "evidenz": "Grad 0; LoE 2b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 128,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "PET-CT",
+      "Lebermetastasen",
+      "Bildgebung"
+    ]
   },
   {
     "id": "krk_7_5_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.5", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Tumormarker", "thema": "Tumormarker",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.5",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Tumormarker",
+    "thema": "Tumormarker",
     "statement": "Der CEA-Wert soll laut S3-LL prätherapeutisch bei JEDEM kolorektalen Karzinom bestimmt werden — unabhängig vom T-Stadium.",
     "answer": false,
     "explanation": "T1-Tumoren sind explizit ausgenommen. CA 19-9 / CA 125 sind kein Standard.",
     "leitlinie_wortlaut": "Der CEA-Wert soll prätherapeutisch mit Ausnahme von T1-Tumoren bestimmt werden.",
-    "evidenz": "EK", "konsensstaerke": "Konsens", "seite_pdf": 130, "schwierigkeit": "mittel", "tags": ["CEA", "Tumormarker", "T1"]
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 130,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "CEA",
+      "Tumormarker",
+      "T1"
+    ]
   },
   {
     "id": "krk_7_6_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.6", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Spezielle Diagnostik beim Rektumkarzinom", "thema": "MRT-Staging",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.6",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Spezielle Diagnostik beim Rektumkarzinom",
+    "thema": "MRT-Staging",
     "statement": "Der MRT-Befund beim Rektumkarzinom soll laut S3-LL — neben cT- und cN-Kategorie — auch das Mesorektale-Faszien (MRF)-Involvement, laterale pelvine Lymphknoten und die extramurale Gefäßinfiltration (EMVI) beurteilen.",
     "answer": true,
     "explanation": "Die 5 obligaten MRT-Punkte: cT, cN, MRF, laterale pelvine LK, EMVI.",
     "leitlinie_wortlaut": "Folgende Charakteristika sollen im MRT-Befund enthalten sein: 1. Tumorgröße/Infiltration (cT-Kategorie); 2. lokale Lymphknoten (cN-Kategorie); 3. Mesorektale Faszie (MRF) involviert?; 4. lateral pelvine Lymphknoten auffällig?; 5. Infiltration extramuraler Gefäße (EMVI).",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 131, "schwierigkeit": "mittel", "tags": ["MRT", "Rektumkarzinom", "MRF", "EMVI"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 131,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "MRT",
+      "Rektumkarzinom",
+      "MRF",
+      "EMVI"
+    ]
   },
   {
     "id": "krk_7_7_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.7", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Intraoperatives Staging", "thema": "Intraop. Staging",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.7",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Intraoperatives Staging",
+    "thema": "Intraop. Staging",
     "statement": "Eine intraoperative Inspektion der Leber sollte laut S3-LL bei jeder Operation eines KRK erfolgen, eventuell ergänzt durch intraoperative Sonographie.",
     "answer": true,
     "explanation": "Inspektion + Palpation entdeckt v.a. subseröse Herde < 2 mm. Kontrastverstärkter IOUS: sehr hohe Sensitivität (in einer Serie 100 %).",
     "leitlinie_wortlaut": "Eine intraoperative Inspektion der Leber sollte, eventuell ergänzt durch eine intraoperative Sonographie, erfolgen.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 133, "schwierigkeit": "leicht", "tags": ["Intraop", "Leber", "Sonographie"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 133,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Intraop",
+      "Leber",
+      "Sonographie"
+    ]
   },
   {
     "id": "krk_7_8_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.8", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Radikalchirurgische Therapie des Kolonkarzinoms", "thema": "Kolonchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.8",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Radikalchirurgische Therapie des Kolonkarzinoms",
+    "thema": "Kolonchirurgie",
     "statement": "Die chirurgische Therapie des Kolonkarzinoms SOLLTE laut S3-LL die komplette mesokolische Exzision (CME) beinhalten.",
     "answer": true,
     "explanation": "Wörtliche Empfehlung — 'sollte' (nicht 'soll'). CME = Präparation entlang embryonaler mesokolischer Hüllschichten + zentrale Gefäßligatur; rechte Hemikolektomie zusätzlich entlang V. mes. sup.",
     "leitlinie_wortlaut": "Die chirurgische Therapie des Kolonkarzinoms sollte die komplette mesokolische Exzision beinhalten.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 136, "schwierigkeit": "leicht", "tags": ["CME", "Kolonkarzinom", "Lymphadenektomie"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 136,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "CME",
+      "Kolonkarzinom",
+      "Lymphadenektomie"
+    ]
   },
   {
     "id": "krk_7_9_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.9", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Lokalablative intraoperative Verfahren bei Lebermetastasen", "thema": "Lebermetastasen",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.9",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Lokalablative intraoperative Verfahren bei Lebermetastasen",
+    "thema": "Lebermetastasen",
     "statement": "Lokal ablative Verfahren (z.B. RFA, MWA) können laut S3-LL sowohl bei resektablen als auch bei primär nicht resektablen Lebermetastasen eines KRK eingesetzt werden.",
     "answer": true,
     "explanation": "Empf. 7.9 (EK, Konsens). MWA ist gleichwertig zur RFA. Einsatz immer mit MDT-Entscheidung und erfahrenen Chirurgen besprechen.",
     "leitlinie_wortlaut": "Lokal ablative Verfahren können sowohl bei resektablen und primär nicht resektablen Lebermetastasen eingesetzt werden. Der Einsatz dieser Verfahren sollte in einem multidisziplinären Tumorboard unter Einbeziehung erfahrener Chirurgen diskutiert werden.",
-    "evidenz": "EK", "konsensstaerke": "Konsens", "seite_pdf": 137, "schwierigkeit": "mittel", "tags": ["RFA", "MWA", "Lebermetastasen", "Ablation"]
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 137,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "RFA",
+      "MWA",
+      "Lebermetastasen",
+      "Ablation"
+    ]
   },
   {
     "id": "krk_7_10_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.10", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Radikalchirurgische Therapie des Rektumkarzinoms", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.10",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Radikalchirurgische Therapie des Rektumkarzinoms",
+    "thema": "Rektumchirurgie",
     "statement": "Bei jedem Rektumkarzinom soll laut S3-LL eine systematische Dissektion der lateralen Lymphknoten entlang der A. iliaca interna durchgeführt werden, um die onkologischen Ergebnisse zu verbessern.",
     "answer": false,
     "explanation": "Ohne begründeten Metastasenverdacht NICHT — erhöht nur die Morbidität, ohne belegten onkologischen Vorteil.",
     "leitlinie_wortlaut": "Die systematische Dissektion der lateralen Lymphknoten entlang der Art. iliaca interna und ihrer Äste soll ohne begründeten Metastasenverdacht nicht durchgeführt werden. Sie erhöht die perioperative Morbidität, ohne dass onkologische Vorteile belegt sind.",
-    "evidenz": "Grad A; LoE 1b", "konsensstaerke": "Starker Konsens", "seite_pdf": 138, "schwierigkeit": "leicht", "tags": ["Rektumkarzinom", "Lymphadenektomie", "A. iliaca interna"]
+    "evidenz": "Grad A; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 138,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Rektumkarzinom",
+      "Lymphadenektomie",
+      "A. iliaca interna"
+    ]
   },
   {
     "id": "krk_7_11_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.11", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Vorgehen bei Tumoren des oberen Rektumdrittels", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.11",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Vorgehen bei Tumoren des oberen Rektumdrittels",
+    "thema": "Rektumchirurgie",
     "statement": "Bei Tumoren des oberen Rektumdrittels erfolgt laut S3-LL die Durchtrennung des Rektums mit partieller Mesorektumexzision (PME) 5 cm distal des makroskopischen Tumorrands; das Mesorektum soll horizontal ohne proximale Ausdünnung (kein Coning) durchtrennt werden.",
     "answer": true,
     "explanation": "Grad B, LoE 3b. 5-cm-Abstand wegen LK-Mets bis 4 cm distal in T3/T4. Kein Coning, sonst inkomplette LK-Dissektion.",
     "leitlinie_wortlaut": "Bei Tumoren des oberen Rektumdrittels erfolgt die Durchtrennung des Rektums mit partieller Mesorektumexzision 5 cm distal des makroskopischen Tumorrands, gemessen in vivo. Das Mesorektum sollte horizontal ohne proximalwärtige Ausdünnung durchtrennt werden (kein Coning).",
-    "evidenz": "Grad B; LoE 3b", "konsensstaerke": "Starker Konsens", "seite_pdf": 139, "schwierigkeit": "mittel", "tags": ["PME", "Rektum", "oberes Drittel", "Coning"]
+    "evidenz": "Grad B; LoE 3b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 139,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "PME",
+      "Rektum",
+      "oberes Drittel",
+      "Coning"
+    ]
   },
   {
     "id": "krk_7_12_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.12", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Vorgehen bei Tumoren des mittleren und unteren Rektumdrittels", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.12",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Vorgehen bei Tumoren des mittleren und unteren Rektumdrittels",
+    "thema": "Rektumchirurgie",
     "statement": "Bei Tumoren des mittleren und unteren Rektumdrittels soll laut S3-LL die totale Mesorektumexzision (TME) als operatives Vorgehen der Wahl durchgeführt werden.",
     "answer": true,
     "explanation": "TME = Standard für mittleres + unteres Drittel. Oberes Drittel: partielle Mesorektumexzision (PME) mit 5 cm distalem Abstand, kein Coning (Empf. 7.11).",
     "leitlinie_wortlaut": "Bei Tumoren des mittleren und unteren Rektumdrittels soll die totale Mesorektumexzision (TME) als operatives Vorgehen der Wahl durchgeführt werden.",
-    "evidenz": "Grad A; LoE 1b", "konsensstaerke": "Starker Konsens", "seite_pdf": 140, "schwierigkeit": "leicht", "tags": ["TME", "Rektumkarzinom"]
+    "evidenz": "Grad A; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 140,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "TME",
+      "Rektumkarzinom"
+    ]
   },
   {
     "id": "krk_7_13_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.13", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Vorgehen bei Tumoren des mittleren und unteren Rektumdrittels", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.13",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Vorgehen bei Tumoren des mittleren und unteren Rektumdrittels",
+    "thema": "Rektumchirurgie",
     "statement": "Laut der neuen Empfehlung 7.13 (S3-LL v3.2) ist bei der TME ein zirkumferenzieller Sicherheitsabstand von >5 mm und distal von mindestens 20 mm — auch nach neoadjuvanter Therapie — zwingend einzuhalten.",
     "answer": false,
     "explanation": "Korrekt: zirkumferenziell >1-2 mm, distal >10-20 mm. Nach neoadjuvanter Therapie sphinkternah auch >5 mm distal akzeptabel — mit intraop. Schnellschnitt-Verifikation.",
     "leitlinie_wortlaut": "Bei der TME soll eine sichere Entfernung im Gesunden angestrebt werden mit Sicherheitsabständen von > 1-2 mm zirkumferenziell, > 10-20 mm distal, wobei nach neoadjuvanter Therapie sphinkternah auch > 5 mm akzeptabel sind, soweit die Tumorfreiheit durch intraoperativen Schnellschnitt verifiziert wird.",
-    "evidenz": "EK (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 140, "schwierigkeit": "schwer", "tags": ["TME", "Sicherheitsabstand", "Rektumkarzinom", "neoadjuvant"]
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 140,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "TME",
+      "Sicherheitsabstand",
+      "Rektumkarzinom",
+      "neoadjuvant"
+    ]
   },
   {
     "id": "krk_7_14_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.14", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Rekonstruktion nach tiefer anteriorer Rektumresektion", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.14",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Rekonstruktion nach tiefer anteriorer Rektumresektion",
+    "thema": "Rektumchirurgie",
     "statement": "Bei der Rekonstruktion nach tiefer anteriorer Rektumresektion sollte wegen besserer funktioneller Ergebnisse eine Reservoirbildung erfolgen — etwa als Kolon-J-Pouch oder als Seit-zu-End-Anastomose.",
     "answer": true,
     "explanation": "Grad A, LoE 1a. Gerade End-zu-End funktionell schlechter, v.a. im ersten Jahr postoperativ. Kolon-J-Pouch und Seit-zu-End vergleichbar.",
     "leitlinie_wortlaut": "Bei der Rekonstruktion nach tiefer anteriorer Resektion soll wegen besserer funktioneller Ergebnisse eine Reservoirbildung (Colon-J-Pouch oder die Seit-zu-End-Anastomose) erfolgen.",
-    "evidenz": "Grad A; LoE 1a", "konsensstaerke": "Konsens", "seite_pdf": 141, "schwierigkeit": "leicht", "tags": ["Pouch", "Rekonstruktion", "TAR"]
+    "evidenz": "Grad A; LoE 1a",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 141,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Pouch",
+      "Rekonstruktion",
+      "TAR"
+    ]
   },
   {
     "id": "krk_7_15_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.15", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Entscheidung zum Sphinkter-Erhalt", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.15",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Entscheidung zum Sphinkter-Erhalt",
+    "thema": "Rektumchirurgie",
     "statement": "Die Reevaluation für eine sphinktererhaltende Rektumresektion nach neoadjuvanter Therapie sollte laut S3-LL frühestens 6 Wochen nach Therapie-Ende stattfinden.",
     "answer": true,
     "explanation": "Tumormassenreduktion durch Radiochemotherapie tritt verzögert ein — erst nach mehreren Wochen voll fassbar. Erhöhtes LARS-Risiko nach Neoadjuvanz beachten.",
     "leitlinie_wortlaut": "Eine Reevaluation sollte deshalb frühestens 6 Wochen nach Abschluss der neoadjuvante Therapie stattfinden.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 142, "schwierigkeit": "mittel", "tags": ["Sphinktererhalt", "neoadjuvant", "Reevaluation"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 142,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Sphinktererhalt",
+      "neoadjuvant",
+      "Reevaluation"
+    ]
   },
   {
     "id": "krk_7_16_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.16", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Watch-and-Wait bei kompletter Remission", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.16",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Watch-and-Wait bei kompletter Remission",
+    "thema": "Rektumchirurgie",
     "statement": "In Fällen mit klinischer Komplettremission nach neoadjuvanter Therapie (kein Tumor in DRU, Endoskopie und MRT mit Diffusionswichtung) kann laut S3-LL auf eine Resektion verzichtet werden.",
     "answer": true,
     "explanation": "Watch-and-Wait. cCR-Definition: kein palpabler Tumor (DRU), Rektoskopie nur Narbe oder kleines Ulkus, MRT T2 ohne Tumornachweis, DWI ohne Restbefund.",
     "leitlinie_wortlaut": "In Fällen, in denen nach neoadjuvanter Therapie klinisch, endoskopisch und durch MRT mit Diffusionswichtung kein Tumor mehr nachweisbar ist, kann auf eine Resektion verzichtet werden.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 142, "schwierigkeit": "mittel", "tags": ["Watch-and-Wait", "cCR", "neoadjuvant", "Organerhalt"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 142,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Watch-and-Wait",
+      "cCR",
+      "neoadjuvant",
+      "Organerhalt"
+    ]
   },
   {
     "id": "krk_7_17_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.17", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Rektum-Exstirpation", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.17",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Rektum-Exstirpation",
+    "thema": "Rektumchirurgie",
     "statement": "Bei tiefliegenden Tumoren mit Infiltration des Analkanals/der Sphinkteren sollte die abdomino-perineale Exstirpation als extralevatorische Resektion (ELAPE) unter Mitresektion des M. levator ani erfolgen.",
     "answer": true,
     "explanation": "Grad B, LoE 1b. ELAPE → weniger CRM+, weniger intraop. Tumorperforation, weniger Lokalrezidive vs. Standard-APE — ohne erhöhte Morbidität.",
     "leitlinie_wortlaut": "Bei tiefliegenden Tumoren mit Infiltration des Analkanals/der Sphinkteren, die nicht sphinktererhaltend operiert werden können, sollte die abdomino-perineale Exstirpation als extralevatorische Resektion unter Mitresektion des Musculus levator ani erfolgen.",
-    "evidenz": "Grad B; LoE 1b", "konsensstaerke": "Starker Konsens", "seite_pdf": 143, "schwierigkeit": "mittel", "tags": ["ELAPE", "APE", "Rektumexstirpation"]
+    "evidenz": "Grad B; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 143,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "ELAPE",
+      "APE",
+      "Rektumexstirpation"
+    ]
   },
   {
     "id": "krk_7_18_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.18", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Perinealer Wundverschluss nach APE", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.18",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Perinealer Wundverschluss nach APE",
+    "thema": "Rektumchirurgie",
     "statement": "Nach abdomino-perinealer Rektumexstirpation soll die perineale Wunde standardmäßig durch eine plastische Lappendeckung (z.B. VRAM-, Gluteus-Lappen) verschlossen werden.",
     "answer": false,
     "explanation": "Standard ist der primäre Direktverschluss. Plastische Deckung nur in Sondersituationen (ELAPE, Vorbestrahlung, große Defekte, Voroperationen).",
     "leitlinie_wortlaut": "Der Verschluss der perinealen Wunde nach abdominoperinealer Rektumexstirpation sollte mittels primären Verschlusses erfolgen. In besonderen Situationen kann eine plastische Deckung erfolgen.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 144, "schwierigkeit": "mittel", "tags": ["Wundverschluss", "perineal", "APE"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 144,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Wundverschluss",
+      "perineal",
+      "APE"
+    ]
   },
   {
     "id": "krk_7_19_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.19", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Stoma-Anlage", "thema": "Stoma",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.19",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Stoma-Anlage",
+    "thema": "Stoma",
     "statement": "Bei der radikalen TME-Operation des Rektumkarzinoms mit tiefer Anastomose soll laut S3-LL ein temporäres Deviationsstoma vorgeschaltet werden.",
     "answer": true,
     "explanation": "Grad A. Senkt klinisch manifeste Anastomoseninsuffizienzen und Reoperationsraten.",
     "leitlinie_wortlaut": "Bei der radikalen Operation des Rektumkarzinoms mit TME und tiefer Anastomose soll ein temporäres Deviations-Stoma vorgeschaltet werden.",
-    "evidenz": "Grad A", "konsensstaerke": "Starker Konsens", "seite_pdf": 145, "schwierigkeit": "leicht", "tags": ["Stoma", "Deviation", "TME"]
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 145,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Stoma",
+      "Deviation",
+      "TME"
+    ]
   },
   {
     "id": "krk_7_20_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.20", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Stoma-Anlage", "thema": "Stoma",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.20",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Stoma-Anlage",
+    "thema": "Stoma",
     "statement": "Als Deviationsstoma nach tiefer anteriorer Rektumresektion sollte laut S3-LL bevorzugt das doppelläufige Ileostoma angelegt werden.",
     "answer": true,
     "explanation": "Vorteile vs. Kolostoma: weniger Prolaps, Retraktion und parastomale Hernien. Nachteil: höhere Dehydratationsrate (High-Output-Syndrom) → Patient aufklären, ggf. Loperamid/Cholestyramin.",
     "leitlinie_wortlaut": "Als Deviationsstoma sollte das doppelläufige Ileostoma bevorzugt werden.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 145, "schwierigkeit": "leicht", "tags": ["Ileostoma", "Deviation", "Stoma"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 145,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Ileostoma",
+      "Deviation",
+      "Stoma"
+    ]
   },
   {
     "id": "krk_7_22_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.22", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Stoma-Markierung", "thema": "Stoma",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.22",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Stoma-Markierung",
+    "thema": "Stoma",
     "statement": "Im Notfalleingriff kann laut S3-LL auf eine präoperative Stomamarkierung verzichtet werden — sie ist nur bei elektiven Eingriffen erforderlich.",
     "answer": false,
     "explanation": "Auch im Notfall: Markierung mindestens im Liegen, wenn möglich auch im Sitzen. Bei elektiv: in allen drei Positionen (Liegen, Sitzen, Stehen).",
     "leitlinie_wortlaut": "Im Falle eines Notfalleingriffes soll das Stoma präoperativ zumindest im Liegen und wenn möglich im Sitzen eingezeichnet werden.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 146, "schwierigkeit": "leicht", "tags": ["Stoma", "Markierung", "Notfall"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 146,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Stoma",
+      "Markierung",
+      "Notfall"
+    ]
   },
   {
     "id": "krk_7_23_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.23", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Stoma-Anlage", "thema": "Stoma",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.23",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Stoma-Anlage",
+    "thema": "Stoma",
     "statement": "Stomata sollen laut S3-LL prominent angelegt werden — Ileostomien mit >1 cm Prominenz, Kolostomien mindestens 1 cm.",
     "answer": true,
     "explanation": "Ermöglicht sichere Versorgung, reduziert Leckagen und Hautirritationen.",
     "leitlinie_wortlaut": "Alle Stomata sollen prominent angelegt werden (Ileostomie > 1 cm, Kolostomie mind. 1 cm).",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 147, "schwierigkeit": "leicht", "tags": ["Stoma", "Anlage", "Prominenz"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 147,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Stoma",
+      "Anlage",
+      "Prominenz"
+    ]
   },
   {
     "id": "krk_7_24_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.24", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Lokale Operationsverfahren des Rektumkarzinoms", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.24",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Lokale Operationsverfahren des Rektumkarzinoms",
+    "thema": "Rektumchirurgie",
     "statement": "Ein uT1-Rektumkarzinom kann laut S3-LL nach R0-Vollwandexzision und Vorliegen einer Low-risk-Situation OHNE komplettierende TME nachbeobachtet werden.",
     "answer": true,
     "explanation": "Grad 0, LoE 1b. Low-risk = G1/G2, L0V0Pn0, Sicherheitsabstand >3 mm. Bei high-risk → zwingend TME nachholen.",
     "leitlinie_wortlaut": "Bei Vorliegen einer R0-Situation und bei fehlenden Risikofaktoren in der histopathologischen Aufarbeitung (sog. low-risk-Situation) kann nach Patientenaufklärung auf eine komplettierende Rektumresektion mit TME verzichtet werden.",
-    "evidenz": "Grad 0; LoE 1b", "konsensstaerke": "Starker Konsens", "seite_pdf": 148, "schwierigkeit": "schwer", "tags": ["uT1", "Vollwandexzision", "low-risk", "TME"]
+    "evidenz": "Grad 0; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 148,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "uT1",
+      "Vollwandexzision",
+      "low-risk",
+      "TME"
+    ]
   },
   {
     "id": "krk_7_25_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.25", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Lokale Operationsverfahren des Rektumkarzinoms", "thema": "Rektumchirurgie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.25",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Lokale Operationsverfahren des Rektumkarzinoms",
+    "thema": "Rektumchirurgie",
     "statement": "Bei T1-high-risk-Karzinomen (G3/4 oder Lymphgefäßinvasion) und T2-Karzinomen kann laut S3-LL die alleinige lokale Exzision empfohlen werden, da die LK-Metastasen-Rate <5 % beträgt.",
     "answer": false,
     "explanation": "LK-Mets-Rate bei T1-high-risk und T2 = 10-20 %, daher alleinige lokale Exzision NICHT empfohlen. Primär radikale OP. Bei zufälligem Befund nach Vollwandresektion: sekundäre radikale Nachoperation innerhalb eines Monats.",
     "leitlinie_wortlaut": "Bei T1-high-risk-Karzinomen (G3/4 u./o. Lymphgefäßinvasion) und bei T2-Karzinomen liegt das Auftreten von Lymphknotenmetastasen bei 10 - 20 %, sodass die alleinige lokale Exzision nicht empfohlen werden kann.",
-    "evidenz": "Grad B; LoE 3b", "konsensstaerke": "Starker Konsens", "seite_pdf": 149, "schwierigkeit": "mittel", "tags": ["T1-high-risk", "T2", "lokale Exzision"]
+    "evidenz": "Grad B; LoE 3b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 149,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "T1-high-risk",
+      "T2",
+      "lokale Exzision"
+    ]
   },
   {
     "id": "krk_7_26_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.26", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Laparoskopische Chirurgie", "thema": "Laparoskopie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.26",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Laparoskopische Chirurgie",
+    "thema": "Laparoskopie",
     "statement": "Die laparoskopische Resektion des Kolon- und Rektumkarzinoms kann laut S3-LL mit gleichen onkologischen Ergebnissen wie die offene Technik durchgeführt werden und sollte aufgrund des besseren frühpostoperativen Ergebnisses bevorzugt werden.",
     "answer": true,
     "explanation": "Grad B/0, LoE 1a. CLASICC + nachfolgende Studien: niedrigere perioperative Morbidität, gleichwertiges DFS und OS. Bei Rektum-CA sogar besseres OS in Meta-Analyse 2022.",
     "leitlinie_wortlaut": "Die laparoskopische Resektion des Kolon- und Rektumkarzinoms kann mit gleichen onkologischen Ergebnissen im Vergleich zur offenen OP-Technik durchgeführt werden und sollte aufgrund des besseren frühpostoperativen Ergebnisses bevorzugt werden.",
-    "evidenz": "Grad B/0; LoE 1a", "konsensstaerke": "Starker Konsens", "seite_pdf": 150, "schwierigkeit": "leicht", "tags": ["Laparoskopie", "minimalinvasiv"]
+    "evidenz": "Grad B/0; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 150,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Laparoskopie",
+      "minimalinvasiv"
+    ]
   },
   {
     "id": "krk_7_27_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.27", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Robotische Chirurgie", "thema": "Laparoskopie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.27",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Robotische Chirurgie",
+    "thema": "Laparoskopie",
     "statement": "Robotische Verfahren sind laut S3-LL den laparoskopischen Techniken in der KRK-Chirurgie überlegen und sollten daher bevorzugt werden.",
     "answer": false,
     "explanation": "Statement 7.27 (EK, Starker Konsens): Robotik = GLEICHWERTIG zur Laparoskopie. Hinweise auf Vorteile (geringere Konversionsrate, kürzerer KH-Aufenthalt) — noch nicht durch große RCTs gestützt, Selektionsbias.",
     "leitlinie_wortlaut": "Robotische Verfahren sind den laparoskopischen Techniken als gleichwertig zu betrachten.",
-    "evidenz": "Statement; EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 151, "schwierigkeit": "mittel", "tags": ["Robotik", "Laparoskopie"]
+    "evidenz": "Statement; EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 151,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Robotik",
+      "Laparoskopie"
+    ]
   },
   {
     "id": "krk_7_28_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.28", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Chirurgische Therapie der Peritonealkarzinose", "thema": "Peritonealkarzinose",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.28",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Chirurgische Therapie der Peritonealkarzinose",
+    "thema": "Peritonealkarzinose",
     "statement": "Laut S3-LL v3.2 ist die HIPEC nach zytoreduktiver Chirurgie bei isolierter Peritonealkarzinose des KRK als Standard-Behandlung etabliert.",
     "answer": false,
     "explanation": "Die Rolle der HIPEC ist NICHT abschließend geklärt — nur in spezialisierten Zentren im Rahmen von Studien. PRODIGE-7: kein Zusatznutzen einer Oxaliplatin-HIPEC. Die zytoreduktive Chirurgie (CRS) selbst bleibt empfohlen.",
     "leitlinie_wortlaut": "Bei Patienten mit einer isolierten und limitierten Peritonealkarzinose sollte eine zytoreduktive Chirurgie durchgeführt werden. Die Rolle der perioperativen HIPEC nach/bei zytoreduktiver Chirurgie ist nicht abschließend geklärt. Sie kann in spezialisierten Zentren im Rahmen von Studien untersucht werden.",
-    "evidenz": "EK", "konsensstaerke": "Konsens", "seite_pdf": 152, "schwierigkeit": "mittel", "tags": ["HIPEC", "Peritonealkarzinose", "CRS"]
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 152,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "HIPEC",
+      "Peritonealkarzinose",
+      "CRS"
+    ]
   },
   {
     "id": "krk_7_29_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.29", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Resektion von Lebermetastasen", "thema": "Lebermetastasen",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.29",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Resektion von Lebermetastasen",
+    "thema": "Lebermetastasen",
     "statement": "Eine simultane Resektion kolorektaler Lebermetastasen beeinflusst laut S3-LL bei geeigneter Patientenselektion das Langzeitüberleben gegenüber dem zweizeitigen Vorgehen nicht — kann aber bei Komorbidität oder Alter >70 Jahren zu höherer postop. Letalität führen.",
     "answer": true,
     "explanation": "Statement 7.29 (LoE 2). Zwei systemat. Reviews 2022 belegen OS-Äquivalenz. Bei älteren/komorbiden Patienten ggf. zweizeitig sicherer.",
     "leitlinie_wortlaut": "Die simultane Resektion von Lebermetastasen beeinflusst das Langzeitüberleben im Vergleich zu einem zweizeitigen Vorgehen bei geeigneter Selektion der Patienten nicht. Die simultane Lebermetastasenresektion kann bei entsprechender Komorbidität oder höherem Lebensalter (>70 Jahre) zu einer höheren postoperativen Letalität führen.",
-    "evidenz": "Statement; LoE 2", "konsensstaerke": "Starker Konsens", "seite_pdf": 154, "schwierigkeit": "mittel", "tags": ["Lebermetastasen", "simultan", "zweizeitig"]
+    "evidenz": "Statement; LoE 2",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 154,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Lebermetastasen",
+      "simultan",
+      "zweizeitig"
+    ]
   },
   {
     "id": "krk_7_30_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.30", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Asymptomatischer Primärtumor bei Fernmetastasierung", "thema": "Palliation",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.30",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Asymptomatischer Primärtumor bei Fernmetastasierung",
+    "thema": "Palliation",
     "statement": "Bei Patienten mit inoperabler metastasierter Erkrankung und asymptomatischem Primärtumor (keine Stenose, keine relevante Blutung) soll laut S3-LL eine Resektion des Primärtumors nicht erfolgen.",
     "answer": true,
     "explanation": "Grad A, LoE 1b. Drei RCTs (JCOG 1007, CAIRO4, Synchronous/CCRe-IV): kein Überlebensvorteil. Operierte Patienten erhielten zudem seltener systemische Chemotherapie.",
     "leitlinie_wortlaut": "Die Resektion eines asymptomatischen Primärtumors (keine Stenosesymptomatik, keine klinisch relevanten Blutungen) bei Patienten mit inoperabler metastasierter Erkrankung soll nicht erfolgen.",
-    "evidenz": "Grad A; LoE 1b", "konsensstaerke": "Starker Konsens", "seite_pdf": 155, "schwierigkeit": "mittel", "tags": ["Primärtumor", "Palliation", "Metastasierung"]
+    "evidenz": "Grad A; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 155,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Primärtumor",
+      "Palliation",
+      "Metastasierung"
+    ]
   },
   {
     "id": "krk_7_31_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.31", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Karzinome auf Boden hereditären KRK ohne Polyposis (HNPCC)", "thema": "Hereditär",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.31",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Karzinome auf Boden hereditären KRK ohne Polyposis (HNPCC)",
+    "thema": "Hereditär",
     "statement": "Bei einem ersten Kolonkarzinom eines pathogenen MSH6- oder PMS2-Anlageträgers ist laut der neuen Empfehlung 7.31 eine erweiterte (sub)totale Kolektomie das Verfahren der Wahl.",
     "answer": false,
     "explanation": "Korrekt: Standard-Kolonresektion. MSH6/PMS2-Träger haben niedrigere Metachronie-Rate als MLH1/MSH2 — keine ausgedehnte Resektion nötig.",
     "leitlinie_wortlaut": "Bei ersten Kolonkarzinomen von pathogenen MSH6- oder PMS2-Anlageträgern sollte eine Standard-Kolonresektion durchgeführt werden.",
-    "evidenz": "EK (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 155, "schwierigkeit": "schwer", "tags": ["Lynch", "MSH6", "PMS2", "Kolonkarzinom"]
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 155,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Lynch",
+      "MSH6",
+      "PMS2",
+      "Kolonkarzinom"
+    ]
   },
   {
     "id": "krk_7_32_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "7.32", "kapitel": "Präoperative Diagnostik und Chirurgie", "unterkapitel": "Karzinome auf Boden einer FAP", "thema": "Hereditär",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "7.32",
+    "kapitel": "Präoperative Diagnostik und Chirurgie",
+    "unterkapitel": "Karzinome auf Boden einer FAP",
+    "thema": "Hereditär",
     "statement": "Die Regeloperation bei FAP-Patienten mit kolorektalem Karzinom ist laut S3-LL die restaurative Proktokolektomie mit Dünndarm-Pouch und Lymphknotendissektion entsprechend der Karzinomlokalisation.",
     "answer": true,
     "explanation": "Grad B, LoE 3b. Bei Sphinkterinsuffizienz / nicht-kurabler Erkrankung: totale Proktokolektomie + term. Ileostomie oder limitierte Resektion alternativ.",
     "leitlinie_wortlaut": "Die Regeloperation bei FAP-Patienten ist die restaurative Proktokolektomie mit Dünndarm-Pouch und Lymphknotendissektion entsprechend der Lokalisation des Karzinoms.",
-    "evidenz": "Grad B; LoE 3b", "konsensstaerke": "Starker Konsens", "seite_pdf": 155, "schwierigkeit": "leicht", "tags": ["FAP", "Proktokolektomie", "Pouch"]
+    "evidenz": "Grad B; LoE 3b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 155,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "FAP",
+      "Proktokolektomie",
+      "Pouch"
+    ]
   },
   {
     "id": "krk_8_1_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "8.1", "kapitel": "Pathologie", "unterkapitel": "Pathologische Biopsie-Diagnostik", "thema": "Pathologie-Biopsie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.1",
+    "kapitel": "Pathologie",
+    "unterkapitel": "Pathologische Biopsie-Diagnostik",
+    "thema": "Pathologie-Biopsie",
     "statement": "Die Bestimmung des Mikrosatelliten-Status ist beim KRK laut der neuen Empf. 8.1 nicht im Biopsie-Befund erforderlich — sie wird erst im Operationspräparat durchgeführt.",
     "answer": false,
     "explanation": "Empf. 8.1 fordert MSI-Status, RAS/BRAF, ggf. HER2/NTRK schon an der Biopsie — Grund: Therapieentscheidung (z.B. präoperative ICI bei dMMR-Rektum-CA, Watch-and-Wait nach Dostarlimab).",
     "leitlinie_wortlaut": "Folgende Angaben sollen durch den Pathologen im Rahmen der Biopsie-Diagnostik erhoben werden: Tumortyp + Graduierung nach WHO, Mikrosatelliten-Status, Mutationsstatus relevanter Gene (vor Einleitung einer systemischen Therapie RAS- und BRAF-Status, ggf. Her2/neu und NTRK), bei pT1 Risiko-Score für LK-Metastasen.",
-    "evidenz": "EK (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 156, "schwierigkeit": "mittel", "tags": ["Biopsie", "Pathologie", "MSI", "Molekularpathologie"]
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 156,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Biopsie",
+      "Pathologie",
+      "MSI",
+      "Molekularpathologie"
+    ]
   },
   {
     "id": "krk_8_3_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "8.3", "kapitel": "Pathologie", "unterkapitel": "Anzahl zu entfernender Lymphknoten", "thema": "Pathologie-Resektat",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.3",
+    "kapitel": "Pathologie",
+    "unterkapitel": "Anzahl zu entfernender Lymphknoten",
+    "thema": "Pathologie-Resektat",
     "statement": "Im Resektat eines KRK sollen laut S3-LL mindestens 12 Lymphknoten histologisch untersucht werden — diese Zahl gilt als Mindestanforderung für ein adäquates Staging.",
     "answer": true,
     "explanation": "UICC-TNM 8. Auflage. Qualitätskennzahl: Anteil onkologischer Resektate mit ≥12 LK soll >95 % liegen. Nach Neoadjuvanz ca. 33 % weniger LK im Resektat — keine schlechtere Prognose bei <12 LK in dieser Situation.",
     "leitlinie_wortlaut": "12 und mehr Lymphknoten sollen entfernt und untersucht werden und das Verhältnis von untersuchten zu befallenen Lymphknoten soll im Befund angegeben werden.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 158, "schwierigkeit": "leicht", "tags": ["Lymphknoten", "Staging", "Qualität"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 158,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Lymphknoten",
+      "Staging",
+      "Qualität"
+    ]
   },
   {
     "id": "krk_8_4_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "8.4", "kapitel": "Pathologie", "unterkapitel": "Qualität des TME-Präparats", "thema": "Pathologie-Resektat",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.4",
+    "kapitel": "Pathologie",
+    "unterkapitel": "Qualität des TME-Präparats",
+    "thema": "Pathologie-Resektat",
     "statement": "Die Qualität des TME-Präparats wird laut S3-LL durch den Pathologen (nicht den Chirurgen) in 3 Graden beurteilt: Grad 1 = mesorektale Faszie intakt, Grad 2 = intramesorektale Einrisse, Grad 3 = Erreichen der Muscularis propria oder Tumor.",
     "answer": true,
     "explanation": "Mercury-Klassifikation. 3-Jahres-Lokalrezidivrate: 4 % (Grad 1), 7 % (Grad 2), 13 % (Grad 3). Bei APE separate Graduierung der Levator-Mitresektion.",
     "leitlinie_wortlaut": "Die Qualität des Präparates wird beurteilt an der Integrität der mesorektalen Faszie im Falle der Resektion mit 3 Kategorien: Grad 1 (gut): Mesorektale Faszie erhalten; Grad 2 (moderat): Intramesorektale Einrisse; Grad 3 (schlecht): Erreichen der Muscularis propria oder Tumor.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 159, "schwierigkeit": "mittel", "tags": ["TME", "Pathologie", "Mercury"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 159,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "TME",
+      "Pathologie",
+      "Mercury"
+    ]
   },
   {
     "id": "krk_8_5_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "8.5", "kapitel": "Pathologie", "unterkapitel": "CRM beim Rektumkarzinom", "thema": "Pathologie-Resektat",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.5",
+    "kapitel": "Pathologie",
+    "unterkapitel": "CRM beim Rektumkarzinom",
+    "thema": "Pathologie-Resektat",
     "statement": "Der zirkumferenzielle Sicherheitsabstand (CRM) wird laut S3-LL erst bei einem Abstand <2 mm als positiv klassifiziert; ein Abstand von 1-2 mm gilt als R0-narrow-Situation.",
     "answer": false,
     "explanation": "CRM-negativ = ≥1 mm. CRM-positiv = <1 mm (R0-narrow bei <1 mm oder R1 bei direktem Tumorkontakt). 3-Jahres-Lokalrezidivrate: 6 % (CRM-) vs. 17 % (CRM+).",
     "leitlinie_wortlaut": "Der zirkumferentielle Sicherheitsabstand ist negativ, wenn er 1 mm oder mehr beträgt (R0 wide). Ein positiver zirkumferentieller Sicherheitsabstand liegt vor, wenn der zirkumferentielle Sicherheitsabstand weniger als 1 mm beträgt (R0 narrow) oder Tumorgewebe direkt an ihn heranreicht (R1).",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 160, "schwierigkeit": "schwer", "tags": ["CRM", "Pathologie", "Rektumkarzinom"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 160,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "CRM",
+      "Pathologie",
+      "Rektumkarzinom"
+    ]
   },
   {
     "id": "krk_8_6_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "8.6", "kapitel": "Pathologie", "unterkapitel": "Bestimmung des Mikrosatelliten-Status", "thema": "Molekularpathologie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.6",
+    "kapitel": "Pathologie",
+    "unterkapitel": "Bestimmung des Mikrosatelliten-Status",
+    "thema": "Molekularpathologie",
     "statement": "Die Bestimmung des MSI/MMR-Status ist laut der neuen Empf. 8.6 nur bei Patienten mit V.a. Lynch-Syndrom oder bei metastasierter Erkrankung erforderlich, nicht bei jedem KRK.",
     "answer": false,
     "explanation": "Alle KRK sollen bei Erstdiagnose auf dMMR/MSI getestet werden — IHC für MLH1/MSH2/MSH6/PMS2. Bedeutung: Prognose, Adjuvanz-Entscheidung (Stadium II), ICI-Therapie (z.B. Dostarlimab beim Rektum-CA), Lynch-Detektion.",
     "leitlinie_wortlaut": "Alle KRK sollen bei der Erstdiagnose auf das Vorliegen einer Mismatch-Reparatur-Defizienz (dMMR) bzw. einer Mikrosatelliten-Instabilität (MSI) untersucht werden. Dafür soll eine qualitätsgesicherte Immunhistochemie zum Nachweis der Mismatch-Reparatur-Genprodukte MLH1, MSH2, MSH6 und PMS2 durchgeführt werden.",
-    "evidenz": "EK (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 162, "schwierigkeit": "mittel", "tags": ["MSI", "dMMR", "Molekularpathologie", "Lynch"]
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 162,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "MSI",
+      "dMMR",
+      "Molekularpathologie",
+      "Lynch"
+    ]
   },
   {
     "id": "krk_8_7_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "8.7", "kapitel": "Pathologie", "unterkapitel": "BRAF + MLH1-Promotor bei MLH1-Verlust", "thema": "Molekularpathologie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.7",
+    "kapitel": "Pathologie",
+    "unterkapitel": "BRAF + MLH1-Promotor bei MLH1-Verlust",
+    "thema": "Molekularpathologie",
     "statement": "Bei verminderter/fehlender MLH1-Expression oder MSI-H im KRK-Gewebe soll laut S3-LL eine somatische BRAF-V600E-Analyse erfolgen — und bei unauffälligem Befund zusätzlich eine MLH1-Promotor-Methylierungsanalyse — um sporadische von Lynch-Syndrom-assoziierten Karzinomen abzugrenzen.",
     "answer": true,
     "explanation": "BRAF-V600 + MLH1-Hypermethylierung → sporadisch (typischerweise älterer Patient). Bei <50 Jahren ist die BRAF-Analyse jedoch NICHT zum Lynch-Ausschluss geeignet — dort direkte Keimbahn-Diagnostik.",
     "leitlinie_wortlaut": "Bei einer deutlich verminderten oder fehlenden MLH1-Expression oder einer MSI-H im Tumorgewebe soll zur Abgrenzung eines sporadischen Karzinoms von einem Lynch-Syndrom-assoziierten Karzinom routinemäßig eine Analyse zum Nachweis einer somatischen BRAF-Mutation p.Val600Glu oder - sowie im Falle eines unauffälligen Befundes in der BRAF-Analyse - eine Untersuchung der MLH1-Promotor-Methylierung angeschlossen werden.",
-    "evidenz": "EK (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 163, "schwierigkeit": "schwer", "tags": ["MLH1", "BRAF", "Lynch", "Promotor-Methylierung"]
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 163,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "MLH1",
+      "BRAF",
+      "Lynch",
+      "Promotor-Methylierung"
+    ]
   },
   {
     "id": "krk_8_8_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "8.8", "kapitel": "Pathologie", "unterkapitel": "RAS- und BRAF-Diagnostik", "thema": "Molekularpathologie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.8",
+    "kapitel": "Pathologie",
+    "unterkapitel": "RAS- und BRAF-Diagnostik",
+    "thema": "Molekularpathologie",
     "statement": "RAS- und BRAF-Mutationen sollen laut S3-LL erst nach Versagen der Erstlinien-Chemotherapie bestimmt werden, da die Ergebnisse für die initiale Therapieentscheidung irrelevant sind.",
     "answer": false,
     "explanation": "Empf. 8.8 (Grad A, LoE 1): RAS/BRAF-Bestimmung soll VOR Einleitung der Erstlinie erfolgen. RAS-Mutation = Kontraindikation für anti-EGFR (Cetuximab/Panitumumab). BRAF-V600 = schlechte Prognose, Encorafenib+Cetuximab+mFOLFOX6 in Erstlinie (Breakwater-Studie).",
     "leitlinie_wortlaut": "Die Bestimmung von RAS- und BRAF-Mutationen soll noch vor Einleitung der medikamentösen Systemtherapie in der metastasierten Situation erfolgen.",
-    "evidenz": "Grad A; LoE 1", "konsensstaerke": "Starker Konsens", "seite_pdf": 165, "schwierigkeit": "leicht", "tags": ["RAS", "BRAF", "anti-EGFR", "Erstlinie"]
+    "evidenz": "Grad A; LoE 1",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 165,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "RAS",
+      "BRAF",
+      "anti-EGFR",
+      "Erstlinie"
+    ]
   },
   {
     "id": "krk_8_10_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "8.10", "kapitel": "Pathologie", "unterkapitel": "Rebiopsie", "thema": "Molekularpathologie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.10",
+    "kapitel": "Pathologie",
+    "unterkapitel": "Rebiopsie",
+    "thema": "Molekularpathologie",
     "statement": "Eine Rebiopsie in späteren Behandlungslinien des metastasierten KRK ist laut Empf. 8.10 nicht empfohlen, da sich die Mutationskonstellation des Tumors unter Therapie nicht relevant verändert.",
     "answer": false,
     "explanation": "Rebiopsie KANN durchgeführt werden — sekundäre RAS-Mutation (Resistenz gegen anti-EGFR-Rechallenge) oder neue HER2-Überexpression. Auch Neo-RAS-Wildtyp (~10 %) nach anti-EGFR-Therapie möglich. Studien: CRICKET, CAVE, CHRONOS.",
     "leitlinie_wortlaut": "In späteren Behandlungslinien kann eine Rebiopsie zum Nachweis von neu aufgetretenen Mutationen/Alterationen durchgeführt werden.",
-    "evidenz": "EK (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 168, "schwierigkeit": "mittel", "tags": ["Rebiopsie", "Re-Challenge", "HER2", "Neo-RAS"]
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 168,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Rebiopsie",
+      "Re-Challenge",
+      "HER2",
+      "Neo-RAS"
+    ]
   },
   {
     "id": "krk_8_11_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "8.11", "kapitel": "Pathologie", "unterkapitel": "HER2-Testung", "thema": "Molekularpathologie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.11",
+    "kapitel": "Pathologie",
+    "unterkapitel": "HER2-Testung",
+    "thema": "Molekularpathologie",
     "statement": "Bei Patienten mit metastasiertem KRK kann laut der neuen Empf. 8.11 eine Untersuchung zum Nachweis einer HER2-Amplifikation durchgeführt werden, um Kandidaten für eine HER2-gerichtete Therapie zu identifizieren.",
     "answer": true,
     "explanation": "HER2-Überexpression bei ~2 % der KRK (>90 % durch Amplifikation). Detektion: IHC, bei unklaren Fällen FISH. Aktuell keine deutsche Zulassung, HERACLES-Algorithmus etabliert; Off-label-Optionen verfügbar.",
     "leitlinie_wortlaut": "Bei Patienten mit mKRK kann eine Untersuchung zum Nachweis einer Amplifikation des humanen epidermalen Wachstumsfaktorrezeptors 2 (HER2) durch Immunhistochemie (IHC) oder gegebenenfalls FISH durchgeführt werden, um diejenigen Patienten zu identifizieren, die von einer HER2-Blockade profitieren könnten.",
-    "evidenz": "Grad 0; LoE 4 (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 169, "schwierigkeit": "mittel", "tags": ["HER2", "Molekularpathologie", "mKRK"]
+    "evidenz": "Grad 0; LoE 4 (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 169,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "HER2",
+      "Molekularpathologie",
+      "mKRK"
+    ]
   },
   {
     "id": "krk_8_14_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "8.14", "kapitel": "Pathologie", "unterkapitel": "Liquid Biopsy (ctDNA)", "thema": "Liquid Biopsy",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.14",
+    "kapitel": "Pathologie",
+    "unterkapitel": "Liquid Biopsy (ctDNA)",
+    "thema": "Liquid Biopsy",
     "statement": "Laut der neuen Empf. 8.14 können ctDNA-Testergebnisse als zusätzliches Kriterium für die Entscheidung zur adjuvanten Chemotherapie herangezogen werden.",
     "answer": true,
     "explanation": "Postoperative ctDNA = Marker für minimale Resterkrankung (MRD). Sensitiver/spezifischer als CEA. ctDNA-positiv 4-6 Wochen postop. → erhöhtes Rezidivrisiko, Adjuvanz-Empfehlung stärker. Studien laufen (z.B. DYNAMIC).",
     "leitlinie_wortlaut": "CtDNA-Testergebnisse können als zusätzliches Kriterium für die Entscheidung zur adjuvanten Chemotherapie herangezogen werden.",
-    "evidenz": "EK (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 171, "schwierigkeit": "mittel", "tags": ["ctDNA", "Liquid Biopsy", "MRD", "adjuvant"]
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 171,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "ctDNA",
+      "Liquid Biopsy",
+      "MRD",
+      "adjuvant"
+    ]
   },
   {
     "id": "krk_6_4_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "6.4", "kapitel": "Endoskopie und Polypenmanagement", "unterkapitel": "Endoskopische Resektion - Polypen-Klassifikation", "thema": "Endoskopie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.4",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Endoskopische Resektion - Polypen-Klassifikation",
+    "thema": "Endoskopie",
     "statement": "Vor Resektion sollen kolorektale Polypen laut der neuen Empf. 6.4 nach makroskopisch-endoskopischem Aspekt mittels Klassifikationssystemen (Paris, NICE, JNET, LST) bezüglich Morphologie, Gefäß- und Oberflächenmuster, Größe und Lage eingeordnet werden.",
     "answer": true,
     "explanation": "Klassifikation → Risiko-Einschätzung der Submukosa-Invasion → Wahl des Verfahrens (EMR, ESD, eFTR, OP). LST-NG und eingesunkene Läsionen → besonders hohes SMIC-Risiko (>30 %).",
     "leitlinie_wortlaut": "Kolorektale Polypen sollen vor Resektion nach ihrem makroskopisch-endoskopischen Aspekt beurteilt und anhand von Klassifikationsystemen (Morphologie, Gefäßarchitektur, Oberflächenmuster, Größe und Lage) eingeordnet und beschrieben werden.",
-    "evidenz": "EK (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 98, "schwierigkeit": "mittel", "tags": ["Paris", "NICE", "JNET", "LST", "Polypen"]
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 98,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Paris",
+      "NICE",
+      "JNET",
+      "LST",
+      "Polypen"
+    ]
   },
   {
     "id": "krk_6_5_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "6.5", "kapitel": "Endoskopie und Polypenmanagement", "unterkapitel": "Polypektomie-Verfahren", "thema": "Endoskopie",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.5",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Polypektomie-Verfahren",
+    "thema": "Endoskopie",
     "statement": "Polypen >3 mm sollen laut S3-LL durch Schlingenektomie vollständig entfernt werden; Polypen ≤3 mm können durch Zangenektomie entfernt werden — bei V.a. frühes KRK sollte eine en-bloc-Abtragung angestrebt werden.",
     "answer": true,
     "explanation": "R0-Ziel. Bei V.a. SMIC: en-bloc um histologische Beurteilung und R-Klassifikation zu ermöglichen. Bei >2 cm meist piecemeal-EMR notwendig (Nachsorge dann nach 6 Mon).",
     "leitlinie_wortlaut": "Um eine R0 Resektion zu erzielen, sollen Polypen > 3 mm vollständig durch Schlingenektomie entfernt werden. Polypen ≤ 3 mm können durch Zangenektomie entfernt werden. Bei endoskopisch-makroskopischem Verdacht auf ein frühes kolorektales Karzinom sollte eine en bloc Abtragung angestrebt werden.",
-    "evidenz": "EK", "konsensstaerke": "Starker Konsens", "seite_pdf": 100, "schwierigkeit": "leicht", "tags": ["Polypektomie", "Schlingenektomie", "EMR", "Endoskopie"]
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 100,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Polypektomie",
+      "Schlingenektomie",
+      "EMR",
+      "Endoskopie"
+    ]
   },
   {
     "id": "krk_6_8_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "6.8", "kapitel": "Endoskopie und Polypenmanagement", "unterkapitel": "low-risk / high-risk pT1", "thema": "pT1-Karzinom",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.8",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "low-risk / high-risk pT1",
+    "thema": "pT1-Karzinom",
     "statement": "Ein pT1-Karzinom mit Differenzierungsgrad G2 ohne Lymphgefäßinvasion (L0) gilt laut S3-LL als high-risk-Karzinom und erfordert immer eine onkologische Nachresektion.",
     "answer": false,
     "explanation": "G1 UND G2 + L0 = low-risk (keine Nachresektion nötig bei R0). High-risk = G3/G4 oder L1 (Nachresektion empfohlen).",
     "leitlinie_wortlaut": "In Hinblick auf weitere therapeutische Konsequenzen bei histologisch komplett entfernten pT1-Karzinomen soll eine zusammenfassende Klassifikation in low-risk (G1, G2 und keine Lymphgefäßeinbrüche (L0)) oder high-risk (alle anderen Kriterien mit Ausnahme G1, G2 und keine Lymphgefäßeinbrüche (L0)) erfolgen.",
-    "evidenz": "Grad A; LoE 3a", "konsensstaerke": "Starker Konsens", "seite_pdf": 107, "schwierigkeit": "mittel", "tags": ["pT1", "low-risk", "high-risk", "Grading"]
+    "evidenz": "Grad A; LoE 3a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 107,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "pT1",
+      "low-risk",
+      "high-risk",
+      "Grading"
+    ]
   },
   {
     "id": "krk_6_10_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "6.10", "kapitel": "Endoskopie und Polypenmanagement", "unterkapitel": "Submukosa-Invasion bei pT1", "thema": "pT1-Karzinom",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.10",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Submukosa-Invasion bei pT1",
+    "thema": "pT1-Karzinom",
     "statement": "Laut der neuen Aussage 6.10 ist eine alleinige tiefe Submukosa-Invasion eines pT1-Karzinoms — bei sonst fehlenden Risikofaktoren (G1/2, L0, R0, kein Budding) — mit einem geringen Risiko für Lymphknotenmetastasen verbunden.",
     "answer": true,
     "explanation": "Wichtige Änderung 2025: Tiefe SM-Invasion ALLEIN rechtfertigt keine Nachresektion mehr, wenn die übrigen Risikofaktoren fehlen. Praxisrelevant für die Indikation zur TME nach Polypektomie.",
     "leitlinie_wortlaut": "Eine alleinige tiefe Submukosainvasion (ohne weitere Risikofaktoren, d. h. G1/2, L0, R0, kein Budding) ist mit einem geringen Risiko für Lymphknotenmetastasen assoziiert.",
-    "evidenz": "Statement; LoE 2 (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 109, "schwierigkeit": "schwer", "tags": ["pT1", "Submukosa", "Budding"]
+    "evidenz": "Statement; LoE 2 (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 109,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "pT1",
+      "Submukosa",
+      "Budding"
+    ]
   },
   {
     "id": "krk_6_11_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "6.11", "kapitel": "Endoskopie und Polypenmanagement", "unterkapitel": "Vorgehen bei pT1-Karzinom", "thema": "pT1-Karzinom",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.11",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Vorgehen bei pT1-Karzinom",
+    "thema": "pT1-Karzinom",
     "statement": "Bei einem endoskopisch R0-entfernten low-risk-pT1-Karzinom soll laut S3-LL keine onkologische Nachresektion erfolgen — in der high-risk-Situation ist sie hingegen auch bei kompletter endoskopischer Entfernung notwendig.",
     "answer": true,
     "explanation": "Grad A, LoE 3. Low-risk + R0 → 5-Jahres-DFS 99,2 %. High-risk → LK-Metastasen-Rate 10,3 %, daher onkologische Nachresektion mit Lymphadenektomie. Bei Patientenpräferenz gegen Nachoperation: adjuvante Radiochemotherapie erwägen.",
     "leitlinie_wortlaut": "Ergibt die histologische Untersuchung eines endoskopisch R0-entfernten Polypen ein pT1-Karzinom, soll eine onkologische Nachresektion nicht durchgeführt werden, wenn es sich um eine low-risk-Situation bei histologisch karzinomfreier Polypenbasis (R0) handelt. In der high-risk Situation ist die radikale chirurgische Behandlung erforderlich, auch wenn die Läsion komplett entfernt wurde.",
-    "evidenz": "Grad A; LoE 3", "konsensstaerke": "Starker Konsens", "seite_pdf": 110, "schwierigkeit": "mittel", "tags": ["pT1", "Nachresektion", "low-risk", "high-risk"]
+    "evidenz": "Grad A; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 110,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "pT1",
+      "Nachresektion",
+      "low-risk",
+      "high-risk"
+    ]
   },
   {
     "id": "krk_6_13_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "6.13", "kapitel": "Endoskopie und Polypenmanagement", "unterkapitel": "Nachsorge konventionelle Adenome", "thema": "Polypen-Nachsorge",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.13",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Nachsorge konventionelle Adenome",
+    "thema": "Polypen-Nachsorge",
     "statement": "Der Zeitpunkt der Kontroll-Koloskopie nach kompletter Abtragung konventioneller Adenome soll laut S3-LL pauschal alle 3 Jahre erfolgen — unabhängig von Anzahl, Größe und Histologie der Adenome.",
     "answer": false,
     "explanation": "Intervall hängt von Anzahl, Größe und Histologie ab. Low-risk-Adenome (LRA) ≠ high-risk-Adenome (HRA: ≥10 mm, villöse Histologie, HGIEN). HRA → kürzere Kontrollintervalle.",
     "leitlinie_wortlaut": "Der Zeitpunkt der Kontrollkoloskopie nach kompletter Abtragung konventioneller Adenome soll von Anzahl, Größe und Histologie der entfernten Adenome abhängig gemacht werden.",
-    "evidenz": "Grad A; LoE 2b", "konsensstaerke": "Starker Konsens", "seite_pdf": 113, "schwierigkeit": "mittel", "tags": ["Adenom", "Nachsorge", "Kontrollkoloskopie"]
+    "evidenz": "Grad A; LoE 2b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 113,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Adenom",
+      "Nachsorge",
+      "Kontrollkoloskopie"
+    ]
   },
   {
     "id": "krk_6_20_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "6.20", "kapitel": "Endoskopie und Polypenmanagement", "unterkapitel": "Kontrolle nach unsicher kompletter Abtragung", "thema": "Polypen-Nachsorge",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.20",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Kontrolle nach unsicher kompletter Abtragung",
+    "thema": "Polypen-Nachsorge",
     "statement": "Bei makroskopisch vollständiger, aber histologisch nicht bestätigter Abtragung von Adenomen 4-20 mm sollte laut der neuen Empf. 6.20 eine Kontroll-Koloskopie nach 12 Monaten erfolgen.",
     "answer": true,
     "explanation": "Bisher war 6 Monate Standard - nun gelockert auf 12 Monate für 5-20 mm bei unsicherer Komplettheit. Bei piecemeal-Abtragung >20 mm bleibt 6-Monats-Kontrolle (Empf. 6.21).",
     "leitlinie_wortlaut": "Bei makroskopisch vollständiger, histologisch aber nicht bestätigter Abtragung von Adenomen von 4 - 20 mm sollte eine Kontrolle nach 12 Monaten empfohlen werden.",
-    "evidenz": "Grad B; LoE 4 (neu 2025)", "konsensstaerke": "Starker Konsens", "seite_pdf": 117, "schwierigkeit": "mittel", "tags": ["Nachsorge", "Adenom", "Kontrolle"]
+    "evidenz": "Grad B; LoE 4 (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 117,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Nachsorge",
+      "Adenom",
+      "Kontrolle"
+    ]
   },
   {
     "id": "krk_6_21_a",
-    "leitlinie": { "name": "S3-LL Kolorektales Karzinom", "version": "3.2", "datum": "März 2026", "awmf": "021-007OL" },
-    "empfehlung_nr": "6.21", "kapitel": "Endoskopie und Polypenmanagement", "unterkapitel": "Kontrolle nach piecemeal-EMR", "thema": "Polypen-Nachsorge",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.21",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Kontrolle nach piecemeal-EMR",
+    "thema": "Polypen-Nachsorge",
     "statement": "Nach piecemeal-Abtragung großer Adenome (>20 mm) soll laut S3-LL eine endoskopische Kontrolle der Abtragungsstelle nach 6 Monaten erfolgen.",
     "answer": true,
     "explanation": "Rezidivrisiko nach piecemeal-EMR >20 mm bis zu 20 %. Empfehlung: 6-Monats-Kontrolle, dann zweite Kontrolle 12 Monate später. Koagulation des Resektionsrandes kann Rezidivrate senken.",
     "leitlinie_wortlaut": "Nach Abtragung großer Adenome (> 20 mm) in Piecemeal-Technik soll eine endoskopische Kontrolle der Abtragungsstelle nach 6 Monaten empfohlen werden.",
-    "evidenz": "Grad A; LoE 3b", "konsensstaerke": "Starker Konsens", "seite_pdf": 117, "schwierigkeit": "mittel", "tags": ["piecemeal", "EMR", "Nachsorge"]
+    "evidenz": "Grad A; LoE 3b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 117,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "piecemeal",
+      "EMR",
+      "Nachsorge"
+    ]
+  },
+  {
+    "id": "krk_9_20_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.20",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Behandlungsalternativen cT2N0/1 + cT3a/b mittl./unt. Drittel",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Bei cT2N0/1-Tumoren des unteren oder mittleren Rektumdrittels mit mrCRM- und EMVI- ist laut S3-LL die primäre tiefe anteriore Resektion mit TME (TAR/TME) eine gleichwertige Behandlungsalternative zur neoadjuvanten Therapie mit nachfolgender TME.",
+    "answer": true,
+    "explanation": "Empf. 9.20 (EK, neu 2025): Primäre TAR/TME, neoadj. Systemtherapie FOLFOX/CAPOX, Kurzzeit-RT oder RChT mit W&W/lokaler Exzision werden gleichwertig genannt. Reihenfolge in der Leitlinie impliziert keine Präferenz.",
+    "leitlinie_wortlaut": "Bei cT2N0/1-Tumoren des unteren/mittleren Drittels und cT3a/bN0/1-Tumoren des mittleren Drittels (alle mrCRM-, EMVI-) soll über folgende Behandlungsalternativen aufgeklärt werden: Tiefe anteriore Resektion/totale mesorektale Exzision (TAR/TME); Neoadjuvante Systemtherapie (FOLFOX-/CAPOX) gefolgt von obligater TAR/TME; Kurzzeit-Radiotherapie/Radiochemotherapie gefolgt von TAR/TME oder Watch and Wait; RChT + Brachytherapie oder totale neoadjuvante Therapie.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 201,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "cT2",
+      "cT3a",
+      "TAR",
+      "neoadjuvant",
+      "Rektum"
+    ]
+  },
+  {
+    "id": "krk_9_21_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.21",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "cT3c-d und cT3a-b unteres Drittel",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Bei einem cT3c-dN0/1-Rektumkarzinom des mittleren oder unteren Drittels (mrCRM-, EMVI-) ist laut S3-LL eine neoadjuvante Therapie zwingend erforderlich, eine primäre TAR/TME ist nicht zulässig.",
+    "answer": false,
+    "explanation": "Empf. 9.21 erwähnt bei cT3c-d im mittleren Drittel mit nachweislich guter MRT- und TME-Qualität explizit die Option zur primären TAR/TME. Im unteren Drittel ist neoadj. Therapie aber Standard.",
+    "leitlinie_wortlaut": "Bei cT3c-dN0/1, mrCRM-, EMVI-, im mittleren Drittel kann bei nachweislich guter MRT- und TME-Qualität auch die primäre TAR/TME erfolgen.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 201,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "cT3",
+      "primäre OP",
+      "MRT-Qualität"
+    ]
+  },
+  {
+    "id": "krk_9_22_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.22",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "TNT bei high-risk",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Bei einem Rektumkarzinom mit cT4, cN2, mrCRM+, EMVI+ oder Befall lateraler Lymphknoten soll laut der neuen Empf. 9.22 eine totale neoadjuvante Therapie (TNT) durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.22 (Grad A, LoE 1b, neu 2025). Basis: RAPIDO-Studie. TNT senkt Fernmetastasenrate (20 % vs. 27 %) gegenüber neoadj. RChT — Lokalrezidivrate jedoch in 5-J-Daten höher (10,2 % vs. 6,1 %), Ursache diskutiert (schlechtere TME-Qualität bei längerem Intervall).",
+    "leitlinie_wortlaut": "Bei Vorliegen mindestens eines der Risikofaktoren: cT4; cN2; mrCRM+; EMVI+; Befall lateraler Lymphknoten soll eine totale neoadjuvante Therapie erfolgen.",
+    "evidenz": "Grad A; LoE 1b (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 208,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "TNT",
+      "RAPIDO",
+      "high-risk",
+      "Rektum"
+    ]
+  },
+  {
+    "id": "krk_9_23_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.23",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "TNT-Schemata",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Im Rahmen einer totalen neoadjuvanten Therapie (TNT) sollte die Konsolidierungschemotherapie mit FOLFOX/CAPOX laut S3-LL 3-4,5 Monate dauern, wenn keine klinischen Erwägungen dagegensprechen.",
+    "answer": true,
+    "explanation": "Empf. 9.23 (EK, neu 2025). RT kann als RChT oder 5x5 Gy erfolgen. Irinotecan-Stellenwert (FOLFIRINOX) unklar. Bei cCR nach TNT: Watch-and-Wait möglich.",
+    "leitlinie_wortlaut": "Im Rahmen der totalen neoadjuvanten Therapie kann die Radiotherapie entweder als Radiochemotherapie oder als 5x5 Gy erfolgen. Die Dauer der Konsolidierungschemotherapie (CAPOX oder FOLFOX) sollte zwischen 3 und 4,5 Monate betragen.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 208,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "TNT",
+      "CAPOX",
+      "FOLFOX",
+      "Konsolidierung"
+    ]
+  },
+  {
+    "id": "krk_9_24_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.24",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Oberes Rektumdrittel",
+    "thema": "Rektum",
+    "statement": "Rektumkarzinome im oberen Drittel ohne Risikokonstellation für ein Lokalrezidiv sollen laut der neuen Empf. 9.24 primär operiert und adjuvant analog zu Kolonkarzinomen behandelt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.24 (Grad A, LoE 1b, neu 2025). Begründung: Tumoren oberhalb 10-15 cm ab Anokutanlinie zeigten in TME-Studien keine signifikante Senkung der Lokalrezidivrate durch zusätzliche 5x5 Gy. Bei cT4b oder mrCRM+ kann TNT auch im oberen Drittel erwogen werden (Empf. 9.25).",
+    "leitlinie_wortlaut": "Rektumkarzinome im oberen Drittel ohne Risikokonstellation für ein Lokalrezidiv sollen primär operiert und adjuvant analog zu Kolonkarzinomen behandelt werden.",
+    "evidenz": "Grad A; LoE 1b (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 212,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "oberes Rektumdrittel",
+      "primär OP",
+      "Kolon-CA"
+    ]
+  },
+  {
+    "id": "krk_9_26_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.26",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Neoadjuvante RT",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Eine neoadjuvante Bestrahlung beim Rektumkarzinom kann laut S3-LL entweder als Kurzzeitbestrahlung mit 5x5 Gy (gefolgt von sofortiger OP oder einem Intervall von 4-8 Wochen) oder als konventionell fraktionierte RChT (1,8-2,0 Gy bis 45-50,4 Gy) mit OP nach 6-8 Wochen erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 9.26 (Grad 0, LoE 1b, modifiziert 2025). Beide Schemata onkologisch gleichwertig. RChT mit längerem Intervall bevorzugt bei intendiertem Downsizing (cT4, mrCRM+, tiefliegender Tumor mit Sphinkter-Erhalt).",
+    "leitlinie_wortlaut": "Die neoadjuvante RT kann entweder als Kurzzeitbestrahlung mit 5x5 Gy gefolgt von sofortiger Operation bzw. einem Intervall von 4-8 Wochen erfolgen oder als konventionell fraktionierte Radiochemotherapie (1,8-2,0 Gy bis 45-50,4 Gy) mit einem Intervall von 6-8 Wochen bis zur Response-Beurteilung/Operation.",
+    "evidenz": "Grad 0; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 213,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "5x5 Gy",
+      "RChT",
+      "neoadjuvant"
+    ]
+  },
+  {
+    "id": "krk_9_27_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.27",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Chemotherapie der neoadjuvanten RChT",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Die neoadjuvante Radiochemotherapie beim Rektumkarzinom soll laut S3-LL orales Capecitabin oder infusionales 5-Fluorouracil enthalten.",
+    "answer": true,
+    "explanation": "Empf. 9.27 (Grad A, LoE 1b). 5-FU-Bolus suboptimal. Oxaliplatin in CAO/ARO/AIO-04 mit DFS-Benefit, aber kein Standard — kann bei jüngeren Patienten (<60J) erwogen werden.",
+    "leitlinie_wortlaut": "Die neoadjuvante Radiochemotherapie soll orales Capecitabin oder infusionales 5-Fluorouracil beinhalten.",
+    "evidenz": "Grad A; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 214,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Capecitabin",
+      "5-FU",
+      "RChT"
+    ]
+  },
+  {
+    "id": "krk_9_28_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.28",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "TNT-Sequenz",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Beim Einsatz einer totalen neoadjuvanten Therapie mit dem Ziel der maximalen klinischen Komplettremission und Organerhalt sollte laut der neuen Empf. 9.28 die Sequenz Radio(chemo)therapie + Konsolidierungstherapie gegenüber Induktionschemotherapie + RChT bevorzugt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.28 (Grad B, LoE 2, neu 2025). OPRA-Studie: TME-free survival nach 5 Jahren 54 % (RChT → Konsolidierung) vs. 39 % (Induktion → RChT). CAO/AIO/ARO-12: bessere pCR-Rate mit Konsolidierungs-Arm (25 % vs. 17 %).",
+    "leitlinie_wortlaut": "Bei Einsatz einer totalen neoadjuvanten Therapie mit dem Ziel der Erhöhung der Rate an (nahezu) klinischer Komplettremission und Option auf einen Organerhalt sollte die Sequenz Radiotherapie/Radiochemotherapie + Konsolidierungstherapie der Sequenz Induktionstherapie + RT/RChT präferiert werden.",
+    "evidenz": "Grad B; LoE 2 (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 216,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "TNT",
+      "OPRA",
+      "Konsolidierung",
+      "Organerhalt"
+    ]
+  },
+  {
+    "id": "krk_9_29_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.29",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "MSI-H Rektum-CA Sonderfall",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Bei einem MSI-H/dMMR-Rektumkarzinom sollte laut der neuen Empf. 9.29 eine alleinige Immuncheckpoint-Inhibitor-Therapie über 6 Monate erfolgen — ohne Radio(chemo)therapie und mit Verzicht auf Operation bei Erreichen einer klinischen Komplettremission.",
+    "answer": true,
+    "explanation": "Empf. 9.29 (EK, neu 2025). Basis: Dostarlimab-Studie (Cercek/MSKCC) — 100 % cCR bei allen bisher behandelten Patienten (n=12-41). ICI noch nicht zugelassen für lokal fortgeschr. Rektum-CA; cCR teils erst nach 6 Monaten. Klinische Kontrolle nach 3 + 6 Monaten.",
+    "leitlinie_wortlaut": "Bei Nachweis eines MSI-H/dMMR-Status sollte eine alleinige Therapie mit Immuncheckpoint-Inhibitor über 6 Monate ohne Radio-/Radiochemotherapie und Verzicht auf eine Operation bei Erreichen einer klinischen Komplettremission erfolgen.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 217,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "MSI",
+      "dMMR",
+      "Dostarlimab",
+      "ICI",
+      "Organerhalt"
+    ]
+  },
+  {
+    "id": "krk_9_30_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.30",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Adjuvante Chemo nach neoadj. RChT",
+    "thema": "Rektum adjuvant",
+    "statement": "Nach neoadjuvanter Radio(chemo)therapie und R0-Resektion eines Rektumkarzinoms soll laut S3-LL bei jedem Patienten im ypTNM-Stadium II/III eine adjuvante Chemotherapie mit FOLFOX durchgeführt werden.",
+    "answer": false,
+    "explanation": "Empf. 9.30: Keine generelle Empfehlung pro/contra adjuvante Chemo nach neoadj. RChT. 4 Phase-III-Studien zeigten keinen Vorteil; Meta-Analyse: kein Unterschied in DFS/OS. Wenn doch adjuvante Therapie: Capecitabin/infusionales 5-FU statt Bolus-5-FU. Individuelle Entscheidung nach Patient/Arzt-Gespräch.",
+    "leitlinie_wortlaut": "Eine generelle Empfehlung für oder gegen eine adjuvante Chemotherapie nach erfolgter neoadjuvanter Radiotherapie/Radiochemotherapie kann auf Grundlage der vorhandenen Datenlage beim Rektumkarzinom nicht gegeben werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 218,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "adjuvant",
+      "Rektum",
+      "Chemotherapie"
+    ]
+  },
+  {
+    "id": "krk_9_31_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.31",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Stadium I keine Adjuvanz",
+    "thema": "Rektum adjuvant",
+    "statement": "Im UICC-Stadium I (pT1/2N0) eines primär operierten Rektumkarzinoms soll nach R0-Resektion laut S3-LL keine adjuvante Therapie erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 9.31 (modifiziert 2025). Stadium I = niedrige Rezidivrate, kein Nutzen einer adjuvanten Chemo nachgewiesen.",
+    "leitlinie_wortlaut": "Im UICC-Stadium I (pT1/2N0) soll nach R0-Resektion keine adjuvante Therapie erfolgen.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 219,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Stadium I",
+      "pT1/2N0",
+      "adjuvant"
+    ]
+  },
+  {
+    "id": "krk_9_25_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.25",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "TNT bei cT4b/mrCRM+",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Eine totale neoadjuvante Therapie kann laut S3-LL bei cT4b oder mrCRM+ Rektumkarzinomen auch im oberen Drittel erwogen werden.",
+    "answer": true,
+    "explanation": "Empf. 9.25 (EK, neu 2025). Patienten mit Tumoren >10 cm ab ano waren in RAPIDO (33 %) und PRODIGE 23 (13 %) inkludiert. Bei deutlich erhöhtem Lokalrezidivrisiko ist TNT auch im oberen Drittel sinnvoll.",
+    "leitlinie_wortlaut": "Eine totale neoadjuvante Therapie kann bei cT4b; mrCRM+ erfolgen.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 212,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "TNT",
+      "cT4b",
+      "mrCRM+",
+      "oberes Drittel"
+    ]
+  },
+  {
+    "id": "krk_5_1_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.1",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "Erhebung Familienanamnese",
+    "thema": "Familienanamnese",
+    "statement": "Bei jedem Patienten mit Darmkrebs soll laut S3-LL eine Eigen- und Familienanamnese bezüglich onkologischer Erkrankungen erhoben werden.",
+    "answer": true,
+    "explanation": "Empf. 5.1 (EK, modif 2025). Hereditäre/familiär bedingt erhöhte Risiken erkennen. Bethesda-Kriterien erfassen nur ~75 % der Lynch-Patienten — daher ergänzend universelles Tumor-Screening auf dMMR/MSI sinnvoll (siehe Kap. 8).",
+    "leitlinie_wortlaut": "Bei jedem Patienten mit Darmkrebs soll die Eigen- und Familienanamnese bezüglich onkologischer Erkrankungen erhoben werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 58,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Familienanamnese",
+      "Lynch",
+      "Bethesda"
+    ]
+  },
+  {
+    "id": "krk_5_4_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.4",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "MSI/dMMR ohne sporadisch → Keimbahn",
+    "thema": "Lynch-Diagnostik",
+    "statement": "Allen Patienten mit MSI/dMMR-KRK ohne Hinweise für eine sporadische Tumorerkrankung (bei MLH1-Ausfall: keine MLH1-Promotor-Methylierung, keine BRAF-V600E) soll laut S3-LL eine genetische Keimbahn-Diagnostik auf ein Lynch-Syndrom angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 5.4 (Grad A, LoE 2b, neu 2025). PPV für Lynch bei dMMR/MSI-H KRK: 55 % insgesamt; 86 % bei KRK <40J, 30 % bei 65-69J. Auch bei BRAF-Wildtyp und fehlender Methylierung sinnvoll.",
+    "leitlinie_wortlaut": "Allen Patienten mit MSI/dMMR-KRK ohne Hinweise für eine sporadische Tumorerkrankung (bei MLH1-Ausfall: keine MLH1-Promotor-Methylierung, keine BRAF-Mutation p.Val600Glu) soll eine genetische Keimbahn-Diagnostik auf ein Lynch-Syndrom angeboten werden.",
+    "evidenz": "Grad A; LoE 2b (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 60,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Lynch",
+      "Keimbahn",
+      "MSI",
+      "dMMR"
+    ]
+  },
+  {
+    "id": "krk_5_5_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.5",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "KRK <50J → Keimbahn",
+    "thema": "Lynch-Diagnostik",
+    "statement": "Patienten mit einem frühmanifesten KRK (<50. Lebensjahr) sollte laut S3-LL unabhängig vom molekularpathologischen Befund eine genetische Keimbahn-Diagnostik hinsichtlich einer monogen erblichen Tumorprädisposition angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 5.5 (Grad B, LoE 2, neu 2025). Hereditärer Anteil bei early-onset KRK: 8-22 %. Multigen-Panel inkl. APC, BMPR1A, EPCAM, MLH1, MSH2, MSH6, MUTYH, POLD1, POLE, PMS2, PTEN, SMAD4, STK11, TP53.",
+    "leitlinie_wortlaut": "Patienten mit einem frühmanifesten KRK (< 50. Lebensjahr) sollte unabhängig vom molekularpathologischen Befund eine genetische Keimbahn-Diagnostik hinsichtlich einer monogen erblichen Tumorprädisposition angeboten werden.",
+    "evidenz": "Grad B; LoE 2 (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 61,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "early-onset",
+      "Keimbahn",
+      "Multigen-Panel"
+    ]
+  },
+  {
+    "id": "krk_5_13_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.13",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "Lynch-Vorsorge Alter Beginn",
+    "thema": "Lynch-Vorsorge",
+    "statement": "Die koloskopische Vorsorge bei Anlageträgern für ein Lynch-Syndrom sollte laut S3-LL bei MLH1/MSH2 zwischen dem 20.-25. Lebensjahr, bei MSH6/PMS2 zwischen dem 30.-35. Lebensjahr begonnen werden.",
+    "answer": true,
+    "explanation": "Empf. 5.13 (Grad B, LoE 3). MLH1/MSH2 = höheres und früheres Risiko (kumulativ. KRK-Inzidenz 46 % bzw. 35 % bis 70J). MSH6/PMS2: niedrigeres Risiko (~20 % MSH6).",
+    "leitlinie_wortlaut": "Bei Anlageträgern für ein Lynch-Syndrom sollte die koloskopische Vorsorge in Abhängigkeit von der zugrundeliegenden pathogenen Keimbahn-Variante empfohlen werden. Bei MLH1/MSH2 sollte zwischen dem 20.-25. Lebensjahr, bei MSH6/PMS2 zwischen dem 30.-35. Lebensjahr begonnen werden.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 66,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Lynch",
+      "Vorsorge",
+      "MLH1",
+      "MSH2",
+      "MSH6",
+      "PMS2"
+    ]
+  },
+  {
+    "id": "krk_5_13b_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.13b",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "Lynch-Vorsorge Intervall",
+    "thema": "Lynch-Vorsorge",
+    "statement": "Die Koloskopie bei Lynch-Anlageträgern sollte laut S3-LL pauschal jährlich erfolgen, unabhängig von der Genvariante und Risikofaktoren.",
+    "answer": false,
+    "explanation": "Empf. 5.13: Standardintervall 24 Monate. Verkürzt auf minimal 12 Monate nur bei Hochrisiko (MLH1/MSH2, vorheriges KRK, männlich, >40J). 3-Länder-Studie: jährliches vs. 2-3-jährliches Intervall ohne signifikanten Unterschied bei Inzidenz/Stadium.",
+    "leitlinie_wortlaut": "Die Koloskopie sollte alle 24 Monate wiederholt werden, bei Risikofaktoren wie vorherigem KRK oder Hochrisiko-Gen (MLH1/MSH2) kann das Intervall verkürzt werden auf minimal 12 Monate.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 66,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Lynch",
+      "Intervall",
+      "Koloskopie"
+    ]
+  },
+  {
+    "id": "krk_5_14_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.14",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "ÖGD bei Lynch",
+    "thema": "Lynch-Vorsorge",
+    "statement": "Bei Anlageträgern für ein Lynch-Syndrom (MLH1, MSH2, MSH6) sollte laut S3-LL ab dem 30. Lebensjahr zusätzlich alle 1-4 Jahre eine Ösophagogastroduodenoskopie (ÖGD) erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 5.14 (Grad B/0, LoE 3). Lynch-assoziierte Risiken auch für Magen-, Duodenal- und Pankreaskarzinome. Bei PMS2-Trägern: ÖGD kann angeboten werden (LoE niedriger).",
+    "leitlinie_wortlaut": "Bei Anlageträgern für ein Lynch-Syndrom (MLH1, MSH2, MSH6) sollte ab dem 30. Lebensjahr zusätzlich alle 1-4 Jahre eine ÖGD empfohlen werden. Bei Anlageträgern mit einer pathogenen Variante in PMS2 kann die Untersuchung angeboten werden.",
+    "evidenz": "Grad B/0; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 67,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Lynch",
+      "ÖGD",
+      "Vorsorge"
+    ]
+  },
+  {
+    "id": "krk_5_17_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.17",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "OP-Ausmaß bei Lynch + KRK",
+    "thema": "Lynch-Chirurgie",
+    "statement": "Bei einem Kolonkarzinom eines MSH6- oder PMS2-Anlageträgers soll laut S3-LL regelhaft eine erweiterte (sub)totale Kolektomie wegen der hohen Metachronierate erfolgen.",
+    "answer": false,
+    "explanation": "Empf. 5.17: Bei MSH6/PMS2-Trägern wegen deutlich niedrigerer Penetranz KEINE regelhafte erweiterte Resektion. Standard-Kolonresektion (siehe auch Empf. 7.31). Bei MLH1/MSH2 (Hochrisiko) erweitert vs. lokalisationsbezogen besprechen. Bei Rektum-CA: primäre ICI-Therapie (Dostarlimab) prüfen.",
+    "leitlinie_wortlaut": "Bei Kolonkarzinomen bei Anlageträgern für das Lynch-Syndrom mit Mutation in einem Hochrisiko-Gen (MLH1/MSH2/EPCAM) sollte die Option einer lokalisationsbezogenen onkologischen Resektion versus einer erweiterten onkologischen Resektion (subtotale Kolektomie) besprochen werden. Bei MSH6 oder PMS2 soll eine prophylaktisch erweiterte Resektion nicht regelhaft erfolgen.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 71,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Lynch",
+      "MSH6",
+      "PMS2",
+      "Kolektomie",
+      "metachron"
+    ]
+  },
+  {
+    "id": "krk_5_22_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.22",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "FAP ÖGD ab 18-25J",
+    "thema": "FAP-Vorsorge",
+    "statement": "Bei FAP-Patienten sollte laut S3-LL die Überwachung des oberen Gastrointestinaltrakts zwischen dem 18. und 25. Lebensjahr begonnen werden — mit Inspektion der Papille via Duodenoskop oder Kappen-Aufsatz und Risikostratifizierung nach Spigelman-Klassifikation.",
+    "answer": true,
+    "explanation": "Empf. 5.22 (EK, modifiziert 2025). Duodenale Polyposis bei ~88 % der FAP-Patienten; Lebenszeitrisiko Duodenal-CA 18 %. Spigelman-Stadium IV: OR 8,8 für Duodenal-CA. Überwachungsintervall 6 Monate-3 Jahre je nach Befund.",
+    "leitlinie_wortlaut": "Die Überwachung des oberen Gastrointestinaltraktes sollte zwischen dem 18. und 25. Lebensjahr begonnen werden. Hierbei sollte die Inspektion der Papille gewährleistet sein durch den Gebrauch eines Duodenoskops oder einer transparenten Aufsatzkappe auf dem Gastroskop. Zur duodenalen Risikostratifizierung wird die Spigelman-Klassifikation benutzt.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 75,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "FAP",
+      "ÖGD",
+      "Spigelman",
+      "Vorsorge"
+    ]
+  },
+  {
+    "id": "krk_5_23_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.23",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "FAP duodenale Polypen",
+    "thema": "FAP-Therapie",
+    "statement": "Bei FAP-Patienten sollten laut S3-LL nicht-ampulläre duodenale Polypen >10 mm endoskopisch entfernt werden; bei nachgewiesenem oder hochgradig verdächtigem Karzinom sollte eine chirurgische Resektion erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 5.23 (EK, modifiziert 2025). Polypen >10 mm haben relevantes Risiko für HGD/SMIC. <10 mm: Überwachung oder endoskopische Entfernung möglich. Papillenadenome >10 mm oder villös/HGD → endoskopisch resezieren.",
+    "leitlinie_wortlaut": "Die endoskopische Polypektomie aller nicht-ampullären duodenalen Polypen > 10 mm sollte erfolgen. Polypen mit einer Größe von 5-10 mm können endoskopisch überwacht oder entfernt werden. Bei dem Nachweis eines Karzinoms oder dem endoskopisch hochgradigen Verdacht auf ein Karzinom sollte eine chirurgische Resektion erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 76,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "FAP",
+      "duodenale Polypen",
+      "Endoskopie"
+    ]
+  },
+  {
+    "id": "krk_5_24_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.24",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "FAP Magen-CA-Risiko",
+    "thema": "FAP-Vorsorge",
+    "statement": "Das Risiko für ein Magenkarzinom ist bei FAP-Patienten laut S3-LL erhöht — eine endoskopische Inspektion des Magens mit besonderem Fokus auf gastrische Adenome und dysplastische Drüsenkörperzysten sollte empfohlen werden.",
+    "answer": true,
+    "explanation": "Empf. 5.24 (EK, modifiziert 2025). Drüsenkörperzysten bei 26-88 % der FAP. Magenadenome bei ~14 % (medianes Alter 47 J). HGD steigt mit Größe — 33 % bei >20 mm. Bei 5 % FAP-Adenome HGD nachweisbar.",
+    "leitlinie_wortlaut": "Das Risiko für Magenkarzinome bei Patienten mit einer FAP ist erhöht. Die endoskopische Inspektion des Magens mit einem besonderen Fokus auf gastrische Adenome und dysplastische Drüsenkörperzysten sollte empfohlen werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 76,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "FAP",
+      "Magenkarzinom",
+      "Drüsenkörperzysten"
+    ]
+  },
+  {
+    "id": "krk_5_25_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.25",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "FAP Whipple",
+    "thema": "FAP-Therapie",
+    "statement": "Die Indikation zur risikoreduzierenden Operation der duodenalen Polyposis bei FAP (z.B. Whipple oder pankreaserhaltende Duodenektomie) sollte laut S3-LL unabhängig von der Spigelman-Klassifikation an einem Expertenzentrum gestellt werden.",
+    "answer": true,
+    "explanation": "Empf. 5.25 (EK, modifiziert 2025). Risikoreduzierende OP: kurzfristige Mortalität ~5 %, Morbidität 30-63 %. Spigelman-Score sagt Papillen-CA-Risiko schlecht voraus → individuell entscheiden.",
+    "leitlinie_wortlaut": "Die Indikation zur risikoreduzierenden Operation der duodenalen Polyposis (Operation nach Whipple oder Pankreas-erhaltende Duodenektomie) sollte unabhängig von der Spigelman-Klassifikation an einem Expertenzentrum gestellt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 77,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "FAP",
+      "Whipple",
+      "Duodenektomie"
+    ]
+  },
+  {
+    "id": "krk_5_27_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.27",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "FAP Desmoid + Schilddrüse",
+    "thema": "FAP-Vorsorge",
+    "statement": "Patienten mit FAP haben ein erhöhtes Risiko für Desmoide und papilläres Schilddrüsenkarzinom — laut der neuen Empf. 5.27 kann ein Schilddrüsen-Ultraschall ab dem 15. Lebensjahr alle 1-4 Jahre erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 5.27 (EK, neu 2025). Desmoidrisiko erhöht v.a. nach abdomineller OP (IPAA). Schilddrüsen-CA-Prävalenz bei FAP ~2,6 % (Range 1,5-12 %). Diagnose-Alter typisch 26-42 J. Weiblich + jung = höchstes Risiko.",
+    "leitlinie_wortlaut": "Patienten mit einer FAP haben mögliche extraintestinale Manifestationen. Das Risiko für die Entwicklung von Desmoiden ist erhöht. Es besteht auch ein erhöhtes Risiko für ein papilläres Schilddrüsenkarzinom. Ein Screening mittels Ultraschalls kann alle 1-4 Jahre bei FAP-Patienten ab dem 15. Lebensjahr erfolgen.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 80,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "FAP",
+      "Desmoid",
+      "Schilddrüsenkarzinom",
+      "extraintestinal"
+    ]
+  },
+  {
+    "id": "krk_5_28_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.28",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "MAP Vorsorge",
+    "thema": "MAP-Vorsorge",
+    "statement": "Bei Patienten mit einer MUTYH-assoziierten Polyposis (MAP) sollte laut der neuen Empf. 5.28 die koloskopische Überwachung ab dem 18. Lebensjahr mit anschließendem jährlichen Überwachungsintervall empfohlen werden.",
+    "answer": true,
+    "explanation": "Empf. 5.28 (EK, neu 2025). MAP = autosomal-rezessiv. Mischung tubuläre/serratierte Polypen, weniger als bei FAP. Duodenale Polyposis bei 20 %, Lebenszeitrisiko Duodenal-CA ~4 %. ÖGD ab 35J, Intervall ≤3J. Weitere assoziierte Tumoren: Ovar, Blase.",
+    "leitlinie_wortlaut": "Bei Patienten mit einer MUTYH-assoziierten Polyposis (MAP) sollte die koloskopische Überwachung ab dem 18. Lebensjahr mit einem anschließenden jährlichen Überwachungsintervall empfohlen werden. Eine Überwachung des oberen Gastrointestinaltrakts sollte ab dem 35. Lebensjahr empfohlen werden.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 80,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "MAP",
+      "MUTYH",
+      "Polyposis"
+    ]
+  },
+  {
+    "id": "krk_5_30_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.30",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "SPS Polypektomie",
+    "thema": "SPS",
+    "statement": "Beim serratierten Polyposis-Syndrom (SPS) sollten laut der neuen Empf. 5.30 endoskopisch alle Polypen ≥5 mm sowie alle Polypen mit makroskopischem Verdacht auf eine Dysplasie entfernt werden.",
+    "answer": true,
+    "explanation": "Empf. 5.30 (EK, neu 2025). Intervall: 1 Jahr bei fortgeschrittenen Polypen oder ≥5 nicht-fortgeschrittenen; 2 Jahre sonst. 5-J-KRK-Inzidenz unter Überwachung nur 1,3 %.",
+    "leitlinie_wortlaut": "Bei einem serratierten Polyposis-Syndrom (SPS) sollten endoskopisch alle Polypen ≥ 5 mm und alle Polypen mit dem makroskopischen Verdacht auf eine Dysplasie entfernt werden.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 82,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "SPS",
+      "serratiert",
+      "Polypektomie"
+    ]
+  },
+  {
+    "id": "krk_5_31_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.31",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "SPS Vorsorge erstgradig",
+    "thema": "SPS",
+    "statement": "Bei erstgradig Verwandten von Patienten mit serratiertem Polyposis-Syndrom (SPS) sollten laut der neuen Empf. 5.31 Vorsorgekoloskopien ab dem 40. Lebensjahr bzw. 10 Jahre vor dem Alter der Diagnose beim Betroffenen angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 5.31 (EK, neu 2025). Familiäre Häufung beim SPS — daher proband-altersbasierte Vorsorge.",
+    "leitlinie_wortlaut": "Bei erstgradig Verwandten von Patienten mit einem serratierten Polyposis-Syndrom sollten die Vorsorgekoloskopien ab dem 40. Lebensjahr bzw. 10 Jahre vor dem Alter der Diagnose bei dem Betroffenen angeboten werden.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 82,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "SPS",
+      "Familienvorsorge",
+      "Verwandte"
+    ]
+  },
+  {
+    "id": "krk_8_2_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.2",
+    "kapitel": "Pathologie",
+    "unterkapitel": "Resektat-Pflichtangaben",
+    "thema": "Pathologie-Resektat",
+    "statement": "Im pathologischen Resektat-Befund eines KRK sollen laut S3-LL u.a. pT, pN (mind. 12 LK), L/V/Pn, R-Klassifikation, Abstand zu Resektionsrändern (beim Rektum auch CRM), Regressionsgrad (nach Neoadjuvanz), MSI-Status und Mutationsstatus relevanter Gene enthalten sein.",
+    "answer": true,
+    "explanation": "Empf. 8.2 (EK, modifiziert 2025). Kombinierte Pathologie-Befundung. Regressionsgrad nach Dworak (0-4) bei Rektum-CA mit Neoadjuvanz. Budding-Status zusätzlich obligat.",
+    "leitlinie_wortlaut": "Folgende Angaben sollen durch den Pathologen am Resektat erhoben werden: Tumortyp nach WHO; pT, Tumorgröße, Lokalisation; pN; Anzahl untersuchter LK (mindestens 12); Grading; L/V/Pn-Status; Abstand zu Resektionsrändern (Rektum auch CRM); R-Klassifikation; Regressionsgrad (Rektum nach Neoadjuvanz); MSI-Status; Mutationsstatus; Budding; bei pT1 Risiko-Score; TME-Präparat-Qualität.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 156,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Resektat",
+      "Pathologie",
+      "Dworak",
+      "Pflichtangaben"
+    ]
+  },
+  {
+    "id": "krk_8_9_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.9",
+    "kapitel": "Pathologie",
+    "unterkapitel": "RAS-Bestimmung Material",
+    "thema": "Molekularpathologie",
+    "statement": "Die Bestimmung des RAS-Mutationsstatus beim metastasierten KRK kann laut S3-LL nur am Primärtumor erfolgen — Metastasen-Biopsien sind ungeeignet.",
+    "answer": false,
+    "explanation": "Empf. 8.9 (Grad 0). Bestimmung kann sowohl am Primärtumor als auch an Metastasen erfolgen. Übereinstimmung zwischen beiden meist hoch.",
+    "leitlinie_wortlaut": "Die Bestimmung des Mutationsstatus kann entweder am Primärtumor oder an Metastasen erfolgen.",
+    "evidenz": "Grad 0",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 167,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "RAS",
+      "Primärtumor",
+      "Metastasen",
+      "Mutationsanalyse"
+    ]
+  },
+  {
+    "id": "krk_8_12_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.12",
+    "kapitel": "Pathologie",
+    "unterkapitel": "NTRK-Fusion mKRK",
+    "thema": "Molekularpathologie",
+    "statement": "Bei Patienten mit metastasiertem KRK kann laut der neuen Empf. 8.12 eine Untersuchung zum Nachweis einer NTRK-Fusion erfolgen — Screening mittels IHC, gefolgt von Bestätigung durch NGS.",
+    "answer": true,
+    "explanation": "Empf. 8.12 (Grad 0, neu 2025). NTRK-Fusionen sind beim KRK extrem selten (<1 %), aber bei Nachweis besteht die Möglichkeit einer zielgerichteten Therapie mit TRK-Inhibitoren (Larotrectinib, Entrectinib).",
+    "leitlinie_wortlaut": "Bei Patienten mit metastasiertem kolorektalem Karzinom kann eine Untersuchung zum Nachweis einer NTRK-Fusion erfolgen. Das Screening auf NTRK-Fusionen kann mittels IHC durchgeführt werden, gefolgt von einer Bestätigung durch Next-Generation-Sequencing.",
+    "evidenz": "Grad 0 (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 170,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "NTRK",
+      "Fusion",
+      "TRK-Inhibitor",
+      "mKRK"
+    ]
+  },
+  {
+    "id": "krk_8_13_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.13",
+    "kapitel": "Pathologie",
+    "unterkapitel": "ctDNA Qualitätssicherung",
+    "thema": "Liquid Biopsy",
+    "statement": "Für den diagnostischen Nachweis zirkulierender Tumor-DNA (ctDNA) ist laut dem neuen Statement 8.13 die Richtlinie der Bundesärztekammer zur Qualitätssicherung laboratoriumsmedizinischer Untersuchungen (RiLiBÄK) maßgebend.",
+    "answer": true,
+    "explanation": "Statement 8.13 (EK, neu 2025). Qualität von Verfahren zur ctDNA-Bestimmung muss RiLiBÄK-konform sein. ctDNA-Methoden (ddPCR, NGS) sensitiver/spezifischer als Serum-CEA.",
+    "leitlinie_wortlaut": "Hinsichtlich der Sicherung von Qualität und Leistungsfähigkeit der für den diagnostischen Nachweis zirkulierender Tumor-DNA eingesetzten Verfahren ist die Richtlinie der Bundesärztekammer zur Qualitätssicherung laboratoriumsmedizinischer Untersuchungen (RiLiBÄK) maßgebend.",
+    "evidenz": "Statement; EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 171,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "ctDNA",
+      "RiLiBÄK",
+      "Qualität"
+    ]
+  },
+  {
+    "id": "krk_8_15_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "8.15",
+    "kapitel": "Pathologie",
+    "unterkapitel": "RAS/BRAF an ctDNA",
+    "thema": "Liquid Biopsy",
+    "statement": "Der Nachweis von RAS- und BRAF-V600E-Mutationen beim metastasierten KRK kann laut der neuen Empf. 8.15 auch auf ctDNA im Blutplasma erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 8.15 (EK, neu 2025). Indikation: bei nicht verfügbarem Tumorgewebe, vor Re-Challenge mit anti-EGFR (sekundäre RAS-Mutationen detektieren), Neo-RAS-Wildtyp.",
+    "leitlinie_wortlaut": "Der Nachweis von RAS- und BRAF-V600E-Mutationen kann beim metastasierten kolorektalen Karzinom auch auf ctDNA im Blutplasma erfolgen.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 171,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "ctDNA",
+      "RAS",
+      "BRAF",
+      "Liquid Biopsy"
+    ]
+  },
+  {
+    "id": "krk_6_6_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.6",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Polypen histologisch WHO",
+    "thema": "Pathologie-Polypen",
+    "statement": "Alle Polypen sollen laut S3-LL histologisch entsprechend der aktuell gültigen WHO-Klassifikation untersucht werden — mit Angabe der Vollständigkeit der Abtragung und des Dysplasiegrades.",
+    "answer": true,
+    "explanation": "Empf. 6.6 (EK, modifiziert 2025). WHO 2019: konventionelle Adenome (tubulär/villös/tubulovillös) + serratierte Polypen (hyperplastisch, SSL, serratierte Dysplasie, TSA). Intramukosales Karzinom = HGIEN (nicht metastasierungsfähig).",
+    "leitlinie_wortlaut": "Alle Polypen sollen histologisch entsprechend der aktuell gültigen WHO-Klassifikation mit Angabe der Vollständigkeit der Abtragung und des Dysplasiegrades untersucht werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 105,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "WHO",
+      "Polypen",
+      "Histologie"
+    ]
+  },
+  {
+    "id": "krk_6_14_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.14",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Nachsorge 1-2 LRA",
+    "thema": "Polypen-Nachsorge",
+    "statement": "Bei Patienten mit 1 oder 2 low-risk-Adenomen (LRA) sollte laut S3-LL eine Kontroll-Koloskopie nach 7-10 Jahren empfohlen werden.",
+    "answer": true,
+    "explanation": "Empf. 6.14 (EK, modifiziert 2025). LRA = <10 mm, tubulär, ohne HGIEN, weniger als 3 Adenome.",
+    "leitlinie_wortlaut": "Bei Patienten mit 1 oder 2 low-risk-Adenomen sollte eine Kontrollkoloskopie nach 7-10 Jahren empfohlen werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 114,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "LRA",
+      "Nachsorge",
+      "Adenom"
+    ]
+  },
+  {
+    "id": "krk_6_15_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.15",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Nachsorge 3-4 LRA",
+    "thema": "Polypen-Nachsorge",
+    "statement": "Bei Patienten mit 3-4 low-risk-Adenomen (LRA) sollte laut S3-LL eine Kontroll-Koloskopie nach 3-5 Jahren empfohlen werden — bei ≥5 LRA verkürzt auf <3 Jahre.",
+    "answer": true,
+    "explanation": "Empf. 6.15 (EK, modifiziert 2025) + 6.16 (Grad B). Intervall risikoadaptiert: 1-2 LRA → 7-10J, 3-4 LRA → 3-5J, ≥5 LRA → <3J.",
+    "leitlinie_wortlaut": "Bei Patienten mit 3-4 low-risk-Adenomen sollte eine Kontrollkoloskopie nach 3-5 Jahren empfohlen werden. Bei Patienten mit ≥ 5 low-risk-Adenomen sollte das Kontrollintervall < 3 Jahre betragen.",
+    "evidenz": "EK / Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 114,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "LRA",
+      "Nachsorge",
+      "Intervall"
+    ]
+  },
+  {
+    "id": "krk_6_17_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.17",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Nachsorge HRA",
+    "thema": "Polypen-Nachsorge",
+    "statement": "Bei Patienten mit high-risk-Adenomen (≥10 mm oder villöse Histologie oder HGIEN) und histologisch bestätigter vollständiger Abtragung sollte laut S3-LL eine Kontroll-Koloskopie nach 5 Jahren empfohlen werden.",
+    "answer": false,
+    "explanation": "Empf. 6.17 (Grad B): Nach 3 JAHREN. HRA = mind. eines: ≥10mm, villös, HGIEN. Aktualisierung: bei piecemeal-Resektion großer HRA bleibt 6-Monats-Kontrolle (Empf. 6.21).",
+    "leitlinie_wortlaut": "Bei Patienten mit high-risk-Adenomen (≥ 10 mm, villöse Histologie, hochgradige intraepitheliale Neoplasie) und histologisch bestätigter vollständiger Abtragung sollte eine Kontrollkoloskopie nach 3 Jahren empfohlen werden.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 115,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "HRA",
+      "Nachsorge",
+      "Adenom"
+    ]
+  },
+  {
+    "id": "krk_6_18_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.18",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Nachsorge serratierte Polypen",
+    "thema": "Polypen-Nachsorge",
+    "statement": "Der Zeitpunkt der Kontroll-Koloskopie nach kompletter Abtragung serratierter Polypen soll laut S3-LL von Anzahl, Größe und Histologie der Läsionen abhängig gemacht werden — 5-10 Jahre bei 1-2 SSL <10 mm ohne Dysplasie; 3 Jahre bei ≥3 SSL, SSL ≥10 mm, TSA, hyperplastischen Polypen ≥10 mm oder Dysplasienachweis.",
+    "answer": true,
+    "explanation": "Empf. 6.18 (EK, modifiziert 2025). SSL ≥10 mm: HR 3,35 für KRK in großer Studie. Kleine hyperplastische Polypen (<10 mm): keine Kontrolle nötig. Bei gleichzeitigem HRA + serratierten Läsionen: OR 5,6 für metachrone fortgeschr. Neoplasie.",
+    "leitlinie_wortlaut": "Der Zeitpunkt der Kontrollkoloskopie nach kompletter Abtragung serratierter Polypen soll von Anzahl, Größe und Histologie der entfernten Läsionen abhängig gemacht werden (5-10 Jahre bei 1-2 SSL < 10 mm ohne Dysplasie, 3 Jahre bei ≥ 3 SSL, bei SSL ≥ 10 mm, nach Entfernung von TSAs, nach Entfernung größerer hyperplastischer Polypen ≥ 10 mm sowie bei Dysplasienachweis).",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 116,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "SSL",
+      "TSA",
+      "serratiert",
+      "Nachsorge"
+    ]
+  },
+  {
+    "id": "krk_6_19_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.19",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Nachsorge low-risk pT1",
+    "thema": "pT1-Nachsorge",
+    "statement": "Nach kompletter R0-Entfernung eines low-risk-pT1-Karzinoms soll laut S3-LL eine endoskopische Kontrolle der Abtragungsstelle nach 6 Monaten und eine komplette Koloskopie nach 3 Jahren erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 6.19 (Grad A). Kontrolle der Abtragungsstelle früh (6 Monate) wegen Rezidivrisiko, komplette Koloskopie nach 3 Jahren für Detektion metachroner Adenome/CA.",
+    "leitlinie_wortlaut": "Eine endoskopische Kontrolle der Abtragungsstelle soll nach kompletter Entfernung (R0) von low-risk-pT1-Karzinomen nach 6 Monaten erfolgen. Eine komplette Koloskopie soll nach 3 Jahren empfohlen werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 116,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "pT1",
+      "low-risk",
+      "Nachsorge"
+    ]
+  },
+  {
+    "id": "krk_6_22_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "6.22",
+    "kapitel": "Endoskopie und Polypenmanagement",
+    "unterkapitel": "Zweite Kontroll-Koloskopie",
+    "thema": "Polypen-Nachsorge",
+    "statement": "Die Empfehlung zur zweiten Kontroll-Koloskopie nach Polypektomie hängt laut dem neuen Statement 6.22 von den Befunden BEIDER vorhergegangener Untersuchungen (Index- und erster Kontroll-Koloskopie) ab.",
+    "answer": true,
+    "explanation": "Statement 6.22 (EK, neu 2025). Rate fortgeschrittener Adenome bei 2. Kontrolle: low-low 10,6 %, low-high 16,4 %, high-high 38,2 %. Sonderfall: initial HRA + 1. Kontrolle low → 5-J-Intervall sinnvoll.",
+    "leitlinie_wortlaut": "Die Empfehlung zur zweiten Kontrollkoloskopie hängt von den Befunden der Indexkoloskopie und der ersten Kontrollkoloskopie ab.",
+    "evidenz": "Statement; EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 119,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Nachsorge",
+      "Kontrollkoloskopie",
+      "Intervall"
+    ]
+  },
+  {
+    "id": "krk_4_1_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "4.1",
+    "kapitel": "Vorsorge / Früherkennung",
+    "unterkapitel": "Vorsorge-Alter",
+    "thema": "KRK-Vorsorge",
+    "statement": "Eine Darmkrebs-Vorsorge soll laut S3-LL Personen mit durchschnittlichem Risiko ab dem 50. Lebensjahr empfohlen werden; eine OBERE Altersbegrenzung kann bei steigender Lebenserwartung nicht generell gegeben werden.",
+    "answer": true,
+    "explanation": "Empf. 4.1 (EK, modifiziert 2025). US-Simulation: Beginn mit 45 statt 50 → <10 % zusätzlicher Lebensjahre, aber >10 % mehr Untersuchungen. Nach 75. Lj individuelle Abwägung (Lebenserwartung, Komorbidität, vorherige Koloskopien).",
+    "leitlinie_wortlaut": "Eine Darmkrebs-Vorsorge/-Früherkennung soll Personen mit durchschnittlichem Risiko ab dem Alter von 50 Jahren empfohlen werden. Eine obere Altersbegrenzung für die Darmkrebs-Vorsorge/-Früherkennung kann bei steigender Lebenserwartung nicht gegeben werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 45,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Vorsorge",
+      "Altersgrenze",
+      "Screening"
+    ]
+  },
+  {
+    "id": "krk_4_2_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "4.2",
+    "kapitel": "Vorsorge / Früherkennung",
+    "unterkapitel": "Wirksame Vorsorgeverfahren",
+    "thema": "KRK-Vorsorge",
+    "statement": "Als wirksame Verfahren für die Darmkrebs-Vorsorge gelten laut S3-LL: Koloskopie alle 10 Jahre, Sigmoidoskopie alle 5 Jahre und immunologischer Stuhltest (iFOBT) alle 1-2 Jahre.",
+    "answer": true,
+    "explanation": "Statement 4.2 (LoE 3b, modifiziert 2025). NordICC-Studie: einmalige Koloskopie → 18 % relative KRK-Risikoreduktion nach 10J (ITS-Analyse). Bei Beobachtungsstudien Risikoreduktion deutlich höher. gFOBT in DE durch iFOBT abgelöst.",
+    "leitlinie_wortlaut": "Wirksame Verfahren für die Darmkrebs-Vorsorge/-Früherkennung sind: Koloskopie alle 10 Jahre oder Sigmoidoskopie alle 5 Jahre oder immunologischer Test auf okkultes Blut im Stuhl (iFOBT) alle 1-2 Jahre.",
+    "evidenz": "Statement; LoE 3b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 47,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Koloskopie",
+      "iFOBT",
+      "Sigmoidoskopie",
+      "Screening"
+    ]
+  },
+  {
+    "id": "krk_9_20b_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.20b",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "TNT-Optionen mit W&W",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Bei cT2N0/1-Tumoren des mittleren oder unteren Rektumdrittels mit mrCRM-/EMVI- ist laut S3-LL eine totale neoadjuvante Therapie (TNT) mit nachfolgender Watch-and-Wait-Strategie eine zulässige Behandlungsalternative.",
+    "answer": true,
+    "explanation": "Empf. 9.20: TNT mit W&W oder lokaler Exzision bei (nahezu) klinischer Komplettremission ist eine der gleichwertigen Optionen — nicht jedoch bei cT2N0 (TNT erst ab cT2N1).",
+    "leitlinie_wortlaut": "Radiochemotherapie + Brachytherapie oder totale neoadjuvante Therapie (nicht bei cT2N0) mit Watch and Wait / lokaler Exzision bei Nachweis von (nahezu) klinischer Komplettremission.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 201,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "TNT",
+      "Watch-and-Wait",
+      "Organerhalt"
+    ]
+  },
+  {
+    "id": "krk_5_6_a",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.6",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "Polyposis-Verdacht Multipanel",
+    "thema": "Polyposis",
+    "statement": "Bei Verdacht auf eine monogen erbliche Polyposis sollte laut der neuen Empf. 5.6 eine genetische Keimbahn-Diagnostik mittels Multigen-Panel-Analyse angeboten werden — unter Einschluss aller Gene, die für den kolorektalen Phänotyp und relevante Differentialdiagnosen in Betracht zu ziehen sind.",
+    "answer": true,
+    "explanation": "Empf. 5.6 (EK, neu 2025). Breite Überlappungen zwischen klinischen Polyposis-Subtypen (FAP, MAP, SPS, Peutz-Jeghers, JPS, PTEN-Hamartom). Multipanel deckt APC, MUTYH, POLD1/POLE, STK11, PTEN, SMAD4, BMPR1A u.a. ab.",
+    "leitlinie_wortlaut": "Allen Patienten mit Verdacht auf eine monogen erbliche Polyposis soll eine genetische Keimbahn-Diagnostik angeboten werden (Multigen-Panel-Analysen).",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 62,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Polyposis",
+      "Multigen-Panel",
+      "Keimbahn"
+    ]
+  },
+  {
+    "id": "krk_9_20_c",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.20",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Behandlungsoptionen cT2N0/1",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Eine neoadjuvante Systemtherapie (FOLFOX/CAPOX) ohne RT/RChT gefolgt von obligater TAR/TME ist laut S3-LL auch bei einem cT2N0-Tumor des unteren Rektumdrittels eine zulässige Behandlungsoption.",
+    "answer": false,
+    "explanation": "Empf. 9.20: NeoAdj. Systemtherapie ohne RT NUR bei cT2N1, cT3N0/1 (mit Abstand zur mesorektalen Faszie >3 mm, sphinktererhaltend operabel). Bei cT2N0 nicht zugelassen — dort primäre TAR oder RT-basierte Optionen.",
+    "leitlinie_wortlaut": "Neoadjuvante Systemtherapie (FOLFOX/CAPOX) gefolgt von obligater TAR/TME (nur bei cT2N1, cT3N0/1, Abstand zur mesorektalen Faszie > 3 mm, sphinktererhaltend operabel).",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 201,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "FOLFOX",
+      "cT2N0",
+      "PROSPECT"
+    ]
+  },
+  {
+    "id": "krk_9_27_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "9.27",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Chemotherapie in neoadj. RChT",
+    "thema": "Rektum neoadjuvant",
+    "statement": "Eine neoadjuvante Radiochemotherapie beim Rektumkarzinom muss laut S3-LL zwingend Oxaliplatin enthalten, um das krankheitsfreie Überleben zu verbessern.",
+    "answer": false,
+    "explanation": "Empf. 9.27: RChT soll Capecitabin oder infusionales 5-FU enthalten. Oxaliplatin kein Standard — kann bei jüngeren Pat. (<60J) erwogen werden (CAO/ARO/AIO-04 zeigte DFS-Vorteil, PETACC-6 nicht). Erhöht Diarrhoe-Rate.",
+    "leitlinie_wortlaut": "Die neoadjuvante Radiochemotherapie soll orales Capecitabin oder infusionales 5-Fluorouracil beinhalten.",
+    "evidenz": "Grad A; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 214,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Capecitabin",
+      "Oxaliplatin",
+      "RChT"
+    ]
+  },
+  {
+    "id": "krk_5_13_c",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.13",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "Lynch-Vorsorge MSH6/PMS2",
+    "thema": "Lynch-Vorsorge",
+    "statement": "Die koloskopische Vorsorge bei MSH6- und PMS2-Anlageträgern sollte laut S3-LL bereits ab dem 18.-20. Lebensjahr begonnen werden, da das Risiko für ein KRK ähnlich hoch ist wie bei MLH1/MSH2.",
+    "answer": false,
+    "explanation": "Empf. 5.13: MSH6/PMS2 = niedrigeres Risiko (kumulativ KRK <70J: MSH6 ~20 %, PMS2 noch niedriger; MLH1 46 %, MSH2 35 %). Daher Beginn 30-35 J (nicht 18-20).",
+    "leitlinie_wortlaut": "Bei MLH1/MSH2 sollte zwischen dem 20.-25. Lebensjahr, bei MSH6/PMS2 zwischen dem 30.-35. Lebensjahr begonnen werden.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 66,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Lynch",
+      "MSH6",
+      "PMS2",
+      "Vorsorge"
+    ]
+  },
+  {
+    "id": "krk_5_22_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.22",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "FAP-Vorsorge Beginn",
+    "thema": "FAP-Vorsorge",
+    "statement": "Die ÖGD-Überwachung bei FAP-Patienten sollte laut S3-LL erst ab dem 35.-45. Lebensjahr begonnen werden, da das Duodenalkarzinom-Risiko vor dem 30. Lebensjahr vernachlässigbar gering ist.",
+    "answer": false,
+    "explanation": "Empf. 5.22: Beginn zwischen 18. und 25. Lebensjahr. Begründung: Duodenalpolypose-Prävalenz bei Erst-ÖGD oft >30 %, davon 10 % bereits fortgeschritten. Seltene CA-Fälle bereits <2 % bei erster Endoskopie.",
+    "leitlinie_wortlaut": "Die Überwachung des oberen Gastrointestinaltraktes sollte zwischen dem 18. und 25. Lebensjahr begonnen werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 75,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "FAP",
+      "ÖGD",
+      "Spigelman"
+    ]
+  },
+  {
+    "id": "krk_5_27_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.27",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "FAP-Schilddrüse",
+    "thema": "FAP-Vorsorge",
+    "statement": "Das Risiko für ein papilläres Schilddrüsenkarzinom ist bei FAP-Patienten laut S3-LL nicht relevant erhöht; ein Schilddrüsen-Screening wird daher nicht empfohlen.",
+    "answer": false,
+    "explanation": "Empf. 5.27 (neu 2025): Schilddrüsen-CA-Prävalenz bei FAP ~2,6 % (Spanne 1,5-12 %), v.a. jung+weiblich. Ultraschall-Screening kann ab 15 J alle 1-4 Jahre erfolgen. Auch Desmoid-Risiko erhöht.",
+    "leitlinie_wortlaut": "Es besteht auch ein erhöhtes Risiko für ein papilläres Schilddrüsenkarzinom. Ein Screening mittels Ultraschalls kann alle 1-4 Jahre bei FAP-Patienten ab dem 15. Lebensjahr erfolgen.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 80,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "FAP",
+      "Schilddrüsenkarzinom",
+      "Screening"
+    ]
+  },
+  {
+    "id": "krk_5_30_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "5.30",
+    "kapitel": "Risikogruppen / Hereditäres KRK",
+    "unterkapitel": "SPS-Polypektomie",
+    "thema": "SPS",
+    "statement": "Bei serratiertem Polyposis-Syndrom (SPS) sollen laut S3-LL alle Polypen unabhängig von Größe und Dysplasie endoskopisch entfernt werden.",
+    "answer": false,
+    "explanation": "Empf. 5.30 (neu 2025): Polypen ≥5 mm sowie Polypen mit makroskopischem Dysplasie-Verdacht entfernen. Sehr kleine hyperplastische Polypen <5 mm ohne Dysplasie müssen nicht reseziert werden.",
+    "leitlinie_wortlaut": "Bei einem serratierten Polyposis-Syndrom (SPS) sollten endoskopisch alle Polypen ≥ 5 mm und alle Polypen mit dem makroskopischen Verdacht auf eine Dysplasie entfernt werden.",
+    "evidenz": "EK (neu 2025)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 82,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "SPS",
+      "Polypektomie",
+      "Größe"
+    ]
+  },
+  {
+    "id": "krk_4_2_b",
+    "leitlinie": {
+      "name": "S3-LL Kolorektales Karzinom",
+      "version": "3.2",
+      "datum": "März 2026",
+      "awmf": "021-007OL"
+    },
+    "empfehlung_nr": "4.2",
+    "kapitel": "Vorsorge / Früherkennung",
+    "unterkapitel": "Wirksame Verfahren",
+    "thema": "KRK-Vorsorge",
+    "statement": "Laut S3-LL Statement 4.2 wird die MR-Kolonographie auf gleicher Stufe wie die Koloskopie als wirksames Verfahren für die KRK-Vorsorge in der asymptomatischen Bevölkerung empfohlen.",
+    "answer": false,
+    "explanation": "Statement 4.2: Wirksam nur Koloskopie (10J), Sigmoidoskopie (5J), iFOBT (1-2J). MR-Kolonographie und CT-Kolonographie sind separat besprochene Verfahren, NICHT als wirksame Vorsorge-Standards empfohlen.",
+    "leitlinie_wortlaut": "Wirksame Verfahren für die Darmkrebs-Vorsorge/-Früherkennung sind: Koloskopie alle 10 Jahre oder Sigmoidoskopie alle 5 Jahre oder immunologischer Test auf okkultes Blut im Stuhl (iFOBT) alle 1-2 Jahre.",
+    "evidenz": "Statement; LoE 3b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 47,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "MRC",
+      "CTC",
+      "Koloskopie",
+      "iFOBT"
+    ]
   }
 ]
