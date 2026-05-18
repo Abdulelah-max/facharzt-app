@@ -170,6 +170,70 @@
   .dash-actions button.primary { background: var(--accent); color: white; }
   .dash-actions button[disabled] { opacity: .5; cursor: default; }
 
+  /* Analytics */
+  .ana-section {
+    background: var(--bg-card); border: 1px solid var(--line);
+    border-radius: 14px; padding: 16px 18px; margin-bottom: 14px;
+  }
+  .ana-section h2 {
+    font-family: var(--sans); font-size: 11px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: .8px; color: var(--ink-muted);
+    margin: 0 0 12px;
+  }
+  .err-list { list-style: none; padding: 0; margin: 0; }
+  .err-row {
+    display: grid; grid-template-columns: 64px 1fr auto;
+    gap: 10px; padding: 10px 0; border-bottom: 1px solid var(--line);
+    align-items: start; font-size: 13px;
+  }
+  .err-row:last-child { border-bottom: none; }
+  .err-row .nr {
+    background: var(--accent-soft); color: var(--accent);
+    padding: 3px 8px; border-radius: 6px; font-size: 11px; font-weight: 600;
+    text-align: center; font-variant-numeric: tabular-nums; height: fit-content;
+  }
+  .err-row .stmt {
+    font-family: var(--serif); color: var(--ink); line-height: 1.4;
+    cursor: pointer;
+  }
+  .err-row .stmt:hover { color: var(--accent); }
+  .err-row .ratio {
+    color: var(--wrong); font-variant-numeric: tabular-nums; font-size: 12px; text-align: right;
+  }
+  .err-empty { color: var(--ink-muted); padding: 20px; text-align: center; font-size: 13px; }
+
+  .chart { width: 100%; display: block; font-family: var(--sans); }
+  .chart text { fill: var(--ink-soft); }
+  .chart .label-name { fill: var(--ink); font-size: 12px; }
+  .chart .label-muted { fill: var(--ink-muted); font-size: 10px; }
+  .chart .axis { fill: var(--ink-muted); font-size: 10px; }
+  .chart .grid-bg { fill: var(--bg-elev); }
+  .chart .ampel-good { fill: var(--correct); }
+  .chart .ampel-mid { fill: #c19a3a; }
+  .chart .ampel-bad { fill: var(--wrong); }
+  .chart .ampel-none { fill: var(--bg-elev); stroke: var(--line); stroke-width: 0.5; }
+
+  .chart-legend {
+    display: flex; gap: 16px; font-size: 11px;
+    color: var(--ink-muted); margin-top: 8px; justify-content: center;
+  }
+  .chart-legend span::before {
+    content: ''; display: inline-block; width: 10px; height: 10px;
+    border-radius: 2px; margin-right: 6px; vertical-align: middle;
+  }
+  .chart-legend .leg-good::before { background: var(--correct); }
+  .chart-legend .leg-mid::before { background: #c19a3a; }
+  .chart-legend .leg-bad::before { background: var(--wrong); }
+
+  .ana-actions { display: grid; gap: 10px; margin-top: 8px; }
+  .ana-actions button {
+    min-height: 48px; border-radius: 12px;
+    border: 1px solid var(--accent); background: var(--accent);
+    color: white; font-family: var(--sans); font-size: 15px;
+    font-weight: 500; cursor: pointer;
+  }
+  .ana-actions button[disabled] { opacity: .5; cursor: default; background: transparent; color: var(--accent); }
+
   @media (max-width: 480px) {
     .statement { font-size: 17px; }
     .card { padding: 16px; border-radius: 14px; }
@@ -208,6 +272,44 @@
     <div class="dash-actions">
       <button class="primary" id="d-resume">Weiter wo ich aufgehört habe</button>
       <button id="d-analytics" disabled>Analytik (folgt im nächsten Update)</button>
+    </div>
+  </div>
+
+  <div id="view-analytics" class="view" hidden>
+    <div class="topbar">
+      <button id="a-back">← Übersicht</button>
+    </div>
+
+    <div class="ana-section">
+      <h2>Häufigste Fehler (Top 10)</h2>
+      <ul class="err-list" id="a-errors"></ul>
+    </div>
+
+    <div class="ana-section">
+      <h2>Erfolgsrate nach Thema</h2>
+      <div id="a-topics"></div>
+      <div class="chart-legend">
+        <span class="leg-bad">&lt; 60 %</span>
+        <span class="leg-mid">60–80 %</span>
+        <span class="leg-good">≥ 80 %</span>
+      </div>
+    </div>
+
+    <div class="ana-section">
+      <h2>Zeitverlauf (letzte 30 Tage)</h2>
+      <div id="a-timeline"></div>
+      <div class="chart-legend">
+        <span class="leg-bad">Tag &lt; 60 %</span>
+        <span class="leg-mid">60–80 %</span>
+        <span class="leg-good">≥ 80 %</span>
+      </div>
+    </div>
+
+    <div class="ana-section">
+      <h2>Üben</h2>
+      <div class="ana-actions">
+        <button id="a-practice-weak">Schwächen üben (alle falsch beantworteten)</button>
+      </div>
     </div>
   </div>
 
@@ -276,7 +378,9 @@ function todayStr() {
 function showView(name) {
   $('#view-dashboard').hidden = name !== 'dashboard';
   $('#view-quiz').hidden = name !== 'quiz';
+  $('#view-analytics').hidden = name !== 'analytics';
   if (name === 'dashboard') renderDashboard();
+  if (name === 'analytics') renderAnalytics();
 }
 
 async function init() {
@@ -306,6 +410,23 @@ async function init() {
   });
   $('#q-back').addEventListener('click', () => {
     showView('dashboard');
+  });
+  $('#d-analytics').disabled = false;
+  $('#d-analytics').textContent = 'Analytik öffnen';
+  $('#d-analytics').addEventListener('click', () => showView('analytics'));
+  $('#a-back').addEventListener('click', () => showView('dashboard'));
+  $('#a-practice-weak').addEventListener('click', () => {
+    // Switch filter to "Nur falsche wiederholen" and start quiz
+    $('#f-chapter').value = '';
+    $('#f-topic').value = '';
+    $('#f-difficulty').value = '';
+    $('#f-mode').value = 'wrong';
+    showView('quiz');
+    // force fresh queue
+    const key = getFilterKey();
+    delete state.progress[key];
+    saveState();
+    applyFilters();
   });
 
   // Quiz filter + reset handlers
@@ -396,6 +517,203 @@ function renderDashboard() {
   } else {
     btn.textContent = 'Quiz starten';
   }
+}
+
+function renderAnalytics() {
+  renderTopErrors();
+  renderTopicChart();
+  renderTimelineChart();
+  // disable practice button if no errors
+  const hasErrors = Object.values(state.answers).some(a => a.wrong > 0);
+  $('#a-practice-weak').disabled = !hasErrors;
+}
+
+function getTopErrors(limit) {
+  const rows = [];
+  for (const [id, a] of Object.entries(state.answers)) {
+    if (!a.wrong) continue;
+    const q = questions.find(qq => qq.id === id);
+    if (!q) continue;
+    const total = (a.correct || 0) + (a.wrong || 0);
+    rows.push({
+      id, q,
+      wrong: a.wrong, correct: a.correct || 0, total,
+      ratio: a.wrong / total,
+      lastAt: a.lastAnsweredAt
+    });
+  }
+  rows.sort((x, y) => y.ratio - x.ratio || y.wrong - x.wrong);
+  return rows.slice(0, limit);
+}
+
+function renderTopErrors() {
+  const errs = getTopErrors(10);
+  const el = $('#a-errors');
+  if (!errs.length) {
+    el.innerHTML = '<li class="err-empty">Noch keine falsch beantworteten Fragen.</li>';
+    return;
+  }
+  el.innerHTML = errs.map(e => `
+    <li class="err-row" data-id="${esc(e.id)}">
+      <span class="nr">${esc(e.q.empfehlung_nr || '?')}</span>
+      <div class="stmt" data-jump="${esc(e.id)}">${esc(e.q.statement)}</div>
+      <span class="ratio">${e.wrong}×&nbsp;falsch<br><span style="color:var(--ink-muted)">/${e.total}&nbsp;Versuche</span></span>
+    </li>
+  `).join('');
+  el.querySelectorAll('[data-jump]').forEach(node => {
+    node.addEventListener('click', () => jumpToQuestion(node.dataset.jump));
+  });
+}
+
+function jumpToQuestion(qid) {
+  $('#f-chapter').value = '';
+  $('#f-topic').value = '';
+  $('#f-difficulty').value = '';
+  $('#f-mode').value = 'all';
+  showView('quiz');
+  const key = getFilterKey();
+  // build queue with this id first, rest after
+  const q = questions.find(x => x.id === qid);
+  if (!q) return;
+  const rest = questions.filter(x => x.id !== qid);
+  shuffle(rest);
+  queue = [q, ...rest];
+  idx = 0;
+  answered = 0;
+  correctCount = 0;
+  state.progress[key] = {
+    queue: queue.map(q => q.id),
+    currentIndex: 0,
+    lastSeen: new Date().toISOString()
+  };
+  state.lastFilter = { chapter: '', topic: '', difficulty: '', mode: 'all' };
+  currentKey = key;
+  saveState();
+  updateScore();
+  renderCurrent();
+}
+
+function getTopicStats() {
+  const stats = {};
+  for (const [id, a] of Object.entries(state.answers)) {
+    const q = questions.find(qq => qq.id === id);
+    if (!q || !q.thema) continue;
+    const total = (a.correct || 0) + (a.wrong || 0);
+    if (!total) continue;
+    if (!stats[q.thema]) stats[q.thema] = { answered: 0, correct: 0 };
+    stats[q.thema].answered += total;
+    stats[q.thema].correct += (a.correct || 0);
+  }
+  return Object.entries(stats).map(([thema, s]) => ({
+    thema, answered: s.answered, correct: s.correct,
+    rate: s.correct / s.answered
+  })).sort((a, b) => a.rate - b.rate);
+}
+
+function ampelClass(rate) {
+  if (rate >= 0.8) return 'ampel-good';
+  if (rate >= 0.6) return 'ampel-mid';
+  return 'ampel-bad';
+}
+
+function renderTopicChart() {
+  const data = getTopicStats();
+  const el = $('#a-topics');
+  if (!data.length) {
+    el.innerHTML = '<div class="err-empty">Noch keine Themen-Daten — beantworte ein paar Fragen.</div>';
+    return;
+  }
+  const rowH = 28;
+  const labelW = 140;
+  const barW = 280;
+  const numW = 90;
+  const W = labelW + barW + numW + 20;
+  const H = data.length * rowH + 10;
+
+  const rows = data.map((d, i) => {
+    const y = i * rowH + 6;
+    const w = Math.max(2, barW * d.rate);
+    const pct = Math.round(d.rate * 100);
+    const cls = ampelClass(d.rate);
+    return `
+      <g transform="translate(0, ${y})">
+        <text class="label-name" x="${labelW - 8}" y="14" text-anchor="end">${esc(d.thema)}</text>
+        <rect class="grid-bg" x="${labelW}" y="3" width="${barW}" height="14" rx="3" />
+        <rect class="${cls}" x="${labelW}" y="3" width="${w}" height="14" rx="3" />
+        <text class="label-muted" x="${labelW + barW + 8}" y="14">${pct}% · ${d.correct}/${d.answered}</text>
+      </g>`;
+  }).join('');
+
+  el.innerHTML = `<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">${rows}</svg>`;
+}
+
+function getTimeSeries(days) {
+  const out = [];
+  const d = new Date();
+  d.setHours(0, 0, 0, 0);
+  for (let i = days - 1; i >= 0; i--) {
+    const day = new Date(d);
+    day.setDate(d.getDate() - i);
+    const key = day.toISOString().slice(0, 10);
+    const s = state.sessions[key] || { answered: 0, correct: 0 };
+    out.push({
+      key,
+      day: day.getDate(), month: day.getMonth() + 1,
+      answered: s.answered, correct: s.correct,
+      rate: s.answered ? s.correct / s.answered : null
+    });
+  }
+  return out;
+}
+
+function renderTimelineChart() {
+  const data = getTimeSeries(30);
+  const el = $('#a-timeline');
+  const hasData = data.some(d => d.answered > 0);
+  if (!hasData) {
+    el.innerHTML = '<div class="err-empty">Keine Daten in den letzten 30 Tagen.</div>';
+    return;
+  }
+  const W = 600, H = 180;
+  const padL = 30, padR = 10, padT = 10, padB = 36;
+  const innerW = W - padL - padR;
+  const innerH = H - padT - padB;
+  const slot = innerW / data.length;
+  const barW = Math.max(4, slot - 2);
+  const maxCount = Math.max(...data.map(d => d.answered), 1);
+
+  const bars = data.map((d, i) => {
+    const x = padL + i * slot;
+    if (d.answered === 0) {
+      return `<rect class="ampel-none" x="${x + (slot-barW)/2}" y="${padT + innerH - 4}" width="${barW}" height="4" rx="1.5" />`;
+    }
+    const h = (innerH - 4) * d.answered / maxCount;
+    const y = padT + innerH - h;
+    return `<rect class="${ampelClass(d.rate)}" x="${x + (slot-barW)/2}" y="${y}" width="${barW}" height="${h}" rx="1.5">
+      <title>${d.day}.${d.month}: ${d.answered} Fragen, ${Math.round(d.rate*100)}%</title></rect>`;
+  }).join('');
+
+  // X axis labels — every 5th day
+  const xLabels = data.map((d, i) => {
+    if (i % 5 !== 0 && i !== data.length - 1) return '';
+    const x = padL + i * slot + slot / 2;
+    return `<text class="axis" x="${x}" y="${H - 18}" text-anchor="middle">${d.day}.${d.month}</text>`;
+  }).join('');
+
+  // Y axis: max + 0
+  const yLabels = `
+    <text class="axis" x="${padL - 4}" y="${padT + 6}" text-anchor="end">${maxCount}</text>
+    <text class="axis" x="${padL - 4}" y="${padT + innerH}" text-anchor="end">0</text>
+    <line x1="${padL}" y1="${padT + innerH}" x2="${W - padR}" y2="${padT + innerH}" stroke="var(--line)" stroke-width="1" />
+  `;
+
+  // Title for the bars below: total this period
+  const totalAnswered = data.reduce((s, d) => s + d.answered, 0);
+  const totalCorrect = data.reduce((s, d) => s + d.correct, 0);
+  const totalRate = totalAnswered ? Math.round(totalCorrect / totalAnswered * 100) : 0;
+  const subtitle = `<text class="axis" x="${W - padR}" y="${H - 4}" text-anchor="end">30-Tage-Total: ${totalAnswered} Fragen · ${totalRate} % richtig</text>`;
+
+  el.innerHTML = `<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">${yLabels}${bars}${xLabels}${subtitle}</svg>`;
 }
 
 function computeStreak() {
