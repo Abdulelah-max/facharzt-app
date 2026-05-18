@@ -108,42 +108,135 @@
   .empty h2 { font-family: var(--serif); color: var(--ink); font-weight: 600; }
   .empty code { background: var(--bg-elev); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
 
+  .view[hidden] { display: none !important; }
+  .topbar { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  .topbar button {
+    background: none; border: none; font-family: var(--sans);
+    font-size: 14px; color: var(--accent); cursor: pointer; padding: 6px 0;
+  }
+
+  .dash-section {
+    background: var(--bg-card); border: 1px solid var(--line);
+    border-radius: 14px; padding: 16px 18px; margin-bottom: 14px;
+  }
+  .dash-section h2 {
+    font-family: var(--sans); font-size: 11px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: .8px; color: var(--ink-muted);
+    margin: 0 0 12px;
+  }
+
+  .progress-bar {
+    height: 14px; background: var(--bg-elev); border-radius: 7px; overflow: hidden;
+  }
+  .progress-bar .fill {
+    height: 100%; background: var(--accent); transition: width .4s ease;
+  }
+  .progress-label {
+    font-size: 14px; color: var(--ink); margin-top: 8px;
+    font-variant-numeric: tabular-nums;
+  }
+  .progress-label .pct { color: var(--ink-muted); margin-left: 8px; }
+
+  .ll-list { list-style: none; padding: 0; margin: 0; }
+  .ll-row {
+    display: grid; grid-template-columns: 100px 1fr 86px;
+    gap: 10px; align-items: center; padding: 7px 0;
+    font-size: 13px; color: var(--ink-soft);
+  }
+  .ll-name { font-weight: 500; color: var(--ink); }
+  .ll-bar { height: 8px; background: var(--bg-elev); border-radius: 4px; overflow: hidden; }
+  .ll-bar .fill { height: 100%; background: var(--accent); }
+  .ll-row.done .ll-bar .fill { background: var(--correct); }
+  .ll-num { font-variant-numeric: tabular-nums; text-align: right; font-size: 12px; }
+
+  .today-stats {
+    display: flex; gap: 24px; align-items: baseline;
+    font-size: 14px; color: var(--ink-soft);
+  }
+  .today-stats .big {
+    font-family: var(--serif); font-size: 26px; font-weight: 600;
+    color: var(--ink); margin-right: 4px;
+  }
+  .streak { color: var(--ink-muted); font-size: 13px; margin-top: 10px; }
+  .streak.active { color: var(--accent); font-weight: 500; }
+
+  .dash-actions { display: grid; gap: 10px; margin-top: 16px; }
+  .dash-actions button {
+    min-height: 52px; border-radius: 12px;
+    border: 1px solid var(--accent); background: transparent;
+    color: var(--accent); font-family: var(--sans); font-size: 15px;
+    font-weight: 500; cursor: pointer;
+  }
+  .dash-actions button.primary { background: var(--accent); color: white; }
+  .dash-actions button[disabled] { opacity: .5; cursor: default; }
+
   @media (max-width: 480px) {
     .statement { font-size: 17px; }
     .card { padding: 16px; border-radius: 14px; }
+    .ll-row { grid-template-columns: 88px 1fr 80px; gap: 8px; font-size: 12px; }
   }
 </style>
 </head>
 <body>
 <header>
-  <h1>Facharzt KRK</h1>
-  <div class="sub">S3-Leitlinie Kolorektales Karzinom · v3.2 · März 2026</div>
+  <h1>Facharzt</h1>
+  <div class="sub">Viszeralchirurgie · Prüfungsvorbereitung</div>
 </header>
 
 <main id="app">
-  <div id="filters" class="filters" hidden>
-    <select id="f-chapter" class="filter"><option value="">Alle Kapitel</option></select>
-    <select id="f-topic" class="filter"><option value="">Alle Themen</option></select>
-    <select id="f-difficulty" class="filter">
-      <option value="">Alle Schwierigkeiten</option>
-      <option value="leicht">leicht</option>
-      <option value="mittel">mittel</option>
-      <option value="schwer">schwer</option>
-    </select>
-    <select id="f-mode" class="filter">
-      <option value="all">Alle Fragen</option>
-      <option value="wrong">Nur falsche wiederholen</option>
-      <option value="new">Nur neue</option>
-    </select>
+  <div id="view-dashboard" class="view">
+    <div class="dash-section">
+      <h2>Gesamt-Fortschritt</h2>
+      <div class="progress-bar"><div class="fill" id="d-total-fill" style="width:0%"></div></div>
+      <div class="progress-label"><span id="d-total-text">0 / 0</span><span class="pct" id="d-total-pct">(0 %)</span></div>
+    </div>
+
+    <div class="dash-section">
+      <h2>Pro Leitlinie</h2>
+      <ul class="ll-list" id="d-leitlinien"></ul>
+    </div>
+
+    <div class="dash-section">
+      <h2>Heute</h2>
+      <div class="today-stats">
+        <div><span class="big" id="d-today-count">0</span>Fragen</div>
+        <div><span class="big" id="d-today-rate">–</span>richtig</div>
+      </div>
+      <div class="streak" id="d-streak">Streak: 0 Tage</div>
+    </div>
+
+    <div class="dash-actions">
+      <button class="primary" id="d-resume">Weiter wo ich aufgehört habe</button>
+      <button id="d-analytics" disabled>Analytik (folgt im nächsten Update)</button>
+    </div>
   </div>
 
-  <div id="scorebar" class="scorebar" hidden>
-    <span><span class="num" id="s-progress">0/0</span> · richtig <span class="num" id="s-correct">0</span></span>
-    <span class="grow"></span>
-    <button class="linkish" id="s-reset">Reset</button>
+  <div id="view-quiz" class="view" hidden>
+    <div class="topbar">
+      <button id="q-back">← Übersicht</button>
+    </div>
+    <div id="filters" class="filters">
+      <select id="f-chapter" class="filter"><option value="">Alle Kapitel</option></select>
+      <select id="f-topic" class="filter"><option value="">Alle Themen</option></select>
+      <select id="f-difficulty" class="filter">
+        <option value="">Alle Schwierigkeiten</option>
+        <option value="leicht">leicht</option>
+        <option value="mittel">mittel</option>
+        <option value="schwer">schwer</option>
+      </select>
+      <select id="f-mode" class="filter">
+        <option value="all">Alle Fragen</option>
+        <option value="wrong">Nur falsche wiederholen</option>
+        <option value="new">Nur neue</option>
+      </select>
+    </div>
+    <div id="scorebar" class="scorebar">
+      <span><span class="num" id="s-progress">0/0</span> · richtig <span class="num" id="s-correct">0</span></span>
+      <span class="grow"></span>
+      <button class="linkish" id="s-reset">Von vorne</button>
+    </div>
+    <div id="quiz"></div>
   </div>
-
-  <div id="quiz"></div>
 </main>
 
 <script>
@@ -152,6 +245,7 @@ const STORAGE_KEY = 'facharzt-krk';
 const STORAGE_VERSION = 2;
 
 let questions = [];
+let meta = null;
 let queue = [];
 let idx = 0;
 let answered = 0;
@@ -179,17 +273,23 @@ function todayStr() {
   return new Date().toISOString().slice(0, 10);
 }
 
+function showView(name) {
+  $('#view-dashboard').hidden = name !== 'dashboard';
+  $('#view-quiz').hidden = name !== 'quiz';
+  if (name === 'dashboard') renderDashboard();
+}
+
 async function init() {
-  try {
-    const res = await fetch('data/questions.json', { cache: 'no-store' });
-    questions = await res.json();
-  } catch {
-    questions = [];
-  }
+  // load meta + questions in parallel
+  const [qRes, mRes] = await Promise.allSettled([
+    fetch('data/questions.json', { cache: 'no-store' }),
+    fetch('data/meta.json', { cache: 'no-store' }),
+  ]);
+  try { questions = await qRes.value.json(); } catch { questions = []; }
+  try { meta = await mRes.value.json(); } catch { meta = null; }
+
   if (!questions.length) { renderEmpty(); return; }
 
-  $('#filters').hidden = false;
-  $('#scorebar').hidden = false;
   buildFilters();
 
   if (state.lastFilter) {
@@ -199,8 +299,16 @@ async function init() {
     $('#f-mode').value = state.lastFilter.mode || 'all';
   }
 
-  applyFilters();
+  // Dashboard navigation
+  $('#d-resume').addEventListener('click', () => {
+    showView('quiz');
+    applyFilters();
+  });
+  $('#q-back').addEventListener('click', () => {
+    showView('dashboard');
+  });
 
+  // Quiz filter + reset handlers
   $('#f-chapter').addEventListener('change', applyFilters);
   $('#f-topic').addEventListener('change', applyFilters);
   $('#f-difficulty').addEventListener('change', applyFilters);
@@ -212,6 +320,102 @@ async function init() {
       applyFilters();
     }
   });
+
+  showView('dashboard');
+}
+
+function renderDashboard() {
+  if (!meta) {
+    // fallback: just show questions count
+    const total = questions.length;
+    $('#d-total-text').textContent = `${total} / ${total}`;
+    $('#d-total-pct').textContent = '(100 %)';
+    $('#d-total-fill').style.width = '100%';
+    $('#d-leitlinien').innerHTML = '<li class="ll-row"><span class="ll-name">Alle</span><div class="ll-bar"><div class="fill" style="width:100%"></div></div><span class="ll-num">' + total + '</span></li>';
+  } else {
+    // count questions per leitlinie.id
+    const counts = {};
+    for (const q of questions) {
+      const id = q.leitlinie?.id || 'unknown';
+      counts[id] = (counts[id] || 0) + 1;
+    }
+    const totalCurrent = questions.length;
+    const totalPlanned = meta.gesamt_geplant || meta.leitlinien.reduce((s, l) => s + l.geplante_fragen, 0);
+    const totalPct = Math.min(100, Math.round(totalCurrent / totalPlanned * 100));
+    $('#d-total-text').textContent = `${totalCurrent} / ${totalPlanned}`;
+    $('#d-total-pct').textContent = `(${totalPct} %)`;
+    $('#d-total-fill').style.width = totalPct + '%';
+
+    // Per Leitlinie
+    const rows = meta.leitlinien.map(l => {
+      const cur = counts[l.id] || 0;
+      const planned = l.geplante_fragen;
+      const pct = planned ? Math.min(100, Math.round(cur / planned * 100)) : 0;
+      const done = cur >= planned;
+      const mark = done ? '✓' : '';
+      return `
+        <li class="ll-row${done ? ' done' : ''}">
+          <span class="ll-name">${esc(l.kurz)}</span>
+          <div class="ll-bar"><div class="fill" style="width:${pct}%"></div></div>
+          <span class="ll-num">${cur} / ${planned} ${mark}</span>
+        </li>`;
+    }).join('');
+    $('#d-leitlinien').innerHTML = rows;
+  }
+
+  // Heute
+  const today = state.sessions[todayStr()] || { answered: 0, correct: 0 };
+  $('#d-today-count').textContent = today.answered;
+  if (today.answered > 0) {
+    const rate = Math.round(today.correct / today.answered * 100);
+    $('#d-today-rate').textContent = rate + ' %';
+  } else {
+    $('#d-today-rate').textContent = '–';
+  }
+
+  // Streak: count consecutive days backwards with ≥10 questions, including today if ≥10
+  const streak = computeStreak();
+  const el = $('#d-streak');
+  if (streak > 0) {
+    el.textContent = `Streak: ${streak} ${streak === 1 ? 'Tag' : 'Tage'}`;
+    el.classList.add('active');
+  } else {
+    el.textContent = 'Streak: 0 Tage (mind. 10 Fragen/Tag)';
+    el.classList.remove('active');
+  }
+
+  // Resume button label dynamics
+  const lastKey = state.lastFilter ?
+    [state.lastFilter.chapter, state.lastFilter.topic, state.lastFilter.difficulty, state.lastFilter.mode].join('|') :
+    null;
+  const lastProg = lastKey ? state.progress[lastKey] : null;
+  const btn = $('#d-resume');
+  if (lastProg && lastProg.queue && lastProg.queue.length > (lastProg.currentIndex || 0)) {
+    const remaining = lastProg.queue.length - (lastProg.currentIndex || 0);
+    btn.textContent = `Weiter — noch ${remaining} Frage${remaining === 1 ? '' : 'n'}`;
+  } else {
+    btn.textContent = 'Quiz starten';
+  }
+}
+
+function computeStreak() {
+  let streak = 0;
+  const d = new Date();
+  d.setHours(0, 0, 0, 0);
+  while (true) {
+    const key = d.toISOString().slice(0, 10);
+    const s = state.sessions[key];
+    if (s && s.answered >= 10) {
+      streak++;
+      d.setDate(d.getDate() - 1);
+    } else if (streak === 0 && key === todayStr()) {
+      // Today not yet ≥10 — break, streak stays 0 unless yesterday already counts
+      d.setDate(d.getDate() - 1);
+    } else {
+      break;
+    }
+  }
+  return streak;
 }
 
 function buildFilters() {

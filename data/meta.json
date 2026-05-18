@@ -1,0 +1,68 @@
+{
+  "leitlinien": [
+    {
+      "id": "krk",
+      "awmf": "021-007OL",
+      "kurz": "KRK",
+      "name": "Kolorektales Karzinom",
+      "version": "S3 v3.2",
+      "geplante_fragen": 150,
+      "status": "in_arbeit"
+    },
+    {
+      "id": "pankreas",
+      "awmf": "032-010OL",
+      "kurz": "Pankreas",
+      "name": "Pankreaskarzinom",
+      "version": "S3",
+      "geplante_fragen": 95,
+      "status": "geplant"
+    },
+    {
+      "id": "magen",
+      "awmf": "032-009OL",
+      "kurz": "Magen",
+      "name": "Magenkarzinom",
+      "version": "S3",
+      "geplante_fragen": 85,
+      "status": "geplant"
+    },
+    {
+      "id": "oesophagus",
+      "awmf": "021-023OL",
+      "kurz": "Ösophagus",
+      "name": "Ösophaguskarzinom",
+      "version": "S3",
+      "geplante_fragen": 70,
+      "status": "geplant"
+    },
+    {
+      "id": "hernien",
+      "awmf": "088-001",
+      "kurz": "Hernien",
+      "name": "Leistenhernie & Narbenhernie",
+      "version": "AWMF",
+      "geplante_fragen": 65,
+      "status": "geplant"
+    },
+    {
+      "id": "schilddruese",
+      "awmf": "088-002",
+      "kurz": "Schilddrüse",
+      "name": "Schilddrüsenkarzinom",
+      "version": "S3",
+      "geplante_fragen": 45,
+      "status": "geplant"
+    },
+    {
+      "id": "mesenteriale_ischaemie",
+      "awmf": "088-003",
+      "kurz": "Mes. Ischämie",
+      "name": "Mesenteriale Ischämie",
+      "version": "AWMF",
+      "geplante_fragen": 20,
+      "status": "geplant"
+    }
+  ],
+  "gesamt_geplant": 530
+}
