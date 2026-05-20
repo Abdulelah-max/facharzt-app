@@ -4192,5 +4192,803 @@
       "anti-EGFR",
       "linksseitig"
     ]
+  },
+  {
+    "id": "pank_6_1_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.1",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Einleitung",
+    "thema": "Grundlagen",
+    "statement": "Die chirurgische Therapie ist laut S3-LL Pankreaskarzinom das einzige potenziell kurative Therapieverfahren beim Pankreaskarzinom.",
+    "answer": true,
+    "explanation": "Statement 6.1 (LoE 1b). RCT zeigte Unterlegenheit der RChT vs. OP bei resektablem PDAC (medianes OS 22,6 vs. 10,8 Monate, vorzeitig abgebrochen).",
+    "leitlinie_wortlaut": "Die chirurgische Therapie ist das einzige potenziell kurative Therapieverfahren beim Pankreaskarzinom.",
+    "evidenz": "Statement; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 95,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Grundlagen",
+      "kurativ",
+      "OP"
+    ]
+  },
+  {
+    "id": "pank_6_2_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.2",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Therapieindikation",
+    "thema": "Grundlagen",
+    "statement": "Eine ausschließliche Chemo-, Radio- oder Radiochemotherapie soll laut S3-LL bei Patienten mit als resektabel eingeschätztem Pankreaskarzinom nicht durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.2 (EK). Bei resektablem PDAC: keine alleinige Konservativ-Therapie — durch alleinige Chemo/RT keine Heilung erzielbar.",
+    "leitlinie_wortlaut": "Eine ausschließliche Chemotherapie, Radiochemotherapie oder Strahlentherapie sollen bei Patienten mit als resektabel eingeschätztem Pankreaskarzinom nicht durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 95,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "resektabel",
+      "Chemo",
+      "RChT"
+    ]
+  },
+  {
+    "id": "pank_6_3_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.3",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Mindestfallzahlen",
+    "thema": "Zentrum",
+    "statement": "Operative Eingriffe beim Pankreaskarzinom sollten laut S3-LL in einem Krankenhaus mit mindestens 20 Pankreasresektionen pro Jahr durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.3 (Grad B, LoE 4). Krautz-Studie: Mortalität in Kliniken mit 5 OPs/Jahr 11,5 %, mit 134 OPs/Jahr 6,5 %. Niederlande nach Zentralisierung 2011: Mortalität von 8 % auf <4 %. Failure-to-rescue-Effekt entscheidend.",
+    "leitlinie_wortlaut": "Operative Eingriffe beim Pankreaskarzinom sollten in einem Krankenhaus mit ≥ 20 Pankreasresektionen (OPS-Codes: 5-524 und 5-525) pro Jahr durchgeführt werden.",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 96,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Zentrum",
+      "Volume",
+      "failure-to-rescue"
+    ]
+  },
+  {
+    "id": "pank_6_4_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.4",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Präop. Galleableitung",
+    "thema": "Präop. Vorbereitung",
+    "statement": "Eine präoperative Galleableitung mittels Stent sollte laut S3-LL routinemäßig vor jeder Pankreasresektion bei Cholestase erfolgen, um die postoperative Morbidität zu senken.",
+    "answer": false,
+    "explanation": "Empf. 6.4 (Grad B, LoE 1b): Galleableitung NUR bei Cholangitis. Sonst zeitnahe OP ohne Stent. Studienlage: schwere Komplikationen mit Stent 74 %, ohne Stent 39 %.",
+    "leitlinie_wortlaut": "Eine präoperative Galleableitung mittels Stent sollte nur erfolgen, wenn eine Cholangitis vorliegt.",
+    "evidenz": "Grad B; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 98,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Galleableitung",
+      "Stent",
+      "Cholangitis"
+    ]
+  },
+  {
+    "id": "pank_6_5_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.5",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Präop. Galleableitung — Verzögerung",
+    "thema": "Präop. Vorbereitung",
+    "statement": "Eine präoperative Galleableitung kann laut S3-LL erfolgen, wenn die Operation nicht zeitnah nach Diagnosestellung erfolgen kann (z. B. bei geplanter neoadjuvanter Therapie).",
+    "answer": true,
+    "explanation": "Empf. 6.5 (EK). Expertenkonsens: 'zeitnah' = max. 2 Wochen. Bei neoadj. Therapie oder OP-Verzögerung → Stent zur Cholestase-Behandlung.",
+    "leitlinie_wortlaut": "Eine präoperative Galleableitung kann erfolgen, wenn die Operation nicht zeitnah nach Diagnosestellung erfolgen kann.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 98,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Galleableitung",
+      "neoadjuvant"
+    ]
+  },
+  {
+    "id": "pank_6_6_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.6",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Diagnostische Laparoskopie",
+    "thema": "Präop. Diagnostik",
+    "statement": "Eine diagnostische Laparoskopie sollte laut S3-LL bei resektablem Pankreaskarzinom bei Tumoren >3 cm, Aszites oder CA 19-9 >500 U/ml (ohne Cholestase) eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.6 (Grad B, LoE 1, modif 2024). IAP-Konsensus + ABC-Kriterien. Detektiert in bis zu 20 % okkulte Peritoneal- oder Leber-Mikrometastasen. Komplikationsrate 0-0,8 %.",
+    "leitlinie_wortlaut": "Eine diagnostische Laparoskopie sollte bei resektablen Pankreaskarzinomen bei folgenden Konstellationen eingesetzt werden: großer Tumor (>3 cm) oder Aszites oder CA 19-9 > 500 U/ml (ohne Cholestase).",
+    "evidenz": "Grad B; LoE 1 (modif 2024)",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 99,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Laparoskopie",
+      "Staging",
+      "CA 19-9"
+    ]
+  },
+  {
+    "id": "pank_6_7_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.7",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "OP-Zielsetzung",
+    "thema": "OP",
+    "statement": "Ziel der Resektion beim Pankreaskarzinom soll laut S3-LL die Resektion im Gesunden (R0) sein.",
+    "answer": true,
+    "explanation": "Empf. 6.7 (Grad A, LoE 1a). R0 = höchste Chance auf Langzeitüberleben. R1-Raten in der Literatur sehr variabel (16-75 %) wegen uneinheitlicher Definition — daher CRM-Konzept (Empf. 6.35) zur Standardisierung.",
+    "leitlinie_wortlaut": "Ziel der Resektion beim Pankreaskarzinom soll die Resektion im Gesunden sein (R0).",
+    "evidenz": "Grad A; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 100,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "R0",
+      "Resektion"
+    ]
+  },
+  {
+    "id": "pank_6_8_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.8",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Lebensalter",
+    "thema": "Resektabilität (C)",
+    "statement": "Das Lebensalter per se sollte laut S3-LL kein Kriterium darstellen, von der Resektion eines Pankreaskarzinoms abzusehen.",
+    "answer": true,
+    "explanation": "Empf. 6.8 (Grad B). Ab 80 J: erhöhte 30-Tage-Mortalität (OR 2,22) — Risikoabwägung mit Komorbiditäten. Patienten ≥ 75 J: keine erhöhte Pankreasfistel-Rate. IAP: ECOG 0-2 resezierbar.",
+    "leitlinie_wortlaut": "Das Lebensalter per se sollte kein Kriterium darstellen, von der Resektion eines Pankreaskarzinoms abzusehen.",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 102,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Alter",
+      "Resektabilität"
+    ]
+  },
+  {
+    "id": "pank_6_9_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.9",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "ECOG-Performance-Status",
+    "thema": "Resektabilität (C)",
+    "statement": "Ein ECOG-Performance-Status ≥ 2 stellt laut S3-LL eine relative Kontraindikation für die Resektion eines Pankreaskarzinoms dar.",
+    "answer": true,
+    "explanation": "Empf. 6.9 (Grad B). Bei ECOG ≥ 2: signifikant kürzeres OS. IAP-Kriterien: ECOG 0-2 resezierbar (insbes. wenn tumorbedingt reduziert), ECOG ≥ 3 nicht.",
+    "leitlinie_wortlaut": "Ein ECOG-Performance-Status ≥ 2 sollte eine relative Kontraindikation für die Resektion eines Pankreaskarzinoms darstellen.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 102,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "ECOG",
+      "Performance-Status"
+    ]
+  },
+  {
+    "id": "pank_6_10_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.10",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Tumorbiologische Kriterien",
+    "thema": "Resektabilität (B)",
+    "statement": "Bioptisch gesicherte LK-Metastasen (N+) oder ein präoperativer CA 19-9 > 500 U/ml (ohne Cholestase) sollten laut S3-LL zu einer Einstufung des Pankreaskarzinoms als grenzwertig resektabel führen — auch wenn anatomisch primär resektabel.",
+    "answer": true,
+    "explanation": "Empf. 6.10 (Grad B, neu 2021). IAP-Konsensus 2017 ABC-Kriterien: B = biological. Anatomisch resektabler Tumor mit CA 19-9 >500 oder PET-positiven LK → BR-Typ B.",
+    "leitlinie_wortlaut": "Bioptisch gesicherte oder im PET-CT nachgewiesene Lymphknotenmetastasen und/oder präoperative CA 19-9 Werte > 500 U/ml (ohne klinisch relevante Cholestase) sollten zu einer Einstufung des Pankreaskarzinoms als grenzwertig resektabel führen, unabhängig von seiner konditionellen und/oder anatomisch bestehenden Resektabilität.",
+    "evidenz": "Grad B (neu 2021)",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 104,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "borderline resectable",
+      "CA 19-9",
+      "ABC-Kriterien"
+    ]
+  },
+  {
+    "id": "pank_6_11_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.11",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "NCCN-Kriterien CT-Staging",
+    "thema": "Resektabilität (A)",
+    "statement": "Die anatomische Resektabilität des Pankreaskarzinoms sollte laut S3-LL anhand einer kontrastmittelverstärkten CT in Anlehnung an die NCCN-Kriterien in 4 Kategorien eingeteilt werden: resektabel, grenzwertig resektabel, lokal fortgeschritten, metastasiert.",
+    "answer": true,
+    "explanation": "Empf. 6.11 (EK). Pankreas-Protokoll-CT entscheidend. Strukturierte Befundung nach NCCN-Vorlage. ISGPS 2014. Befund: arterieller + venöser Tumorkontakt mit Gradangabe.",
+    "leitlinie_wortlaut": "Die anatomische Resektabilität des Pankreaskarzinoms in Bezug auf lokoregionäre Gefäßbeteiligung sollte anhand einer kontrastmittelverstärkten CT-Bildgebung in Anlehnung an die NCCN-Kriterien eingeschätzt werden. Anhand dieser Kriterien sollte eine Einteilung in resektabel, grenzwertig resektabel, lokal fortgeschritten und metastasiert erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 106,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "NCCN",
+      "CT-Staging",
+      "borderline"
+    ]
+  },
+  {
+    "id": "pank_6_12_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.12",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Nachbarorgan-Infiltration",
+    "thema": "Resektabilität (A)",
+    "statement": "Eine Tumorinfiltration des Pankreaskarzinoms in Nachbarorgane (Magen, Duodenum, Kolon, Nebenniere) mit in der Bildgebung resektablem Befund sollte laut S3-LL keine Kontraindikation für eine onkologische Tumorchirurgie darstellen — sofern eine R0-Resektion erzielt werden kann.",
+    "answer": true,
+    "explanation": "Empf. 6.12 (EK). En-bloc-Resektion möglich, Prognose nach R0 identisch zu Standard-Resektion.",
+    "leitlinie_wortlaut": "Eine Tumorinfiltration des exokrinen Pankreaskarzinoms in Nachbarorgane (Magen, Duodenum, Kolon, Nebenniere) mit in der Bildgebung resektablem Befund sollte keine Kontraindikation für eine onkologische Tumorchirurgie darstellen, sofern eine R0-Resektion erzielt werden kann.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 106,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Nachbarorgan",
+      "multivisz.",
+      "en bloc"
+    ]
+  },
+  {
+    "id": "pank_6_14_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.14",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Arterielle Infiltration",
+    "thema": "Gefäßresektion",
+    "statement": "Bei Tumorinfiltration des Truncus coeliacus und/oder der A. mesenterica superior über 180° der Zirkumferenz, bei Infiltration der Aorta oder bei Infiltration der A. hepatica communis mit Kontakt zur A. hepatica propria oder zum Truncus coeliacus sollte laut S3-LL KEINE primäre Resektion erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 6.14 (Grad B). Primär nicht resektabel = lokal fortgeschritten (LA). Sekundäre Resektabilität nach FOLFIRINOX-induktiver Therapie in Pankreaszentrum prüfen.",
+    "leitlinie_wortlaut": "Bei Tumorinfiltration des Truncus coeliacus und/oder der Arteria mesenterica superior über 180° der Zirkumferenz, bei Infiltration der Aorta oder bei Infiltration der A. hepatica communis mit Kontakt zu A. hepatica propria oder Truncus coeliacus sollte keine primäre Resektion des Tumors durchgeführt werden.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 107,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Truncus coeliacus",
+      "AMS",
+      "180°"
+    ]
+  },
+  {
+    "id": "pank_6_15_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.15",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Venöse Infiltration",
+    "thema": "Gefäßresektion",
+    "statement": "Bei Infiltration der V. portae ≤ 180° kann laut S3-LL eine Resektion des Primärtumors mit Rekonstruktion der Portalvene erfolgen. Bei Infiltration der V. mesenterica superior und ihrer Zuflüsse OHNE Rekonstruktionsmöglichkeit sollte hingegen keine Resektion durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.15 (Grad B/0). PV/SMV-Resektion mit Rekonstruktion etabliert (Pfortader-Patch oder Interponat). Bei distalen Ästen (Jejunal-Truncus) ohne Anschlussmöglichkeit → keine Resektion.",
+    "leitlinie_wortlaut": "Bei Infiltration der V. portae ≤ 180° kann eine Resektion des Primärtumors mit Rekonstruktion der Portalvene erfolgen. Bei Infiltration der V. mesenterica superior und ihrer Zuflüsse ohne Rekonstruktionsmöglichkeit sollte keine Resektion des Primärtumors durchgeführt werden.",
+    "evidenz": "Grad B/0",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 107,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Pfortader",
+      "V. mes. sup.",
+      "Gefäßrekonstruktion"
+    ]
+  },
+  {
+    "id": "pank_6_13_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.13",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Sekundäre Resektabilität",
+    "thema": "Zentrum",
+    "statement": "Bei Feststellung einer primären Irresektabilität und Frage nach sekundärer Resektabilität nach Chemo- oder Radiochemotherapie sollte der Patient laut S3-LL in einer Klinik mit hoher Pankreaschirurgie-Fallzahl zur Zweitmeinung vorgestellt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.13 (EK). Bildgebende Tumorausdehnung wird besonders nach neoadj. Therapie häufig überschätzt (desmoplastische Reaktion). Sekundäre Resektabilität nach FOLFIRINOX möglich.",
+    "leitlinie_wortlaut": "Bei Feststellung einer primären Irresektabiltät und der Frage nach sekundärer Resektabilität nach Chemo- oder einer Kombination aus Chemo- und Strahlentherapie sollte der Patient in einer Klinik mit einer hohen Fallzahl zur Einholung einer Zweitmeinung vorgestellt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 107,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Zweitmeinung",
+      "sekundäre Resektabilität"
+    ]
+  },
+  {
+    "id": "pank_6_16_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.16",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Primärtumor bei Fernmets",
+    "thema": "Mets",
+    "statement": "Bei nachgewiesenen Fernmetastasen eines duktalen Pankreaskarzinoms soll laut S3-LL die primäre Resektion des Primärtumors nicht durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.16 (Grad A, LoE 3). Kein Überlebensvorteil bei diffuser Metastasierung. Ausnahmen: paraaortale LK Station 16 — Resektion korreliert mit längerem OS; A. hepatica-LK ist KEINE KI.",
+    "leitlinie_wortlaut": "Die primäre Resektion des Tumors soll bei nachgewiesenen Fernmetastasen eines duktalen Pankreaskarzinoms (Organmetastasen, Peritonealkarzinose, als Fernmetastasen geltende Lymphknotenmetastasen) nicht durchgeführt werden.",
+    "evidenz": "Grad A; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 113,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Fernmets",
+      "Primärtumor",
+      "Palliation"
+    ]
+  },
+  {
+    "id": "pank_6_17_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.17",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Oligometastasen synchron",
+    "thema": "Mets",
+    "statement": "Die Resektion des Primärtumors bei synchronen Oligometastasen (≤ 3) eines Pankreaskarzinoms ist laut S3-LL ein klinischer Standard außerhalb von Studien.",
+    "answer": false,
+    "explanation": "Empf. 6.17 (Grad A, neu 2021): Resektion bei Oligomets nur im Rahmen prospektiver Studien als Teil eines multimodalen Konzeptes. Hinweise auf bessere Prognose nach FOLFIRINOX-induktiver Therapie, aber kein klinischer Standard.",
+    "leitlinie_wortlaut": "Die Resektion des Primärtumors bei nachgewiesenen synchronen Oligometastasen (≤ 3) eines Pankreaskarzinoms soll nur im Rahmen von prospektiven Studien als Teil einer multimodalen Behandlungsstrategie erfolgen.",
+    "evidenz": "Grad A; LoE 3 (neu 2021)",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 113,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Oligometastasen",
+      "synchron",
+      "Studien"
+    ]
+  },
+  {
+    "id": "pank_6_18_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.18",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Intraop. entdeckte Mets",
+    "thema": "Mets",
+    "statement": "Im Falle erst intraoperativ nachweisbarer Fernmetastasen sollte laut S3-LL eine Resektion des Primärtumors trotz gegebener Resektabilität unterbleiben.",
+    "answer": true,
+    "explanation": "Empf. 6.18 (Grad B, LoE 3). Synchrone Resektion bei intraop. entdeckten Mets ohne prospektive Daten. Bei Stenosesymptomatik / Ileus ggf. palliativer Bypass / Stoma.",
+    "leitlinie_wortlaut": "Im Falle von erst intraoperativ nachweisbaren Fernmetastasen sollte eine Resektion des Primärtumors trotz gegebener Resektabilität unterbleiben.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 115,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "intraop. Mets",
+      "Bypass"
+    ]
+  },
+  {
+    "id": "pank_6_20_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.20",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Antibiotikaprophylaxe",
+    "thema": "Perioperativ",
+    "statement": "Eine perioperative Antibiotikaprophylaxe sollte laut S3-LL bei Pankreasresektion immer erfolgen — unabhängig vom Stent-Status.",
+    "answer": true,
+    "explanation": "Empf. 6.20+6.21 (Grad B, LoE 1b). Reduziert postop. Wundinfektionen 10-25 %. Nicht postop. fortsetzen (Resistenz-Risiko). Bei Cholangitis: therapeutische AB.",
+    "leitlinie_wortlaut": "Eine perioperative Antibiotikaprophylaxe sollte immer erfolgen. Hierbei sollte die Prophylaxe unterschiedslos zwischen Patienten mit und ohne Stent erfolgen.",
+    "evidenz": "Grad B; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 117,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Antibiotika",
+      "Prophylaxe"
+    ]
+  },
+  {
+    "id": "pank_6_22_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.22",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Somatostatin-Prophylaxe",
+    "thema": "Perioperativ",
+    "statement": "Eine perioperative Somatostatin-Prophylaxe soll laut S3-LL regelhaft bei jedem Patienten nach Pankreasresektion zur Reduktion der Pankreasfistel-Rate eingesetzt werden.",
+    "answer": false,
+    "explanation": "Empf. 6.22 (Grad C, LoE 1a): KANN-Empfehlung, nicht regelhaft. Meta-Analyse zeigt Reduktion biochem. Fisteln, aber keine Letalitäts-Reduktion. Uneinheitliche Fistel-Definitionen erschweren Studien-Vergleich.",
+    "leitlinie_wortlaut": "Die Reduktion der pankreasspezifischen Komplikationen durch eine perioperative Somatostatinprophylaxe ist durch eine Metaanalyse randomisierter Studien belegt. Die perioperative Prophylaxe mit Somatostatin kann jedoch nicht regelhaft bei allen Patienten empfohlen werden.",
+    "evidenz": "Grad C; LoE 1a",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 118,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Somatostatin",
+      "Pankreasfistel"
+    ]
+  },
+  {
+    "id": "pank_6_23_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.23",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Intraop. Peritoneallavage",
+    "thema": "OP",
+    "statement": "Aus der intraoperativen Peritoneallavage mit Zytologie ergeben sich laut S3-LL keine therapeutischen Konsequenzen — es besteht keine Indikation dazu.",
+    "answer": true,
+    "explanation": "Statement 6.23 (LoE 3). Positive Zytologie hat keine etablierte prognostische Relevanz bzw. ist kein Ausschlusskriterium für radikale Resektion → Verfahren nicht indiziert.",
+    "leitlinie_wortlaut": "Aus der intraoperativen Peritoneallavage ergeben sich keine therapeutischen Konsequenzen. Deshalb besteht keine Indikation zur intraoperativen Peritoneallavage mit Zytologiegewinnung.",
+    "evidenz": "Statement; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 119,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Peritoneallavage",
+      "Zytologie"
+    ]
+  },
+  {
+    "id": "pank_6_25_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.25",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Klassischer Whipple vs. pp-Whipple",
+    "thema": "OP-Verfahren",
+    "statement": "Bezüglich postoperativer Komplikationen, Letalität und onkologischer Langzeitergebnisse sind laut S3-LL die pyloruserhaltende (pp-Whipple) und die klassische magenresezierende partielle Duodenopankreatektomie als gleichwertig zu betrachten.",
+    "answer": true,
+    "explanation": "Statement 6.25 (LoE 1a). Meta-Analyse: keine relevanten Unterschiede in Mortalität, Morbidität, Überleben. Wahl je nach Patient/Operateur.",
+    "leitlinie_wortlaut": "Bezüglich der postoperativen Komplikationen und Letalität sowie der onkologischen Langzeitergebnisse sind beide Verfahren (pyloruserhaltende vs. magenresezierende partielle Duodenopankreatektomie) gleichwertig.",
+    "evidenz": "Statement; LoE 1a",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 120,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Whipple",
+      "pp-Whipple"
+    ]
+  },
+  {
+    "id": "pank_6_26_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.26",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "OP-Verfahren Schwanz",
+    "thema": "OP-Verfahren",
+    "statement": "Beim Karzinom des Pankreasschwanzes ist laut S3-LL die Pankreaslinksresektion (mit Splenektomie) das operative Standardverfahren.",
+    "answer": true,
+    "explanation": "Statement 6.26 (LoE 1a). Erweiterung bei Nachbarorgan-Infiltration. Distale Pankreatektomie meist mit Splenektomie wegen Lymphabfluss entlang Milzhilus.",
+    "leitlinie_wortlaut": "Das operative Verfahren bei Karzinomen des Pankreasschwanzes ist die Pankreaslinksresektion.",
+    "evidenz": "Statement; LoE 1a",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 120,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Pankreasschwanz",
+      "Linksresektion",
+      "Splenektomie"
+    ]
+  },
+  {
+    "id": "pank_6_27_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.27",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "OP-Verfahren Korpus",
+    "thema": "OP-Verfahren",
+    "statement": "Pankreaskorpuskarzinome machen laut S3-LL im Allgemeinen eine subtotale Pankreaslinksresektion oder ggf. eine totale Duodenopankreatektomie erforderlich.",
+    "answer": true,
+    "explanation": "Statement 6.27 (LoE 3). Korpus = zwischen linkem Rand der V. mes. sup. und linkem Rand der Aorta. Häufig totale Pankreatektomie bei zentralerem Sitz mit ausgedehnter Infiltration.",
+    "leitlinie_wortlaut": "Pankreaskorpuskarzinome machen im Allgemeinen eine subtotale Pankreaslinksresektion oder ggf. eine totale Duodenopankreatektomie erforderlich.",
+    "evidenz": "Statement; LoE 3",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 120,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Korpus",
+      "totale Pankreatektomie"
+    ]
+  },
+  {
+    "id": "pank_6_28_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.28",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Standardisierte LAD",
+    "thema": "Lymphadenektomie",
+    "statement": "Bei der Resektion eines Pankreaskarzinoms soll laut S3-LL eine standardisierte Lymphadenektomie durchgeführt werden — eine ERWEITERTE Lymphadenektomie soll NICHT durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.28 (Grad A, modif 2024). Cochrane: erweiterte LAD ohne Überlebensvorteil, aber längere OP-Zeit, mehr Blutverlust, Chylusfisteln, schlechtere Lebensqualität durch Plexus-Mitnahme (Diarrhoen).",
+    "leitlinie_wortlaut": "Bei der Resektion eines Pankreaskarzinoms soll eine standardisierte Lymphadenektomie durchgeführt werden. Eine erweiterte Lymphadenektomie soll nicht durchgeführt werden.",
+    "evidenz": "Grad A; LoE 1 (modif 2024)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 121,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Lymphadenektomie",
+      "erweiterte LAD",
+      "Plexus"
+    ]
+  },
+  {
+    "id": "pank_6_29_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.29",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Mindestens 12 LK",
+    "thema": "Lymphadenektomie",
+    "statement": "Bei der Resektion eines Pankreaskarzinoms sollen laut S3-LL mindestens 12 regionäre Lymphknoten entfernt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.29 (EK). Analog TNM: für korrekte pN0-Klassifikation. LNR ≥ 0,2 prognostisch ungünstig.",
+    "leitlinie_wortlaut": "Bei Resektion eines Pankreaskarzinoms sollen mindestens 12 regionäre Lymphknoten entfernt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 123,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Lymphknoten",
+      "12 LK",
+      "TNM"
+    ]
+  },
+  {
+    "id": "pank_6_31_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.31",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Distale Pankreatektomie minimalinvasiv",
+    "thema": "Minimalinvasiv",
+    "statement": "Die distale Pankreatektomie kann laut S3-LL bei Pankreaskarzinomen ohne Gefäßbeteiligung durch erfahrene Chirurgen laparoskopisch oder robotisch durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.31 (Grad B). LEOPARD-Studie: schnellere funktionelle Genesung (4 vs. 6 Tage). Bei Pankreatoduodenektomie laparoskopisch/robotisch noch keine Standard-Empfehlung — nur in Studien/Zentren.",
+    "leitlinie_wortlaut": "Die distale Pankreatektomie kann bei Pankreaskarzinomen ohne Gefäßbeteiligung durch erfahrene Chirurgen laparoskopisch oder robotisch durchgeführt werden.",
+    "evidenz": "Grad B; LoE 2/4 (modif 2021)",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 124,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "minimalinvasiv",
+      "LEOPARD",
+      "Robotik"
+    ]
+  },
+  {
+    "id": "pank_6_35_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.35",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "CRM-Konzept",
+    "thema": "Pathologie",
+    "statement": "Beim Pankreaskarzinom-Resektat sollte laut S3-LL das CRM-Konzept (Circumferential Resection Margin) analog zum Rektumkarzinom angewandt werden — inklusive Angabe des Abstands der Tumorzellen zum Resektionsrand in mm.",
+    "answer": true,
+    "explanation": "Empf. 6.35 (EK). CRM+ (R0 narrow) bei Abstand <1 mm. R0 wide bei >1 mm. Beste Prognose ab >1,5 mm Abstand. Wegen desmoplastischer Reaktion + diskontinuierlichem Wachstum besondere Aufarbeitung nötig.",
+    "leitlinie_wortlaut": "Um der besonderen Situation duktaler Adenokarzinome gerecht zu werden, sollte das sogenannte Konzept des zirkumferentiellen Resektionsrands (CRM-Konzept) in Analogie zum Rektumkarzinom angewandt werden, inklusive der Angabe des Abstands des Tumors zum Resektionsrand in mm.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 131,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "CRM",
+      "R0 narrow",
+      "desmoplastisch"
+    ]
+  },
+  {
+    "id": "pank_6_3_b",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.3",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Pankreaschirurgie Volume — falsch",
+    "thema": "Zentrum",
+    "statement": "Laut S3-LL Pankreaskarzinom gilt eine Klinik mit ≥ 10 Pankreasresektionen pro Jahr bereits als ausreichend für die Versorgung von Pankreaskarzinompatienten.",
+    "answer": false,
+    "explanation": "Empf. 6.3: Mindestmenge ≥ 20 OPs/Jahr. Krautz: Mortalität in Kliniken mit 5 OPs/Jahr 11,5 %, mit 134 OPs/Jahr 6,5 %. Niederlande nach Zentralisierung 2011 (≥20/Jahr): Mortalität halbiert.",
+    "leitlinie_wortlaut": "Operative Eingriffe beim Pankreaskarzinom sollten in einem Krankenhaus mit ≥ 20 Pankreasresektionen pro Jahr durchgeführt werden.",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 96,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Zentrum",
+      "Mindestmenge"
+    ]
+  },
+  {
+    "id": "pank_6_14_b",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "6.14",
+    "kapitel": "Chirurgische Therapie",
+    "unterkapitel": "Arterielle Infiltration — falsch",
+    "thema": "Gefäßresektion",
+    "statement": "Eine Tumorinfiltration des Truncus coeliacus oder der A. mesenterica superior bis 270° sollte laut S3-LL nicht als Kontraindikation für eine primäre Resektion betrachtet werden, solange eine arterielle Rekonstruktion möglich ist.",
+    "answer": false,
+    "explanation": "Empf. 6.14: bei arterieller Infiltration >180° KEINE primäre Resektion. Lokal fortgeschritten → induktive Chemo (FOLFIRINOX). Sekundäre Resektabilität in Pankreaszentrum prüfen.",
+    "leitlinie_wortlaut": "Bei Tumorinfiltration des Truncus coeliacus und/oder der Arteria mesenterica superior über 180° der Zirkumferenz sollte keine primäre Resektion des Tumors durchgeführt werden.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 107,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Arterien",
+      "180°",
+      "primäre Resektion"
+    ]
   }
 ]
