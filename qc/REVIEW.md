@@ -3,10 +3,65 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 445 Fragen · ✅ 445 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 485 Fragen · ✅ 485 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
+
+## hcc · Biliäre Karzinome (CCA)  (13)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| hcc_4_14_a | 4.14 | 134 | R | ✅ | ☐ |
+| hcc_4_22_a | 4.22 | 143 | R | ✅ | ☐ |
+| hcc_4_25_a | 4.25 | 145 | R | ✅ | ☐ |
+| hcc_4_28_a | 4.28 | 146 | F | ✅ | ☐ |
+| hcc_4_33_a | 4.33 | 153 | R | ✅ | ☐ |
+| hcc_4_37_a | 4.37 | 158 | F | ✅ | ☐ |
+| hcc_4_3_a | 4.3 | 120 | R | ✅ | ☐ |
+| hcc_4_41_a | 4.41 | 161 | F | ✅ | ☐ |
+| hcc_4_44_a | 4.44 | 163 | F | ✅ | ☐ |
+| hcc_4_46_a | 4.46 | 165 | R | ✅ | ☐ |
+| hcc_4_5_a | 4.5 | 123 | F | ✅ | ☐ |
+| hcc_4_7_a | 4.7 | 124 | R | ✅ | ☐ |
+| hcc_4_8_a | 4.8 | 125 | R | ✅ | ☐ |
+
+## hcc · Hepatozelluläres Karzinom (HCC)  (23)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| hcc_3_11_a | 3.11 | 45 | R | ✅ | ☐ |
+| hcc_3_13_a | 3.13 | 46 | F | ✅ | ☐ |
+| hcc_3_14_a | 3.14 | 46 | R | ✅ | ☐ |
+| hcc_3_16_a | 3.16 | 50 | F | ✅ | ☐ |
+| hcc_3_22_a | 3.22 | 55 | F | ✅ | ☐ |
+| hcc_3_24_a | 3.24 | 57 | R | ✅ | ☐ |
+| hcc_3_28_a | 3.28 | 60 | R | ✅ | ☐ |
+| hcc_3_31_a | 3.31 | 61 | R | ✅ | ☐ |
+| hcc_3_33_a | 3.33 | 62 | R | ✅ | ☐ |
+| hcc_3_35_a | 3.35 | 66 | F | ✅ | ☐ |
+| hcc_3_38_a | 3.38 | 67 | R | ✅ | ☐ |
+| hcc_3_3_a | 3.3 | 36 | R | ✅ | ☐ |
+| hcc_3_43_a | 3.43 | 75 | R | ✅ | ☐ |
+| hcc_3_44_a | 3.44 | 76 | R | ✅ | ☐ |
+| hcc_3_46_a | 3.46 | 77 | R | ✅ | ☐ |
+| hcc_3_49_a | 3.49 | 79 | R | ✅ | ☐ |
+| hcc_3_50_a | 3.50 | 80 | F | ✅ | ☐ |
+| hcc_3_52_a | 3.52 | 81 | R | ✅ | ☐ |
+| hcc_3_54_a | 3.54 | 83 | F | ✅ | ☐ |
+| hcc_3_67_a | 3.67 | 99 | F | ✅ | ☐ |
+| hcc_3_70_a | 3.70 | 102 | F | ✅ | ☐ |
+| hcc_3_72_a | 3.72 | 107 | R | ✅ | ☐ |
+| hcc_3_8_a | 3.8 | 43 | R | ✅ | ☐ |
+
+## hcc · Supportiv / Palliativ  (4)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| hcc_5_1_a | 5.1 | 171 | R | ✅ | ☐ |
+| hcc_5_3_a | 5.3 | 172 | R | ✅ | ☐ |
+| hcc_5_5_a | 5.5 | 173 | R | ✅ | ☐ |
+| hcc_5_7_a | 5.7 | 174 | R | ✅ | ☐ |
 
 ## krk · Endoskopie und Polypenmanagement  (18)
 

@@ -44,9 +44,18 @@
       "version": "S3 v1.0",
       "geplante_fragen": 42,
       "status": "fertig"
+    },
+    {
+      "id": "hcc",
+      "awmf": "032-053OL",
+      "kurz": "HCC/biliär",
+      "name": "HCC & biliäre Karzinome",
+      "version": "S3 v5.2",
+      "geplante_fragen": 40,
+      "status": "fertig"
     }
   ],
-  "gesamt_geplant": 445,
+  "gesamt_geplant": 485,
   "nicht_aufgenommen": [
     {
       "id": "hernien",

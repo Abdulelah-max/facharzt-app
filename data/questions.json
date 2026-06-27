@@ -17787,5 +17787,1640 @@
         "schilddruese"
       ]
     }
+  },
+  {
+    "id": "hcc_3_8_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.8",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Alkohol",
+    "thema": "Prävention",
+    "statement": "Patienten mit chronischer Lebererkrankung sollen keinen Alkohol trinken.",
+    "answer": true,
+    "explanation": "EK 3.8. Alkoholkarenz senkt Progression von Leberschaden und HCC-Risiko.",
+    "leitlinie_wortlaut": "Patienten mit chronischen Lebererkrankungen sollen keinen Alkohol trinken. Regelmäßiger Alkoholkonsum stellt einen wichtigen Kofaktor für die Entwicklung eines HCC dar. Patienten mit einer chronischen HCV-Infektion mit Leberzirrhose haben bei gleichzeitigem Alkoholkonsum ein deutlich höheres HCC-Risiko. In einer prospektiven Studie an 192 Patienten mit HCV-Zirrhose zeigte sich selbst bei leichtem bis moderatem Alkoholkonsum (median 15 g/Tag) verglichen mit einer Abstinenz eine kumulative 5-Jahres-HCC-Inzidenz von 23,8 % vs. 10,6 %. Für Patienten mit SVR lag die 5-Jahres-HCC-Inzidenz bei 2,0 % verglichen mit 21,7 % ohne SVR. Das niedrigste Risiko wiesen Patienten mit SVR und Abstinenz auf (0 %), gefolgt von Patienten mit SVR ohne Abstinenz (6,2 %). Bei Patienten ohne SVR und Abstinenz lag das Risiko bei 15,9 % und bei Patienten ohne SVR, die weiter Alkohol tranken bei 29,2 % . Bei Vorliegen einer MASH-Zirrhose und moderatem Alkoholkonsum (≤ 2 alkoholische Getränke/Tag oder 3-6 alkoholische Getränke am Wochenende; ab 10 g bei Frauen und 20 g bei Männern als Metabolische Dysfunktion-assoziierte steatotische Lebererkrankung mit erhöhtem Alkoholgebrauch auch MetALD bezeichnet ) steigt das HCC-Risiko ebenfalls erheblich (Faktor 3,6) . Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Unter Alkoholabstinenz wird bei Vorhandensein einer chronischen Lebererkrankung der Krankheitsverlauf und das Überleben günstig beeinflusst . Weitere Lebensstilmodifikationen zur HCC-Risikoreduktion beinhalten bei adipösen Patienten mit MASLD eine gewichtsreduzierende Ernährungsumstellung mit dem Ziel einer nachhaltigen Gewichtsreduktion, regelmäßige körperliche Aktivität sowie bei schwerer Adipositas (BMI ≥ 35) und Versagen einer Gewichtsreduktion die Diskussion bzgl. einer bariatrischen Operation. Medikamente zur Behandlung der MASLD oder MASH sind derzeit nicht zugelassen , . Tertiäre Prävention",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 43,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Alkohol",
+      "Lebererkrankung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_11_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.11",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Zirrhose",
+    "thema": "Früherkennung",
+    "statement": "Patienten mit Leberzirrhose im Stadium Child-Pugh A und B soll die Teilnahme an einer HCC-Früherkennung angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 3.11 (Grad A). Surveillance bei kompensierter/intermediärer Zirrhose.",
+    "leitlinie_wortlaut": "Patienten mit Leberzirrhose im Stadium Child-Pugh A und B soll die Teilnahme an einer HCC-Früherkennung angeboten werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 45,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Früherkennung",
+      "Zirrhose"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_13_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.13",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Intervall",
+    "thema": "Früherkennung",
+    "statement": "Im Rahmen der HCC-Früherkennung soll alle 12 Monate eine Ultraschalluntersuchung erfolgen.",
+    "answer": false,
+    "explanation": "Empf. 3.13 (Grad A): die Sonographie soll alle 6 MONATE erfolgen (nicht jährlich).",
+    "leitlinie_wortlaut": "Im Rahmen der HCC-Früherkennung soll alle 6 Monate eine Ultraschall- untersuchung der Leber durchgeführt werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 46,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Früherkennung",
+      "Sonographie",
+      "Intervall"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_14_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.14",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "AFP",
+    "thema": "Früherkennung",
+    "statement": "Die HCC-Früherkennung kann durch eine AFP-Bestimmung ergänzt werden.",
+    "answer": true,
+    "explanation": "Empf. 3.14 (Grad 0). AFP ergänzend, nicht als alleiniges Screening.",
+    "leitlinie_wortlaut": "Die Früherkennung kann durch eine AFP-Bestimmung ergänzt werden. ologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025",
+    "evidenz": "Grad 0",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 46,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "AFP",
+      "Früherkennung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_16_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.16",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Biopsie",
+    "thema": "Diagnostik",
+    "statement": "In der nicht-zirrhotischen Leber kann beim HCC-verdächtigen Herd auf eine bioptische Sicherung verzichtet werden.",
+    "answer": false,
+    "explanation": "EK 3.16: ohne Zirrhose SOLL eine bioptische Sicherung erfolgen (Bildgebung allein nicht ausreichend).",
+    "leitlinie_wortlaut": "In der nicht-zirrhotischen Leber soll eine bioptische Sicherung erfolgen. In der zirrhotischen Leber in der kurativen Situation bei unklarem Konstrastmittelverhalten oder in der palliativen Situation sollte ein bioptisches Verfahren eingesetzt werden. Die Leberbiopsie ist eine wichtige diagnostische Maßnahme zur Diagnosestellung des Hepatozellulären Karzinoms (Abbildung 1); in der nicht-zirrhotischen Leber ist die histologische Sicherung vor definitiven therapeutischen Maßnahmen obligat. Bei klinischen Studien sollte immer eine histologische Sicherung der Diagnose durchgeführt werden. Zudem ermöglicht die Biopsie die Begleitforschung im Rahmen klinischer Studien und kann im Einzelfall auch den Einschluss in entitäts- übergreifende (Biomarker-gesteuerte) klinische Studien ermöglichen. Die Histologiegewinnung mittels 16-18 Gauge Biopsienadel ist der Zytologie/Feinnadelaspiration vorzuziehen, da die diagnostisch verlässliche Typisierung hochdifferenzierter hepatozellulärer Tumoren den erhaltenen Gewebekontext erfordert und da nur so in diagnostisch kritischen Fällen ausreichend Gewebe für zusätzliche immunhistologische, molekularpathologische oder ggf. auch konsiliarische Untersuchungen zur Verfügung steht. In der zirrhotischen Leber ist die Eintrittswahrscheinlichkeit eines HCC gegenüber der nicht-zirrhotischen Leber deutlich erhöht, was jedoch auch für das intrahepatische Cholangiokarzinom gilt. Da die bildgebenden Eigenschaften der verschiedenen Subtypen des HCC und des intrahepatischen Cholangiokarzinoms signifikant überlappen, aber die differentialtherapeutischen Optionen sich erheblich unterscheiden, besteht die zunehmende Notwendigkeit einer sicheren Unterscheidung von HCC und iCCA. Die Komplikationsrate der Biopsie eines HCC ist gering und umfasst das Risiko einer Blutung und der sog. Stichkanalabsiedlung. Geringe, nicht behandlungsbedürftige Blutungen treten in etwa 3-4 % der Fälle auf, während transfusionsbedürftige Blutungen selten sind (0,5 %) . Metaanalysen haben gezeigt, dass Stichkanalabsiedlungen ebenfalls selten sind (2,7 %), typischerweise spät auftreten (im Mittel nach 17 Monaten) und in der Regel gut therapierbar sind , . Sie haben keinen negativen Einfluss auf das Überleben und den Erfolg der therapeutischen Maßnahmen , . Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Typisierung des Hepatozellulären Karzinoms",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 50,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Biopsie",
+      "nicht-zirrhotisch"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_22_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.22",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "KM-Dynamik",
+    "thema": "Diagnostik",
+    "statement": "In der zirrhotischen Leber ist zur Diagnose eines HCC immer eine bioptische Sicherung erforderlich.",
+    "answer": false,
+    "explanation": "Empf. 3.22 (Grad A): bei typischer KM-Dynamik (arterielle Hypervaskularisation + Wash-out) ist die Diagnose ohne Biopsie möglich.",
+    "leitlinie_wortlaut": "Bildgebend soll das HCC in der zirrhotischen Leber anhand seiner typischen Kontrastmitteldynamik mit arterieller Hypervaskularisation und Auswaschen in der portalvenösen und spätvenösen Phase im kontrastverstärkten MRT oder der Kontrastmittelsonographie (CEUS) diagnostiziert werden. Zur lokalen Ausbreitungsdiagnostik soll eine dynamische MRT erfolgen. 1: Neue Literatur: Chen 2022 (LoE 2) Fraquelli 2022 (LoE 1) Kim 2022 (LoE 1) Schellhaas 2021 (LoE 2) Schellhaas 2021 (LoE 2) Strobel 2021 (LoE 2) Van der Pol 2022 (LoE 1) Zhou 2022 (LoE 1) Di Martino et al. verglichen in einer prospektiven Studie die mehrphasigen CT mit der MRT unter Verwendung von dynamischen Sequenzen und dynamischen Sequenzen plus hepatobiliärer Phase. Hier weist die Kombination der dynamischen plus hepatobiliären Phasen in der MRT eine signifikant höhere Sensitivität und einen ologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 seren negativen Vorhersagewert als die mehrphasige CT und die dynamische sen-MRT allein auf. Somit sollte bei ausgeprägter Zirrhose und bei unklaren unden eine MRT mit hepatobiliärem Kontrastmittel zur Analyse der Spätphase änzt werden. einer aktuellen Meta-Analyse wurde der Vorteil der dynamischen MRT gegenüber kontrastverstärkten Computertomographie (CT) noch einmal aufgezeigt . gesamt wurden 10 Studien mit 1.333 Patienten als geeignet für die Aufnahme in se Meta-Analyse erachtet. Die dynamische (DCE) MRT mit extrazellulärem trastmittel zeigte eine höhere Sensitivität bei der Erkennung von HCC als die trastverstärkte CT (0,77 vs. 0,63; p < 0,01). Die DCE-MRT bot eine höhere sitivität und Genauigkeit als die kontrastverstärkte CT bei der Erkennung eines s, insbesondere bei Läsionen mit einer Größe von < 20 mm. Der Unterschied in Spezifität zwischen der DCE-MRI und kontrastverstärkter CT war jedoch statistisch ht signifikant (0,93 vs. 0,94; p = 0,25). Daten aus den neueren prospektiven Studien zeigen eine hohe diagnostische auigkeit der Kontrastmittelsonographie. Bei 395 HCC-Risikopatienten erzielte die trastmittelsonographie verglichen zum Goldstandard Histologie eine Sensitivität 94% bei einer Spezifität von 65% (79% bei Anwendung standardisierter CEUS- orithmen) und einem positiv-prädiktiven Wert von 93% , , . Das lüsselkriterium für die nicht-invasive HCC-Diagnostik in der trastmittelsonographie stellt dabei das arterielle Hyperenhancement mit oder e nachfolgendes Kontrastmittel-Washout dar. Dies ermöglicht eine erscheidung zu intrahepatischen cholangiozellulären Karzinomen (iCCA) und astasen, bei denen sich so gut wie nie ein arterielles Hyperenhancement ohne trastmittel-Washout zeigte ; zudem zeichnete sich das Auswaschen beim A durch einen früheren Beginn und eine stärkere Intensität verglichen mit dem aus. Vorteil der MRT ist, dass stets die gesamte Leber abgebildet ist, so dass weitere de detektiert werden können. Somit wird diese in der Empfehlung weiterhin als te Bildgebung zur lokalen Ausbreitungsdiagnostik empfohlen.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 55,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Kontrastmittel",
+      "Wash-out",
+      "Zirrhose"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_24_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.24",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "CT",
+    "thema": "Staging",
+    "statement": "Das Staging eines HCC soll ein kontrastverstärktes CT von Thorax und Abdomen beinhalten.",
+    "answer": true,
+    "explanation": "EK 3.24. Ausbreitungsdiagnostik vor Therapieentscheidung.",
+    "leitlinie_wortlaut": "Das Staging eines HCC soll ein kontrastverstärktes CT des Thorax und des Abdomens beinhalten. Falls das kontrastverstärkte MRT das gesamte Abdomen diagnostisch abdeckt, soll lediglich ein nativer CT-Thorax ergänzt werden. Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Diagnostikalgorithmus Malignitätsverdächtige Leberrundherde sollen in einer therapierelevanten Konstellation unmittelbar abgeklärt werden, siehe auch Diagnosealgorithmus eines Patienten mit einer HCC-verdächtigen Raumforderung (Abbildung 1). stikalgorithmus HCC Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 57,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Staging",
+      "CT"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_28_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.28",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "BCLC",
+    "thema": "Therapieplanung",
+    "statement": "Für die Therapieentscheidung beim HCC sollen Tumorlast, Leberfunktion und Allgemeinzustand des Patienten berücksichtigt werden.",
+    "answer": true,
+    "explanation": "Empf. 3.28 (Grad A). Grundlage des BCLC-Algorithmus.",
+    "leitlinie_wortlaut": "Für die klinische Entscheidungsfindung bei HCC sollen die Tumorlast, die Leberfunktion und der Leistungsstatus berücksichtigt werden. Das Hong-Kong-Staging System beinhaltet weitere Biomarker (Alpha-Fetoprotein (AFP), des-Gamma-Carboxyprothrombin (DCP) etc.) ist jedoch fast ausschließlich HBV bezogen und zudem existiert keine externe Validierung in westlichen Ländern, die seine Leistungsfähigkeit in anderen Populationen und allen Stadien der Erkrankung erfasst .",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 60,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "BCLC",
+      "Leberfunktion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_31_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.31",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Tumorboard",
+    "thema": "Therapieplanung",
+    "statement": "Patienten mit HCC sollen vor einer Behandlung und bei Änderung der Tumorsituation in einer interdisziplinären Tumorkonferenz vorgestellt werden.",
+    "answer": true,
+    "explanation": "EK 3.31. Komplexe multimodale Optionen → Tumorboard.",
+    "leitlinie_wortlaut": "Patienten mit einem Hepatozellulären Karzinom sollen vor einer Behandlung und bei Änderung der Therapiestrategie in einer interdisziplinären Tumorkonferenz vorgestellt werden. Für das HCC ist eine Vielzahl unterschiedlicher Therapiemöglichkeiten verfügbar. Zur umfassenden Beurteilung der optimalen Therapiestrategie sind unterschiedliche Fachdisziplinen notwendig. Für einen Patient mit HCC soll daher eine interdisziplinäre Vorstellung in einer Tumorkonferenz unter der Berücksichtigung operativer, lokal- ablativer und systemtherapeutischer Möglichkeiten erfolgen. Die Beurteilung der Möglichkeit einer Ablation oder der Resektabilität soll mit einem in der interventionellen Onkologie erfahrenen Radiologen und einem in der hepatobiliären Chirurgie erfahrenen Chirurgen erfolgen. Aufgrund der Komplexität der Erkrankung soll die Tumorkonferenz zusätzlich mit Hepato-/Onkologen, Pathologen und Radioonkologen besetzt sein. Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Operative Therapieverfahren Lebertransplantation",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 61,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Tumorboard"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "tumorkonferenz"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_33_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.33",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Mailand",
+    "thema": "Transplantation",
+    "statement": "Geeigneten Patienten mit Leberzirrhose und einem irresektablen HCC innerhalb der Mailand-Kriterien soll eine Lebertransplantation angeboten werden.",
+    "answer": true,
+    "explanation": "EK 3.33. Mailand-Kriterien (1 Herd ≤5 cm oder ≤3 Herde ≤3 cm) → LTx.",
+    "leitlinie_wortlaut": "Geeignete Patienten mit Leberzirrhose und einem irresektablen HCC innerhalb der Mailand-Kriterien (BCLC A) sollen für eine Lebertransplantation evaluiert werden. Auch bei formal resektablen oder grenzwertig resektablen HCC-Befunden in Zirrhose kann innerhalb der Mailand-Kriterien eine Indikation zur Transplantation bestehen. Die Lebertransplantation für Patienten mit einem auf die Leber begrenzten Tumor ist langfristig mit den geringsten Rezidivraten und dem besten Gesamtüberleben (> 5 Jahre) verbunden , . Durch Fortschritte in der chirurgischen, interventionellen und medikamentösen Therapie können heute bei resektablen Befunden immer bessere Überlebensraten erreicht werden, allerdings finden sich bei allen anderen Therapieformen auch in frühen Tumorstadien (Tabelle 8) innerhalb von 5 Jahren in bis zu 80 % der Fälle Rezidive oder Zweittumoren , . Die Lebertransplantation ist die einzige Therapieform, bei der sowohl das HCC als auch die zugrunde liegende Leberzirrhose therapiert werden. Im Stadium BCLC A kommt es nach Lebertransplantation zu nur niedrigen Rezidivraten von etwa 10-12%. Daher resultieren im Langzeitverlauf bei adäquater Patientenselektion auch die besten Überlebensraten. Die Transplantation ist somit die effektivste der verfügbaren Therapieoptionen. Daher sollen Patienten mit einem auf die Leber begrenzen HCC, die für eine Lebertransplantation geeignet sind oder nach entsprechenden vorbereitenden Maßnahmen (z.B. Alkoholkarenz) geeignet sein könnten, in einem Lebertransplantationszentrum vorgestellt werden. Prinzipiell besteht für die meisten Patienten mit einem auf die Leber begrenzten HCC eine mehr oder weniger hohe Chance auf eine kurative Behandlung durch eine Lebertransplantation . Entscheidend für die Auswahl geeigneter Patienten ist der zu erwartende Vorteil für die Transplantation im Vergleich zu alternativen Behandlungsstrategien. Daneben spielt natürlich auch die beschränkte Verfügbarkeit von Spenderorganen eine wichtige Rolle. Aus Mangel an etablierten tumorbiologischen Kriterien (mit Ausnahme des Differenzierungsgrades und des AFP-Werts, s.u.), orientieren sich die verfügbaren Analysen vor allem an morphometrischen Kriterien, d.h. an der Anzahl und Größe der Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Tumorknoten. Bei rein hepatischem Befall korreliert das Rückfallrisiko nach Lebertransplantation mit der Anzahl und (maximalen bzw. kumulativen) Größe der vorhandenen Tumorknoten . Als etabliertes Standardkriterium für die Indikation zur Lebertransplantation werden in den meisten Ländern, wie auch in Deutschland, die sogenannten Mailand-Kriterien für eine langfristig erfolgreiche Lebertransplantation angewendet . Patienten mit einem irresektablem HCC innerhalb der Mailand-Kriterien weisen nach Lebertransplantation eine 5-Jahres-Überlebensrate von 65 – 80 % und eine HCC- Rezidivrate von etwa 10-12% auf Daher stellen die Mailand-Kriterien auch in Deutschland die akzeptierte Basis für eine Priorisierung zur Lebertransplantation dar. Bei anhaltender Erfüllung dieser Kriterien wird der entsprechende matchMELD alle 3 Monate hochgestuft. Dies erfolgt aktuell gemäß den Richtlinien der Bundesärztekammer nur, sofern ein solitäres HCC >20 mm und ≤50mm vorliegt, bzw. bis zu 3 Herde > 10 mm und ≤30mm . Herde, die weniger als 10 mm durchmessen, werden für die Klassifizierung dagegen nicht berücksichtigt. Andere Selektionskriterien als die Mailand-Kriterien haben derzeit in Deutschland keinen Einfluss auf die Priorisierung der Patienten. Während der Zeit auf der Warteliste muss regelmäßig kontrolliert werden, ob Patienten die Mailand-Kriterien noch erfüllen, oder ob es zu einem Tumorprogress gekommen ist. Daher sollen mindestens alle 3 Monate Verlaufsuntersuchungen mittels mehrphasiger, kontrastmittelverstärkter CT oder MRT-Untersuchungen des Abdomens vorgenommen werden. Zusätzlich sollten auch AFP-Verlaufskontrollen (s.u.) und in regelmäßigen Abständen (ca. 6 Monate) ein CT des Thorax zum Ausschluss von Lungenmetastasen veranlasst werden . Auch Patienten, die die Mailand-Kriterien nicht erfüllen, können und dürfen einer Lebertransplantation zugeführt werden, sofern kein extrahepatischer Befall und keine Makroinvasion von Lebergefäßen vorliegen. Diese Patienten erhalten allerdings keine entsprechende Priorisierung und müssen meist mit Organen aus der „Rescue Allocation“ oder von Lebendspendern versorgt werden. Die Selektionskriterien bei Patienten außerhalb der Mailand-Kriterien werden durch das lokale Transplantationszentrum festgelegt. Anhand der vorliegenden Daten aus der Literatur kann bisher keine klare Obergrenze hinsichtlich Anzahl und Größe der Tumorknoten definiert werden. In Zukunft könnten möglicherweise auch hier molekulare Marker als Entscheidungshilfe dienen . International liegen große retrospektive Analysen bezüglich einer Ausdehnung der Auswahlkriterien zur Lebertransplantation vor. Dabei stellen die UCSF-Kriterien (University of California, San Francisco) und die up-to-7 Kriterien die am häufigsten verwendeten erweiterten Selektionskriterien (siehe Tabelle 8) dar. Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 t der gängigsten Selektionskriterien zur Lebertransplantation Solitärer Mehrere 5-Jahres-Überlebensrate Knoten Tumorknoten nach Lebertransplantation keine extrahepatischen Manifestationen (cN0M0) keine makrovaskuläre Gefäßinvasion (cV0) ≥ 2cm und ≤ 2-3 Herde: 5cm ≥ 1cm und ≤ 3cm r) ≤ 5 cm Max 3 Herde ≤ 3cm > 70 % ≤ 6 cm Summe aus > 70 % Durchmesser des größten Tumors (cm) und Anzahl der Tumorknoten ≤ 7 ≤ 6,5 cm Max. 3 Herde ≤ 4,5 cm > 70 % und ein maximaler addierter Tumordurchmesser ≤ 8 cm Publizierte Expertenmeinungen und Empfehlungen von Fachgesellschaften stimmen überein, dass eine Transplantation bei Verwendung erweiterter Auswahlkriterien (d.h. außerhalb der Mailand-Kriterien) erst nach Dokumentation eines Ansprechens auf eine neoadjuvante, lokoregionäre Therapie , , , (Details siehe unten) erfolgen sollte, da ansonsten die Rezidivraten nach Transplantation deutlich ansteigen. Auch bei formal resektablen HCC-Befunden in Zirrhose kann eine Indikation zur Transplantation gestellt werden, wenn davon auszugehen ist, dass das Rezidivrisiko nach Resektion und/oder Lokalablation sehr hoch ist . Ob hier zunächst eine lokale Therapie (Resektion/Lokalablation) erfolgen sollte, und nur im Falle eines Tumorrezidives die Indikation zur Transplantation gestellt wird (sogenannte Salvage Transplantation) oder ob im Falle eines hohen Rezidivrisikos schon primär die Indikation zur Transplantation gestellt werden sollte , muss im lokalen Tumorboard bzw. der lokalen Transplantationskonferenz im Sinne einer Nutzen/Risiko-Abwägung entschieden werden . In einer retrospektiven Analyse zur Salvage Transplantation konnte nachgewiesen werden, dass dieses Konzept bei solitären Tumoren oft gut funktioniert und dadurch sogar Organe ‚eingespart‘ werden können , so dass nicht in allen Fällen direkt eine Transplantation erfolgen muss . Weitere Parameter, die in die Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Entscheidungsfindung mit einbezogen werden sollten, sind z.B. die Leberfunktion und zusätzliche dysplastische Knoten in der Restleber. onen Definition apie Behandlung, die vor einer operativen Maßnahme (z.B. Resektion oder Lebertransplantation) erfolgt, mit dem Ziel einer Verkleinerung der Tumormasse. Lokoregionäre Therapie oder Resektion eines HCC innerhalb der Mailand-Kriterien auf der Warteliste Vorbehandlung eines HCC außerhalb der Mailand-Kriterien mit dem Ziel der Tumorverkleinerung bis zu definierten Selektionskriterien (in der Regel: bis die Mailand-Kriterien erreicht sind). ontraindikationen für eine Lebertransplantation",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 62,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Lebertransplantation",
+      "Mailand-Kriterien"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_35_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.35",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "AFP",
+    "thema": "Transplantation",
+    "statement": "Der AFP-Wert spielt für die Indikation zur Lebertransplantation beim HCC keine Rolle.",
+    "answer": false,
+    "explanation": "EK 3.35: bei AFP > 1000 ng/ml keine Transplantation ohne vorheriges Downstaging.",
+    "leitlinie_wortlaut": "Bei einem AFP-Wert >1000 ng/ml sollte keine Indikation zur Transplantation ohne neoadjuvante Therapie gestellt werden. Bei AFP-Anstieg auf >1000 ng/ml unter Bridging-Therapie sollte die Transplantation nicht durchgeführt werden. Neben bildmorphologischen Kriterien werden auch zunehmend Biomarker zur Vorhersage des Rezidivrisikos untersucht. Der einzige HCC-Biomarker, für den bisher eine ausreichende Datengrundlage vorliegt, ist der AFP-Wert. Es ist bekannt, dass ein hoher oder rasch ansteigender AFP-Wert mit einer schlechteren postoperativen Prognose bezüglich des HCC-Rezidivrisikos vergesellschaftet ist . So konnte z.B. ein monatlicher AFP-Anstieg größer 15 ng/ml als ungünstiger prognostischer Parameter nachgewiesen werden, ebenso wie AFP-Werte über 500 ng/ml bzw. von mehr als 1000 ng/ml . In einer weiteren Analyse konnte ein AFP-Wert > 1000 ng/ml als ein starker präoperativer Surrogatmarker für eine Gefäßinvasion innerhalb der Mailand-Kriterien gefunden werden . Anhand der aktuellen Datenlage kann keine eindeutige Empfehlung für eine AFP-Obergrenze als absolute Kontraindikation zur Lebertransplantation ausgesprochen werden. Die meisten Autoren stimmen jedoch überein, dass bei einem AFP-Wert über 1000 ng/ml unabhängig von der bildmorphologisch sichtbaren Anzahl und Größe der Tumorknoten das Rezidivrisiko nach Transplantation signifikant ansteigt und daher die Indikation zur Transplantation ohne neoadjuvante Therapie nicht gestellt werden sollte. Dies gilt auch, wenn sich der Tumor bildmorphologisch formal innerhalb der Mailand-Kriterien befindet . So empfiehlt z.B. die AASLD, dass eine Lebertransplantation wieder erwogen werden kann, wenn der AFP-Wert unter lokoregionärer Therapie auf weniger als 500 ng/ml abfällt . Der Abfall eines vorher stark erhöhten AFP-Wertes auf < 500 ng/ml ist mit einer günstigen Prognose assoziiert, so dass dann eine Transplantation sinnvoll erscheint. So lag die HCC- Rezidivrate in einer Auswertung der UNOS-Datenbank bei 35,0 % wenn der AFP-Wert bei Transplantation > 1000 ng/ml betrug. Das Rezidivrisiko sank auf 13,3 % im Falle eines AFP-Abfalls auf <500 bis 101 g/ml und es sank auf 7,2 % wenn das AFP vor der Transplantation auf 100 ng/ml oder weniger abfiel (p < 0,001) . Für die Abschätzung der individuellen Prognose unter Berücksichtigung des AFP-Wertes und der bildmorphologischen Kriterien vor bzw. unter lokoregionärer Therapie kann der Metroticket Rechner (http://www.hcc-olt-metroticket.org/) hilfreich sein.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 66,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "AFP",
+      "Lebertransplantation"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_38_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.38",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Bridging",
+    "thema": "Transplantation",
+    "statement": "Patienten mit HCC (BCLC A) innerhalb der Mailand-Kriterien sollen auf der Warteliste eine Bridging-Therapie erhalten.",
+    "answer": true,
+    "explanation": "Empf. 3.38 (Grad A). Bridging (Ablation/TACE/Resektion) verhindert Drop-out.",
+    "leitlinie_wortlaut": "Patienten mit HCC (BCLC A) innerhalb der Mailand-Kriterien sollen eine Bridging- Therapie erhalten, sofern es die Leberfunktion zulässt. Patienten auf der Warteliste haben ein relevantes Risiko für einen Tumorprogress. Das primäre Ziel einer Bridging-Therapie ist es, bei Patienten, die sich auf der Warteliste zur Lebertransplantation befinden, einen Tumorprogress und eine damit verbundene Abmeldung von der Warteliste zu vermeiden. Das Risiko für einen Tumorprogress ist innerhalb der Mailand-Kriterien von unterschiedlichen Faktoren wie Größe, Anzahl und Differenzierungsgrad des Tumors abhängig. Diese sollten bei der Entscheidung für oder gegen eine Bridging-Therapie berücksichtigt und gegen das potenzielle periinterventionelle Risiko abgewogen werden. Dies gilt vor allem bei Patienten mit eingeschränkter Leberfunktion und kleinen Tumoren. Aufgrund der momentan verfügbaren Datenlage und dem Fehlen randomisierter Studien können insbesondere logie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 kleine Tumoren (Stadium BCLC-0 = singulärer Tumor < 2 cm = UNOS T1) keine eutigen Empfehlungen für eine Bridging-Therapie ausgesprochen werden . gen liegen für das Stadium BCLC-A inzwischen viele retrospektive Auswertungen er multizentrischer und nationaler Kollektive sowie entsprechende Metaanalysen Die Studienlage zeigt divergierende Ergebnisse bzgl. des Benefits einer Bridging- apie für Patienten mit HCC in der Gruppe innerhalb der Mailand-Kriterien. Dabei der Therapieerfolg neoadjuvanter Therapien im Wesentlichen vom Ansprechen ponder vs. Non-Responder) abhängig. Mehrere Studien , , , , ], , belegen bessere Überlebensraten nach Transplantation bei gutem apieansprechen bzw. schlechtere Überlebensraten bei minderem apieansprechen. Außerdem liefern die meisten Studien Hinweise, dass eine oregionäre) Bridging-Therapie den Tumorprogress verzögert und damit das Risiko r Abmeldung von der Warteliste signifikant verringert. So ergab eine aktuelle analyse ein relatives Risiko für eine HCC-bedingte Abmeldung von der splantationswarteliste bei Anwendung einer lokoregionärer Bridging-Therapie 0,11 (95% CI: 0,07; 0,17) . Allerdings war dieser Wert bei starker rogenität der Studien nicht statistisch signifikant. Eine multizentrische, istische Auswertung der Daten von 1083 europäischen HCC- Patienten innerhalb Mailand-Kriterien mittels “inverse probability of treatment weighting (IPTW)” yse konnte zeigen, dass bei einer Intention to Treat (ITT) Betrachtung das Risiko r HCC-bedingten Abmeldung von der Warteliste durch eine Bridging-Therapie um bis 49% gesenkt wird . Bei bis zu 3 Bridging-Therapien fand sich auch eine rige Rezidivrate nach Transplantation. Waren dagegen 4 oder mehr Behandlungen g, war dies nicht mehr zu beobachten . ber hinaus kann das Ansprechen auf eine Bridging-Therapie ähnlich wie das staging (siehe unten) innerhalb der Mailand-Kriterien als ein tumorbiologisches ktionskriterium verwendet werden und damit zu einer besseren entenselektion und geringeren Rezidivrate beitragen . In einer Auswertung UNOS Daten von über 3000 HCC Patienten innerhalb der Mailand-Kriterien gleich mit und ohne Bridging-Therapie) fand sich in der pathologischen rbeitung der HCC-Herde ein signifikant niedrigerer Anteil von mikrovaskulärer 8% vs. 22,8%, p< 0,001) und makrovaskulärer Infiltration (3,4% vs. 5,1%; p < 1) in der Therapiegruppe (trotz initial mehr und größerer Tumoren) . Dies te entweder für eine Verhinderung der Gefäßinvasion durch die Bridging- apie sprechen, wahrscheinlich aber zumindest für eine bessere entenselektion. Da keine ITT-Analyse vorliegt, lässt sich dies jedoch nicht mit ter Sicherheit beantworten. Darüber hinaus konnte gezeigt werden, dass eine Anzahl von notwendigen Behandlungen für eine aggressivere Tumorbiologie cht, vor allem auch, wenn sich gleichzeitig ein steigender AFP-Wert findet. Beides mit einer erhöhten Rezidivrate einher , , , , , , ], selbst wenn sich das HCC bildmorphologisch weiterhin innerhalb der Mailand- erien befindet. gen gilt es als erwiesen, dass bei einem sehr guten pathologischen Ansprechen inne einer kompletten Remission nach einer Bridging-Therapie die HCC- divraten nach Lebertransplantation sehr gering und in manchen Serien sogar r 5 % liegen . Insgesamt fand sich jedoch in dieser wie auch in anderen ertungen kein signifikanter Unterschied in der 5-Jahres-Überlebensrate (68 vs. p = 0,490) und der 5-Jahres-Rezidivrate (11,2 vs. 10,1%, p = 0,474), wenn alle enten mit und ohne Bridging-Therapie verglichen wurden. logie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Patienten mit einem stark erhöhten AFP-Wert (>1000 ng/ml) wird eine Bridging- apie als obligat angesehen. Aufgrund des sehr hohen Rezidivrisikos sollten diese enten nicht ohne neoadjuvante Therapie transplantiert werden, auch dann nicht, sie sich bildmorphologisch innerhalb der Mailand-Kriterien befinden und die utete Wartezeit < 3 Monate beträgt, z.B.: im Falle einer geplanten Lebendspende. Bridging-Therapie dient dann weniger der Kontrolle des HCC vor Transplantation vielmehr einer Patientenselektion im Sinne eines sog. „Test of Time“ . n dem radiologischen Ansprechen ist daher auch der AFP-Wert bei der chätzung des Rezidivrisikos wichtig. So konnte gezeigt werden, dass bei alem AFP-Wert (entweder schon vor Beginn oder unter Bridging-Therapie <20 l) das geringstes Rezidivrisiko nach LTx vorliegt (5-Jahres-Rezidivrate ca. 7 %). et sich dagegen unter lokoregionärer Therapie ein AFP-Rückgang jedoch keine alisierung (>20 ng/ml), so ist das Rezidivrisiko bereits signifikant erhöht (5- es-Rezidivrate ca. 14%, HR: 2,0, p < 0,001). Am höchsten ist das Rezidivrisiko bei eigendem AFP-Wert unter Bridging-Therapie (5-Jahres-Rezidivrate ca. 21%, HR: 3,1 0,001) . esamt wird von den meisten Autoren im Feld empfohlen, bei einer zu rtenden Wartezeit von mehr als 3 bis 6 Monaten, eine Bridging-Therapie zu nnen, damit der Patient nicht aufgrund eines Tumorprogresses von der Warteliste mmen werden muss oder seinen matchMELD verliert , , . Um den ktionseffekt der Bridging-Therapie zu verstärken, werden im UNOS- kationssystem seit 2015 sogar nur noch Patienten priorisiert, bei denen die ren mittels Bridging-Therapie für mindestens 6 Monate innerhalb der Mailand- erien gehalten werden können. eutschland ist aufgrund des Organmangels eine Wartezeit von mehr als 6 ten in den allermeisten Fällen einzukalkulieren. Als Ausnahmen können hier ell allenfalls Patienten in der Blutgruppe AB, B oder Transplantationen im Rahmen r Lebendspende angesehen werden. Auch hier kann jedoch unter Beachtung einer eichenden Leberfunktion die Einleitung einer Bridging-Therapie zur Einschätzung Tumorbiologie und damit zur Patientenselektion sinnvoll sein. Eine Entscheidung den individuellen Fall muss in der interdisziplinären Konferenz getroffen werden. ches gilt für einen Tumorprogress unter Bridging-Therapie hinsichtlich einer orären NT-Meldung und Beobachtung des weiteren Verlaufs unter lokoregionärer apie für 3-6 Monate abhängig vom Ausmaß des Progresses. raturübersicht s. Anhang (Tabelle 15) logie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 67,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Bridging",
+      "Warteliste"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "lokoregionaer"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_44_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.44",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Ohne Zirrhose",
+    "thema": "Chirurgie",
+    "statement": "Eine Resektion eines HCC ohne Leberzirrhose soll erfolgen, wenn eine komplette (R0-)Resektion möglich ist.",
+    "answer": true,
+    "explanation": "EK 3.44. Ohne Zirrhose großzügige Resektion möglich (gute Leberreserve).",
+    "leitlinie_wortlaut": "Eine Resektion eines HCC ohne Leberzirrhose soll erfolgen, wenn eine komplette Resektion (R0-Resektion) möglich ist. HCCs ohne begleitende Leberzirrhose stellen ähnlich wie HCCs in Zirrhose-Lebern eine heterogene Gruppe dar. HCCs in einer nicht-zirrhotischen Leber treten bei viraler oder nicht-viraler Hepatitis, Steatosis hepatis, Fibrose und bei Exposition von verschiedenen Risikofaktoren auf . Einen zunehmenden Anteil stellen heute auch Patienten mit MASLD oder mit metabolischem Syndrom dar, bei denen eine HCC- Entwicklung häufig auch schon vor dem Stadium der Zirrhose zu finden ist , funktionelle Reserve nach Resektion ist im Vergleich zu Resektionen bei Zirrhose- Lebern größer. Kurative Resektionen sind bei bis zu 60% der Patienten mit einem HCC in einer Nicht-Zirrhose-Leber möglich . Auch ausgedehnte Leberresektionen können somit mit einer niedrigen Morbiditäts- und Mortalitätsrate durchgeführt werden, wobei Resektionen beim metabolischen Syndrom mit etwas höheren Morbiditäts- und Mortalitätsraten verbunden zu sein scheinen . Größe und Anzahl der Tumoren sowie die Infiltration großer Gefäße und der Gallenwege scheinen einen negativen prognostischen Einfluss zu haben , stellen jedoch keine Kontraindikation zur Resektion dar. Sichere Daten zur Frage, ob die Resektion in anatomischen Grenzen (in Segment- oder Subsegmentgrenzen) vorgenommen werden sollte, liegen nicht vor , . achsorge beim Hepatozellulären Karzinom ohne Leberzirrhose",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 76,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Resektion",
+      "R0"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "stadium": [
+        "resektabel"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_46_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.46",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Singulär Zirrhose",
+    "thema": "Chirurgie",
+    "statement": "Bei einem singulären HCC-Knoten in Leberzirrhose mit funktioneller Resektabilität sollte eine Leberresektion durchgeführt werden.",
+    "answer": true,
+    "explanation": "EK 3.46. Resektion bei erhaltener Leberfunktion (Child A, keine relevante portale Hypertension).",
+    "leitlinie_wortlaut": "Bei einem singulären HCC-Knoten in Leberzirrhose mit funktioneller Resektabilität sollte eine Leberresektion erfolgen. Dies trifft insbesondere für HCC-Knoten > 3 cm zu. Aufgrund mehrerer möglicher Therapiemodalitäten und aufgrund unterschiedlicher Ausprägung der Leberzirrhose sollen Patienten mit einem HCC in einer interdisziplinären Tumorkonferenz vorgestellt werden. Die Beurteilung der Resektabilität soll durch einen in der hepatobiliären Chirurgie erfahrenen Chirurgen erfolgen. Bei der Beurteilung der funktionellen Resektabilität nehmen die Einschätzung der Leberfunktion und des Ausmaßes der portalen Hypertension eine zentrale Rolle ein. Besonders bei Patienten mit Leberparenchymstörungen sollte die Leberfunktionsreserve beurteilt und das Risiko der Entwicklung eines postoperativen Leberversagens eingeschätzt werden. Hierzu haben sich neben der klassischen Child- Pugh-Stadieneinteilung unter anderem der Indocyaningrün Clearance Test und der LiMax-Atemtest , sowie das Leber-Elastogramm bewährt. Ferner stellt eine deutlich ausgeprägte portale Hypertension einen Prognosefaktor für das postoperative Überleben dar. Deswegen sollte das Ausmaß der portalen Hypertension bei der Entscheidung zur Resektion mitberücksichtigt werden. Die zurzeit beste Methode zur Beurteilung der portalen Hypertension stellt die Messung des Lebervenenverschlussdruckes dar . Die Methode der Lebervenenverschlussdruck-Messung gehört in Deutschland und international jedoch nicht zur klinischen Routine bei der präoperativen Beurteilung der Leberzirrhose- Patienten , so dass indirekte Zeichen wie Aszites, Ösophagusvarizen, Splenomegalie und Thrombozytenzahlen unter 100 000/ml herangezogen werden müssen. Der ideale Patient für eine Resektion mit einem HCC in Zirrhose hat einen kleinen einzelnen HCC-Knoten in peripherer Lage und eine gut erhaltene Leberfunktion mit einer Thrombozytenzahl > 100 000/ml, entsprechend dem „very early stage (0-A)“ der „Barcelona Clinic Liver Cancer (BCLC)“ Klassifikation . Auch in aktuellen Studien hat sich bestätigt, dass in dieser Patientengruppe die besten Kurz- und Langzeitergebnisse erreicht werden können, so wurde in der BRIDGE-Studie, in der 10 135 Patienten mit einem HCC ausgewertet wurden, eine 3- und 5-Jahres- Überlebensrate von 74% und 65% beschrieben . In der gleichen Studie wurde berichtet, dass nur 80% der Patienten mit „idealen Bedingungen“ operiert und 20% anderen Therapieformen mit deutlich schlechteren 3- und 5-Jahres-Überlebensraten zugeführt wurden . Bei einem singulären HCC-Knoten jeglicher Größe sollte eine Leberresektion durchgeführt werden. Bei tief und zentral liegenden Tumoren < 3 cm kann eine Ablation (RFA oder MWA) wegen vergleichbarer Langzeitergebnisse und niedrigen postinterventionellen Leberfunktionsstörungen von Vorteil sein. Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 77,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Resektion",
+      "Zirrhose"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "stadium": [
+        "resektabel"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_50_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.50",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "≤3 cm",
+    "thema": "Lokalablation",
+    "statement": "Bei HCC bis 3 cm ist die Leberresektion der lokalen Ablation onkologisch klar überlegen.",
+    "answer": false,
+    "explanation": "Empf. 3.50: Resektion und Ablation sind beim HCC ≤ 3 cm gleichwertig.",
+    "leitlinie_wortlaut": "Bei Patienten mit HCC bis 3 cm sind die Resektion und die Ablation äquivalente Verfahren.",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 80,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Ablation",
+      "Resektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "lokoregionaer",
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_52_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.52",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "RFA/MWA",
+    "thema": "Lokalablation",
+    "statement": "Die perkutane Ablation des HCC soll mittels Radiofrequenz-Ablation (RFA) oder Mikrowellen-Ablation erfolgen.",
+    "answer": true,
+    "explanation": "EK 3.52. RFA/MWA als Standard-Ablationsverfahren.",
+    "leitlinie_wortlaut": "Die perkutane Ablation des HCC soll mittels Radiofrequenz-Ablation (RFA) oder Mikrowellen-Ablation (MWA) durchgeführt werden. Die RFA und die MWA können über einen perkutanen, laparoskopischen oder offenen Zugang erfolgen. Der perkutane Zugangsweg ist die häufigste Vorgehensweise. Sie stellt den am wenigsten invasiven Zugang für die Durchführung der RFA dar und sollte insbesondere bei Patienten, die für eine offene Tumorresektion nicht geeignet sind oder ein erhöhtes Operationsrisiko (z.B. aufgrund einer fortgeschrittenen Leberzirrhose) aufweisen, grundsätzlich in Betracht gezogen werden. Die Planung, Positionierung und Kontrolle des RF-Applikators oder der MW-Antenne muss für den perkutanen Zugang unter Bildgebung erfolgen, mit CT, US oder MR-Bildgebung. Vorteile der perkutanen RFA gegenüber einem laparoskopischen oder offenen Zugang umfassen: • Reduktion von Morbidität • Reduzierte postoperative Schmerzsymptomatik • Kürzerer Krankenhausaufenthalt • Durchführbarkeit häufiger in Sedierung als in Allgemeinanästhesie • Kostenreduktion Für die Zielführung sind multiplanare Echtzeitverfahren mit interaktiven Funktionalitäten von Vorteil, welche sowohl eine genaue Abgrenzung des Tumors als auch eine umfassende Visualisierung der angrenzenden Strukturen ermöglichen. Ultraschall, CT und MRT kommen zum Einsatz. Viele Faktoren beeinflussen letztlich die Wahl des bildgebenden Verfahrens für die Platzierung der RFA-Sonden oder MW- Antenne: • Tumorvisibilität, • Persönliche Präferenz und Erfahrung des Operateurs, • Verfügbarkeit: beinhaltet sowohl Standardmodalitäten als auch dedizierte Instrumente für die Echtzeitbildgebung (z.B. CT-Fluoroskopie) und offene MRT- Geräte mit interventionellem Interface. Für die Ablation kann die Steuerung der Instrumente während der Instrumentenplatzierung mit US, CT oder MRT durchgeführt werden. Die eindeutigen Vorteile der MR-Bildgebung liegen in dem besseren Gewebekontrast, das Monitoring und die Kontrolle der induzierten Koagulation. Für ein exaktes Monitoring, für die exakte Lokalisation relevanter Nachbarstrukturen während der Ablation sowie für die Kontrolle hat der US seine Limitationen und kann nicht empfohlen werden. Die perkutane Ethanolinjektion (PEI/PAI), die irreversible Elektroporation (IRE), sowie die Laser- und Kryo-Ablation sollen nicht zur Therapie von HCCs genutzt werden, die für eine Resektion oder Thermoablation mit RFA/MWA geeignet sind. Die Anzahl der klinischen Studien zur IRE, Laser und Kryoablation ist aktuell noch sehr gering. Die Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 IRE hat durch den geringen thermischen Effekt einen potenziellen Vorteil für die Therapie von HCC nah zu den Gallenwegen. Dennoch liegen aktuell wenige Daten mit suffizienter Patientenzahl oder langen Überlebensdaten vor. Die lokale Rezidivrate nach IRE ist für HCC >2,5 cm deutlich höher als nach Behandlung mit RFA, MWA oder Resektion , , . Die PEI sollte nicht mehr eingesetzt werden. Gemäß der “European Association for the Study of the Liver” aus dem Jahr 2001 wurde die PEI als Standard zur Therapie inoperabler Patienten bzw. irresektabler HCCs empfohlen . In der Folge erschienen mehrere RCTs zum Vergleich von RFA und PEI zur Therapie kleiner HCCs deutlich überlegen. Es zeigte sich aber auch, dass die ausreichende lokale Tumorkontrolle vom Tumordurchmesser abhängig ist. So steigt die lokale Rezidivrate von 4 % im ersten Jahr bei HCCs kleiner 2 cm auf 13% bei HCCs zwischen 3-4 cm RFA (n = 52) der PEI (n = 50) bzgl. des rezidivfreien Überlebens überlegen ist . Im Vergleich zur PEI generiert die RFA besser reproduzierbare und vorhersagbare Koagulationsnekrosen. Zusätzlich benötigt die RFA deutlich weniger Interventionen zur kompletten Tumorablation als die PEI . Vergleichende Literatur der interventionellen Therapie s. Anhang (Tabelle 17, Tabelle 18, Tabelle 19).",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 81,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "RFA",
+      "Mikrowellen-Ablation"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "lokoregionaer"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_54_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.54",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Intermediär",
+    "thema": "TACE",
+    "statement": "Die TACE ist die Standardtherapie des frühen HCC im Stadium BCLC A.",
+    "answer": false,
+    "explanation": "Empf. 3.54: die TACE ist Standard im INTERMEDIÄREN Stadium (BCLC B), nicht im Frühstadium.",
+    "leitlinie_wortlaut": "Die TACE soll Patienten mit HCC im intermediären Stadium angeboten werden, wenn keine kurativen Therapieoptionen vorliegen.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 83,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "TACE",
+      "intermediär"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "lokoregionaer"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_67_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.67",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Erstlinie",
+    "thema": "Systemtherapie",
+    "statement": "Die systemische Erstlinientherapie des fortgeschrittenen HCC ist die Sorafenib-Monotherapie.",
+    "answer": false,
+    "explanation": "Empf. 3.67 (Grad A): Erstlinie ist eine Immunkombination (Atezolizumab+Bevacizumab bzw. Durvalumab+Tremelimumab).",
+    "leitlinie_wortlaut": "Eine Erstlinientherapie mit der Kombination Atezolizumab und Bevacizumab (A+B) oder mit Durvalumab und Tremelimumab (D+T) soll angeboten werden bei HCC- Patienten im Child-Pugh-Stadium A und BCLC B oder C, mit Fernmetastasen oder einer Tumorlokalisation, die lokoregionär nicht kontrolliert oder reseziert werden kann. Patienten mit Kontraindikationen für A+B und D+T soll eine Erstlinientherapie entweder mit Durvalumab als Monotherapie oder mit einem der beiden Tyrosinkinase-Inhibitoren Lenvatinib oder Sorafenib angeboten werden. 2: Erneute Recherche 2021, neue Literatur Facciorusso 2021, neue Literatur Abou-Alfa 2022 Beide Therapiekombinationen sind für die Erstlinientherapie zugelassen, eine generelle Priorisierung von einer gegenüber der anderen Kombination ist aufgrund der Datenlage nicht möglich. Beide Schemata enthalten Checkpoint-Inhibitoren, so dass bei den Zulassungsstudien keine aktive oder bekannte Autoimmunerkankung vorliegen durfte. Die Studien unterschieden sich geringfügig in den Ein- und Ausschlusskriterien. Da beide Therapieschemata gleichberechtigt für die Erstlinie zugelassen sind, werden die Ergebisse der Zulassungsstudien nachfolgend kurz beschrieben. Für die Therapieauswahl sind die Ein- und Ausschlusskriterien und das Nebenwirkunsprofil der einzelnen Substanzen zu berücksichtigen. Kombinationstherapien Die Kombinationstherapie A+B wurde im Vergleich zu Sorafenib für Patienten mit lokal fortgeschrittenem oder metastasiertem HCC ohne vorherige Systemtherapie getestet . In die Phase III-Studie eingeschlossen wurden Patienten mit Child-Pugh A und ECOG PS 0 – 1. Besondere Voraussetzungen für den Studieneinschluss waren u. a. eine Ösophagogastroduodenoskopie innerhalb 6 Monate vor Behandlungsbeginn zum Ausschluss bzw. zur Behandlung blutungsgefährdeter Varizen, sowie keine offenen Wunden, aktive Ulzera oder Knochenfrakturen. Beide Faktoren des kombinierten primären Endpunktes Gesamtüberleben und PFS zeigten einen Vorteil für A+B: (i) das mediane Gesamtüberleben betrug 19,2 Monate im A+B Arm und 13,4 Monate mit Sorafenib (HR: 0,66 [95% CI: 0,52; 0,85], p < 0,001); (ii) das PFS lag für A+B bei 6,9 Monaten vs. 4,3 Monaten mit Sorafenib (HR: 0,65 [95% CI: 0,53; 0,81], p < 0,001). Die Überlebensraten nach 18 Monaten lagen für A+B bei 52 % und für Sorafenib bei 40 %. Die Ansprechrate für A+B nach RECIST 1.1 lag bei 30 % (95% CI: 25; 35) und für Sorafenib bei 11 % (95% CI: 7; 17). Eine Komplettremission zeigte sich bei 8 % der ologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 atienten mit A+B, bei Sorafenib wurde eine CR bei einem Patienten (<1 %) achgewiesen. Die mediane Dauer des Ansprechens lag für A+B bei 18,1 Monaten nd bei Sorafenib bei 14,9 Monaten. auptnebenwirkungen mit Grad 3/4 Toxizität bei A+B waren arterielle Hypertonie, rhöhung von Transaminasen oder Proteinurie. Mehr Patienten beendeten die herapie von A+B aufgrund von Nebenwirkungen als bei Sorafenib (38 % vs. 31 %) bei llerdings erheblich längerer Behandlungsdauer im Median von 7,4 Monaten mit A+B egenüber 2,8 Monaten bei Sorafenib. 26% der Patienten mit Sorafenib erhielten nach rogress eine Immuntherapie . ür die Messung der Lebensqualität wurde der Fragebogen EORTC QLQ-C30 ingesetzt. Hierbei zeigten sich signifikante Unterschiede in der medianen Zeit bis ur Verschlechterung („Time to Deterioration“, TTD) zugunsten von A+B in Bezug auf ie Lebensqualität von 11,2 vs. 3,6 Monaten (HR: 0,63 [95% CI: 0,46; 0,85]), die hysische Funktion von 13,1 vs. 4,9 Monaten (HR: 0,53 [95% CI: 0,39; 0,73] und der ollenfunktion von 9,1 Monaten vs. 3,6 Monaten (HR: 0,62 [95% CI: 0,46; 0,84] . ine Analyse von \"patient-reported outcomes\" (PRO) konnte zusätzlich einen klinisch edeutsamen Vorteil für Lebensqualität, Rollenfunktion und krankheitspezifische ymptome von A+B gegenüber Sorafenib zeigen . ie Kombinationstherapie D+T wurde in einer Phase III Studie mit den drei tudienarmen D+T, D Monotherapie und Sorafenib untersucht . Eingeschlossen urden auch in diese Studie Patienten mit Child-Pugh A und ECOG PS 0-1. Als esonderheit erfolgte bei D+T lediglich die einmalige Gabe von 300 mg remelimumab (anti-cytotoxic T lymphocyte-associated antigen 4, anti-CTLA-4 ntikörper) plus 1500 mg Durvalumab alle 4 Wochen (sog. \"Single Tremelimumab egular Interval Durvalumab\" bzw. STRIDE Regime). Der primäre Endpunkt der Studie ar der Vergleich des Gesamtüberlebens von STRIDE gegenüber Sorafenib. Als ekundärer Endpunkt wurde die Nichtunterlegenheit von Durvalumab (D) vs. orafenib untersucht. Ein vierter Arm (T75+D) wurde nach einer vorgeplanten Analyse iner Phase-II-Studie geschlossen und wird daher nicht weiter aufgeführt ine besondere Voraussetzung für den Studieneinschluss war u. a. eine adäquate herapie von Ösophagusvarizen vor Therapiebeginn sofern eine Blutungsanamnese der ein klinisch als hoch eingeschätzes Risiko für das Vorliegen von Varizen estand. as mediane Gesamtüberleben mit D+T war mit 16,4 Monate signifikant besser als 3,8 Monate mit Sorafenib (HR: 0,78 [95%CI: 0,65; 0,93]; p = 0,0035). Das esamtüberleben mit D Monotherapie zeigte mit 16,6 Monaten eine ichtunterlegenheit zu Sorafenib als sekundären Endpunkt (HR: 0,86, [95,67 % CI: ,73; 1,03], noninferiotity margin 1,08), wobei sich statistisch keine Überlegenheit on Durvalumab gegenüber Sorafenib ergab. Die Überlebensraten nach 18 bzw. 36 onaten lagen für D+T bei 49 % bzw. 31 %, für D bei 47 % bzw. 25 % und für orafenib bei 42 % bzw. 20 %. ie Ansprechrate für D+T nach RECIST 1.1 lag bei 20 %, für D bei 17 % und für orafenib bei 5 %. Komplettremissionen zeigten sich bei 3,1 % unter D+T, bei 1,5 % nter D und bei 0 % unter Sorafenib. Die mediane Dauer des Ansprechens lag bei 2,3 Monate für D+T, bei 16,8 Monate für D und bei 18,4 Monate für Sorafenib. ologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 auptnebenwirkungen mit Grad3/4 Toxizität für D+T waren Diarrhoe, Erhöhung von ransaminasen oder Pankreasenzymen, Fatigue, Hyponatriämie und Aämie. Ein herapieabbruch aufgrund von Nebenwirkungen trat bei D+T in 14 %, für D in 8 % nd für Sorafenib in 17 % auf. Immunvermittelte Nebenwirkungen, die zu einer ochdosis Steroidtherapie führten, wurden bei D+T in 20 % und für D in 10 % der atienten beschrieben . onotherapien ie Monotherapie mit Durvalumab ist ebenfalls für die Erstlinientherapie ugelassen. Für die Einordnung dieser Zulassung zeigt die oben beschriebene reiarmige Studie zusammenfassend einen signifikanten Vorteil von D+T gegenüber orafenib und eine Nicht-Unterlegenheit von D als Monotherapie gegenüber orafenib. In der Studie fand kein Vergleich zwischen D+T und D statt. ei Kontraindikationen oder Unverträglichkeit der Kombinationstherapien ist die onotherapie mit Durvlumab eine mögliche Alternative. ür die vergleichbare Wirksamkeit von Checkpoint-Inhibitor Monotherapien mit orafenib sprechen zusätzlich auch die Phase III Studien mit Nivolumab (; edianes Gesamtüberleben 16,4 Monate vs. 14,7 Monate mit Sorefenib (HR: 0·85 95% CI 0·72–1·02]; p=0·075, nicht signifikant besser)) oder Tislelizumab ( HR: .85 [95% CI 0.71-1.02]; Nicht-Unterlegenheit erreicht bei HR < 1,08). Durvalumab ist edoch der einzige bisher zugelassene Checkpoint-Inhibitor für eine Monotherapie eim HCC. orafenib führte in der 2008 berichteten Zulassungsstudie bei Patienten mit ortgeschrittenem HCC, ECOG 0 – 2, Albumin ≥2,8 g/dl, Gesamtbilirubin ≤3 mg/dl zu inem Gesamtüberleben von 10,7 Monaten gegenüber 7,9 Monaten mit Placebo 387]. Die Überlebensrate nach 1 Jahr betrug 44 % mit Sorafenib gegenüber 33 % mit lacebo, der Zeitpunkt bis zur radiologischen Progression verlängerte sich unter orafenib von 2,8 auf 5,5 Monate. In einer vergleichbaren Phase-III-Studie aus dem siatisch-pazifischen Raum konnte ebenfalls ein signifikant besseres esamtüberleben mit 6,5 Monaten gegenüber 4,2 Monaten mit Placebo erreicht erden . Für Sorafenib liegen weitere Daten als Kontrollarm aus 5 Phase-III- tudien vor. In allen diesen zusätzlichen Studien fand allerdings eine Beschränkung uf Patienten mit ECOG-Stadium 0 – 1 statt. Das mediane Gesamtüberleben bei 4 tudien, die keinen Vorteil gegenüber Sorafenib zeigen konnten und weitgehend ergleichbare Einschlusskriterien aufwiesen, lag für Sorafenib konsistent zwischen 9,1 nd 10,2 Monaten , , , . Das verbesserte Gesamtüberleben mit orafenib in den zwischen 2020 und 2022 publizierten Phase III Studien zwischen 3,4 und 15,5 Monaten dürfte vor allem auf die inzwischen zusätzlich zugelassenen eiteren Therapieoptionen beim HCC zurückzuführen sein , , , ie „Nicht-Unterlegenheit“ von Lenvatinib im Vergleich zu Sorafenib wurde für ECOG -1, Tumorbefall der Leber ≤ 50 %, Albumin ≥ 2,8 g/dl, Gesamtbilirubin ≤ 3 mg/dl nd fehlender Invasion des DHC oder des Pfortaderhauptstammes 2018 berichtet 381]. Hierbei zeigte sich ein Gesamtüberleben für Lenvatinib von 13,6 Monaten und on Sorafenib in diesem Patientenkollektiv von 12,3 Monaten. Überraschend war abei für Lenvatinib ein statistisch längeres progressionsfreies Überleben (PFS) von ,4 Monaten gegenüber 3,7 Monaten bei Sorafenib und ein objektives Ansprechen bei 0,6 % nach mRECIST und 18,8 % nach RECIST 1.1 bei Lenvatinib gegenüber 12,4 % ach mRECIST und 6,5 % nach RECIST 1.1 bei Sorafenib. Die vor kurzem publizierte ologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 LEAP-002 Studie, berichtet die bisher längste Überlebenszeit nach Beginn einer Lenvatinib-Therapie in der Erstlinie mit 19,0 Monaten . Verglichen wurde die Therapie mit der Kombination Lenvatinib und Pembrolizumab, welche keinen statistisch signifikanten Unterschied im Gesamtüberleben mit 21,2 Monaten erreichen konnte. Medikamentöse Therapie bei Leberzirrhose CHILD-Pugh B/C",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 99,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Atezolizumab",
+      "Bevacizumab",
+      "Erstlinie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_70_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.70",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Child-Pugh C",
+    "thema": "Systemtherapie",
+    "statement": "Auch bei HCC-Patienten im Stadium Child-Pugh C soll eine palliative Systemtherapie durchgeführt werden.",
+    "answer": false,
+    "explanation": "Empf. 3.70: bei Child-Pugh C sollte KEINE Systemtherapie erfolgen (Best Supportive Care).",
+    "leitlinie_wortlaut": "Bei HCC-Patienten im Stadium Child-Pugh C sollte keine Systemtherapie durchgeführt werden. positiven Empfehlung gefunden werden. kologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 In der GIDEON (Global Investigation of therapeutic decisions in hepatocellular carcinoma and of its treatment with sorafenib)-Studie wurden Daten von 3371 Patienten aus 39 Ländern ausgewertet, 666 von den Patienten mit Child-Pugh . Die Häufigkeit und Art der Nebenwirkungen war zwischen Patienten mit Child-Pugh A und B im Wesentlichen identisch. In der Intent-to-Treat-Population (2717 Patienten) erreichten Patienten mit Child-Pugh A ein medianes Gesamtüberleben von 13,6 Monate, mit Child-Pugh B7 6,2 Monate, B8 4,8 Monate und B9 3,7 Monaten und mit Child-Pugh C 2,6 Monate. Die INSIGHT-Studie untersuchte die Gabe von Sorafenib bei 782 Patienten aus Deutschland und Österreich, davon 182 Patienten mit Child-Pugh B . Das mediane Gesamtüberleben aller Patienten betrug 15,1 Monate, für Patienten mit BCLC A 29,2 Monate, B 19,6 Monate, C 13,6 Monate und D 3,1 Monate. In Abhängigkeit des Child-Pugh-Status betrug das mediane Gesamtüberleben bei A 17,6 Monate, bei B7 8,1 Monate, B8 9,5 Monate, B9 2,4 Monate. In 3 prospektiven Studien aus Brasilien mit 130 Patienten , Italien mit 300 Patienten und Japan mit 89 Patienten wurde die Anwendung von Sorafenib bei Patienten mit Child-Pugh A gegenüber B verglichen. Alle Studien zeigten ein signifikant besseres Gesamtüberleben für Patienten mit Child-Pugh A. In allen 3 Studien zeigten sich Unterschiede innerhalb der Gruppe Child-Pugh B mit einem besseren Überleben für Patienten mit B7 (4,6 - 8,7 Monate) im Vergleich zu Patienten mit ≥ B8 (2,9 – 6 Monate). Für den Einsatz weiterer Tyrosinkinase-Inhibitoren bei der Gruppe von Patienten mit Child-Pugh B liegen bisher keine ausreichenden Daten vor, die für eine Empfehlung ausreichen. Eine Beobachtung für Cabozantinib bei Child-Pugh B konnte bei einer Subgruppenanalyse aus der Phase III Studie Cabozantinib vs. Placebo (2:1 Randomisierung) in der Zweit- bzw. Drittlinie nach Sorafenib berichtet werden. Einschlusskriterium in diese Studie war Child-Pugh A, allerdings konnten 73 Patienten identifiziert werden (51 im Cabozantinib- und 22 im Plazebo-Arm), die bereits 8 Wochen nach Therapiebeginn einen Child-Pugh B Status aufwiesen . Das mediane Gesamtüberleben mit Cabozantinib war mit 8,5 Monaten signifikant besser als mit 3,8 Monaten im Plazebo-Arm. Ähnliche Daten sind für Lenvatinib in der Erstlinie aus der REFLECT Studie berichtet worden . Diese Daten lassen vermuten, dass die Therapie bei diesen Patienten trotz der Verschlechterung der Leberfunktion weitergeführt werden könnte. Zusätzlich konnte in einer retrospektiven Analyse mit 152 CHILD-Pugh B Patienten ein mOS von 13,8 Monaten unter Lenvatinib beschrieben werden, welches über 5 Monate höher lag als bei 65 Patienten, die mit Atezolizumab und Bevacizumab behandelt worden sind . Dies ist die größte bisher berichtete Gruppe von CHLD-Pugh B Patienten, die mit Lenvatinib behandelt worden sind. Berücksichtigt werden muss allerdings, dass methodisch aufgrund der berichteten Daten kein Vergleich der beiden Therapien in den zwei unterschiedlichen Kollektiven möglich ist. Aus der CheckMate 040-Studie mit Nivolumab wurden 49 Patienten mit Child-Pugh B Status berichtet . Eine PR erreichten 6 Patienten (12 %), 21 Patienten SD (43 %) und 15 Patienten eine PD (31 %) als „Best Response“. Die mediane Dauer des Ansprechens betrug 9,9 Monate. Das mediane Überleben war vergleichbar hoch für Child-Pugh B7 mit 7,6 Monaten und B8 mit 7,4 Monaten. Das Nebenwirkungsprofil war vergleichbar zwischen Child-Pugh A-Patienten in der CheckMate 040-Studie und führte zu keiner höheren Abbruchrate von Nivolumab bei Patienten mit Child-Pugh B 7/8. Beide Patientenkohorten waren ECOG 0 oder 1. Eine Metaanalyse unter kologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Einschluss von 669 Patienten mit CHILD-Pugh B zeigte für eine Therapie mit anti- PD1/anti-PD-L1 Antikörpern eine Ansprechrate von 14% und ein Gesamtüberleben von 5,5 Monaten, welches beides niedriger lag als bei der Vergleichsgruppe mit 2114 CHILD-Pugh A Patienten . Interessanterweise war das Risiko für unerwünschte Nebenwirkungen in beiden Gruppen vergleichbar und einige Patienten aus der Gruppe mit CHILD-Pugh B erreichten ein erheblich längeres Überleben und in Einzelfällen auch eine Verbesserung der Leberfunktion. Für die Kombination Atezolizumab und Bevacizumab (A+B) liegen bisher nur retrospektive Daten für Patienten mit Child-Pugh B vor. Ein Vergleich von A+B in der Erstlinie zwischen 154 Patienten mit Child-Pugh A und 48 Patienten mit Child-Pugh B (jeweils 21 Patienten mit B7 und B8 Punkten) zeigte in Bezug auf die Toxizität keinen relevanten Uterschied. Beim Gesamtüberleben war die Gruppe Child-Pugh A mit 16,8 Monaten signifikant besser als Patienten mit Child-Pugh B mit 6,7 Monaten. Auch das PFS war bei diesem Vergleich mit 7,6 vs. 3,4 Monaten für die Child-Pugh B Gruppe geringer, obwohl eine vergleichbare Ansprechrate mit 26 % bei Child-Pugh A vs. 21 % bei Child-Pugh B beschrieben wurde. In einer retrospektiven Analyse aus Deutschland zeigte sich bzgl. der Ansprech- und Krankheitskontrollrate jeweils kein Unterschied zwischen Patienten mit CHILD-Pugh B/C bzw. A (ORR 36% vs. 36% und DCR 78% vs. 77%) bei geringerem PFS und OS . Ähnliche Ergebnisse wurden aus einer deutschen \"Real World\" Studie berichtet. Um den Einfluss der Leberfunktion auf das OS zu bestimmen, wurden Kaplan-Meier- Kurven nach CPS- oder ALBI-Grad bei Studienbeginn stratifiziert. Beide Bewertungssysteme ergaben signifikante Unterschiede für das mOS: CPS-A-Patienten erreichten ein mOS von 12,0 Monaten (95% CI: 8,2-15,8) gegenüber 6,8 Monaten (95% CI: 3,1-10,5; p = 0,04) in der CPS-B-Gruppe. Das mediane OS betrug nur 1,0 Monate (95% CI: 0,0-3,9; p < 0,001) bei den wenigen CPS-C-Patienten, die in die Studie aufgenommen wurden (n = 6). Auch anhand des ALBI-Grades, der eine genauere Unterscheidung insbesondere innerhalb der CPS A-Gruppe ermöglicht, zeigten sich deutliche Unterschiede im Überleben und ALBI-Grad 1-Patienten erreichten ein mOS von 15,0 Monaten (95% CI: NE), während das mOS bei ALBI-Grad 2-Patienten mit 8,6 Monaten (95% CI: 5,4 - 11,7; p = 0,002) signifikant niedriger war, gefolgt von 3,2 Monaten (95% CI: 0,3- 6,1; p < 0,001) in der ALBI-Grad 3-Gruppe . Aus diesen retrospektiven Analysen kann zum jetzigen Zeitpunkt keine positive Empfehlung abgeleitet werden. kologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Kombination von Systemtherapie mit lokoregionärer Therapie",
+    "evidenz": "Grad B; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 102,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Child-Pugh C"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_72_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.72",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "TKI",
+    "thema": "Systemtherapie",
+    "statement": "Eine Systemtherapie mit einem zugelassenen Tyrosinkinase-Inhibitor soll nach Progress oder bei Unverträglichkeit der Erstlinie eingesetzt werden.",
+    "answer": true,
+    "explanation": "EK 3.72. TKI (Sorafenib/Lenvatinib u. a.) in der Sequenz.",
+    "leitlinie_wortlaut": "Eine Systemtherapie mit einem zugelassenen Tyrosinkinaseinhibitor soll nach Progress oder bei Unverträglichkeit von Atezolizumab und Bevacizumab bzw. Durvalumab +/- Tremelimumab angeboten werden bei HCC-Patienten im Child- Pugh-Stadium A und BCLC B oder C, mit Fernmetastasen oder einer Tumorlokalisation, die lokoregionär nicht kontrolliert oder reseziert werden kann. Bisher liegen keine Daten über die Therapiesequenz nach Versagen der Kombination Atezolizumab und Bevacizumab oder Durvalumab und Tremelimumab oder Durvalumab mono vor. Bei fehlenden Daten zu dieser Frage wird davon ausgegangen, dass alle bisher etablierten Therapien eingesetzt werden können. Weitere Informationen zur Abfolge von Systemtherapien werden in den kommenden Jahren erwartet. Sollten hierfür Studien vorliegen, werden diese im Rahmen der Living Guideline oder als Amendment der Leitlinie angefügt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 107,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Tyrosinkinaseinhibitor"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_43_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.43",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Adjuvant",
+    "thema": "Transplantation",
+    "statement": "Außerhalb von Studien sollen Patienten nach Lebertransplantation wegen HCC nicht adjuvant behandelt werden.",
+    "answer": true,
+    "explanation": "EK 3.43. Keine etablierte adjuvante Therapie nach LTx (Immunsuppression beachten).",
+    "leitlinie_wortlaut": "Außerhalb von Studien sollen Patienten mit HCC nach Lebertransplantation nicht adjuvant behandelt werden. Die Vermeidung bzw. die frühzeitige Diagnose eines möglichen Tumorrezidivs stehen bei der Nachsorge nach Lebertransplantation aufgrund eines HCC im Vordergrund. Hinsichtlich der Nachsorgeuntersuchungen weichen die Empfehlungen nach Lebertransplantation nicht von denen nach Leberresektion ab, sodass auf das Kapitel 3.4.4 verwiesen werden kann. Für eine adjuvante Tumortherapie gibt es bisher keine evidenzbasierte Grundlage, so dass diese außerhalb von Studien nicht erfolgen sollte , siehe auch Kapitel 3.5.8. Da die Immunsuppression das Tumorrezidiv als wesentlicher Risikofaktor begünstigt, sollte eine Reduktion der Immunsuppression und ggf. auch Modifikationen der applizierten Medikamente individuell erwogen werden. Verfügbare klinische Daten weisen darauf hin, dass eine Reduktion der prokarzinogenen Calcineurininhibitoren (CNI) und eine Vermeidung von T-Zell-depletierende Substanzen (ATG) das Rezidivrisiko möglicherweise verringern kann. So existieren mehrere retrospektive Analysen, die ein erhöhtes Rezidivrisiko bei hohem postoperativen Spiegel an CNI zeigen , , , . Daher sollte der Spiegel der CNI (Tacrolimus, Cyclosporin A) soweit wie möglich reduziert und die CNI durch andere Substanzen ohne prokarzinogene Wirkung ergänzt bzw. im Langzeitverlauf ggf. auch ersetzt werden. Hierzu gehören neben den mTOR-Inhibitoren auch Antimetabolite (Mycophenolat) . Für die Verwendung von mTOR Inhibitoren in Kombination mit niedrig dosierten CNI liegt bisher die beste Evidenz für eine Reduktion des Rezidivrisikos in Form von mehreren Metaanalysen , sowie prospektiv randomisierten Studien vor. Drei randomisierte Studien haben primär den nephroprotektiven Effekt von mTOR- Inhibitoren untersucht, aber im Rahmen von sekundären Endpunkten auch eine niedrigere Inzidenz von HCC Rezidiven belegt , , . In der prospektiv randomisierten SiLVER-Studie wurden 500 HCC-Patienten innerhalb und außerhalb der Mailand-Kriterien entweder mit einer mTOR-freien Immunsuppression behandelt oder mit einer Kombination aus Sirolimus und CNI. Im Langzeitverlauf fand sich in der Sirolimus-Gruppe ein leicht erhöhtes rezidivfreies Überleben nach 8 Jahren (70 % vs. 65 %, p = 0,28) und auch ein tendenziell, aber nicht statistisch signifikant besseres Gesamtüberleben (75 % vs. 68 %, p = 0,21) , , . Dabei zeigte sich aber bis 3 Jahre nach der Transplantation ein signifikant höheres rezidivfreies Überleben und bis 5 Jahre nach Transplantation ein höheres Gesamtüberleben, wobei der Effekt der Sirolimus-basierten Immunsuppression bei Patienten innerhalb der Mailand- Kriterien und bei jüngeren Patienten (< 60 Jahre) stärker ausgeprägt war. Insgesamt sprechen diese Daten somit für eine Verzögerung, wenn auch nicht Verhinderung eines Tumorrezidivs bei Sirolimus-basierter Immunsuppression. In Kombination mit den o.g. Studien zur Everolimus-basierten Immunsuppression sollte daher die Verwendung eines mTOR Inhibitors zur Reduktion der CNI-Dosis erwogen werden. Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Resektion esektion beim Hepatozellulären Karzinom ohne Leberzirrhose",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 75,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Lebertransplantation",
+      "adjuvant"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_49_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.49",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "Resektion",
+    "thema": "Nachsorge",
+    "statement": "Nach Leberresektion bei HCC in Zirrhose soll eine regelmäßige Nachsorge erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 3.49 (Grad A). Hohe Rezidivrate → strukturierte bildgebende Nachsorge.",
+    "leitlinie_wortlaut": "Nach Leberresektion beim HCC in Zirrhose soll eine regelmäßige Nachsorge erfolgen. Eine pragmatische Empfehlung zur Nachsorge beinhaltet 3-monatige bildgebende Kontrollen im ersten Jahr und 6-monatige im zweiten Jahr. Ab dem dritten Jahr kann die Nachsorge im Rahmen der Vorsorge bei Leberzirrhose erfolgen. Das Rezidivrisiko in der zirrhotischen Leber ist von mehreren Faktoren abhängig, u.a. der Genese der Leberzirrhose, sowie der Anwesenheit von nodulären Veränderungen , . Daher sollte die Nachsorge den individuellen Gegebenheiten angepasst werden, jedoch in einer zirrhotischen Leber im Anschluss im Rahmen der regelmäßigen Vorsorgeuntersuchungen fortgesetzt werden. Für weitere Details s. Kapitel 3.4.4. logie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 nterventionelle Therapieverfahren erkutane Ablation",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 79,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Nachsorge",
+      "Resektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_3_3_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "3.3",
+    "kapitel": "Hepatozelluläres Karzinom (HCC)",
+    "unterkapitel": "HCV-Fibrose",
+    "thema": "Früherkennung",
+    "statement": "Bei fortgeschrittener Fibrose mit chronischer HCV-Infektion sollte eine regelmäßige HCC-Früherkennung angeboten werden.",
+    "answer": true,
+    "explanation": "EK 3.3. Auch nach HCV-Heilung bleibt bei fortgeschrittener Fibrose ein HCC-Risiko.",
+    "leitlinie_wortlaut": "Bei fortgeschrittener Fibrose mit chronischer HCV-Infektion sollte eine regelmäßige Früherkennung angeboten werden. Patienten mit einer fortgeschrittenen Leberfibrose, auf der Grundlage einer anderen, nicht-viralen Ursache der Lebererkrankung, kann die Teilnahme an einer HCC-Früherkennung angeboten werden. Bei Patienten ohne Leberzirrhose ist die Risikoanalyse deutlich schwieriger. In der EASL-Leitlinie wird das Risiko bei fortgeschrittener Fibrose zwar gewürdigt, aufgrund der damaligen Datenlage resultierte jedoch nur eine schwache Empfehlung eine Früherkennung durchzuführen . In der AASLD-Leitlinie fehlt eine solche Betrachtung bislang . Diabetes und Adipositas sind etablierte Risikofaktoren sowohl für eine MASLD als auch für die Entwicklung eines HCC. Ursächlich sind eine Insulin-Resistenz und entzündliche Veränderungen der Leber bei MASLD, was letztlich zu einer MASH führen kann. Patienten mit MASH und Leberzirrhose weisen ein erhöhtes HCC-Risiko auf. Das HCC-Risiko bei MASH ohne Zirrhose ist hingegen variabel. Etliche jüngere Publikationen konnten zeigen, dass bei einem Teil der Patienten mit MASH und HCC keine Zirrhose vorhanden ist , . Hierbei handelt es sich jedoch in der Regel um retrospektive Kohortenstudien. Wir möchten an dieser Stelle auf die S2k-Leitlinie \"Nicht alkoholische Fettlebererkrankung\" hinweisen, die im April 2022 publiziert wurde. Im März 2024 ist ein Amendment erfolgt. Chronische Lebererkrankungen unterschiedlicher Ursachen können zu einer Fibrosierung des Lebergewebes bis hin zur Leberzirrhose führen. Die Festlegung des Fibrose-Stadiums erfolgt klassischerweise histopathologisch anhand verschiedener Klassifikationssysteme die häufig krankheitsspezifisch sind, wie z.B. dem METAVIR- Score, nach Desmet und Scheuer, Knodell oder Ishak . Eine fortgeschrittene Fibrose (≥F3) zeigt histopathologisch gemäß METAVIR-Score eine portale Faservermehrung mit zahlreichen Bindegewebssepten ohne Zirrhose. Bildgebende Verfahren, wie Sonographie, Computertomographie (CT) und Magnetresonanztomographie (MRT) erlauben erst in fortgeschrittenen Stadien den sicheren Nachweis einer Leberzirrhose. Die histopathologische Klassifikation des Fibrosestadiums anhand einer Leberbiopsie wird zunehmend verlassen aufgrund der Invasivität, der niedrigen Akzeptanz, der Kosten, aber auch wegen eines potenziellen Stichprobenfehlers aufgrund eines inhomogenen fibrotischen Umbaus. Die HCC-Entwicklung bei MASLD-Patienten mit einer fortgeschrittenen Leberfibrose oder Leberzirrhose liegt bei 1,25 pro 1000 Personenjahre für alle MASLD-Patienten und bei 14,46 pro 1000 Personenjahre für MASLD mit fortgeschrittener Fibrose und Zirrhose . Die Patientengruppe mit fortgeschrittener Fibrose und Zirrhose wird allerdings in den aktuellen Metananalysen zumeist nicht differenziert. Zur Inzidenz bei MASH F3 oder F2/F3 Patienten gibt es leider keine belastbaren Daten. Die Gruppe „MASH ohne Zirrhose und mit hohem FIB-4“ als Surrogat für das Risiko einer Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 höhergradigen Fibrose bei Kanwal et al. kommt dem noch am nächsten. Hier wird eine Inzidenz von 0,08 pro 1000 Personenjahre für MASH Patienten mit niedrigem FIB-4 beschrieben. Eine große retrospektive Kohortenstudie aus Deutschland konnte die Rolle von FIB-4 als Risikomarker für die Entstehung eines HCC bestätigen . Die kumulative Inzidenz innerhalb von 10 Jahren war hier in der Gruppe mit FIB-4 > 1,30 etwa 10-fach höher als mit FIB-4 < 1,30 (0,47 % vs. 0,04 %). Diese Daten unterstützen die aktuellen HCC-Überwachungsempfehlungen für MASLD. Zur Identifikation von Patienten mit „fortgeschrittener Fibrose“ können neben der Histologie auch verfügbare nichtinvasive Verfahren und Scores mit der Kategorisierung „erhöhtes Risiko“ herangezogen werden. Extrahepatische Karzinome sind bei MASLD achtmal häufiger als das HCC und nicht mit dem Stadium der Leberfibrose assoziiert. Da die weltweite Prävalenz von MASLD bei etwa 25 % liegt und weiter zunimmt, unterstützen diese Daten die Prävention und die über die Leber hinausgehende Früherkennung von Krebs bei Erwachsenen mit MASLD. Zur nichtinvasiven Bestimmung der Lebersteifigkeit als Surrogatmarker einer Leberfibrose oder Zirrhose stehen deshalb heute verschiedene elastographische Verfahren, wie z.B. die transiente hepatische Elastographie (Fibroscan®), Scherwellen- Elastographie – auch als Acoustic Radiation Force Impulse (ARFI) Elastographie bezeichnet - und die MR-Elastographie, zur Verfügung . Daneben kommen verschiedene blutbasierte, häufig krankheitsspezifische Fibrose-Scores zur Einschätzung einer Leberfibrose zur Anwendung, z.B. APRI-Index, MASLD Fibrose Score, FIB-4 u.a. , , , . Bei den meisten Patienten lässt sich mithilfe nichtinvasiver Verfahren das Vorhandensein einer fortgeschrittenen Fibrose oder einer Leberzirrhose zuverlässig vorhersagen , . Bei Patienten ohne chronische HBV und ohne Leberzirrhose ist das Risiko für die Entwicklung eines HCC deutlich niedriger . Dementsprechend empfehlen weder AASLD noch EASL eine routinemäßige Früherkennung für diese Populationen , . Patienten mit einer Leberzirrhose bei chronischer HCV weisen ein hohes HCC-Risiko mit einer jährlichen HCC-Inzidenz von 3- 8 % auf , . Liegt keine fortgeschrittene Leberfibrose vor, ist das Risiko gering . Das HCC-Risiko sinkt bei Patienten mit chronischer HCV nach erfolgreicher Viruseradikation (SVR, sustained virological response) deutlich auf 0,33 %-0,9 %/Jahr , . Bei bereits vorhandener Leberzirrhose ist das HCC-Risiko trotz SVR weiterhin erhöht. In der Literatur wird für diese Patienten ein HCC-Risiko zwischen 1,5 – 2,4 %/Jahr berichtet , , . Patienten mit SVR und einem erhöhtem AST/Thrombozyten-Ratio-Index (APRI) (APRI >2), ein nichtinvasiver Marker zur Detektion einer Leberfibrose, weisen auch ohne gesicherte Leberzirrhose ein leicht erhöhtes HCC-Risiko von 0,48 %/Jahr auf . Die asiatisch-pazifische HCC-Leitlinie hat diese relevanten Änderungen der Risikofaktoren bereits implementiert . Entsprechend wird eine Früherkennung dort bei chronischer HCV nach SVR für ältere Patienten bzw. bei erniedrigter Thrombozytenzahl bzw. beim Vorliegen von Komorbiditäten wie Diabetes bzw. fortgesetztem Alkoholkonsum unabhängig vom Nachweis einer Leberzirrhose empfohlen. Weiterhin nimmt der Anteil der Patienten mit einem HCC auf dem Boden einer MASH insbesondere in den USA und Europa deutlich zu und häufig liegt bei diesen Patienten noch keine Zirrhose vor . Die HCC-Risikobewertung von Patienten mit MASH ohne Vorliegen einer Leberzirrhose ist deutlich schwieriger , , . Wir möchten an dieser Stelle auf die aktualisierte S2k-Leitlinie \" Nicht-alkoholische Fettlebererkrankung\" hinweisen, die derzeit überarbeitet wird. Hier ist geplant auf die Vorsorgeuntersuchungen bei einer MASH oder MASLD detailliert einzugehen. Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Aufgrund der Häufigkeit einer MASLD ist zu erwarten, dass dieser Risikofaktor in der nächsten Dekade der häufigste HCC-Auslöser in der westlichen Welt sein wird . Ein Typ-2-Diabetes verdoppelte das Risiko für ein Fortschreiten der MASLD und das Mortalitätsrisiko stieg mit dem Krankheitsstadium an . Eine wichtige Aufgabe der nächsten Jahre wird sein, Patienten mit MASLD und erhöhtem HCC-Risiko anhand prädiktiver Marker zu identifizieren und diese im Rahmen einer Früherkennung zu überwachen . Hierzu können gemäß deutscher MASLD-Leitlinie eine Kombination von blutbasierten/demographischen Bewertungssystemen und nichtinvasiver apparativer Diagnostik zur Anwendung kommen , . Bei Vorliegen einer MASH gibt es mehrere Genvarianten (PNPLA3 p.I148M, TM6SF2 p.E167K und MBOAT7 rs641738 ), die ein erhöhtes Risiko für die Entwicklung eines HCC aufweisen, wohingegen eine Variante im HSD17B13 Gen rs72613567 das Risiko reduziert. Eine Addition der Risiko-Allele im PNPLA3, TM6SF2 mit dem HSD17B13 Wildtyp-(Risiko-)Allel ergab bei Vorliegen von 4 Risiko-Allelen ein 3,3-fach erhöhtes und bei Vorliegen von 5-6 Risiko-Allelen ein 29-fach erhöhtes HCC Risiko in der Bevölkerung (über 100.000 Personen aus Copenhagen, über 300.000 Personen aus der UK Biobank) . Aufgrund des niedrigen positiven prädiktiven Werts für eine HCC-Entwicklung kann der Score aber nicht für ein unselektives Screening in der Allgemeinbevölkerung empfohlen werden. Der Wert für das Screening in Risikoindividuen muss prospektiv weiter untersucht werden. kobewertung bei HCV, HBV, MASH und MASLD HCC-Risiko Referenzen (jährliche Inzidenz) Insgesamt 1,3 % Kanwal 2020 , Regression der fortgeschrittenen Leberfibrose* 1,6 % Keine fortgeschrittene Leberfibrose 0,4 % Insgesamt 2,3% Kanwal 2020 , Persistierende fortgeschrittene Leberfibrose* 6,5% Regression der fortgeschrittenen Leberfibrose* 1,9 % HBsAg-Trägerstatus** 0,03-0,07 % Raffetti 2016 , Chronische HBV ohne Zirrhose (unbehandelt) ** 0,12 % Chronische HBV mit Zirrhose (unbehandelt) ** 2,03 % Raffetti 2016 , Chronische HBV ohne Zirrhose (behandelt) 0,01-1,4 % Papatheodor idis 2015 Chronische HBV mit Zirrhose (behandelt) 0,9-5,4 % Papatheodor idis 2015 Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 HCC-Risiko Referenzen (jährliche Inzidenz) MASH mit Zirrhose und mit hohem FIB-4*** 1,36 % Kanwal 2018 , MASH mit Zirrhose und normalem FIB-4 0,48 % Kanwal 2018 , MASH ohne Zirrhose und mit hohem FIB-4 0,04 % Kanwal 2018 , MASH ohne Zirrhose und normalem FIB-4 0,004 % Kanwal 2018 , Ohne Leberfibrose 0,001 % Simeone 2017 , Fortgeschrittene Leberfibrose 0,03 % Orci 2022 Ohne Zirrhose 0,03 % Zirrhose 3,78 % Ohne Leberfibrose 0,07 % Björkstrom 2022 te Leberzirrhose (ALD) 1,0 % Huang 2023 es FIB-4-Scores erfolgt anhand folgender Formel: Alter (Jahre) × GOT (U/l) / (109/l) × √GPT (U/l)]. Das Risiko für eine fortgeschrittene (≥ Metavir F3) Leberfibrose wurde -Score > 3,25 definiert; bei einem FIB-4-Score < 1,45 ist eine fortgeschrittene Leberfibrose bei einem FIB-4-Score zwischen 1,45-3,25 erfolgt zusätzlich die Bestimmung des APRI-Score iko; < 1,: geringes Risiko) zur Risikobewertung. a. ein FIB-4-Score ≥ 2,67 Seltene Erkrankungen mit einem erhöhten Risiko für die Entwicklung eines HCCs Bei selteneren Erkrankungen kann ein erhöhtes Risiko für die Entwicklung eines HCC vorliegen. Unter anderem ergaben Daten aus dem Schwedischen Porphyrie-Register bei den über 50-Jährigen eine jährliche Inzidenz an primären Lebertumoren von 1,8% (Hazard Ratio 38). Bisher liegen diese Daten nur als Abstract vor, vergleichbare Daten wurde aber bereits 1984 in einer früheren schwedischen Kohorte und kürzlich auch aus Norwegen publiziert . Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Bei Vorliegen einer Glykogenspeicherkrankheit, insbesondere Typ Ia und Ib, muss mit dem Auftreten von Adenomen und maligner Transformation gerechnet werden , Zirrhose, ein HCC zu entwickeln . Als Risikofaktoren für die HCC-Entwicklung werden hier ein Zustand nach Splenektomie, die Präsenz einer Fibrose oder Zirrhose, eine persistierende Hyperferritinämie sowie eine begleitende HBV- oder HCV-Infektion angesehen . Die Tyrosinämie Typ I ist inzwischen in das Neugeborenen-Screening aufgenommen worden. Unbehandelt ist sie der häufigste Grund für das HCC beim Kind. Seit Einführung der Therapie mit Nitisinon hat sich die Prognose der behandelten Kinder deutlich verbessert, sodass die Patienten i. d. R. das Erwachsenenalter erreichen . Das Risiko für das HCC ist vermutlich lebenslang erhöht, sodass jeder Patient mit Tyrosinämie Typ I intensiv überwacht werden sollte. Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Prophylaktische und therapeutische Maßnahmen zur Reduktion des HCC-Risikos Primäre Prävention",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 36,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "HCV",
+      "Fibrose",
+      "Früherkennung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_5_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.5",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "Gallenblasenpolyp",
+    "thema": "Vorsorge",
+    "statement": "Gallenblasenpolypen ≥ 10 mm sollten nur bei Symptomen mittels Cholezystektomie behandelt werden.",
+    "answer": false,
+    "explanation": "EK 4.5: ab ≥ 10 mm UNABHÄNGIG von der Symptomatik Cholezystektomie anbieten.",
+    "leitlinie_wortlaut": "Patienten mit Gallenblasenpolypen ≥ 10 mm sollte unabhängig von der Symptomatik eine Cholezystektomie angeboten werden. Die Indikationsstellung zur Therapie bei Cholezystolithiasis und Gallenblasenpolypen erfolgt gemäß der aktuellen S3-Leitlinie zur Prävention, Diagnostik und Behandlung von Gallensteinen . Aufgrund des deutlich erhöhten Malignitätsrisikos bei Polypen ≥ 1 cm Durchmesser bei gleichzeitig vorhandener Cholezystolithiasis als weiteren Risikofaktor wird eine Cholezystektomie unabhängig von der Symptomatik empfohlen. Bei fehlender Indikation für eine Cholezystektomie wird ein individuelles Vorgehen, basierend auf dem Vorhandensein von Risikofaktoren für neoplastische Gallenblasenpolypen (Alter > 50 Jahre, bekannte PSC, Zugehörigkeit zu einer indigenen Population oder Vorhandensein eines sessilen Polypen) in Analogie zu einem Delphi-Methode-basierten Expertenkonsens empfohlen . Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 123,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Gallenblasenpolyp",
+      "Cholezystektomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "vorsorge",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_7_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.7",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "PSC",
+    "thema": "Vorsorge",
+    "statement": "Bei Patienten mit primär sklerosierender Cholangitis (PSC) sollte halbjährlich eine Bildgebung zur Cholangiokarzinom-Früherkennung erfolgen.",
+    "answer": true,
+    "explanation": "EK 4.7. PSC = wichtigster Risikofaktor für CCA → Surveillance.",
+    "leitlinie_wortlaut": "Bei Patienten mit PSC sollte halbjährlich eine Bildgebung im Rahmen der Cholangiokarzinom-Früherkennung durchgeführt werden. Im Gegensatz dazu besteht aufgrund des deutlich erhöhten CCA-Risikos bei Patienten mit einer PSC ein hoher Bedarf für eine effektive Früherkennung. Daten, die einen Überlebensvorteil einer CCA-Früherkennung bei Patienten mit PSC aufzeigen, fehlen jedoch . In vielen Zentren erfolgt heute bei Patienten mit gesicherter PSC eine CCA-Früherkennung mittels Magnetresonanztomographie (MRT) und Magnetresonanzcholangiopankreatikographie (MRCP) in 6- bis 12-monatlichem Abstand und zusätzlich die serielle Bestimmung des Tumormarkers CA19-9 . Für eine MRT/MRCP-basierte Früherkennung spricht eine hohe Sensitivität von 89 % bei einer Spezifität von 75 %. Die Sensitivität des Ultraschalls ist niedriger, aufgrund der Verfügbarkeit, der niedrigeren Kosten und der hohen Akzeptanz findet die Sonographie jedoch breite Anwendung bei der Überwachung von PSC-Patienten . Im Rahmen der Konsensuskonferenz wurde festgehalten, dass aufgrund der höheren Sensitivität eine Abdomensonographie im Wechsel mit einem nativen MRT inklusive MRCP erfolgen sollte. Hierbei sollen sowohl die Leber als auch die Gallenblase mitbeurteilt werden. Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Histopathologische und molekulare Diagnostik Typisierung und Staging von biliären Karzinomen",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 124,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "PSC",
+      "CCA-Früherkennung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_3_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.3",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "Hereditär",
+    "thema": "Vorsorge",
+    "statement": "Sowohl das Lynch-Syndrom als auch eine BRCA-Keimbahnmutation stellen Risikofaktoren für die Entwicklung eines biliären Karzinoms dar.",
+    "answer": true,
+    "explanation": "EK 4.3. Hereditäre Disposition relevant.",
+    "leitlinie_wortlaut": "Sowohl das Lynch-Syndrom als auch eine BRCA-Keimbahnmutationen stellen Risikofaktoren für die Entwicklung eines biliären Karzinoms dar. Cholangiokarzinome (CCA, synonym: maligne biliäre Tumoren) sind eine heterogene Gruppe epithelialer Neoplasien, die meistens eine cholangiozytentypische Differenzierung aufweisen . Je nach anatomischer Lokalisation des Primärtumors werden intrahepatische (iCCA) von extrahepatischen (eCCA) CCA und vom Gallenblasenkarzinom unterschieden. Extrahepatische Tumoren werden weiter in perihiläre (synonym Klatskin-Tumor, pCCA) und distale CCA (dCCA) aufgeteilt. Diese Unterscheidung ist aufgrund unterschiedlicher Risikofaktoren, Unterschiede in Bezug auf molekulare und klinische Charakteristika und unterschiedlicher Therapieansätze relevant , . In Deutschland wurde im Jahr 2016 bei etwa 5290 Menschen mit einem eCCA (etwa 68 %; darunter etwa 11 % pCCA) oder einem Gallenblasenkarzinom (etwa 32 %) diagnostiziert. Hinzu kommen etwa 2000 Patienten mit einem iCCA, die aufgrund der ICD-Kodierung als primäre maligne Lebertumoren erfasst werden. Somit liegt die Gesamtinzidenz in Deutschland bei mehr als 7000 Neuerkrankungen/Jahr (http://krebsdaten.de). Die Inzidenz in Deutschland ist in den letzten 20 Jahren aufgrund der Zunahme des iCCA angestiegen. Mit zunehmendem Lebensalter steigt das Risiko kontinuierlich an. In den letzten 20 Jahren ist die Inzidenz des CCA bei Frauen, insbesondere durch die sinkende Gallenblasenkarzinom-Inzidenz, leicht rückläufig. Die Inzidenz der verschiedenen anatomischen Tumorlokalisationen variiert weltweit erheblich, vermutlich aufgrund unterschiedlicher Prävalenzen von Risikofaktoren kologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 97]. In Südostasien ist die CCA-Inzidenz höher als in anderen Ländern. Ein wichtiger sikofaktor dort sind parasitäre Infektionen mit Leberegeln wie Opisthorchis viverrini er Clonorchis sinensis, die zu chronischen Cholangitiden führen , . fektionen mit Opisthorchis viverrini oder Clonorchis sinensis sind endemisch in dostasien und sind mutmaßlich jährlich für mehr als 7000 CCA-Neuerkrankungen dieser Region verantwortlich . In westlichen Ländern spielen Leberegel- fektionen als CCA-Risikofaktor keine nennenswerte Rolle. Weitere etablierte sikofaktoren mit deutlich höherer Inzidenz in Südostasien sind eine Cholelithiasis, oledochus-Zysten, ein Caroli-Syndrom und rezidivierende pyogene Cholangitiden 97], . Kongenitale Anomalien, wie z.B. Choledochuszysten oder ein Caroli- ndrom, weisen ein hohes CCA-Risiko mit einer Prävalenz von bis zu 11 % auf , 03]. e primär sklerosierende Cholangitis (PSC) ist in westlichen Ländern ein relevanter sikofaktor sowohl für intra- und extrahepatische Cholangiokarzinome als auch für llenblasenkarzinome. Das kumulative 10-Jahresrisiko für ein Cholangiokarzinom i PSC liegt bei 9 % und ist damit deutlich höher als in der Allgemeinbevölkerung 04]. Ob bei PSC-Patienten Alkoholkonsum und Nikotin weitere Ko-Risikofaktoren rstellen, ist weiter unklar. Ebenso bleibt unklar, ob eine chronisch entzündliche rmerkrankung ohne Vorhandensein einer PSC einen relevanten Risikofaktor rstellt . Eine Leberzirrhose, eine chronische Hepatitis-C-oder Hepatitis-B- rusinfektion, Alkoholkonsum und Diabetes sind in westlichen Ländern wichtige sikofaktoren für die Entwicklung eines iCCA , , . Insbesondere ist s Risiko für das iCCA bei Diabetes und/oder Adipositas erhöht . Bei tabolische Dysfunktion-assoziierter steatotischer Lebererkrankung (MASLD) ist das CA-Risiko leicht erhöht . Ebenso weisen Raucher ein gering erhöhtes Risiko für e Entwicklung eines intra- und extrahepatischen CCAs, jedoch nicht für ein llenblasenkarzinom auf . Weitere etablierte Risikofaktoren sind eine olelithiasis und biliäre Zysten. Das höchste Risiko sowohl für die Entwicklung eines CA als auch eines eCCA weisen Patienten mit Choledochuszysten auf (relatives siko 26,7 bzw. 34,9) . auen erkranken häufiger als Männer an einem Gallenblasenkarzinom. Der chtigste Risikofaktor für die Entwicklung eines Gallenblasenkarzinoms jedoch sind llensteine. Etwa 70-90 % aller Patienten mit einem Gallenblasenkarzinom weisen ne Cholelithiasis auf. Insbesondere findet sich eine hohe Gallblasenkarzinom- zidenz in der indigenen Bevölkerung Nord- und Lateinamerikas und Neuseelands. itere wichtige Risikofaktoren für die Entwicklung eines Gallenblasenkarzinoms sind n höheres Alter, Adipositas, eine familiäre Häufung und Gallenblasenpolypen , 09]. Gallenblasenpolypen können eine Wachstumstendenz aufweisen und so hließlich entarten. Genaue Daten hierzu sind jedoch aufgrund des langsamen chstums – oftmals über Dekaden - schwer zu interpretieren . In einer großen hortenstudie mit Langzeitverlauf zeigte sich eine Detektionsrate neoplastischer lypen (Adenom oder Gallenblasenkarzinom) von 1,7 % nach einem Jahr, von 2,8 % ch 5 Jahren und von 4 % nach 8 Jahren nach erstmaliger Diagnosestellung eines llenblasenpolypen . Die Prävalenz von Gallenblasenpolypen in Deutschland trägt bis zu 6 %. Die Adenom-Prävalenz liegt unter 5 % . Als Risikofaktoren für nen neoplastischen Polypen zeigten sich das gleichzeitige Vorhandensein einer olelithiasis und die Polypengröße. Polypen mit ≥ 10 mm weisen ein 24-fach höhtes Risiko für eine Malignität auf . n weiterer Risikofaktor für ein Gallenblasenkarzinom ist eine chronische tzündung, verursacht durch Salmonella typhi bzw. parathyphi oder Helicobacter kologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 lis . Eine Besiedelung der Gallenblase mit Salmonella typhi bei uerausscheidern ist mit einem 12-fach erhöhten Risiko für die Entwicklung eines llenblasenkarzinoms assoziiert . e als klassische Präkanzerose angesehene Kalzifizierung der Gallenblasenwand, die genannte Porzellangallenblase, wird in der jüngeren Literatur als Risikofaktor für n Gallenblasenkarzinom differenzierter betrachtet , . Das relative Risiko r ein Gallenblasenkarzinom liegt bei 4,6 und ist niedriger als in älteren beiten angegeben . kologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 ophylaktische und therapeutische Maßnahmen zur sikoreduktion der Entstehung von biliären Karzinomen",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 120,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Lynch",
+      "BRCA",
+      "biliär"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ],
+      "spezial": [
+        "lynch",
+        "brca"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_14_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.14",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "Staging",
+    "thema": "Diagnostik",
+    "statement": "Zur initialen Diagnostik und zum Staging eines Cholangiokarzinoms mit kurativer Intention sollen Schnittbildverfahren (CT/MRT) eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 4.14 (Grad A). Kontrastmittel-CT/MRT zur Resektabilitätsbeurteilung.",
+    "leitlinie_wortlaut": "Zur initialen Diagnostik und zum Staging bei kurativer Intention eines Cholangiokarzinoms sollen eine dynamische hepatische MRT-Untersuchung sowie ein mehrphasisches kontrastverstärktes CT des Thorax und des Abdomens* vorliegen. *Wenn komplettes MRT-Abdomen vorliegt, muss kein CT des Abdomens ergänzt werden. CT der Leber in spätaterieller Phase und zusätzlich Abdomen in portalvenöser Phase. Die Rolle der 18F-FDG-PET bei der Diagnose und dem Staging von Patienten von ICCAs wurde bis dato kontrovers diskutiert. In einer neuen Metaanalyse wurde die Rolle der 18F-FDG-PET für Staging und Re-Staging bei insgesamt 2125 Patienten aus 47 Studien untersucht . Die Sensitivität und Spezifität der 18F-FDG-PET in der Initialdiagnose betrug je 91,7 % (95% CI: 89,8; 93,2) bzw. 51,3 % (95% CI: 46,4; 56,2); ologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 einen Lymphknotenbefall lag die Sensitivität bei 88,4 % (95% CI: 82,6; 92,8) und Spezifität bei 69,1 % (95% CI: 63,8; 74,1); für das Vorliegen von Fernmetastasen die Sensitivität bei 85,4 % (95% CI: 79,5; 90,2) und die Spezifität bei 89,7 % (95% 86,0; 92,7). Bei einem Verdacht auf ein Rezidiv betrug die Sensitivität 90,1 % (95% 84,4; 94,3) und die Spezifität 83,5 % (95% CI: 74,4; 90,4). Somit weisen diese ualisierten Daten darauf hin, dass der Einsatz von 18F-FDG-PET für das Staging mphknoten und Fernmetastasen) und die Identifizierung von Rezidiven bei ektierten Patienten mit CCA für die Therapiestratifizierung sinnvoll sein kann, besondere wenn die Identifizierung okkulter Krankheitsherde das therapeutische gehen verändern würde oder wenn die Diagnose eines Rezidivs nach der Standard- dgebung weiterhin unklar bleibt. Insofern kann der Einsatz der 18F-FDG-PET bei nach interdisziplinären Tumorboardempfehlung für Staging und Re-Staging iziert sein. ersuchungsmethoden zur Darstellung der maximalen breitung des Tumors",
+    "evidenz": "Grad A; LoE 4",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 134,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Staging",
+      "CCA"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_22_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.22",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "Resektion",
+    "thema": "Chirurgie",
+    "statement": "Eine Resektion eines pCCA, dCCA oder iCCA soll erfolgen, wenn eine komplette (R0-)Resektion erreichbar ist.",
+    "answer": true,
+    "explanation": "EK 4.22. Chirurgie = einzige kurative Option beim CCA.",
+    "leitlinie_wortlaut": "Eine Resektion eines pCCA, dCCA oder iCCA soll erfolgen, wenn eine komplette Resektion (R0-Resektion) möglich erscheint. Die radikale chirurgische Entfernung allen Tumorgewebes stellt gegenwärtig die einzige kurative Behandlung des nicht fernmetastasierten iCCA und pCCA dar. Multifokalität (bei iCCA), Lymphknotenmetastasen (N1) und eine Gefäßinvasion sind die wichtigsten prognoserelevante Faktoren, stellen jedoch keine Kontraindikation dar, sofern eine R0-Resektion erreichbar scheint , , , , , ausgedehnte Leberresektionen , , . Postoperativ sollte eine adjuvante Therapie erfolgen (siehe BILCAP-Studie (Capecitabine compared with observation in resected biliary tract cancer)) . Bei initial irresektablem oder sogenanntem borderline-resektablem iCCA kann nach einer Downsizing Therapie eine Resektion erwogen werden .",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 143,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Resektion",
+      "CCA"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "stadium": [
+        "resektabel"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_25_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.25",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "Gallenblasen-Ca",
+    "thema": "Chirurgie",
+    "statement": "Bei intra-/postoperativem Nachweis eines Gallenblasenkarzinoms ≥ T1b soll bei kurativer Intention eine Nachresektion erfolgen.",
+    "answer": true,
+    "explanation": "EK 4.25. Ab T1b Leberbett-Nachresektion + Lymphadenektomie (inzidentelles GB-Ca).",
+    "leitlinie_wortlaut": "Bei intra- oder postoperativem Nachweis eines Gallenblasenkarzinoms der Kategorie ≥ T1b, soll bei kurativem Ansatz eine onkologische Resektion oder Nachresektion erfolgen. Aktuelle Leitlinien für die Behandlung von inzidentellen Gallenblasenkarzinomen empfehlen eine Nachresektion bei T1b-, T2- und T3-Läsionen, es sei denn, dies ist durch eine fortgeschrittene Erkrankung oder einem schlechten Allgemeinzustandes des Patienten kontraindiziert , . Es besteht Konsens, dass die R0-Resektion der stärkste prognostische Faktor für das Langzeitergebnis und die Heilungschancen bei Patienten mit Gallenblasenkarzinom ist , . Diesbezüglich zeigten Lee et al. in einer multivariaten Analyse bei Patienten mit einem T1b-Tumor, dass die R1/R2-Resektion und die Lymphknotenmetastasierung eine schlechte Prognose signifikant vorhersagten, wobei die 1-Jahres-Überlebensrate bei T1b-Tumoren, die sich keiner radikalen Exzision unterziehen, auf 50 % sank . Die Reoperation sollte so früh wie möglich durchgeführt werden, sobald das endgültige histopathologische Staging vorliegt, die Metastasenaufarbeitung abgeschlossen ist und der Patient für die Reoperation geeignet ist, die je nach Überweisungszeitpunkt und Krankheitsstadium 2-4 Wochen nach der Cholezystektomie erfolgen kann. Eine radikale Reoperation wird für Patienten mit der Krankheit ≥ pT1b empfohlen. Eine radikale Cholezystektomie mit Lymphadenektomie sollte bei Patienten mit T1b- GBCA empfohlen werden, bei denen kein erhöhtes Risiko für postoperative Komplikationen besteht. , Die Resektion der extrahepatischen Gallenwege ist die Standardoperation bei Gallenblasenkarzinomen, die (makroskopisch oder mikroskopisch) den Hals der Gallenblase und/ oder den D. Cysticus betreffen .",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 145,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Gallenblasenkarzinom",
+      "Nachresektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_28_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.28",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "iCCA",
+    "thema": "Transplantation",
+    "statement": "Das intrahepatische Cholangiokarzinom (iCCA) ist eine etablierte Standardindikation zur Lebertransplantation.",
+    "answer": false,
+    "explanation": "EK 4.28: eine Lebertransplantation für das iCCA soll außerhalb von Studien NICHT erfolgen.",
+    "leitlinie_wortlaut": "Eine Lebertransplantation für das iCCA soll außerhalb von Studien nicht erfolgen. Derzeitig stellt das iCCA eine Kontraindikation für eine Lebertransplantation in den meisten Ländern weltweit aufgrund früher Tumorrezidive und schlechten Überlebensraten (5-Jahres-Gesamtüberleben zwischen 35 % und 47 %) dar , Zu beachten ist, dass dies nicht immer Intention-to-Treat Analysen sind, sondern die Diagnose eines iCCA vielfach erst nach der Lebertransplantation im finalen histologischen Befund der Explantatleber gestellt wird, die Lebertransplantation jedoch ursprünglich mit der Indikation eines HCCs durchgeführt wurde , . Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Im Fall eines iCCA < 2 cm (d.h. „sehr frühes“ iCCA) scheint die Lebertransplantation jedoch mit ähnlichen Ergebnissen wie bei einem HCC innerhalb der Mailand-Kriterien einherzugehen . Dieses Konzept wurde durch eine weitere Studie validiert . Lunsford et al. haben vor kurzem ein Protokoll für die Lebertransplantation bei Patienten mit lokal fortgeschrittenem, inoperablem iCCA nach neoadjuvanter Chemotherapie erstellt. Voraussetzung war eine dauerhafte Regression oder zumindest kein Tumorprogress unter Chemotherapie. 6 von 21 rekrutierten Patienten wurden transplantiert und hatten eine Gesamtüberlebensrate nach 5 Jahren von 83 % (5 der 6 Patienten), 3 davon ohne Rezidiv.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 146,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "iCCA",
+      "Lebertransplantation"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_33_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.33",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "Drainage",
+    "thema": "Palliativ",
+    "statement": "Eine palliative biliäre Drainage soll Patienten mit symptomatischem Gallenwegsverschluss angeboten werden.",
+    "answer": true,
+    "explanation": "EK 4.33. Cholestase/Cholangitis lindern (Stent/PTCD).",
+    "leitlinie_wortlaut": "Eine palliative biliäre Drainage soll Patienten mit symptomatischem Gallenwegsverschluss angeboten werden. Eine palliative Drainage sollte in einem erfahrenen Zentrum durchgeführt werden, da hier auch alternative Drainageverfahren zur Verfügung stehen. Die interventionelle Drainage des Gallenwegsystems bei malignem Gallenwegsverschluss ermöglicht eine Symptomverbesserung, eine Verbesserung der Leberfunktion und die Behandlung einer Cholangitis. Mit einem dieser Therapieziele ist eine palliative biliäre Drainage bei biliären Karzinomen angezeigt. Die interventionelle Vorgehensweise ist hierbei abhängig von der Lokalisation des Verschlusses bzw. dem vorliegenden biliären Tumor (intrahepatisches vs. perihiläres vs. distales Cholangiokarzinom). Das Vorgehen wird darüber hinaus von der verfügbaren Technik mitbeeinflusst (ERCP, PTCD, EUS-gesteuertes biliäres Drainageverfahren). Eine detaillierte präinterventionelle Behandlungsplanung auf der Basis aussagekräftiger Bildbefunde (in der Regel MRCP) ist dabei unabdingbar . Die Behandlungsintention sollte vor der Intervention definiert und dokumentiert werden und muss das Ziel einer kompletten vs. inkompletten Drainage einschließen. Grundsätzlich kann die Lebensqualität bei Hyperbilirubinämie durch eine erfolgreiche Drainage verbessert werden . Für ein verlängertes Überleben durch eine erfolgreiche Drainage in der Palliation gibt es zahlreiche Hinweise . Es wird eine 30-Tages-Mortalität bei der distalen biliären Stenose von 2 bis 20 % und von 9 bis 20 % in der perihilären Stenose berichtet , , . Randomisierte Studien fokussieren überwiegend auf den distalen, periampullären malignen Gallenwegsverschluss , . Hier kann eine primär retrograde endoskopische Drainage in der Regel empfohlen werden. Ein selbstexpandierender Metallstent (SEMS) sollte als primäre Drainageoption gewählt werden und scheint einer Plastikendoprothese überlegen . Bei palliativer Indikation kann ein ummantelter, entfernbarer oder nicht-ummantelter SEMS eingesetzt werden. Die Durchführung einer EUS-gesteuerten Drainage kann dann einer PTCD nach frustranem ERCP-Versuch überlegen sein , . Erste randomisierte Studien sehen bereits im primären Drainageversuch die EUS-gesteuerte Technik der ERCP ebenbürtig , Beim perihilärem, symptomatischen Gallenwegsverschluss werden PTCD oder ERCP mit unilateraler oder bi-/trilateraler Drainage eingesetzt. Eine EUS-gesteuerte Drainage kommt nur in Ausnahmefällen (z.B. transgastrische Drainage der linken Leber) in Frage. Eine Drainage von mindestens 50 % des (mutmaßlich funktionalen) Leberanteils wird empfohlen, wobei eine Kontrastierung von nicht drainierten Gangsegmenten vermieden werden sollte . Randomisierte Studien berichten von höherem Erfolg und niedrigeren Komplikationen der PTCD vs. ERCP beim perihilären Gallenwegsverschluss , , , , aber die Lebensqualität könnte bei dem inneren Drainageverfahren höher sein . Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Einige frühere randomisierte Daten sprechen für eine unilaterale Drainage, indem auch nur dieser Gangabschnitt dargestellt und intubiert wird , . Um eine Cholangitis durch abgehängte Gangareale zu vermeiden, ist allerdings eine effektive Drainage aller dargestellten Gänge hilfreich , . Das weist auch auf die für die klinische Situation unzureichende Vereinfachung bei Studien und der einzelnen Patientenbehandlung hin, die im uni- vs. bilateralen Drainageansatz zu sehen ist. Da das Gallenwegsystem zumindest drei Doppelsegmente umfasst, kann eine komplette Drainage in fortgeschrittenen perihilären Obstruktionen erst mit einem Dreifach- Stenting erreicht werden. Ein uni- vs. bilateraler Ansatz in Studien sollte daher zukünftig für die Zielbestimmung einer kompletten vs. inkompletten Drainage verlassen werden. Dies wird in der Studienkonzeption wie auch in der Behandlungsplanung in der Klinik nicht immer berücksichtigt. Randomisierte Studien konnten die effektive Drainage mittels – in der Regel bilateralen – SEMS zeigen , gleichgestellt zu sein . Es kommen nur nicht-ummantelte, damit nicht entfernbare SEMS in Frage, damit Seitenäste durch die Maschen des Stents drainiert werden können. Eine komplette Drainage muss als Ziel erreichbar sein. Das Outcome im weiteren Verlauf nach SEMS Einlage im Vergleich zu Plastikstents ist nicht belegt. Eine Reintervention bei Komplikationen oder erneuter Symptomatik scheint nach Implantation von permanenten SEMS erschwert. Eine primäre Therapie mit multisegmentaler Plastikstenteinlage kann beim perihilären biliären Verschluss damit auch weiterhin als vorrangiger Therapieansatz gesehen werden. Die Drainage eines Gangabschnitts, bei dem bereits eine Atrophie der abhängigen Lebersegmente eingetreten ist, sollte nicht erfolgen, da erhöhte Komplikationsraten und keine wesentliche Verbesserung des Patienten-Outcomes zu erwarten sind . Da ein Drainageversuch mit einer Technik – bspw. der ERCP – frustran verlaufen kann, sollte zumindest eine alternative Technik – bspw. PTCD und/oder EUS-gesteuerte biliäre Drainage – verfügbar sein. Die Häufigkeit, mit der eine biliäre Drainage im Zentrum vorgenommen wird, scheint einen wesentlichen Einfluss auf den Erfolg des Eingriffs und das Outcome beim Patienten zu haben , . Beides spricht für eine Behandlung dieser Patienten im erfahrenen Zentrum. Literaturübersicht s. Anhang (Tabelle 30) Intraduktale lokoregionäre Therapieverfahren",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 153,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "biliäre Drainage",
+      "Cholestase"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "supportiv"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_37_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.37",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "Capecitabin",
+    "thema": "Adjuvanz",
+    "statement": "Nach R0-Resektion eines biliären Karzinoms ist aufgrund des geringen Rezidivrisikos keine adjuvante Therapie erforderlich.",
+    "answer": false,
+    "explanation": "Empf. 4.37 (Grad B): wegen HOHEM Rezidivrisiko sollte adjuvant Capecitabin gegeben werden (BILCAP).",
+    "leitlinie_wortlaut": "Aufgrund des hohen Rezidivrisikos sollte Patienten nach chirurgischer Tumorentfernung (R0, R1) eine adjuvante Systemtherapie mit Capecitabin angeboten werden. 1: Updaterecherche 2023: Luvira 2021 Aufgrund des subendothelialen Wachstums entlang der Perineuralscheiden beträgt das Rezidivrisiko nach radikaler chirurgischer Tumorentfernung für ein perihiläres Cholangiokarzinom (CCA) 40-80 % (Auflistung der Studienergebnisse siehe ). Auch für andere Lokalisationen des CCA und für Gallenblasenkarzinome (GB-CA) ist das Rezidivrisiko ähnlich hoch. Risikofaktoren für ein frühes Rezidiv sind vor allem Lymphknotenmetastasen (N1), R1-Status und ein niedriger Differenzierungsgrad (G3). Eine Metaanalyse retrospektiver und einarmiger Studien mit mehr als 6000 Patienten mit CCA oder GB-CA ergab für Patienten mit einem dieser Risikofaktoren einen Vorteil für eine adjuvante Therapie . Zusätzlich liegen mit den Ergebnissen der BILCAP- Studie die Daten einer randomisierten Phase-III-Studie vor, die den Nutzen einer adjuvanten Chemotherapie zeigen . In dieser Studie wurde bei 447 Patienten mit CCA oder muskelinvasivem GB-CA sowie vollständiger makroskopischer Tumorentfernung (R0 oder R1) die Gabe von Capecitabin (1250 mg/m² zweimal täglich an Tag 1 bis 14 bei einer Zyklusdauer von 21 Tagen, insgesamt 8 Zyklen) mit der alleinigen Nachsorge verglichen. Der Therapiebeginn sollte innerhalb von 12 Wochen postoperativ bei Patienten mit ECOG 0 – 1 erfolgen, erlaubt war eine Ausdehnung des Zeitraumes bis auf 16 Wochen. In der Per-Protokoll-Analyse ergab sich ein signifikanter Unterschied im medianen Gesamtüberleben von 52 versus 36 Monate (HR: 0,79; 95% CI: 0,63; 1,00, p = 0,028). In der Intention-to-Treat-Analyse war der Unterschied zwischen beiden Gruppen vergleichbar mit 50 versus 36 Monate (HR: 0,84; 95% CI: 0,67; 1,06), allerdings nicht signifikant . Die mediane Zeit von der OP bis zum Therapiebeginn lag bei 10,3 Wochen. Die Langzeitergebnisse der Studie zeigen, dass der Effekt von Capecitabine eher moderat ist und dass der Haupteffekt nicht in der Vermeidung des Rezidivs zu liegen scheint, sondern im Zeitpunkt mit einem medianen Rezidiv-freien Intervall in der ITT Analyse mit Capecitabine von 24,3 Monaten und für die Beobachtungsgruppe mit 17,4 Monaten (HR: 0,81 (95% CI: 0,65 bis 1,01) . Die randomisierte Phase II Studie STAMP untersuchte für R0 oder R1 resezierte extra- hepatische CCA und positivem regionalem Lymphknotenbefall eine intensivierte The- rapie mit Gemcitabin und Cisplatin im Vergleich mit der Standardtherapie Capecitabin Unterschied für das mediane krankheitsfreie Überleben (14,3 Monate für Gem/Cis vs. ologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 11,1 Monate für Capecitabin) oder Gesamtüberleben (in beiden Studienarmen 35,7 Monate). Die französische PRODIGE 12-Studie konnte ebenfalls durch Gemcitabin und Oxaliplatin im Vergleich zur alleinigen Nachsorge keine signifikante Verbesserung des Gesamtüberlebens erzielen . Eine Metaanalyse, welche diese Studie ebenfalls integriert hat, bestätigte keinen Vorteil einer Gemcitabin-basierten adjuvanten Therapie beim CCA . Eine Cochrane-Analyse sieht den Effekt einer adjuvanten Therapie beim CCA trotz der positiven BILCAP-Studie als unsicher an und empfiehlt dringend weitere Studien . Aufgrund fehlender Evidenz besteht außerhalb von klinischen Studien zurzeit keine Indikation für eine adjuvante Strahlentherapie. Neoadjuvante Therapie primär resektabler Tumoren",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 158,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "adjuvant",
+      "Capecitabin",
+      "BILCAP"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_41_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.41",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "Erstlinie",
+    "thema": "Systemtherapie",
+    "statement": "Die palliative Erstlinientherapie biliärer Karzinome ist eine Gemcitabin-Monotherapie.",
+    "answer": false,
+    "explanation": "Empf. 4.41 (Grad A): Gemcitabin + Cisplatin + Checkpoint-Inhibitor (Durvalumab/Pembrolizumab).",
+    "leitlinie_wortlaut": "Als Systemtherapie soll in der Erstlinie die Kombination Gemcitabin und Cisplatin mit einem der beiden zugelassenen Antikörper Durvalumab oder Pembrolizumab angeboten werden. 2: Recherche 2024, Kelley 2023 ⊕⊕⊕⊝: Recherche 2022, Oh 2022 Die Placebo-kontrollierte Topaz-01 Studie zeigt eine Überlegenheit im primären Endpunkt Gesamtüberleben von Durvalumab (anti PD-L1 Antikörper) + Gemcitabine + Cisplatin (D + Gem/Cis) im Vergleich zur bisherigen Standardtherapie mit Gemcitabin + Cisplatin (Gem/Cis) . Wichtigste Einschlusskriterien waren intra- und extrahepatische CCAs einschließlich Gallenblasenkarzinome und ECOG 0-1. Papillenkarzinome waren nicht eingeschlossen. Das mediane Gesamtüberleben war mit 12,8 vs. 11,5 Monate nur moderat besser, allerdings separieren sich die Überlebenskurven in der Kaplan-Meier Analyse zunehmend, so dass die Überlebensraten nach 12 Monaten sich mit 54 % vs. 48 % und nach 24 Monaten mit 25 % vs. 10 % zugunsten der Kombination mit Durvalumab unterschieden. Die Ansprechrate lag im D + Gem/Cis Arm bei 27 % und bei 19 % mit Gem/Cis. Die bessere Wirksamkeit einer kombinierten Therapie von Gemcitabin + Cisplatin bestätigte sich auch mit dem anti PD-1 Antikörper Pembrolizumab (Gem/Cis + P) gegenüber der alleinigen Chemotherapie in der Keynote-Studie 966 . Diese Studie erreichte ihren primären Endpunkt mit einer Verbesserung des medianen Gesamtüberlebens von 12,7 Monaten mit Gem/Cis + P gegenüber 10,9 Monaten mit Gem/Cis. Das geschätze Überleben für die Gruppe mit Pembrolizumab betrug nach 12 Monaten 52 % und nach 24 Monaten 25 % im Vergleich zur Patientengruppe mit Gem/Cis von 44 % nach 12 und 18 % nach 24 Monaten. Bei Kontraindikationen für eine Therapie mit Durvalumab oder Pembrolizumab soll weiterhin auch die Therapie mit Gem/Cis eingesetzt werden. Zwei Studien, die britische ABC-02-Studie und die japanische BT22-Studie , haben in einer gemeinsamen Auswertung bei insgesamt fast 500 Patienten die Überlegenheit einer Kombinationstherapie bestehend aus Gemcitabin und Cisplatin gegenüber einer Monotherapie mit Gemcitabin gezeigt. Hierbei ist besonders zu berücksichtigen, dass mit der Applikation von Gemcitabin 1000 mg/m² und Cisplatin 25 mg/m² an den Tagen 1 und 8 bei einer Zyklusdauer von 21 Tagen ein gut verträgliches Therapieschema implementiert wurde. So zeigten sich keine Unterschiede in beiden Therapiegruppen in Bezug auf das Auftreten von schwergradigen (CTCAE Grad 3 und 4) Nierenfunktionsstörungen (Gemcitabin und Cisplatin versus Gemcitabin: 1,5 % vs. ologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 1 %, p = 0,83) sowie von Übelkeit (4,0 % versus 3,5 %, p = 0,78) und Erbrechen (5,1 vs. 5,5 %, p = 0,65). Bei Patienten mit ECOG 2 kann alternativ eine Monotherapie mit Gemcitabin erfolgen und bei eingeschränkter Nierenfunktion kann Oxaliplatin statt Cisplatin eingesetzt werden . Die Lebenserwartung bei symptomorientierter Therapie beträgt nach historischen Daten dagegen nur ca. 2,5 bis 4,5 Monate . Alternativ zu dieser Erstlinientherapie wird die Teilnahme an klinischen Studien empfohlen. Therapie nach Versagen der Erstlinientherapie",
+    "evidenz": "Grad A; LoE 4",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 161,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Gemcitabin",
+      "Cisplatin",
+      "Durvalumab"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ],
+      "spezial": [
+        "pdl1"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_44_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.44",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "FGFR2",
+    "thema": "Molekular",
+    "statement": "FGFR2-Fusionen sind beim Cholangiokarzinom therapeutisch nicht relevant.",
+    "answer": false,
+    "explanation": "Empf. 4.44 (Grad A): bei FGFR2-Fusion zielgerichtete Therapie mit FGFR-Inhibitor (Pemigatinib).",
+    "leitlinie_wortlaut": "Patienten, deren Tumoren eine Fibroblasten-Wachstumsfaktor-Rezeptor-2 (FGFR2)- Fusion oder ein FGFR2-Rearrangement aufweisen und die nach mindestens einer Systemtherapie progredient sind, soll eine Therapie mit einem der FGFR- Inhibitoren Futibatinib oder Pemigatinib angeboten werden. Die Zulassung von Pemigatinib beruht auf der einarmigen Phase II Studie FIGHT-202 die Tumortherapie, davon 36 Patienten mit einer partiellen und 4 Patienten mit einer kompletten Remission . Die mediane Dauer des Therapieansprechens war 8,1 Monate (95% CI: 5,7; 13,1). kologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Die Zulassung von Futibatinib basiert auf die ebenfalls einarmige Phase II Studie FOE- NIXX-CCA2 . 43 von 103 Patienten (42%) zeigten ein Ansprechen, davon 1 Patient mit einer kompletten Remission. 31 Patienten wiesen ein Ansprechen von mehr als sechs und 6 Patieten von mehr als zwölf Monaten auf. Das mediane Gesamtüberleben als sekundärer Endpunkt betrug 21,7 Monate . Beide FGFR-Inhibitoren sind für das Cholangiokarzinom nach mindestens einer Vor- therapie zugelassen, eine Entscheidungsgrundlage welcher Inhibitor bevorzugt ein- gesetzt werden soll kann derzeit nicht gegeben werden. Präklinische Arbeiten legen nahe, dass Futibatinib noch bei einzelnen Resistenzmutationen die sich unter Pemi- gatinib entwickeln können, wirksam sein kann . Einzelne Patienten die ein Therapieansprechen auf Futibatinib nach Pemigatinib errei-chen konnten sind beschrieben worden , . Als Option nach Progress unter einer Therapie mit einem FGFR-Inhibitor wird die Prüfung von Studienmöglichkeiten empfohlen. Neben den oben genannten Substanzen wurden weitere vielversprechende erste klinische Daten z.B. auch für Derazantinib , Erdafitinib oder RLY-4008 zahlreichen Studien und unterschiedlichen Situationen, z.T. auch in der Erstlinie oder nach vorangegangener FGFR-Inhibition, untersucht. Neben Fusionsgenen sich auch aktivierende Mutationen oder Inframe-Deletionen als relevant für Therapieansätze beschrieben worden , .",
+    "evidenz": "Grad A; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 163,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "FGFR2",
+      "Pemigatinib"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie",
+        "molekularpathologie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ],
+      "spezial": [
+        "fgfr2"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_46_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.46",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "IDH1",
+    "thema": "Molekular",
+    "statement": "Bei Cholangiokarzinom mit IDH1-R132-Mutation kann eine zielgerichtete Therapie (Ivosidenib) eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 4.46 (Grad A). IDH1-Mutation als therapeutisches Ziel (ClarIDHy).",
+    "leitlinie_wortlaut": "Patienten mit lokal fortgeschrittenem oder metastasiertem Cholangiokarzinom mit einer IDH1 R132-Mutation, die zuvor mit mindestens einer Linie Systemtherapie behandelt worden sind, soll eine Therapie mit dem IDH1-Inhibitor Ivosidenib angeboten werden. Für Patienten mit einer Mutation im Isocitrat Dehydrogenase 1 (IDH1) Gen zeigen Ergebnisse der Phase-III-ClarIDHy-Studie ein signifikant längeres medianes PFS mit 2,7 unter Ivosidenib vs. 1,4 Monaten mit Placebo, allerdings separieren sich die Kurven deutlich im längerfristigen Verlauf . Das mediane Gesamtüberleben in der Studie war nicht signifikant unterschiedlich mit 10,3 Monaten mit Ivosidenib vs. 7,5 Monaten mit Placebo, allerdings wurden aus dem Placeboarm 70 % der Patienten nach Progress mit Ivosidenib behandelt (cross-over Studiendesign) . Die Berechnung eines für Crossover adjustierten Gesamtüberlebens ergab für Placebo eine mediane Überlebenszeit von 5,1 Monaten und war dann im Vergleich zur Verumgruppe signifikant kürzer . Somit scheint eine Subgruppe der Patienten deutlich von der Therapie zu profitieren. Die „Disease Control Rate“, d.h. der Anteil an Patienten mit mindestens stabiler Erkrankung oder partieller Remission lag für Ivosidenib bei 53 % und für Placebo bei 28 %. Die Zulassung der Europäische Kommission für Ivosidenib erfolgte im Mai 2023 als Monotherapie zur Behandlung von erwachsenen Patienten mit lokal fortgeschrittenem oder metastasiertem Cholangiokarzinom mit einer IDH1- R132-Mutation, die zuvor bereits mit mindestens einer systemischen Therapie behandelt worden sind.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 165,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "IDH1",
+      "Ivosidenib"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie",
+        "molekularpathologie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ],
+      "spezial": [
+        "idh1"
+      ]
+    }
+  },
+  {
+    "id": "hcc_4_8_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "4.8",
+    "kapitel": "Biliäre Karzinome (CCA)",
+    "unterkapitel": "Histologie",
+    "thema": "Diagnostik",
+    "statement": "Vor einer Tumortherapie sollen Tumoren der Gallenwege und Gallenblase histologisch oder zytologisch gesichert werden.",
+    "answer": true,
+    "explanation": "EK 4.8. Diagnosesicherung vor Systemtherapie.",
+    "leitlinie_wortlaut": "Vor oder im Rahmen einer Tumortherapie sollen Tumoren der Gallenwege und Gallenblase histologisch oder ggf. zytologisch gesichert werden. Aufgrund des Fehlens beweisender positiver bildgebender diagnostischer Kriterien ist die histologische Sicherung der intrahepatischen Cholangiokarzinome grundsätzlich erforderlich (s. Abbildung 5). Intrahepatische Cholangiokarzinome treten - wenn auch in geringerem Maß als das HCC- auch bei den zum HCC prädisponierenden chronischen Lebererkrankungen und der Zirrhose vermehrt auf, sodass die Möglichkeit eines intrahepatischen Cholangiokarzinoms auch bei bildgebendem Verdacht auf ein HCC, differenzialdiagnostisch zu berücksichtigen ist. Grund hierfür sind v.a. Fälle intrahepatischer Cholangiokarzinome, welche die bildgebenden Kriterien eines HCC zeigen können. Umgekehrt können bei einzelnen HCC, insbesondere vom sklerotischen Subtyp, die bildgebenden Kriterien eines HCC fehlen und zum Verdacht auf ein iCCA führen. Bei Tumoren der extrahepatischen Gallenwege kann die Sicherung eines invasiven Karzinoms in Abgrenzung von entzündlich bedingten Veränderungen und nichtinvasiven prämalignen Veränderungen problematisch sein. Dies gilt besonders auch für die Abklärung dominanter Stenosen bei der PSC. Die Sensitivität histologischer und zytologischer Verfahren in der Detektion invasiver Karzinome der distalen Gallenwege ist derzeit noch begrenzt und überschreitet auch im kombinierten Einsatz gemäß der meisten Untersuchungen nicht 60-70 % , . Zusätzliche Verfahren, wie FISH-Analysen und auch molekulare Analysen am Gallesekret mögen in Einzelfällen unterstützende Informationen liefern, können aber weder die histologische oder zytologische Diagnostik ersetzen, noch kann mangels entsprechender Validierung ihr diagnostischer Einsatz derzeit generell empfohlen werden. In Fällen einer anstehenden Resektion bei hochgradigem Verdacht auf ein Karzinom der extrahepatischen Gallenwege kann angesichts der eingeschränkten Sensitivität zytologischer und bioptischer Nachweise auf eine präoperative bioptische Sicherung zugunsten einer umfassenden Aufarbeitung des Resektionspräparates verzichtet werden, wenn die Abwägung der möglichen Vor- und Nachteile keine Verbesserung für den Patienten erwarten lässt. Die Entscheidungsfindung sollte durch ein interdisziplinäres Tumorboard abgesichert sein. Bei nichtoperablen intra- und extrahepatischen Cholangiokarzinomen und Karzinomen der Gallenblase soll vor Einleitung einer Therapie eine histologische Sicherung erfolgen, wobei das hierbei gewonnene Gewebe in der Regel zusätzlich auch für eventuelle weiterführende, z.B. molekularpathologische Untersuchungen ausreichen sollte und hierfür bei Bedarf einzusetzen ist. Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 125,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Histologie",
+      "CCA"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ]
+    }
+  },
+  {
+    "id": "hcc_5_3_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "5.3",
+    "kapitel": "Supportiv / Palliativ",
+    "unterkapitel": "Frühe PV",
+    "thema": "Palliativ",
+    "statement": "Allen Patienten soll nach der Diagnose einer nicht-heilbaren Krebserkrankung eine Palliativversorgung angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 5.3 (Grad A). Frühintegration der Palliativversorgung (HCC/CCA).",
+    "leitlinie_wortlaut": "Allen Patienten soll nach der Diagnose einer nichtheilbaren Krebserkrankung eine Palliativversorgung angeboten werden, unabhängig davon, ob eine tumorspezifische Therapie durchgeführt wird.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 172,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Palliativversorgung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_5_1_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "5.1",
+    "kapitel": "Supportiv / Palliativ",
+    "unterkapitel": "Mangelernährung",
+    "thema": "Ernährung",
+    "statement": "Eine Mangelernährung sollte bei Patienten mit HCC/CCA erfasst und behandelt werden, da sie Lebensqualität und Therapietoleranz beeinträchtigt.",
+    "answer": true,
+    "explanation": "EK 5.1. Ernährungsstatus relevant für Outcome.",
+    "leitlinie_wortlaut": "Mangelernährung beeinträchtigt die Lebensqualität und Therapietoleranz. Eine Mangelernährung sollte erfasst und behandelt werden. Mangelernährung bei Krebserkrankungen, wie sie auch bei HCC Patienten oftmals vorliegt , , wird mit vermehrten Komplikationen, längerer Krankenhausverweildauer, schlechterer Lebensqualität, höheren Toxizitäten der Antitumortherapie und Mortalität in Verbindung gebracht . Das Vorliegen einer präoperativen Mangelernährung bei HCC Patienten mit Leberresektion ist assoziiert mit erhöhter postoperativer Komplikationen und längere Krankenhausverweildauer Mangelernährung sollte anhand der GLIM Criteria diagnostiziert werden . In der aktuellen ESPEN Leitlinie „klinische Ernährung bei Lebererkrankungen“ wird zur Bestimmung der Mangelernährung der Nutritional Risk Score (NRS 2002) oder Minimal Nutrition Assessment (MUST) oder The Royal Free Hospital Nutrition Prioritizing Tool (RFH-NPT) empfohlen. Sarkopenie bei Patienten mit HCC ist mit schlechter Therapieverträglichkeit sowie erhöhter Mortalität assoziiert , , (gemessen mit der Body Impedance Analyse) können Auskunft über ein erhöhtes Mortalitätsrisiko geben . Da in den meisten Fällen das HCC in einer zirrhotischen Leber vorliegt, können bei Sarkopenie Ernährungsmaßnahmen wie ausreichende Energie und Eiweißzufuhr sowie Bewegung in Analogie zu dem Empfehlungen für Leberzirrhose gegeben werden . Patienten mit einem HCC oder CCA und Mangelernährung sollten eine prozessorientierte Ernährungsberatung von qualifizierten Ernährungsfachkräften erhalten, ggf. Einsatz von enteraler / parenteraler Ernährung . Palliativmedizinische Behandlung beim HCC/CCA Palliativversorgung ist definiert als ein Ansatz zur Verbesserung der Lebensqualität von Patienten und ihren Familien, die mit Problemen konfrontiert sind, welche mit einer lebensbedrohlichen Erkrankung einhergehen. Dies geschieht durch Vorbeugen und Lindern von Leiden durch frühzeitige Erkennung, sorgfältige Einschätzung und Behandlung von Schmerzen sowie anderen Problemen körperlicher, psychosozialer und spiritueller Art. Beim Leberzellkarzinom und Gallengangskarzinom sollten hier vor allem die Empfehlungen zum Thema Pruritus, Inappetenz, Übelkeit und Schmerzen Beachtung finden. An dieser Stelle sei auf die allgemeinen Empfehlungen hingewiesen, wie sie in der „Erweiterten S3-Leitlinie Palliativmedizin für Patienten mit einer nicht heilbaren Krebserkrankung\" (AWMF-Registernummer: 128/001OL) ausführlich beschrieben Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 werden (https://www.leitlinienprogramm- onkologie.de/leitlinien/palliativmedizin/). Dort finden sich auch wichtige Empfehlungen zu Versorgungsstrukturen in der Palliativmedizin, inklusive eines Behandlungspfades für Patienten und Angehörige, da den Angehörigen bei der Betreuung dieser Patientengruppe eine wichtige Rolle zukommt. Integration von Palliativversorgung Eine Palliativversorgung kann nur bei rechtzeitiger Einbeziehung in den Behandlungsverlauf von Patienten besonders wirksam sein. Es gelten daher auch hier die allgemeinen Empfehlungen für die Integration von Palliativversorgung, gemäß der o.g. S3-Leitlinie.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 171,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Mangelernährung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen",
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "ernaehrung"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
+  },
+  {
+    "id": "hcc_5_5_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "5.5",
+    "kapitel": "Supportiv / Palliativ",
+    "unterkapitel": "Pruritus",
+    "thema": "Palliativ",
+    "statement": "Pruritus sollte bei Patienten mit HCC/CCA (analog der S2k-Leitlinie Pruritus) behandelt werden.",
+    "answer": true,
+    "explanation": "EK 5.5. Cholestatischer Juckreiz ist häufig und belastend.",
+    "leitlinie_wortlaut": "Der Pruritus sollte analog der AWMF-S2k-Leitlinie Pruritus behandelt werden. Pruritus ist ein häufiges Symptom beim fortgeschrittenen HCC und CCA. Dabei ist der Pruritus wahrscheinlich nicht alleine als Begleiterscheinung des Ikterus infolge einer mechanischen Cholestase oder eines Leberzellzerfalls zu werten, sondern kann unabhängig davon auch Teil des paraneoplastischen Syndroms bei malignen Grunderkrankungen sein . Dabei können die interindividuelle Wahrnehmung und Beeinträchtigung von Pruritus stark variieren. Eine zirkadiane Rhythmik mit Verschlimmerung am späten Nachmittag bis in die Nacht ist häufig. Im Einzelfall kann Pruritus die Lebensqualität derart beeinträchtigen, dass Depression und Suizidalität die Folgen sind. Die Quantifizierung des Schweregrades von Pruritus zu wissenschaftlichen Zwecken erfolgt indirekt durch Messung der Kratzaktivität. Therapiestudien zur Behandlung des Pruritus beim Hepatozellulären Karzinom liegen nicht vor. Die hier aufgeführten Daten beziehen sich auf chronische, nichtmaligne Lebererkrankungen , . Bezüglich der medikamentösen Behandlung des Pruritus ist die Studienlage begrenzt. Rifampicin in einer Dosierung von 300-600 mg/d bzw. 10mg/kg KG/d oral , , Naltrexon 25-50 mg/d oral oder Cholestyramin 10-15 mg/kg KG/d oral zeigten in mehreren Studien Wirksamkeit. Die Wirksamkeit von Naloxon 0,2 µg/kg KG/min intravenös und des Serotonin Reuptake Inhibitors Sertralin 75-100 mg/d konnten in jeweils einer randomisierten Studie gezeigt werden. Die Studienlage für Ursodesoxycholsäure Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 bezüglich der Verbesserung des Pruritus ist nicht überzeugend. Während Ursodesoxycholsäure bei der PBC und der PSC in dieser Hinsicht nicht wirksam ist einer Besserung . Die Ergebnisse zu Ondansetron sind widersprüchlich. Einzelfallbeschreibungen oder Fallserien gibt es für Propofol intravenös, Lidocain intravenös, Dronabidol oral, Butorphanol nasal sowie Phenobarbital oral. Nichtmedikamentöse Behandlungsversuche umfassen die Phototherapie, Plasmapherese- und separation, die extracorporeale Albumin-Dialyse (MARS), nasobiliäre Sonden zur Ableitung und topische Behandlungen, z.B. mit Lokalanästhetika oder Glucocorticoiden. Empfehlungen zur Behandlung des Pruritus finden sich zusammengefasst in der aktuellen AWMF-S2k-Leitlinie (http://www.awmf.org/leitlinien/detail/ll/013-048.html). Rehabilitation, Sport- und Bewegungstherapie",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 173,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Pruritus"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "gallenwege"
+      ]
+    }
+  },
+  {
+    "id": "hcc_5_7_a",
+    "leitlinie": {
+      "id": "hcc",
+      "name": "S3-LL HCC & biliäre Karzinome",
+      "version": "5.2",
+      "datum": "Juni 2025",
+      "awmf": "032-053OL"
+    },
+    "empfehlung_nr": "5.7",
+    "kapitel": "Supportiv / Palliativ",
+    "unterkapitel": "Anschlussheilbehandlung",
+    "thema": "Reha",
+    "statement": "Patienten, die die Voraussetzungen erfüllen, sollte eine Anschlussheilbehandlung bzw. Rehabilitation angeboten werden.",
+    "answer": true,
+    "explanation": "EK 5.7. AHB/Reha nach Primärtherapie anbieten.",
+    "leitlinie_wortlaut": "Patienten, die die Voraussetzungen erfüllen, sollte eine Anschlussheilbehandlung oder Rehabilitation angeboten werden. Das rehabilitative Therapieangebot soll medizinische, pflegerische, aufklärende, trainierende und psychosoziale Maßnahmen umfassen, die dem individuellen Rehabilitationsbedarf angepasst werden. Patienten mit chronischen Lebererkrankungen im fortgeschrittenen Stadium leiden unter Fatigue, welche auch bei der Mehrheit der Patienten nach einer Lebertransplantation bestehen bleibt , . Dabei verspüren die Patienten weniger eine psychovegetative Erschöpfung, sondern vermehrt eine körperlich Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 eingeschränkte Leistungsfähigkeit . Daher sollte ein spezielles Rehabilitationsprogramm zur Verbesserung der kardiorespiratorischen Leistungsfähigkeit angeboten werden , . Auftrag der Rehabilitation ist die möglichst weitgehende Beseitigung – zumindest aber Kompensation – tumor- oder therapiebedingter Folgen sowie die Hilfestellung bei der Akzeptanz verbleibender Behinderungen mit dem Ziel einer selbstbestimmten Teilhabe am gesellschaftlichen Leben. Zum Stellenwert rehabilitativer Maßnahmen bei Patienten mit Hepatozellulärem oder biliären Karzinom liegt keine auswertbare Literatur vor. Für die rehabilitative Maßnahme sind ausgewiesene Reha-Zentren bzw. Kliniken mit gastrointestinaler und onkologischer Expertise zu bevorzugen, die den Standards des Qualitätssicherungsverfahrens der Deutschen Rentenversicherung entsprechen. Ziel jeder Rehabilitation sind Sicherung und erforderlichenfalls Verbesserung der Lebensqualität des Betroffenen, wobei die Notwendigkeit dieser Maßnahmen individuell einzuschätzen ist. Rehabilitation ist vom Gesetzgeber als sozialer Anspruch definiert (SGB I, § 19). Art und Umfang der erforderlichen Leistungen werden im SGB I (§ 29), SGB V (Krankenversicherung), SGB VI (Rentenversicherung), SGB III (Arbeitsförderung), ferner im RehAnglG und im SGB IX konkretisiert. Der Rehabilitationsbedarf nach Behandlung von hepatozellulären oder biliären Karzinomen ist äußerst variabel und im Wesentlichen abhängig von Art und Ausmaß des operativen Vorgehens sowie der Therapiefolgen. Rehabilitationsverfahren sollten bei definiertem Rehabilitationsbedarf und individueller Rehabilitationsfähigkeit möglichst im Anschluss an die Primärtherapie stattfinden. Daten, die die Wertigkeit von Rehabilitationsverfahren ausreichend belegen, existieren nicht. Eine psychosoziale Beratung und gegebenenfalls Betreuung ist wünschenswert bei Problemen der psychischen Verarbeitung des Tumorleidens, bei Therapiefolgen, bei sozialen Anpassungsstörungen sowie bei der beruflichen Wiedereingliederung , Verarbeitung oder der Anpassung an eine veränderte Lebenssituation die wesentliche Hilfe für einen Neubetroffenen darstellen. Gleichbetroffene können durch ihr eigenes Beispiel sowie ihre Erfahrungen im Alltagsleben mit Krankheit und Behinderung glaubwürdig vermitteln, dass eine hohe Lebensqualität auch dann möglich ist. Deswegen sollten Kontaktaufnahmen oder Vermittlung zu Selbsthilfeorganisationen erfolgen. Hier sei auf die parallel entstehende Patientenleitlinie verwiesen sowie auf die Homepages der an der Leitlinie beteiligten Patientenvertreter (http://www.lebertransplantation.eu und www.leberhilfe.org/). Onkologie | Hepatozelluläres Karzinom und biliäre Karzinome | Langversion - 5.2 | Juni 2025 Psychoonkologie Zur psychoonkologischen Versorgung liegt ebenfalls eine S3-Leitlinie des Leitlinienprogramms Onkologie vor, die auch für Patienten mit HCC/CCA gültig ist: https://www.leitlinienprogramm-onkologie.de/leitlinien/psychoonkologie/.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 174,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "AHB",
+      "Reha"
+    ],
+    "facetten": {
+      "entitaet": [
+        "hcc"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "reha_funktion"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
   }
 ]

@@ -29,7 +29,8 @@
         "reha_funktion": "Reha / Funktion (LARS)",
         "supportiv": "Supportiv / Palliativ",
         "ernaehrung": "Ernährung",
-        "radiojod": "Radioiodtherapie"
+        "radiojod": "Radioiodtherapie",
+        "lokoregionaer": "Lokoregionär (TACE/TARE/Ablation)"
       }
     },
     "stadium": {
@@ -71,7 +72,8 @@
         "aeg": "Ösophagogastraler Übergang (AEG)",
         "magen_distal": "Magen distal",
         "oesophagus": "Ösophagus",
-        "barrett": "Barrett-Ösophagus"
+        "barrett": "Barrett-Ösophagus",
+        "gallenwege": "Gallenwege / Gallenblase"
       }
     },
     "spezial": {
@@ -92,7 +94,9 @@
         "kras_g12c": "KRAS-G12C",
         "cdh1": "CDH1 / HDGC",
         "pdl1": "PD-L1",
-        "ret": "RET"
+        "ret": "RET",
+        "fgfr2": "FGFR2",
+        "idh1": "IDH1"
       }
     }
   },
@@ -384,6 +388,48 @@
       "name": "Schilddrüse molekular (RET/BRAF/NTRK)",
       "kriterien": {
         "entitaet": "schilddruese",
+        "modalitaet": "molekularpathologie"
+      }
+    },
+    {
+      "name": "HCC Früherkennung/Diagnostik",
+      "kriterien": {
+        "entitaet": "hcc",
+        "phase": "diagnostik"
+      }
+    },
+    {
+      "name": "HCC kurativ (Resektion/Transplant)",
+      "kriterien": {
+        "entitaet": "hcc",
+        "phase": "chirurgie"
+      }
+    },
+    {
+      "name": "HCC lokoregionär (TACE/Ablation)",
+      "kriterien": {
+        "entitaet": "hcc",
+        "modalitaet": "lokoregionaer"
+      }
+    },
+    {
+      "name": "HCC Systemtherapie",
+      "kriterien": {
+        "entitaet": "hcc",
+        "phase": "metastasen"
+      }
+    },
+    {
+      "name": "Biliäre Karzinome / CCA",
+      "kriterien": {
+        "entitaet": "hcc",
+        "lokalisation": "gallenwege"
+      }
+    },
+    {
+      "name": "CCA molekular (FGFR2/IDH1)",
+      "kriterien": {
+        "entitaet": "hcc",
         "modalitaet": "molekularpathologie"
       }
     }
