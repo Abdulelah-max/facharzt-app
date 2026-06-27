@@ -36,3 +36,21 @@ Leitlinien-PDF in `../leitlinien/` belegbar sein.
 
 > Check 1 ist ein Sieb, kein Urteil: er findet Abweichungen vom Wortlaut, ersetzt
 > aber nicht den klinischen Check 2.
+
+## Automatik (Git-Hook)
+
+Ein pre-commit-Hook lässt `verify.py` bei **jedem Commit, der `data/questions.json`
+ändert**, automatisch laufen und committet den aktualisierten Report mit.
+Einmalig pro Clone aktivieren:
+
+```bash
+git config core.hooksPath qc/hooks
+```
+
+Der Hook blockiert nie — er warnt nur, wenn eine Frage nicht automatisch belegt ist.
+
+## Check-1-Herkunft (`via` im qc-log)
+
+- `Empfehlung` — Wortlaut steht in der zitierten Empfehlung.
+- `Hintergrund` — wörtlich im Hintergrund-Text derselben Empfehlung (z. B. Nuancen-Frage).
+- `Leitlinie` — wörtlich an anderer Stelle der Leitlinie (Empf.-Nr. ggf. prüfen).

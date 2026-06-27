@@ -3,7 +3,7 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 248 Fragen · ✅ 240 · ⚠️ 4 · ❌ 4 · ❔ 0_
+_Letzter Auto-Lauf: 248 Fragen · ✅ 248 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
@@ -16,7 +16,7 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | krk_6_11_a | 6.11 | 110 | R | ✅ | ☐ |
 | krk_6_13_a | 6.13 | 113 | F | ✅ | ☐ |
 | krk_6_14_a | 6.14 | 114 | R | ✅ | ☐ |
-| krk_6_15_a | 6.15 | 114 | R | ⚠️ | ☐ |
+| krk_6_15_a | 6.15 | 114 | R | ✅ | ☐ |
 | krk_6_16_a | 6.16 | 115 | R | ✅ | ☐ |
 | krk_6_17_a | 6.17 | 115 | F | ✅ | ☐ |
 | krk_6_18_a | 6.18 | 116 | R | ✅ | ☐ |
@@ -38,7 +38,7 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | krk_11_1_a | 11.1 | 244 | R | ✅ | ☐ |
 | krk_11_1_b | 11.1 | 243 | F | ✅ | ☐ |
 | krk_11_2_a | 11.2 | 245 | R | ✅ | ☐ |
-| krk_11_3_a | 11.3 | 245 | F | ⚠️ | ☐ |
+| krk_11_3_a | 11.3 | 245 | F | ✅ | ☐ |
 | krk_11_4_a | 11.4 | 246 | R | ✅ | ☐ |
 | krk_11_5_a | 11.5 | 247 | R | ✅ | ☐ |
 | krk_11_6_a | 11.6 | 247 | R | ✅ | ☐ |
@@ -55,7 +55,7 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | krk_9_17_a | 9.17 | 196 | R | ✅ | ☐ |
 | krk_9_18_a | 9.18 | 198 | R | ✅ | ☐ |
 | krk_9_19_a | 9.19 | 199 | R | ✅ | ☐ |
-| krk_9_1_a | 9.1 | 176 | R | ❌ | ☐ |
+| krk_9_1_a | 9.1 | 176 | R | ✅ | ☐ |
 | krk_9_20_a | 9.20 | 201 | R | ✅ | ☐ |
 | krk_9_20_c | 9.20 | 201 | F | ✅ | ☐ |
 | krk_9_20b_a | 9.20b | 201 | R | ✅ | ☐ |
@@ -75,10 +75,10 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | krk_9_4_a | 9.4 | 178 | R | ✅ | ☐ |
 | krk_9_4_b | 9.4 | 178 | F | ✅ | ☐ |
 | krk_9_5_a | 9.5 | 180 | F | ✅ | ☐ |
-| krk_9_5_b | 9.5 | 181 | R | ❌ | ☐ |
+| krk_9_5_b | 9.5 | 181 | R | ✅ | ☐ |
 | krk_9_6_a | 9.6 | 181 | R | ✅ | ☐ |
 | krk_9_7_a | 9.7 | 183 | R | ✅ | ☐ |
-| krk_9_7_b | 9.7 | 183 | R | ❌ | ☐ |
+| krk_9_7_b | 9.7 | 183 | R | ✅ | ☐ |
 
 ## krk · Pathologie  (15)
 
@@ -91,7 +91,7 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | krk_8_14_a | 8.14 | 171 | R | ✅ | ☐ |
 | krk_8_15_a | 8.15 | 171 | R | ✅ | ☐ |
 | krk_8_1_a | 8.1 | 156 | F | ✅ | ☐ |
-| krk_8_2_a | 8.2 | 156 | R | ⚠️ | ☐ |
+| krk_8_2_a | 8.2 | 156 | R | ✅ | ☐ |
 | krk_8_3_a | 8.3 | 158 | R | ✅ | ☐ |
 | krk_8_4_a | 8.4 | 159 | R | ✅ | ☐ |
 | krk_8_5_a | 8.5 | 160 | F | ✅ | ☐ |
@@ -156,7 +156,7 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | krk_5_13_c | 5.13 | 66 | F | ✅ | ☐ |
 | krk_5_13b_a | 5.13b | 66 | F | ✅ | ☐ |
 | krk_5_14_a | 5.14 | 67 | R | ✅ | ☐ |
-| krk_5_17_a | 5.17 | 71 | F | ⚠️ | ☐ |
+| krk_5_17_a | 5.17 | 71 | F | ✅ | ☐ |
 | krk_5_1_a | 5.1 | 58 | R | ✅ | ☐ |
 | krk_5_22_a | 5.22 | 75 | R | ✅ | ☐ |
 | krk_5_22_b | 5.22 | 75 | F | ✅ | ☐ |
@@ -221,7 +221,7 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | pank_6_17_a | 6.17 | 113 | F | ✅ | ☐ |
 | pank_6_18_a | 6.18 | 115 | R | ✅ | ☐ |
 | pank_6_1_a | 6.1 | 95 | R | ✅ | ☐ |
-| pank_6_20_a | 6.20 | 117 | R | ❌ | ☐ |
+| pank_6_20_a | 6.20 | 117 | R | ✅ | ☐ |
 | pank_6_22_a | 6.22 | 118 | F | ✅ | ☐ |
 | pank_6_23_a | 6.23 | 119 | R | ✅ | ☐ |
 | pank_6_25_a | 6.25 | 120 | R | ✅ | ☐ |

@@ -1,0 +1,16 @@
+#!/bin/sh
+# QC pre-commit Hook: prüft Fragen gegen die Leitlinien-PDFs und hält den
+# QC-Report aktuell. Aktivieren (einmalig): git config core.hooksPath qc/hooks
+command -v python3 >/dev/null 2>&1 || exit 0
+if git diff --cached --name-only | grep -qE '^(data/questions\.json|qc/verify\.py)$'; then
+  echo "[QC] verify.py läuft …"
+  python3 qc/verify.py >/dev/null 2>&1 || { echo "[QC] verify.py Fehler – Commit läuft weiter"; exit 0; }
+  git add qc/qc-log.json qc/qc-report.md qc/REVIEW.md 2>/dev/null
+  miss=$(python3 -c "import json;print(sum(1 for e in json.load(open('qc/qc-log.json')) if e['check1_auto']['status']!='OK'))" 2>/dev/null)
+  if [ -n "$miss" ] && [ "$miss" != "0" ]; then
+    echo "[QC] ⚠️  $miss Frage(n) nicht automatisch belegt – siehe qc/qc-report.md (Commit läuft trotzdem)."
+  else
+    echo "[QC] ✅ alle Fragen gegen die Leitlinie belegt."
+  fi
+fi
+exit 0

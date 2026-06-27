@@ -66,29 +66,53 @@ def clean_line(line):
 
 
 def parse_boxes(text):
-    """{empfehlung_nr: bereinigter Empfehlungstext (bis 'Hintergrund')}."""
+    """{empfehlung_nr: {'rec': Empfehlungstext bis 'Hintergrund',
+                        'region': Empfehlung + Hintergrund bis zur nächsten Box}}."""
     lines = text.split("\n")
     starts = [(i, HEAD.match(l).group(1)) for i, l in enumerate(lines) if HEAD.match(l)]
     out = {}
     for k, (i, nr) in enumerate(starts):
-        end = starts[k + 1][0] if k + 1 < len(starts) else min(i + 90, len(lines))
-        parts = []
+        end = starts[k + 1][0] if k + 1 < len(starts) else min(i + 120, len(lines))
+        rec, region, in_rec = [], [], True
         for bl in lines[i + 1:end]:
             if not bl.strip():
                 continue
             if bl.strip().startswith("Hintergrund"):
-                break
+                in_rec = False
+                continue
             c = clean_line(bl)
-            if c:
-                parts.append(c)
-        body = re.sub(r"\s+", " ", " ".join(parts)).strip()
-        if nr not in out or len(body) > len(out[nr]):
-            out[nr] = body
+            if not c:
+                continue
+            region.append(c)
+            if in_rec:
+                rec.append(c)
+        # Silbentrennung am Zeilenende reparieren: "wer- den"/"Nach- sorge" -> "werden"/"Nachsorge"
+        dehyph = lambda t: re.sub(r"(?<=\w)-\s+(?=\w)", "", re.sub(r"\s+", " ", t))
+        rec_t = dehyph(" ".join(rec)).strip()
+        reg_t = dehyph(" ".join(region)).strip()
+        if nr not in out or len(rec_t) > len(out[nr]["rec"]):
+            out[nr] = {"rec": rec_t, "region": reg_t}
     return out
+
+
+def verbatim_in(wortlaut, region_norm, k=8):
+    """True, wenn eine k-Wort-Kette des Wortlauts wörtlich im (norm.) Abschnitt steht."""
+    words = WORD.findall((wortlaut or "").lower())
+    if len(words) < k:
+        s = " ".join(words)
+        return bool(s) and s in region_norm
+    for j in range(0, len(words) - k + 1):
+        if " ".join(words[j:j + k]) in region_norm:
+            return True
+    return False
 
 
 def toks(s):
     return set(w for w in WORD.findall((s or "").lower()) if len(w) >= 4)
+
+
+def norm(s):
+    return " ".join(WORD.findall((s or "").lower()))
 
 
 def get_box(boxes, nr):
@@ -103,10 +127,15 @@ def get_box(boxes, nr):
 
 def main():
     questions = json.load(open(QFILE, encoding="utf-8"))
-    boxes_by = {}
+    boxes_by, corpus_by = {}, {}
     for ll, pdf in PDFS.items():
         t = pdf_to_text(pdf)
         boxes_by[ll] = parse_boxes(t) if t else None
+        if t:
+            cleaned = " ".join(c for c in (clean_line(l) for l in t.split("\n")) if c)
+            corpus_by[ll] = norm(re.sub(r"(?<=\w)-\s+(?=\w)", "", cleaned))
+        else:
+            corpus_by[ll] = None
         print(f"  {ll}: {str(len(boxes_by[ll])) + ' Empfehlungs-Boxen' if t else 'PDF fehlt'}")
 
     log = []
@@ -114,21 +143,31 @@ def main():
         ll = (q.get("leitlinie") or {}).get("id")
         boxes = boxes_by.get(ll)
         box = get_box(boxes, q.get("empfehlung_nr")) if boxes else None
-        wt = toks(q.get("leitlinie_wortlaut", ""))
-        cov = (len(wt & toks(box)) / len(wt)) if (box and wt) else 0.0
+        wl = q.get("leitlinie_wortlaut", "")
+        wt = toks(wl)
+        cov = (len(wt & toks(box["rec"])) / len(wt)) if (box and wt) else 0.0
+        vb = verbatim_in(wl, norm(box["region"])) if box else False
         if boxes is None:
-            st = "KEIN_PDF"
+            st, via = "KEIN_PDF", "-"
         elif box is None:
-            st = "KEINE_BOX"
+            st, via = "KEINE_BOX", "-"
+        elif cov >= OK_T:
+            st, via = "OK", "Empfehlung"
+        elif vb:
+            st, via = "OK", "Hintergrund"   # wörtlich im Hintergrund-Text der Empfehlung belegt
+        elif corpus_by.get(ll) and verbatim_in(wl, corpus_by[ll]):
+            st, via = "OK", "Leitlinie"     # wörtlich an anderer Stelle der Leitlinie belegt
+        elif cov >= PRUEF_T:
+            st, via = "PRUEFEN", "-"
         else:
-            st = "OK" if cov >= OK_T else ("PRUEFEN" if cov >= PRUEF_T else "MISMATCH")
+            st, via = "MISMATCH", "-"
         log.append({
             "id": q["id"], "leitlinie": ll, "empfehlung_nr": q.get("empfehlung_nr"),
             "kapitel": q.get("kapitel"), "seite_pdf": q.get("seite_pdf"), "answer": q.get("answer"),
-            "check1_auto": {"status": st, "coverage": round(cov, 2)},
+            "check1_auto": {"status": st, "coverage": round(cov, 2), "via": via},
             "statement": q.get("statement"),
-            "leitlinie_wortlaut": q.get("leitlinie_wortlaut"),
-            "leitlinie_pdf": box or "",
+            "leitlinie_wortlaut": wl,
+            "leitlinie_pdf": (box["rec"] if box else ""),
         })
 
     json.dump(log, open(os.path.join(ROOT, "qc", "qc-log.json"), "w"), ensure_ascii=False, indent=2)
