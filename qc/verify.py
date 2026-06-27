@@ -39,6 +39,8 @@ PDFS = {
     "hcc": "leitlinien/hcc-v5.pdf",
     "analkarzinom": "leitlinien/analkarzinom-v1.1.pdf",
     "colitis_ulcerosa": "leitlinien/colitis-ulcerosa-v7.0.pdf",
+    "morbus_crohn": "leitlinien/morbus-crohn-v4.0.pdf",
+    "divertikulitis": "leitlinien/divertikulitis-v3.0.pdf",
 }
 OK_T, PRUEF_T = 0.85, 0.65
 
@@ -113,6 +115,40 @@ def verbatim_in(wortlaut, region_norm, k=8):
     return False
 
 
+# Zweispaltige Journal-Leitlinien (Z Gastroenterol): vor dem Korpus entzerren.
+JOURNAL = {"morbus_crohn", "divertikulitis"}
+
+def decolumnize(text):
+    """Zweispalten-PDF (pdftotext -layout) pro Seite in Lesereihenfolge bringen."""
+    out = []
+    for page in text.split("\f"):
+        lines = page.split("\n")
+        width = max((len(l) for l in lines), default=0)
+        if width < 40:
+            out.extend(lines); continue
+        dens = [0] * (width + 1)
+        for l in lines:
+            for i, ch in enumerate(l):
+                if ch != " " and i <= width:
+                    dens[i] += 1
+        lo, hi = int(width * 0.33), int(width * 0.66)
+        best_start, best_len, cur_start, cur_len = None, 0, None, 0
+        for i in range(lo, hi + 1):
+            if dens[i] <= 1:
+                if cur_start is None: cur_start = i
+                cur_len += 1
+                if cur_len > best_len: best_len, best_start = cur_len, cur_start
+            else:
+                cur_start, cur_len = None, 0
+        if best_start is None or best_len < 3:
+            out.extend(lines); continue
+        gutter = best_start + best_len // 2
+        left = [l[:gutter].rstrip() for l in lines if l[:gutter].strip()]
+        right = [l[gutter:].rstrip() for l in lines if l[gutter:].strip()]
+        out.extend(left); out.append(""); out.extend(right); out.append("")
+    return "\n".join(out)
+
+
 def toks(s):
     return set(w for w in WORD.findall((s or "").lower()) if len(w) >= 4)
 
@@ -138,7 +174,9 @@ def main():
         t = pdf_to_text(pdf)
         boxes_by[ll] = parse_boxes(t) if t else None
         if t:
-            cleaned = " ".join(c for c in (clean_line(l) for l in t.split("\n")) if c)
+            base = decolumnize(t) if ll in JOURNAL else t   # Journal-PDFs entzerren
+            base = re.sub(r"(?<=\w)-\n\s*(?=\w)", "", base)  # Silbentrennung über Zeilen
+            cleaned = " ".join(c for c in (clean_line(l) for l in base.split("\n")) if c)
             corpus_by[ll] = norm(re.sub(r"(?<=\w)-\s+(?=\w)", "", cleaned))
         else:
             corpus_by[ll] = None

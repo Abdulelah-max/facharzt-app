@@ -20966,5 +20966,1224 @@
         "kolon"
       ]
     }
+  },
+  {
+    "id": "mc_1_12_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "1.12",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Perianale Fistel",
+    "thema": "Diagnostik",
+    "statement": "Bei perianalem Fistelleiden genügt die klinische Untersuchung; ein Becken-MRT ist nicht indiziert.",
+    "answer": false,
+    "explanation": "Empf. 1.12 (EK): zur Ausbreitungsdiagnostik soll ein MRT des Beckens oder eine Endosonographie erfolgen.",
+    "leitlinie_wortlaut": "Bei perianalem Fistelleiden im Rahmen des M. Crohn soll zur Ausbreitungsdiagnostik ein MRT des Beckens oder eine transrektale Endosonografie durchgeführt werden (Expertenkonsens, starke Empfehlung, starker Konsens). Bei Verdacht auf einen perianalen Abszess kann auch eine perineale Sonografie",
+    "evidenz": "EK",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "perianale Fistel",
+      "MRT"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "perianal"
+      ]
+    }
+  },
+  {
+    "id": "mc_1_9_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "1.9",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Komplikationen",
+    "thema": "Diagnostik",
+    "statement": "Bei Verdacht auf extramurale Komplikationen wie Fisteln und Abszesse sollte eine Schnittbildgebung erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 1.9 (EK). MRT/CT/Sonographie zur Abszess-/Fisteldetektion.",
+    "leitlinie_wortlaut": "Bei Verdacht auf und zur weiterführenden Abklärung extramuraler Komplikationen wie Fisteln und Abszesse sollten eine Darmsonografie und/oder eine MR-Enterografie durchgeführt werden. Eine Computertomografie sollte aufgrund der Strahlenexposition nicht routinemäßig durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Abszess",
+      "Fistel"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "duenndarm"
+      ]
+    }
+  },
+  {
+    "id": "mc_1_20_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "1.20",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Postoperativ",
+    "thema": "Nachsorge",
+    "statement": "Innerhalb der ersten 6–12 Monate nach Ileozökalresektion sollte zur Beurteilung der Anastomosenregion eine Ileokoloskopie erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 1.20 (EK). Endoskopisches postoperatives Rezidiv-Monitoring (Rutgeerts-Score).",
+    "leitlinie_wortlaut": "Innerhalb der ersten 6–12 Monate nach Ileozökalresektion sollte zur Beurteilung der Anastomosenregion eine Ileokoloskopie erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Ileokoloskopie",
+      "postoperativ"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "duenndarm"
+      ]
+    }
+  },
+  {
+    "id": "mc_2_4_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "2.4",
+    "kapitel": "Therapie / Chirurgie",
+    "unterkapitel": "Chirurgie als Alternative",
+    "thema": "Therapie",
+    "statement": "Vor Einleitung einer Therapie mit Immunsuppressiva oder Biologika sollte eine chirurgische Intervention als Alternative erwogen werden.",
+    "answer": true,
+    "explanation": "Empf. 2.4 (Grad B). Chirurgie ist beim Crohn keine Ultima Ratio, sondern gleichwertige Option.",
+    "leitlinie_wortlaut": "Vor der Einleitung einer Therapie mit Immunsuppressiva oder Biologika sollte eine chirurgische Intervention als Alternative geprüft werden.",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Chirurgie",
+      "Alternative"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "medikamentoes",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "duenndarm"
+      ]
+    }
+  },
+  {
+    "id": "mc_2_8_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "2.8",
+    "kapitel": "Therapie / Chirurgie",
+    "unterkapitel": "Ileozökal leicht",
+    "thema": "Therapie",
+    "statement": "Bei Ileozökalbefall mit leichter Entzündungsaktivität ist die Operation keine sinnvolle Option; es muss immer medikamentös (Anti-TNF) behandelt werden.",
+    "answer": false,
+    "explanation": "Empf. 2.8 (Grad A): die Ileozökalresektion ist eine GLEICHWERTIGE Therapieoption (LIR!C-Studie).",
+    "leitlinie_wortlaut": "Bei Patient*innen mit Befall der Ileozökalregion und/oder des rechtsseitigen Colons und leichter Entzündungsaktivität soll initial Budesonid gegeben werden.",
+    "evidenz": "Grad A; LoE 1",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Ileozökalresektion",
+      "LIRIC"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "duenndarm"
+      ]
+    }
+  },
+  {
+    "id": "mc_2_13_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "2.13",
+    "kapitel": "Therapie / Chirurgie",
+    "unterkapitel": "Isolierter Befall",
+    "thema": "Chirurgie",
+    "statement": "Bei isoliertem Ileozökalbefall, kurzer Anamnese und fehlendem Ansprechen auf Steroide ist das operative Vorgehen eine sinnvolle Option.",
+    "answer": true,
+    "explanation": "Empf. 2.13 (EK). Frühe Resektion bei begrenztem Befall.",
+    "leitlinie_wortlaut": "Bei einem isolierten Befall der Ileozökalregion, kurzer Anamnese und fehlendem Ansprechen auf Steroide ist das operative Vorgehen (Ileozökalresektion) verglichen mit der Therapie mit Infliximab als gleichwertig anzusehen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Ileozökalresektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "duenndarm"
+      ]
+    }
+  },
+  {
+    "id": "mc_2_14_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "2.14",
+    "kapitel": "Therapie / Chirurgie",
+    "unterkapitel": "Ernährung",
+    "thema": "Chirurgie",
+    "statement": "Vor einer elektiv geplanten Operation sollte der Ernährungszustand beurteilt und bei Mangelernährung optimiert werden.",
+    "answer": true,
+    "explanation": "Empf. 2.14 (EK). Präoperative Ernährungsoptimierung senkt Komplikationen.",
+    "leitlinie_wortlaut": "Bei einer elektiv geplanten Operation sollte präoperativ eine Beurteilung des Ernährungszustandes erfolgen und bei der Feststellung von Defiziten ein Ausgleich mit enteraler oder parenteraler Zusatzernährung vorgenommen werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Ernährung",
+      "präoperativ"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "ernaehrung"
+      ],
+      "lokalisation": [
+        "duenndarm"
+      ]
+    }
+  },
+  {
+    "id": "mc_2_15_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "2.15",
+    "kapitel": "Therapie / Chirurgie",
+    "unterkapitel": "Steroide präop",
+    "thema": "Chirurgie",
+    "statement": "Eine präoperative Steroidtherapie sollte zur Senkung des OP-Risikos erhöht werden.",
+    "answer": false,
+    "explanation": "Empf. 2.15 (EK): präoperativ sollten Steroide REDUZIERT/beendet werden (hohe Dosen erhöhen Komplikationen).",
+    "leitlinie_wortlaut": "Eine präoperative Steroidtherapie sollte zur Senkung des perioperativen Komplikationsrisikos reduziert oder wenn möglich beendet werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Steroide",
+      "perioperativ"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "lokalisation": [
+        "duenndarm"
+      ]
+    }
+  },
+  {
+    "id": "mc_3_16_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "3.16",
+    "kapitel": "Remissionserhalt / postoperativ",
+    "unterkapitel": "Rezidivprophylaxe",
+    "thema": "Nachsorge",
+    "statement": "Nach einer Operation sollte – risikoadaptiert – eine postoperative Rezidivprophylaxe erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 3.16 (Grad B). Postoperatives Rezidiv ist häufig → risikoadaptierte Prophylaxe.",
+    "leitlinie_wortlaut": "Postoperativ sollte unter Berücksichtigung des individuellen Krankheitsverlaufes und des Risikoprofiles ▪ beim Fehlen von Risikofaktoren keine remissionserhaltende Therapie erfolgen und eine endoskopische Kontrolle nach sechs Monaten durchgeführt werden. Alternativ kann auch eine postoperative Remissionserhaltung mit Mesalazin bei allerdings heterogener Evidenz eingeleitet werden. ▪ bei Vorliegen von Risikofaktoren für ein postoperatives Rezidiv eine Therapie direkt postoperativ mit Thiopurinen oder TNF-α-Antikörpern erfolgen und eine endoskopische Kontrolle nach sechs Monaten durchgeführt werden.",
+    "evidenz": "Grad B; LoE 2",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Rezidivprophylaxe",
+      "postoperativ"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "nachsorge",
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "duenndarm"
+      ]
+    }
+  },
+  {
+    "id": "mc_4_1_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "4.1",
+    "kapitel": "Perianales Fistelleiden",
+    "unterkapitel": "Interdisziplinär",
+    "thema": "Fistel",
+    "statement": "Die Fisteltherapie beim M. Crohn sollte interdisziplinär erfolgen, häufig als kombinierter medikamentös-chirurgischer Ansatz.",
+    "answer": true,
+    "explanation": "Empf. 4.1 (EK). Kombiniertes Vorgehen (Anti-TNF + chirurgische Drainage).",
+    "leitlinie_wortlaut": "Die Fisteltherapie sollte in interdisziplinärer Abstimmung erfolgen, wobei häufig ein kombinierter Ansatz (medikamentös und chirurgisch) indiziert ist.",
+    "evidenz": "EK",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Fisteltherapie",
+      "interdisziplinär"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "medikamentoes",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "perianal"
+      ]
+    }
+  },
+  {
+    "id": "mc_4_3_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "4.3",
+    "kapitel": "Perianales Fistelleiden",
+    "unterkapitel": "Infliximab",
+    "thema": "Fistel",
+    "statement": "Komplexe perianale Crohn-Fisteln sollen primär durch chirurgische Fistelexzision ohne medikamentöse Therapie versorgt werden.",
+    "answer": false,
+    "explanation": "Empf. 4.3 (Grad B): Infliximab ist die primäre medikamentöse Therapie komplexer Fisteln (nach Abszessausschluss).",
+    "leitlinie_wortlaut": "Der TNF-α-Antikörper Infliximab sollte als primäre Therapie bei komplexen perianalen Fisteln nach Abszessausschluss oder -drainage eingesetzt werden.",
+    "evidenz": "Grad B; LoE 1",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Infliximab",
+      "perianale Fistel"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "perianal"
+      ]
+    }
+  },
+  {
+    "id": "mc_4_6_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "4.6",
+    "kapitel": "Perianales Fistelleiden",
+    "unterkapitel": "Fadendrainage",
+    "thema": "Fistel",
+    "statement": "Eine sezernierende perianale Fistel soll durch sofortigen plastischen Fistelverschluss behandelt werden.",
+    "answer": false,
+    "explanation": "Empf. 4.6 (EK): zunächst Fadendrainage (Seton); Verschluss erst bei Remission.",
+    "leitlinie_wortlaut": "Die sezernierende Fistel sollte mit einer Fadendrainage behandelt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Fadendrainage",
+      "Seton"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "perianal"
+      ]
+    }
+  },
+  {
+    "id": "mc_4_8_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "4.8",
+    "kapitel": "Perianales Fistelleiden",
+    "unterkapitel": "Abszess",
+    "thema": "Fistel",
+    "statement": "Ein perianaler Abszess beim M. Crohn soll zunächst konservativ-antibiotisch behandelt werden; eine Drainage ist nicht erforderlich.",
+    "answer": false,
+    "explanation": "Empf. 4.8 (Grad A): Abszesse sollen vor konservativer Therapie ausgeschlossen oder DRAINIERT werden.",
+    "leitlinie_wortlaut": "Vor einer konservativen Therapie sollen perianale Abszesse ausgeschlossen oder drainiert werden.",
+    "evidenz": "Grad A; LoE 3",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Abszess",
+      "Drainage"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "perianal"
+      ]
+    }
+  },
+  {
+    "id": "mc_4_5_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "4.5",
+    "kapitel": "Perianales Fistelleiden",
+    "unterkapitel": "Asymptomatisch",
+    "thema": "Fistel",
+    "statement": "Asymptomatische perianale Fisteln sollen routinemäßig chirurgisch saniert werden.",
+    "answer": false,
+    "explanation": "Empf. 4.5 (EK): nur im AUSNAHMEFALL operieren (Kontinenzschutz).",
+    "leitlinie_wortlaut": "Asymptomatische perianale Fisteln sollten nur im Ausnahmefall chirurgisch therapiert werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "asymptomatische Fistel"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "perianal"
+      ]
+    }
+  },
+  {
+    "id": "mc_4_13_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "4.13",
+    "kapitel": "Perianales Fistelleiden",
+    "unterkapitel": "Verschlussverfahren",
+    "thema": "Fistel",
+    "statement": "Der plastische Fistelverschluss und das LIFT-Verfahren können zum Fistelverschluss eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 4.13 (Grad 0). Sphinkterschonende Verschlussverfahren (Advancement-Flap, LIFT).",
+    "leitlinie_wortlaut": "Der plastische Fistelverschluss und das LIFT-Verfahren können zum Fistelverschluss eingesetzt werden.",
+    "evidenz": "Grad 0; LoE 4",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "LIFT",
+      "Fistelverschluss"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "perianal"
+      ]
+    }
+  },
+  {
+    "id": "mc_5_2_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "5.2",
+    "kapitel": "Komplikationen",
+    "unterkapitel": "Vitamin B12",
+    "thema": "Komplikation",
+    "statement": "Nach Resektion des terminalen Ileums ist eine Vitamin-B12-Kontrolle nicht erforderlich.",
+    "answer": false,
+    "explanation": "Empf. 5.2 (Grad B): der Vitamin-B12-Spiegel SOLLTE kontrolliert werden (Resorptionsort entfällt).",
+    "leitlinie_wortlaut": "Bei Crohn-Befall des terminalen Ileums oder Z. n. Resektion des terminalen Ileums sollte der Vitamin B12-Spiegel (Holotranscobalamin) mindestens jährlich kontrolliert werden.",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Vitamin B12",
+      "terminales Ileum"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "lokalisation": [
+        "duenndarm"
+      ]
+    }
+  },
+  {
+    "id": "mc_3_1_a",
+    "leitlinie": {
+      "id": "morbus_crohn",
+      "name": "S3-LL Morbus Crohn",
+      "version": "4.0",
+      "datum": "September 2024",
+      "awmf": "021-004"
+    },
+    "empfehlung_nr": "3.1",
+    "kapitel": "Remissionserhalt / postoperativ",
+    "unterkapitel": "Therapieziel",
+    "thema": "Remission",
+    "statement": "Ziel einer Langzeittherapie sollte die Erhaltung der steroidfreien klinischen Remission mit Normalisierung der Lebensqualität sein.",
+    "answer": true,
+    "explanation": "Empf. 3.1 (EK). Steroidfreie Remission als Behandlungsziel.",
+    "leitlinie_wortlaut": "Ziel einer Langzeittherapie sollte die Erhaltung der steroidfreien klinischen Remission mit einer Normalisierung der Lebensqualität sein.",
+    "evidenz": "EK",
+    "konsensstaerke": "starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "steroidfreie Remission"
+    ],
+    "facetten": {
+      "entitaet": [
+        "morbus_crohn"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "duenndarm"
+      ]
+    }
+  },
+  {
+    "id": "div_4_7_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "4.7",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Bildgebung",
+    "thema": "Diagnostik",
+    "statement": "Zur Diagnostik der akuten Divertikulitis ist der Röntgen-Kontrasteinlauf das Standardverfahren.",
+    "answer": false,
+    "explanation": "Empf. 4.7 (Grad A): Ultraschall oder CT sollen eingesetzt werden.",
+    "leitlinie_wortlaut": "Ultraschall oder Computertomographie (CT) sollen als diagnostische Verfahren bei V. a. Divertikulitis eingesetzt werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Sonographie",
+      "CT"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_4_12_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "4.12",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Koloskopie",
+    "thema": "Diagnostik",
+    "statement": "Nach einer konservativ ausgeheilten Divertikulitis ist eine Koloskopie nicht erforderlich.",
+    "answer": false,
+    "explanation": "Empf. 4.12 (Grad B): nach Ausheilung sollte die Indikation zur Koloskopie geprüft werden (Karzinomausschluss).",
+    "leitlinie_wortlaut": "Nach Ausheilung einer konservativ behandelten Divertikulitis (i. d. R. nach 6–8 Wochen) sollte die Indikation zur Koloskopie in Abhängigkeit von klinisch-anamnestischen Faktoren (protrahierter Verlauf, persistierende Beschwerden, Alter des Patienten, Bildgebung) gestellt werden.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Koloskopie",
+      "Karzinomausschluss"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "diagnostik",
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_4_21_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "4.21",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Sigma-Blasenfistel",
+    "thema": "Diagnostik",
+    "statement": "Zur Diagnostik einer Sigma-Blasenfistel sollte ein Mohnsamentest durchgeführt werden, wenn klinischer Verdacht besteht.",
+    "answer": true,
+    "explanation": "Empf. 4.21 (Grad B). Mohnsamentest weist kolovesikale Fistel nach.",
+    "leitlinie_wortlaut": "Zur Diagnostik einer Sigma-Blasenfistel sollte ein Mohnsamentest durchgeführt werden, wenn der klinische Verdacht besteht und die Fistel nicht bereits morphologisch (US, CT, MRT, Koloskopie) vorbeschrieben ist.",
+    "evidenz": "Grad B; LoE 2",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Sigma-Blasenfistel",
+      "Mohnsamentest"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_5_13_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "5.13",
+    "kapitel": "Konservative Therapie",
+    "unterkapitel": "Unkompliziert",
+    "thema": "Konservativ",
+    "statement": "Eine akute unkomplizierte Divertikulitis (CDD Typ 1a/1b) soll primär operiert werden.",
+    "answer": false,
+    "explanation": "Empf. 5.13 (Grad A): die unkomplizierte Divertikulitis soll primär KONSERVATIV behandelt werden.",
+    "leitlinie_wortlaut": "Eine akute unkomplizierte Divertikelkrankheit/Divertikulitis (CDD Typ 1a und 1b) soll primär konservativ behandelt werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "unkompliziert",
+      "CDD 1",
+      "konservativ"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_5_20_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "5.20",
+    "kapitel": "Konservative Therapie",
+    "unterkapitel": "Antibiotika",
+    "thema": "Konservativ",
+    "statement": "Bei akuter unkomplizierter Divertikulitis ohne Risikofaktoren sollen immer Antibiotika gegeben werden.",
+    "answer": false,
+    "explanation": "Empf. 5.20 (Grad 0): bei niedrigem Risiko KANN auf Antibiotika verzichtet werden.",
+    "leitlinie_wortlaut": "Bei akuter unkomplizierter linksseitiger Divertikulitis (CDD 1b) ohne Risikoindikatoren für einen komplizierten Verlauf kann unter engmaschiger klinischer Kontrolle auf eine Antibiotikatherapie verzichtet werden.",
+    "evidenz": "Grad 0; LoE 1",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Antibiotika",
+      "unkompliziert"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_5_27_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "5.27",
+    "kapitel": "Konservative Therapie",
+    "unterkapitel": "Kompliziert AB",
+    "thema": "Konservativ",
+    "statement": "Bei der komplizierten Divertikulitis sollte eine Antibiotikatherapie durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 5.27 (Grad B). Bei Komplikationen (Abszess/Perforation) Antibiotika indiziert.",
+    "leitlinie_wortlaut": "Bei der komplizierten Divertikulitis sollte eine Antibiotikatherapie durchgeführt werden.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Antibiotika",
+      "kompliziert"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_6_4_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "6.4",
+    "kapitel": "Komplizierte Divertikulitis",
+    "unterkapitel": "Mikroabszess",
+    "thema": "Kompliziert",
+    "statement": "Eine akute Divertikulitis mit Mikroabszess (CDD Typ 2a) sollte stationär und antibiotisch behandelt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.4 (Grad B). Mikroabszess (≤ 3 cm) i. d. R. konservativ stationär.",
+    "leitlinie_wortlaut": "Eine akute Divertikulitis mit Microabszess (CDD Typ 2a) sollte stationär und antibiotisch behandelt werden. Eine Indikation zur elektiven Operation nach erfolgreicher konservativer Therapie besteht nicht.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Mikroabszess",
+      "CDD 2a"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_6_5_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "6.5",
+    "kapitel": "Komplizierte Divertikulitis",
+    "unterkapitel": "Makroabszess",
+    "thema": "Kompliziert",
+    "statement": "Größere retroperitoneale oder parakolische Abszesse (> 3 cm) können interventionell (sonographie-/CT-gesteuert) drainiert werden.",
+    "answer": true,
+    "explanation": "Empf. 6.5 (Grad 0). Makroabszess → perkutane Drainage.",
+    "leitlinie_wortlaut": "Größere retroperitoneale oder parakolische Abszesse (> 3 cm) können interventionell (Sonographie, CT) drainiert werden.",
+    "evidenz": "Grad 0; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Makroabszess",
+      "Drainage"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "modalitaet": [
+        "lokoregionaer"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_6_10_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "6.10",
+    "kapitel": "Komplizierte Divertikulitis",
+    "unterkapitel": "Perforation",
+    "thema": "Kompliziert",
+    "statement": "Bei freier Perforation mit generalisierter Peritonitis sollte zunächst konservativ-antibiotisch behandelt werden.",
+    "answer": false,
+    "explanation": "Empf. 6.10 (Grad B): freie Perforation mit Peritonitis ist eine NOTFALL-Operationsindikation.",
+    "leitlinie_wortlaut": "Patienten mit freier Perforation und Peritonitis bei akuter komplizierter Divertikulitis sollten innerhalb von 6 Stunden nach Diagnosestellung operiert werden (Notfall-Operation).",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Perforation",
+      "Notfall"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "akut",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_6_13_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "6.13",
+    "kapitel": "Komplizierte Divertikulitis",
+    "unterkapitel": "Chronisch-rezidivierend",
+    "thema": "Kompliziert",
+    "statement": "Eine elektive Sigmaresektion ist bei chronisch-rezidivierender Divertikulitis grundsätzlich kontraindiziert.",
+    "answer": false,
+    "explanation": "Empf. 6.13 (Grad B): die elektive Sigmaresektion KANN die Lebensqualität verbessern (individuelle Indikation).",
+    "leitlinie_wortlaut": "Die elektive Sigmaresektion kann bei der chronisch-rezidivierenden Divertikulitis CDD Typ 3b die Lebensqualität signifikant verbessern. Die Beeinträchtigung der Lebensqualität durch die rezidivierende Erkrankung sollte bei diesen Patienten als wesentliche Entscheidungshilfe zur Indikationsstellung herangezogen werden.",
+    "evidenz": "Grad B; LoE 2",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Sigmaresektion",
+      "chronisch-rezidivierend"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_7_1_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "7.1",
+    "kapitel": "Chirurgie",
+    "unterkapitel": "Minimalinvasiv",
+    "thema": "Chirurgie",
+    "statement": "Bei der elektiven Sigmaresektion ist die offene Operation der minimal-invasiven vorzuziehen.",
+    "answer": false,
+    "explanation": "Empf. 7.1 (Grad B): die MINIMAL-INVASIVE Sigmaresektion sollte bevorzugt werden.",
+    "leitlinie_wortlaut": "Die minimal-invasive Sigmaresektion sollte – wenn technisch möglich – der offenen Operation vorgezogen werden.",
+    "evidenz": "Grad B; LoE 2",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "minimalinvasiv",
+      "Sigmaresektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_7_4_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "7.4",
+    "kapitel": "Chirurgie",
+    "unterkapitel": "Perforiert eitrig",
+    "thema": "Chirurgie",
+    "statement": "Bei perforierter Divertikulitis mit eitriger Peritonitis (CDD 2c1) sollte eine primäre Sigmaresektion durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 7.4 (Grad B). Primäre Resektion (ggf. mit Anastomose ± protektivem Stoma) statt reiner Lavage.",
+    "leitlinie_wortlaut": "Bei der perforierten Divertikulitis mit eitriger Peritonitis (CDD 2c1) sollte eine primäre Sigmaresektion durchgeführt werden. Eine potentielle alternative Therapiestrategie ist die laparoskopische Peritoneallavage und Drainage, ohne Resektion.",
+    "evidenz": "Grad B; LoE 2",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Sigmaresektion",
+      "Peritonitis"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "akut",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_5_1_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "5.1",
+    "kapitel": "Konservative Therapie",
+    "unterkapitel": "Ballaststoffe",
+    "thema": "Prophylaxe",
+    "statement": "Eine ballaststoffreiche Kost (≥ 30 g/Tag) soll zur Primärprophylaxe der Divertikelkrankheit empfohlen werden.",
+    "answer": true,
+    "explanation": "Empf. 5.1 (Grad A). Ballaststoffe senken Divertikelkrankheits-Risiko.",
+    "leitlinie_wortlaut": "Eine ballaststoffreiche Kost (≥ 30 g/Tag) reich an Obst, Gemüse und Cerealien soll für Männer und Frauen unabhängig vom Lebensalter zur Primärprophylaxe der Divertikelkrankheit und in Übereinstimmung mit allgemeinen Ernährungsempfehlungen empfohlen werden.",
+    "evidenz": "Grad A; LoE 1",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Ballaststoffe",
+      "Prophylaxe"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "modalitaet": [
+        "ernaehrung"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "div_4_18_a",
+    "leitlinie": {
+      "id": "divertikulitis",
+      "name": "S3-LL Divertikelkrankheit/Divertikulitis",
+      "version": "3.0",
+      "datum": "Mai 2022",
+      "awmf": "021-020"
+    },
+    "empfehlung_nr": "4.18",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Rezidiv",
+    "thema": "Blutung",
+    "statement": "Bei rezidivierender, hämodynamisch wirksamer Divertikelblutung kann eine segmentale Resektion erwogen werden.",
+    "answer": true,
+    "explanation": "Empf. 4.18/4.20 (EK). Lokalisierte unstillbare/rezidivierende Blutung → segmentale Resektion.",
+    "leitlinie_wortlaut": "Bei Patienten mit rezidivierender, hämodynamisch wirksamer Divertikelblutung und der Notwendigkeit der lebenslangen Antikoagulation kann es indiziert sein, im Intervall elektiv eine partielle Kolektomie durchzuführen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Divertikelblutung",
+      "Resektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "divertikulitis"
+      ],
+      "phase": [
+        "akut",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   }
 ]

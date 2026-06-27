@@ -71,9 +71,27 @@
       "version": "S3 v7.0 (2025)",
       "geplante_fragen": 21,
       "status": "fertig"
+    },
+    {
+      "id": "morbus_crohn",
+      "awmf": "021-004",
+      "kurz": "M. Crohn",
+      "name": "Morbus Crohn",
+      "version": "S3 v4.0 (2024)",
+      "geplante_fragen": 17,
+      "status": "fertig"
+    },
+    {
+      "id": "divertikulitis",
+      "awmf": "021-020",
+      "kurz": "Divertikulitis",
+      "name": "Divertikelkrankheit/Divertikulitis",
+      "version": "S3 (2022)",
+      "geplante_fragen": 14,
+      "status": "fertig"
     }
   ],
-  "gesamt_geplant": 524,
+  "gesamt_geplant": 555,
   "nicht_aufgenommen": [
     {
       "id": "hernien",
@@ -84,16 +102,6 @@
       "id": "mes_ischaemie",
       "name": "Mesenteriale Ischämie",
       "grund": "Kein dediziertes deutsches S2k/S3 verfügbar."
-    },
-    {
-      "id": "divertikulitis",
-      "name": "Divertikelkrankheit/Divertikulitis",
-      "grund": "S3 (021-020) liegt als zweispaltiges Zeitschriften-PDF vor – nicht mit dem aktuellen Box-Parser verbatim extrahierbar (Kandidat für späteren Spezial-Parser)."
-    },
-    {
-      "id": "morbus_crohn",
-      "name": "Morbus Crohn",
-      "grund": "S3 v4.0 (2024) nur als zweispaltiges Zeitschriften-PDF mit gesperrten Empfehlungs-Köpfen — nicht verbatim extrahierbar (wie Divertikulitis). 2022er-Version wäre veraltet."
     }
   ]
 }

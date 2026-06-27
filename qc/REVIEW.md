@@ -3,7 +3,7 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 524 Fragen · ✅ 524 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 555 Fragen · ✅ 555 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
@@ -111,6 +111,40 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | cu_2_23_2_a | 2.23.2 | None | R | ✅ | ☐ |
 | cu_2_30_a | 2.30 | None | R | ✅ | ☐ |
 | cu_2_7_2_a | 2.7.2 | None | F | ✅ | ☐ |
+
+## divertikulitis · Chirurgie  (2)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| div_7_1_a | 7.1 | None | F | ✅ | ☐ |
+| div_7_4_a | 7.4 | None | R | ✅ | ☐ |
+
+## divertikulitis · Diagnostik  (4)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| div_4_12_a | 4.12 | None | F | ✅ | ☐ |
+| div_4_18_a | 4.18 | None | R | ✅ | ☐ |
+| div_4_21_a | 4.21 | None | R | ✅ | ☐ |
+| div_4_7_a | 4.7 | None | F | ✅ | ☐ |
+
+## divertikulitis · Komplizierte Divertikulitis  (4)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| div_6_10_a | 6.10 | None | F | ✅ | ☐ |
+| div_6_13_a | 6.13 | None | F | ✅ | ☐ |
+| div_6_4_a | 6.4 | None | R | ✅ | ☐ |
+| div_6_5_a | 6.5 | None | R | ✅ | ☐ |
+
+## divertikulitis · Konservative Therapie  (4)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| div_5_13_a | 5.13 | None | F | ✅ | ☐ |
+| div_5_1_a | 5.1 | None | R | ✅ | ☐ |
+| div_5_20_a | 5.20 | None | F | ✅ | ☐ |
+| div_5_27_a | 5.27 | None | R | ✅ | ☐ |
 
 ## hcc · Biliäre Karzinome (CCA)  (13)
 
@@ -504,6 +538,48 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | mag_4_5_a | 4.5 | 47 | R | ✅ | ☐ |
 | mag_4_7_a | 4.7 | 48 | R | ✅ | ☐ |
 | mag_4_9_a | 4.9 | 50 | F | ✅ | ☐ |
+
+## morbus_crohn · Diagnostik  (3)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mc_1_12_a | 1.12 | None | F | ✅ | ☐ |
+| mc_1_20_a | 1.20 | None | R | ✅ | ☐ |
+| mc_1_9_a | 1.9 | None | R | ✅ | ☐ |
+
+## morbus_crohn · Komplikationen  (1)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mc_5_2_a | 5.2 | None | F | ✅ | ☐ |
+
+## morbus_crohn · Perianales Fistelleiden  (6)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mc_4_13_a | 4.13 | None | R | ✅ | ☐ |
+| mc_4_1_a | 4.1 | None | R | ✅ | ☐ |
+| mc_4_3_a | 4.3 | None | F | ✅ | ☐ |
+| mc_4_5_a | 4.5 | None | F | ✅ | ☐ |
+| mc_4_6_a | 4.6 | None | F | ✅ | ☐ |
+| mc_4_8_a | 4.8 | None | F | ✅ | ☐ |
+
+## morbus_crohn · Remissionserhalt / postoperativ  (2)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mc_3_16_a | 3.16 | None | R | ✅ | ☐ |
+| mc_3_1_a | 3.1 | None | R | ✅ | ☐ |
+
+## morbus_crohn · Therapie / Chirurgie  (5)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mc_2_13_a | 2.13 | None | R | ✅ | ☐ |
+| mc_2_14_a | 2.14 | None | R | ✅ | ☐ |
+| mc_2_15_a | 2.15 | None | F | ✅ | ☐ |
+| mc_2_4_a | 2.4 | None | R | ✅ | ☐ |
+| mc_2_8_a | 2.8 | None | F | ✅ | ☐ |
 
 ## oesophagus · Diagnostik / Staging / Pathologie  (16)
 

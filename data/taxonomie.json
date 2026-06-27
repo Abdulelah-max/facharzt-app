@@ -76,7 +76,9 @@
         "oesophagus": "Ösophagus",
         "barrett": "Barrett-Ösophagus",
         "gallenwege": "Gallenwege / Gallenblase",
-        "anal": "Analkanal / Analrand"
+        "anal": "Analkanal / Analrand",
+        "duenndarm": "Dünndarm / Ileozökal",
+        "perianal": "Perianal / Fistel"
       }
     },
     "spezial": {
@@ -483,6 +485,55 @@
       "kriterien": {
         "entitaet": "colitis_ulcerosa",
         "phase": "diagnostik"
+      }
+    },
+    {
+      "name": "M. Crohn Chirurgie (Ileozökalresektion)",
+      "kriterien": {
+        "entitaet": "morbus_crohn",
+        "phase": "chirurgie"
+      }
+    },
+    {
+      "name": "M. Crohn perianale Fisteln",
+      "kriterien": {
+        "entitaet": "morbus_crohn",
+        "lokalisation": "perianal"
+      }
+    },
+    {
+      "name": "M. Crohn medikamentös",
+      "kriterien": {
+        "entitaet": "morbus_crohn",
+        "phase": "medikamentoes"
+      }
+    },
+    {
+      "name": "M. Crohn Diagnostik",
+      "kriterien": {
+        "entitaet": "morbus_crohn",
+        "phase": "diagnostik"
+      }
+    },
+    {
+      "name": "Divertikulitis Diagnostik/Klassifikation",
+      "kriterien": {
+        "entitaet": "divertikulitis",
+        "phase": "diagnostik"
+      }
+    },
+    {
+      "name": "Divertikulitis konservativ",
+      "kriterien": {
+        "entitaet": "divertikulitis",
+        "phase": "medikamentoes"
+      }
+    },
+    {
+      "name": "Divertikulitis Chirurgie",
+      "kriterien": {
+        "entitaet": "divertikulitis",
+        "phase": "chirurgie"
       }
     }
   ]
