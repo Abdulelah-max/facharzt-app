@@ -59,22 +59,23 @@
   }
 
   .card {
-    background: var(--bg-card); border: 1px solid var(--line); border-radius: 16px;
-    padding: 20px; margin-bottom: 16px;
+    background: var(--bg-card); border: 1px solid var(--line); border-radius: 18px;
+    padding: 30px 26px; margin: 10px auto 16px; max-width: 640px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.04);
   }
-  .meta { display: flex; gap: 8px; flex-wrap: wrap; font-size: 11px; color: var(--ink-muted); margin-bottom: 12px; }
+  .meta { display: flex; gap: 8px; flex-wrap: wrap; font-size: 11px; color: var(--ink-muted); margin-bottom: 18px; justify-content: center; }
   .meta .chip { background: var(--bg-elev); padding: 3px 8px; border-radius: 6px; }
   .meta .chip.nr { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
 
   .statement {
-    font-family: var(--serif); font-size: 19px; line-height: 1.5; color: var(--ink);
-    margin: 4px 0 20px;
+    font-family: var(--serif); font-size: 24px; line-height: 1.5; color: var(--ink);
+    margin: 6px 0 28px; text-align: center; letter-spacing: .1px;
   }
 
-  .answers { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .answers { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; max-width: 520px; margin: 0 auto; }
   .answers button {
-    min-height: 56px; border-radius: 12px; border: 1.5px solid var(--line);
-    background: var(--bg-card); font-family: var(--sans); font-size: 16px; font-weight: 500;
+    min-height: 70px; border-radius: 14px; border: 1.5px solid var(--line);
+    background: var(--bg-card); font-family: var(--sans); font-size: 19px; font-weight: 600;
     color: var(--ink); cursor: pointer; transition: all .15s ease; padding: 12px;
   }
   .answers button:active { transform: scale(.98); }
@@ -84,6 +85,36 @@
   .answers button.picked.wrong { background: var(--wrong-bg); border-color: var(--wrong); color: var(--wrong); }
   .answers button.reveal-correct { border-color: var(--correct); color: var(--correct); }
   .answers button:disabled { cursor: default; opacity: .85; }
+
+  /* Schlanke Quiz-Kopfzeile + einklappbares Steuer-Panel */
+  .quiz-top {
+    display: flex; align-items: center; gap: 8px;
+    position: sticky; top: 0; z-index: 5;
+    background: var(--bg); padding: 8px 0 10px; margin-bottom: 4px;
+  }
+  .qt-btn {
+    background: var(--bg-card); border: 1px solid var(--line); color: var(--ink-soft);
+    border-radius: 999px; padding: 8px 14px; font-size: 14px; font-family: var(--sans);
+    cursor: pointer; min-height: 40px;
+  }
+  .qt-filter { color: var(--accent); font-weight: 500; }
+  .qt-filter.open { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .qt-progress { flex: 1; text-align: center; font-size: 13px; color: var(--ink-muted); font-variant-numeric: tabular-nums; }
+  .qt-progress .num { color: var(--ink); font-weight: 600; }
+
+  .controls {
+    background: var(--bg-card); border: 1px solid var(--line);
+    border-radius: 16px; padding: 16px 16px 14px; margin-bottom: 16px;
+  }
+  .controls-foot {
+    display: flex; align-items: center; justify-content: space-between; gap: 10px;
+    margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--line);
+  }
+  .controls-done {
+    background: var(--accent); color: #fff; border: none; border-radius: 10px;
+    padding: 11px 18px; font-size: 14px; font-weight: 600; font-family: var(--sans);
+    cursor: pointer; min-height: 44px;
+  }
 
   .explanation {
     margin-top: 18px; padding: 14px 16px; background: var(--bg-elev);
@@ -291,8 +322,10 @@
   .result-count { font-size: 13px; color: var(--ink-muted); margin-bottom: 10px; font-variant-numeric: tabular-nums; }
 
   @media (max-width: 480px) {
-    .statement { font-size: 17px; }
-    .card { padding: 16px; border-radius: 14px; }
+    .statement { font-size: 21px; margin: 4px 0 24px; }
+    .card { padding: 22px 18px; border-radius: 16px; }
+    .answers button { min-height: 64px; font-size: 18px; }
+    .qt-filter { font-size: 13px; padding: 8px 12px; }
     .ll-row { grid-template-columns: 88px 1fr 80px; gap: 8px; font-size: 12px; }
   }
 </style>
@@ -371,10 +404,13 @@
   </div>
 
   <div id="view-quiz" class="view" hidden>
-    <div class="topbar">
-      <button id="q-back">← Übersicht</button>
+    <div class="quiz-top">
+      <button id="q-back" class="qt-btn">←</button>
+      <span class="qt-progress"><span class="num" id="s-progress">0/0</span><span class="qt-correct"> · <span class="num" id="s-correct">0</span> richtig</span></span>
+      <button id="controls-toggle" class="qt-btn qt-filter">🔍 Themen &amp; Filter</button>
     </div>
-    <div id="topic-panel" class="topic-panel">
+
+    <div id="controls" class="controls" hidden>
       <div class="search-wrap">
         <input id="f-search" class="search-input" type="search" autocomplete="off" placeholder="🔍 Suche: Thema, Stichwort … z. B. Stadium II">
         <button id="f-search-clear" class="search-clear" hidden aria-label="Suche löschen">×</button>
@@ -383,28 +419,28 @@
       <div id="f-scenarios" class="scenarios"></div>
       <button id="f-facet-toggle" class="facet-toggle">Nach Facetten filtern ▾</button>
       <div id="f-facets" class="facet-groups" hidden></div>
+      <div id="filters" class="filters">
+        <select id="f-chapter" class="filter"><option value="">Alle Kapitel</option></select>
+        <select id="f-topic" class="filter"><option value="">Alle Themen</option></select>
+        <select id="f-difficulty" class="filter">
+          <option value="">Alle Schwierigkeiten</option>
+          <option value="leicht">leicht</option>
+          <option value="mittel">mittel</option>
+          <option value="schwer">schwer</option>
+        </select>
+        <select id="f-mode" class="filter">
+          <option value="all">Alle Fragen</option>
+          <option value="wrong">Nur falsche wiederholen</option>
+          <option value="new">Nur neue</option>
+        </select>
+      </div>
       <div id="f-active" class="active-summary"></div>
+      <div class="controls-foot">
+        <button class="linkish" id="s-reset">Von vorne</button>
+        <button class="controls-done" id="controls-done">Frage zeigen ✓</button>
+      </div>
     </div>
-    <div id="filters" class="filters">
-      <select id="f-chapter" class="filter"><option value="">Alle Kapitel</option></select>
-      <select id="f-topic" class="filter"><option value="">Alle Themen</option></select>
-      <select id="f-difficulty" class="filter">
-        <option value="">Alle Schwierigkeiten</option>
-        <option value="leicht">leicht</option>
-        <option value="mittel">mittel</option>
-        <option value="schwer">schwer</option>
-      </select>
-      <select id="f-mode" class="filter">
-        <option value="all">Alle Fragen</option>
-        <option value="wrong">Nur falsche wiederholen</option>
-        <option value="new">Nur neue</option>
-      </select>
-    </div>
-    <div id="scorebar" class="scorebar">
-      <span><span class="num" id="s-progress">0/0</span> · richtig <span class="num" id="s-correct">0</span></span>
-      <span class="grow"></span>
-      <button class="linkish" id="s-reset">Von vorne</button>
-    </div>
+
     <div id="quiz"></div>
   </div>
 </main>
@@ -467,8 +503,16 @@ function showView(name) {
   $('#view-dashboard').hidden = name !== 'dashboard';
   $('#view-quiz').hidden = name !== 'quiz';
   $('#view-analytics').hidden = name !== 'analytics';
+  if (name === 'quiz') setControls(false);   // Quiz startet fokussiert: Panel zu
   if (name === 'dashboard') renderDashboard();
   if (name === 'analytics') renderAnalytics();
+}
+
+// Steuer-Panel (Themen & Filter) öffnen/schließen
+function setControls(open) {
+  const c = $('#controls'); if (!c) return;
+  c.hidden = !open;
+  const t = $('#controls-toggle'); if (t) t.classList.toggle('open', open);
 }
 
 async function init() {
@@ -518,6 +562,9 @@ async function init() {
     box.hidden = !box.hidden;
     $('#f-facet-toggle').textContent = (box.hidden ? 'Nach Facetten filtern ▾' : 'Facetten ▴');
   });
+  // Steuer-Panel (Themen & Filter) auf-/zuklappen
+  $('#controls-toggle').addEventListener('click', () => setControls($('#controls').hidden));
+  $('#controls-done').addEventListener('click', () => { setControls(false); window.scrollTo({ top: 0 }); });
 
   // Dashboard navigation
   $('#d-resume').addEventListener('click', () => {
@@ -530,8 +577,7 @@ async function init() {
   $('#d-topic').addEventListener('click', () => {
     showView('quiz');
     applyFilters();
-    $('#f-facets').hidden = false;
-    $('#f-facet-toggle').textContent = 'Facetten ▴';
+    setControls(true);          // Panel offen: Suche/Szenarien/Filter zeigen
     $('#f-search').focus();
     window.scrollTo({ top: 0 });
   });
@@ -940,6 +986,8 @@ function applyScenario(crit) {
   $('#f-facets').hidden = false;
   $('#f-facet-toggle').textContent = 'Facetten ▴';
   applyFilters();
+  setControls(false);          // Szenario gewählt -> Panel zu, Frage in den Fokus
+  window.scrollTo({ top: 0 });
 }
 
 function clearAllFacets() {
