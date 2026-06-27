@@ -62,9 +62,18 @@
       "version": "S3 v1.2 (2020)",
       "geplante_fragen": 18,
       "status": "fertig"
+    },
+    {
+      "id": "colitis_ulcerosa",
+      "awmf": "021-009",
+      "kurz": "Colitis ulcerosa",
+      "name": "Colitis ulcerosa",
+      "version": "S3 v7.0 (2025)",
+      "geplante_fragen": 21,
+      "status": "fertig"
     }
   ],
-  "gesamt_geplant": 503,
+  "gesamt_geplant": 524,
   "nicht_aufgenommen": [
     {
       "id": "hernien",

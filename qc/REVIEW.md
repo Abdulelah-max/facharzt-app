@@ -3,7 +3,7 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 503 Fragen · ✅ 503 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 524 Fragen · ✅ 524 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
@@ -70,6 +70,47 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | anal_9_2_a | 9.2 | None | R | ✅ | ☐ |
 | anal_9_7_a | 9.7 | None | F | ✅ | ☐ |
 | anal_9_9_a | 9.9 | None | R | ✅ | ☐ |
+
+## colitis_ulcerosa · Besondere Situationen  (1)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| cu_7_25_a | 7.25 | None | R | ✅ | ☐ |
+
+## colitis_ulcerosa · Chirurgie / Pouch  (10)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| cu_4_12_a | 4.12 | None | R | ✅ | ☐ |
+| cu_4_14_a | 4.14 | None | R | ✅ | ☐ |
+| cu_4_1_a | 4.1 | None | F | ✅ | ☐ |
+| cu_4_20_a | 4.20 | None | F | ✅ | ☐ |
+| cu_4_22_a | 4.22 | None | R | ✅ | ☐ |
+| cu_4_27_1_a | 4.27.1 | None | F | ✅ | ☐ |
+| cu_4_2_a | 4.2 | None | R | ✅ | ☐ |
+| cu_4_3_a | 4.3 | None | F | ✅ | ☐ |
+| cu_4_4_a | 4.4 | None | F | ✅ | ☐ |
+| cu_4_6_a | 4.6 | None | F | ✅ | ☐ |
+
+## colitis_ulcerosa · Diagnostik / Überwachung  (4)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| cu_1_13_1_a | 1.13.1 | None | R | ✅ | ☐ |
+| cu_1_17_a | 1.17 | None | R | ✅ | ☐ |
+| cu_1_21_a | 1.21 | None | R | ✅ | ☐ |
+| cu_1_33_a | 1.33 | None | R | ✅ | ☐ |
+
+## colitis_ulcerosa · Medikamentöse Therapie  (6)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| cu_2_10_a | 2.10 | None | F | ✅ | ☐ |
+| cu_2_11_a | 2.11 | None | R | ✅ | ☐ |
+| cu_2_22_a | 2.22 | None | F | ✅ | ☐ |
+| cu_2_23_2_a | 2.23.2 | None | R | ✅ | ☐ |
+| cu_2_30_a | 2.30 | None | R | ✅ | ☐ |
+| cu_2_7_2_a | 2.7.2 | None | F | ✅ | ☐ |
 
 ## hcc · Biliäre Karzinome (CCA)  (13)
 

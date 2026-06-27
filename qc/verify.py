@@ -38,6 +38,7 @@ PDFS = {
     "schilddruese": "leitlinien/schilddruese-v1.0.pdf",
     "hcc": "leitlinien/hcc-v5.pdf",
     "analkarzinom": "leitlinien/analkarzinom-v1.1.pdf",
+    "colitis_ulcerosa": "leitlinien/colitis-ulcerosa-v7.0.pdf",
 }
 OK_T, PRUEF_T = 0.85, 0.65
 
@@ -155,7 +156,12 @@ def main():
         if boxes is None:
             st, via = "KEIN_PDF", "-"
         elif box is None:
-            st, via = "KEINE_BOX", "-"
+            # andere Leitlinien-Formate (z. B. DGVS): kein Onkologie-Box-Kopf ->
+            # Wortlaut verbatim (8-Gramm) im gesamten Leitlinientext suchen
+            if corpus_by.get(ll) and verbatim_in(wl, corpus_by[ll]):
+                st, via = "OK", "Leitlinie"
+            else:
+                st, via = "KEINE_BOX", "-"
         elif cov >= OK_T:
             st, via = "OK", "Empfehlung"
         elif vb:

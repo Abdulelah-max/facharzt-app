@@ -8046,5 +8046,341 @@
     "statement": "Allen Patienten soll nach der Diagnose eines nicht-heilbaren Analkarzinoms eine Palliativversorgung angeboten werden.",
     "leitlinie_wortlaut": "Allen Patienten soll nach der Diagnose eines nicht-heilbaren Analkarzinoms Palliativ- versorgung angeboten werden, unabhängig davon, ob eine tumorspezifische Thera- pie durchgeführt wird. sierte Empfehlung 5.2; https://www.leitlinienprogramm-onkologie.de/leitlinien/palliativmedizin/ inienprogramm Onkologie | S3-Leitlinie Analkarzinom | Version 1.2 | Dezember 2020 111 tegration von Palliativversorgung das Analkarzinom als nicht heilbar eingestuft wird, ist der Zeitpunkt für die In- tion von Palliativversorgung gegeben, wobei die Durchführung der Palliativversor- in der Praxis überwiegend durch die primärbehandelnden Ärzt*innen der Fachrich- n Onkologie, Chirurgie, Strahlentherapie oder Allgemeinmedizin als allgemeine ativversorgung (APV) erfolgt.",
     "leitlinie_pdf": "Allen Patienten soll nach der Diagnose eines nicht-heilbaren Analkarzinoms Palliativversorgung angeboten werden, unabhängig davon, ob eine tumorspezifische Therapie durchgeführt wird. Leitlinienadaptation: S3-Leitlinie Palliativmedizin, Langversion 2.1, Januar 2020, Kapitel 5.3.1, Evidenzba114.2 Zeitpunkt der Integration von Palliativversorgung Wenn das Analkarzinom als nicht heilbar eingestuft wird, ist der Zeitpunkt für die Integration von Palliativversorgung gegeben, wobei die Durchführung der Palliativversorgung in der Praxis überwiegend durch die primärbehandelnden Ärzt*innen der Fachrichtungen Onkologie, Chirurgie, Strahlentherapie oder Allgemeinmedizin als allgemeine Palliativversorgung (APV) erfolgt."
+  },
+  {
+    "id": "cu_1_13_1_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "1.13.1",
+    "kapitel": "Diagnostik / Überwachung",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die Mukosaheilung ist mit einem günstigen Krankheitsverlauf assoziiert und sollte als Therapieziel angestrebt werden.",
+    "leitlinie_wortlaut": "Mukosaheilung ist mit einem günstigen Krankheitsverlauf assoziiert und sollte als Therapieziel angestrebt werden. Zur Beurteilung des Therapieansprechens sollte eine endoskopische Kontrolle 6- 12 Monate nach Therapiebeginn erfolgen.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_1_17_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "1.17",
+    "kapitel": "Diagnostik / Überwachung",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die Darmsonographie sollte Bestandteil der Diagnostik bei Erstdiagnose (Krankheitsaktivität/-ausdehnung) sowie beim schweren akuten Schub sein.",
+    "leitlinie_wortlaut": "Die Darmsonographie sollte Bestandteil der Diagnostik bei der Erstdiagnose zur Erfassung der Krankheitsaktivität und -ausdehnung, sowie beim schweren akuten Schub zur Erfassung von Komplikationen sein. Das Therapieansprechen bei mittelschwerem bis schwerem Schub mit sonographisch nachweisbarer Darmwandverdickung sollte mittels Darmsonographie erfolgen.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_1_21_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "1.21",
+    "kapitel": "Diagnostik / Überwachung",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Intraepitheliale Neoplasien/Dysplasien sollen nach WHO histopathologisch in niedriggradig und hochgradig graduiert werden.",
+    "leitlinie_wortlaut": "gültigen Kriterien der WHO erfolgen; IEN/Dysplasien sollen histopathologisch graduiert werden in niedriggradig, hochgradig oder unklar (indefinite).",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_1_33_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "1.33",
+    "kapitel": "Diagnostik / Überwachung",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei Nachweis einer endoskopisch nicht resektablen Läsion mit IEN/Dysplasie oder eines Adenokarzinoms soll eine (Prokto-)Kolektomie erfolgen.",
+    "leitlinie_wortlaut": "Bei dem Nachweis einer endoskopisch nicht resektablen Läsion mit IEN/Dysplasie oder eines Adenokarzinoms (B) soll wegen der hohen Assoziation mit einem metachronen oder synchronen Karzinom eine Proktokolektomie erfolgen.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_2_7_2_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "2.7.2",
+    "kapitel": "Medikamentöse Therapie",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei der Proktitis ulcerosa soll die topische Steroidtherapie dem rektalen Mesalazin vorgezogen werden.",
+    "leitlinie_wortlaut": "Die rektale Anwendung von Mesalazin-Einläufen oder Schäumen (≥ 1 g/d) soll der topischen Steroidtherapie vorgezogen werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_2_10_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "2.10",
+    "kapitel": "Medikamentöse Therapie",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei unzureichendem Ansprechen auf 5-ASA sollen statt Steroiden primär Antibiotika gegeben werden.",
+    "leitlinie_wortlaut": "Eine systemische Steroidtherapie (0,5-1 mg/kg KG/d Prednisolonäquivalent) soll begonnen werden, wenn die Symptome der CU nicht auf die unter 2.5 – 2.9 genannten Therapien ansprechen oder bereits bei Diagnosestellung eine schwere Form der Colitis vorliegt.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_2_11_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "2.11",
+    "kapitel": "Medikamentöse Therapie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Mesalazin soll primär als remissionserhaltende Therapie eingesetzt werden, wenn ein Ansprechen auf Mesalazin oder Steroide bestand.",
+    "leitlinie_wortlaut": "Mesalazin soll primär als remissionserhaltende Therapie eingesetzt werden, wenn ein Ansprechen auf Mesalazin oder Steroide besteht.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_2_22_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "2.22",
+    "kapitel": "Medikamentöse Therapie",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei steroidrefraktärer akuter schwerer Colitis soll ohne medikamentöse Rescue-Therapie sofort proktokolektomiert werden.",
+    "leitlinie_wortlaut": "die Behandlung mit intravenösen Steroiden sind, sollten mit Infliximab (vorzugsweise als Kombinationstherapie mit einem Thiopurin) (Evidenzgrad 2) oder mit Ciclosporin A (Evidenzgrad 1) oder Tacrolimus (Evidenzgrad 2) behandelt werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_2_23_2_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "2.23.2",
+    "kapitel": "Medikamentöse Therapie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei der akuten schweren Colitis kann eine Kolektomie indiziert sein, wenn nach 4–7 Tagen keine Verbesserung des klinischen Zustands eintritt.",
+    "leitlinie_wortlaut": "Die Kolektomie kann ebenso indiziert sein, wenn nach 4-7 Tagen keine Verbesserung des klinischen Zustands eintritt. Alternativ kann eine Therapie mit einem JAK-Inhibitor erwogen werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_2_30_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "2.30",
+    "kapitel": "Medikamentöse Therapie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei Patient*innen mit unzureichendem Ansprechen kommen JAK-Inhibitoren (Filgotinib, Tofacitinib, Upadacitinib) als Therapieoption in Betracht.",
+    "leitlinie_wortlaut": "Bei Patient*innen, die auf eine Induktionstherapie mit JAK-Inhibitoren (Filgotinib, Tofacitinib, Upadacitinib) ansprechen, sollte die remissionserhaltende Therapie mit dem jeweiligen JAK-Inhibitor fortgeführt werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_4_1_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "4.1",
+    "kapitel": "Chirurgie / Pouch",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Als Standardoperation der Colitis ulcerosa sollte eine partielle (segmentale) Kolonresektion durchgeführt werden.",
+    "leitlinie_wortlaut": "Als Standardoperation sollte eine restaurative Proktokolektomie durchgeführt werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_4_2_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "4.2",
+    "kapitel": "Chirurgie / Pouch",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die restaurative Proktokolektomie sollte in der Regel mit protektivem Ileostoma erfolgen.",
+    "leitlinie_wortlaut": "Die restaurative Proktokolektomie sollte in der Regel mit protektivem Ileostoma erfolgen, eine einzeitige Operation sollte nur in selektionierten Einzelfällen erfolgen.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_4_3_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "4.3",
+    "kapitel": "Chirurgie / Pouch",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Der S-Pouch sollte die Pouchkonstruktion der Wahl sein.",
+    "leitlinie_wortlaut": "Der J-Pouch sollte die Pouchkonstruktion der Wahl sein, da er am einfachsten anzulegen ist und im Langzeitverlauf eine vergleichbare Funktion aufweist wie andere Konstruktionen.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_4_4_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "4.4",
+    "kapitel": "Chirurgie / Pouch",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die freie Perforation bei Colitis ulcerosa sollte zunächst konservativ behandelt werden.",
+    "leitlinie_wortlaut": "Die freie oder gedeckte Perforation soll als Notfallindikation operiert werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_4_6_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "4.6",
+    "kapitel": "Chirurgie / Pouch",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei medikamentös therapierefraktärem fulminantem Schub soll die konservative Therapie fortgesetzt und nicht operiert werden.",
+    "leitlinie_wortlaut": "Patient*innen mit einem medikamentös therapierefraktären fulminanten Schub sollten dringlich operiert werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_4_14_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "4.14",
+    "kapitel": "Chirurgie / Pouch",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Pouchchirurgie sollte nur in dafür spezialisierten Zentren durchgeführt werden.",
+    "leitlinie_wortlaut": "Pouchchirurgie sollte nur in dafür spezialisierten Zentren durchgeführt werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_4_20_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "4.20",
+    "kapitel": "Chirurgie / Pouch",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die minimalinvasive restaurative Proktokolektomie ist der offenen Operation deutlich unterlegen.",
+    "leitlinie_wortlaut": "In der elektiven Situation ist die minimal invasive restaurative Proktokolektomie der offenen Operation mindestens gleichwertig, in einigen Punkten überlegen. Bei Frauen mit Kinderwunsch sollte bevorzugt minimal invasiv operiert werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_4_27_1_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "4.27.1",
+    "kapitel": "Chirurgie / Pouch",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die akute Pouchitis soll primär mit Biologika (z. B. Vedolizumab) behandelt werden.",
+    "leitlinie_wortlaut": "Als Primärtherapie der akuten Pouchitis sollen Ciprofloxacin oder Metronidazol eingesetzt werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_4_12_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "4.12",
+    "kapitel": "Chirurgie / Pouch",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei der ileoanalen Pouchanlage sollte die belassene Rektummukosa nicht länger als 2 cm sein.",
+    "leitlinie_wortlaut": "Bei der ileoanalen Pouchanlage sollte die belassene Rektummukosa nicht länger als 2 cm sein.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_4_22_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "4.22",
+    "kapitel": "Chirurgie / Pouch",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Eine partielle kolorektale Resektion sollte bei therapierefraktärer Colitis in der Regel nicht durchgeführt werden.",
+    "leitlinie_wortlaut": "Eine partielle kolorektale Resektion sollte in der Regel bei therapierefraktärer Colitis nicht durchgeführt werden. Eine Ausnahme stellt die Ileorektostomie bei wenig entzündetem Rektum dar.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "cu_7_25_a",
+    "leitlinie": "colitis_ulcerosa",
+    "empfehlung_nr": "7.25",
+    "kapitel": "Besondere Situationen",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Akute Krankheitsschübe während der Schwangerschaft sollten ohne Verzögerung therapiert werden.",
+    "leitlinie_wortlaut": "Akute Krankheitsschübe während der Schwangerschaft sollten ohne Verzögerung therapiert werden. Sichere Substanzen sind: TNF--Antikörper (Evidenzgrad 3), Ciclosporin (Evidenzgrad 4), Ustekinumab (Evidenzgrad 3), Vedolizumab (Evidenzgrad 3) und Steroide (Evidenzgrad 4). Steroide sollten auch in der Schwangerschaft nicht zur Remissionserhaltung eingesetzt werden. Bei schwangeren Patientinnen mit einem stabilen Verlauf der Erkrankung unter Therapie mit Azathioprin und/oder TNF--Antikörpern sollte diese Therapie fortgeführt werden. Auch eine Therapie mit Vedolizumab oder Ustekinumab sollte während der Schwangerschaft fortgeführt werden. Aufgrund der aktuell begrenzten Datenlage soll eine Therapie mit Guselkumab, Mirikizumab und Risankizumab während der Schwangerschaft nur nach kritischer Prüfung auf der Basis einer individuellen Entscheidung fortgeführt werden.",
+    "leitlinie_pdf": ""
   }
 ]

@@ -11,7 +11,9 @@
         "adjuvanz": "Adjuvante Therapie",
         "metastasen": "Metastasen / palliativ",
         "nachsorge": "Nachsorge",
-        "komplikationen": "Komplikationen / Funktion"
+        "komplikationen": "Komplikationen / Funktion",
+        "akut": "Akuter Schub",
+        "medikamentoes": "Medikamentöse Therapie"
       }
     },
     "modalitaet": {
@@ -453,6 +455,34 @@
       "kriterien": {
         "entitaet": "analkarzinom",
         "phase": "nachsorge"
+      }
+    },
+    {
+      "name": "Colitis ulcerosa Chirurgie (Pouch)",
+      "kriterien": {
+        "entitaet": "colitis_ulcerosa",
+        "phase": "chirurgie"
+      }
+    },
+    {
+      "name": "Colitis ulcerosa akuter schwerer Schub",
+      "kriterien": {
+        "entitaet": "colitis_ulcerosa",
+        "phase": "akut"
+      }
+    },
+    {
+      "name": "Colitis ulcerosa medikamentös",
+      "kriterien": {
+        "entitaet": "colitis_ulcerosa",
+        "phase": "medikamentoes"
+      }
+    },
+    {
+      "name": "Colitis ulcerosa Überwachung/Dysplasie",
+      "kriterien": {
+        "entitaet": "colitis_ulcerosa",
+        "phase": "diagnostik"
       }
     }
   ]

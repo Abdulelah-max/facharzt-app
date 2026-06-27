@@ -20130,5 +20130,841 @@
         "anal"
       ]
     }
+  },
+  {
+    "id": "cu_1_13_1_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "1.13.1",
+    "kapitel": "Diagnostik / Überwachung",
+    "unterkapitel": "Mukosaheilung",
+    "thema": "Therapieziel",
+    "statement": "Die Mukosaheilung ist mit einem günstigen Krankheitsverlauf assoziiert und sollte als Therapieziel angestrebt werden.",
+    "answer": true,
+    "explanation": "Empf. 1.13.1 (Grad B). Endoskopische Mukosaheilung als Behandlungsziel (Treat to Target).",
+    "leitlinie_wortlaut": "Mukosaheilung ist mit einem günstigen Krankheitsverlauf assoziiert und sollte als Therapieziel angestrebt werden. Zur Beurteilung des Therapieansprechens sollte eine endoskopische Kontrolle 6- 12 Monate nach Therapiebeginn erfolgen.",
+    "evidenz": "Grad B; LoE 1",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Mukosaheilung",
+      "Therapieziel"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "diagnostik",
+        "medikamentoes"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_1_17_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "1.17",
+    "kapitel": "Diagnostik / Überwachung",
+    "unterkapitel": "Darmsonographie",
+    "thema": "Diagnostik",
+    "statement": "Die Darmsonographie sollte Bestandteil der Diagnostik bei Erstdiagnose (Krankheitsaktivität/-ausdehnung) sowie beim schweren akuten Schub sein.",
+    "answer": true,
+    "explanation": "Empf. 1.17. Strahlenfreie Aktivitäts-/Ausdehnungsbeurteilung.",
+    "leitlinie_wortlaut": "Die Darmsonographie sollte Bestandteil der Diagnostik bei der Erstdiagnose zur Erfassung der Krankheitsaktivität und -ausdehnung, sowie beim schweren akuten Schub zur Erfassung von Komplikationen sein. Das Therapieansprechen bei mittelschwerem bis schwerem Schub mit sonographisch nachweisbarer Darmwandverdickung sollte mittels Darmsonographie erfolgen.",
+    "evidenz": "Grad B; LoE 2",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Darmsonographie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_1_21_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "1.21",
+    "kapitel": "Diagnostik / Überwachung",
+    "unterkapitel": "Dysplasie-Grading",
+    "thema": "Pathologie",
+    "statement": "Intraepitheliale Neoplasien/Dysplasien sollen nach WHO histopathologisch in niedriggradig und hochgradig graduiert werden.",
+    "answer": true,
+    "explanation": "Empf. 1.21. Standardisierte IEN-Graduierung (Karzinomrisiko bei langjähriger CU).",
+    "leitlinie_wortlaut": "gültigen Kriterien der WHO erfolgen; IEN/Dysplasien sollen histopathologisch graduiert werden in niedriggradig, hochgradig oder unklar (indefinite).",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Dysplasie",
+      "IEN"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_1_33_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "1.33",
+    "kapitel": "Diagnostik / Überwachung",
+    "unterkapitel": "Karzinom",
+    "thema": "Überwachung",
+    "statement": "Bei Nachweis einer endoskopisch nicht resektablen Läsion mit IEN/Dysplasie oder eines Adenokarzinoms soll eine (Prokto-)Kolektomie erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 1.33 (Grad A). Nicht resektable Neoplasie/Karzinom → operative Sanierung.",
+    "leitlinie_wortlaut": "Bei dem Nachweis einer endoskopisch nicht resektablen Läsion mit IEN/Dysplasie oder eines Adenokarzinoms (B) soll wegen der hohen Assoziation mit einem metachronen oder synchronen Karzinom eine Proktokolektomie erfolgen.",
+    "evidenz": "Grad A; LoE 2",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Karzinom",
+      "Kolektomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "diagnostik",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_2_7_2_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "2.7.2",
+    "kapitel": "Medikamentöse Therapie",
+    "unterkapitel": "Mesalazin",
+    "thema": "Schub",
+    "statement": "Bei der Proktitis ulcerosa soll die topische Steroidtherapie dem rektalen Mesalazin vorgezogen werden.",
+    "answer": false,
+    "explanation": "Empf. 2.7.2 (Grad A): rektales Mesalazin soll der topischen Steroidtherapie VORGEZOGEN werden.",
+    "leitlinie_wortlaut": "Die rektale Anwendung von Mesalazin-Einläufen oder Schäumen (≥ 1 g/d) soll der topischen Steroidtherapie vorgezogen werden.",
+    "evidenz": "Grad A; LoE 2",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Mesalazin",
+      "topisch"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
+  },
+  {
+    "id": "cu_2_10_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "2.10",
+    "kapitel": "Medikamentöse Therapie",
+    "unterkapitel": "Steroide",
+    "thema": "Schub",
+    "statement": "Bei unzureichendem Ansprechen auf 5-ASA sollen statt Steroiden primär Antibiotika gegeben werden.",
+    "answer": false,
+    "explanation": "Empf. 2.10 (Grad A): bei 5-ASA-Versagen sollen systemische STEROIDE begonnen werden.",
+    "leitlinie_wortlaut": "Eine systemische Steroidtherapie (0,5-1 mg/kg KG/d Prednisolonäquivalent) soll begonnen werden, wenn die Symptome der CU nicht auf die unter 2.5 – 2.9 genannten Therapien ansprechen oder bereits bei Diagnosestellung eine schwere Form der Colitis vorliegt.",
+    "evidenz": "Grad A; LoE 1",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Steroide",
+      "Schub"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_2_11_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "2.11",
+    "kapitel": "Medikamentöse Therapie",
+    "unterkapitel": "Mesalazin",
+    "thema": "Remissionserhalt",
+    "statement": "Mesalazin soll primär als remissionserhaltende Therapie eingesetzt werden, wenn ein Ansprechen auf Mesalazin oder Steroide bestand.",
+    "answer": true,
+    "explanation": "Empf. 2.11 (Grad A). 5-ASA als Erhaltungstherapie (auch Chemoprävention).",
+    "leitlinie_wortlaut": "Mesalazin soll primär als remissionserhaltende Therapie eingesetzt werden, wenn ein Ansprechen auf Mesalazin oder Steroide besteht.",
+    "evidenz": "Grad A; LoE 1",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Mesalazin",
+      "Remissionserhalt"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_2_22_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "2.22",
+    "kapitel": "Medikamentöse Therapie",
+    "unterkapitel": "Rescue",
+    "thema": "Akut schwer",
+    "statement": "Bei steroidrefraktärer akuter schwerer Colitis soll ohne medikamentöse Rescue-Therapie sofort proktokolektomiert werden.",
+    "answer": false,
+    "explanation": "Empf. 2.22 (Grad B): zunächst medikamentöse Rescue (Infliximab/Calcineurininhibitor); Kolektomie bei Versagen.",
+    "leitlinie_wortlaut": "die Behandlung mit intravenösen Steroiden sind, sollten mit Infliximab (vorzugsweise als Kombinationstherapie mit einem Thiopurin) (Evidenzgrad 2) oder mit Ciclosporin A (Evidenzgrad 1) oder Tacrolimus (Evidenzgrad 2) behandelt werden.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Infliximab",
+      "Rescue",
+      "akute schwere Colitis"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "akut",
+        "medikamentoes"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_2_23_2_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "2.23.2",
+    "kapitel": "Medikamentöse Therapie",
+    "unterkapitel": "Kolektomie",
+    "thema": "Akut schwer",
+    "statement": "Bei der akuten schweren Colitis kann eine Kolektomie indiziert sein, wenn nach 4–7 Tagen keine Verbesserung des klinischen Zustands eintritt.",
+    "answer": true,
+    "explanation": "Empf. 2.23.2. Zeitfenster der Rescue-Therapie begrenzt → rechtzeitige Kolektomie.",
+    "leitlinie_wortlaut": "Die Kolektomie kann ebenso indiziert sein, wenn nach 4-7 Tagen keine Verbesserung des klinischen Zustands eintritt. Alternativ kann eine Therapie mit einem JAK-Inhibitor erwogen werden.",
+    "evidenz": "Grad 0; LoE 4",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Kolektomie",
+      "Zeitfenster"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "akut",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_2_30_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "2.30",
+    "kapitel": "Medikamentöse Therapie",
+    "unterkapitel": "JAK",
+    "thema": "Therapieversagen",
+    "statement": "Bei Patient*innen mit unzureichendem Ansprechen kommen JAK-Inhibitoren (Filgotinib, Tofacitinib, Upadacitinib) als Therapieoption in Betracht.",
+    "answer": true,
+    "explanation": "Empf. 2.30 (Grad B). JAK-Inhibitoren als moderne Therapieklasse bei CU.",
+    "leitlinie_wortlaut": "Bei Patient*innen, die auf eine Induktionstherapie mit JAK-Inhibitoren (Filgotinib, Tofacitinib, Upadacitinib) ansprechen, sollte die remissionserhaltende Therapie mit dem jeweiligen JAK-Inhibitor fortgeführt werden.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "JAK-Inhibitor"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_4_1_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "4.1",
+    "kapitel": "Chirurgie / Pouch",
+    "unterkapitel": "Standardoperation",
+    "thema": "Chirurgie",
+    "statement": "Als Standardoperation der Colitis ulcerosa sollte eine partielle (segmentale) Kolonresektion durchgeführt werden.",
+    "answer": false,
+    "explanation": "Empf. 4.1 (Grad B): Standard ist die restaurative PROKTOKOLEKTOMIE (das gesamte Kolon/Rektum ist betroffen).",
+    "leitlinie_wortlaut": "Als Standardoperation sollte eine restaurative Proktokolektomie durchgeführt werden.",
+    "evidenz": "Grad B; LoE 2",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Proktokolektomie",
+      "Standard"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon",
+        "rektum"
+      ]
+    }
+  },
+  {
+    "id": "cu_4_2_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "4.2",
+    "kapitel": "Chirurgie / Pouch",
+    "unterkapitel": "Ileostoma",
+    "thema": "Chirurgie",
+    "statement": "Die restaurative Proktokolektomie sollte in der Regel mit protektivem Ileostoma erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 4.2 (Grad B). Schützendes Ileostoma reduziert Folgen einer Anastomoseninsuffizienz.",
+    "leitlinie_wortlaut": "Die restaurative Proktokolektomie sollte in der Regel mit protektivem Ileostoma erfolgen, eine einzeitige Operation sollte nur in selektionierten Einzelfällen erfolgen.",
+    "evidenz": "Grad B; LoE 2",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Ileostoma",
+      "protektiv"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "stoma"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_4_3_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "4.3",
+    "kapitel": "Chirurgie / Pouch",
+    "unterkapitel": "J-Pouch",
+    "thema": "Chirurgie",
+    "statement": "Der S-Pouch sollte die Pouchkonstruktion der Wahl sein.",
+    "answer": false,
+    "explanation": "Empf. 4.3 (Grad B): der J-POUCH ist die Konstruktion der Wahl.",
+    "leitlinie_wortlaut": "Der J-Pouch sollte die Pouchkonstruktion der Wahl sein, da er am einfachsten anzulegen ist und im Langzeitverlauf eine vergleichbare Funktion aufweist wie andere Konstruktionen.",
+    "evidenz": "Grad B; LoE 2",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "J-Pouch"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_4_4_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "4.4",
+    "kapitel": "Chirurgie / Pouch",
+    "unterkapitel": "Perforation",
+    "thema": "Notfall",
+    "statement": "Die freie Perforation bei Colitis ulcerosa sollte zunächst konservativ behandelt werden.",
+    "answer": false,
+    "explanation": "Empf. 4.4 (Grad A): die Perforation soll als NOTFALL operiert werden.",
+    "leitlinie_wortlaut": "Die freie oder gedeckte Perforation soll als Notfallindikation operiert werden.",
+    "evidenz": "Grad A; LoE 2",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Perforation",
+      "Notfall"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "akut",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_4_6_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "4.6",
+    "kapitel": "Chirurgie / Pouch",
+    "unterkapitel": "Fulminant",
+    "thema": "Notfall",
+    "statement": "Bei medikamentös therapierefraktärem fulminantem Schub soll die konservative Therapie fortgesetzt und nicht operiert werden.",
+    "answer": false,
+    "explanation": "Empf. 4.6 (Grad B): bei therapierefraktär-fulminantem Schub sollte DRINGLICH operiert werden.",
+    "leitlinie_wortlaut": "Patient*innen mit einem medikamentös therapierefraktären fulminanten Schub sollten dringlich operiert werden.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "fulminant",
+      "dringlich"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "akut",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_4_14_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "4.14",
+    "kapitel": "Chirurgie / Pouch",
+    "unterkapitel": "Zentren",
+    "thema": "Chirurgie",
+    "statement": "Pouchchirurgie sollte nur in dafür spezialisierten Zentren durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 4.14 (Grad B). Komplexe Pouchchirurgie → Zentrumsbildung.",
+    "leitlinie_wortlaut": "Pouchchirurgie sollte nur in dafür spezialisierten Zentren durchgeführt werden.",
+    "evidenz": "Grad B; LoE 2",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Pouch",
+      "Zentrum"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "tumorkonferenz"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_4_20_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "4.20",
+    "kapitel": "Chirurgie / Pouch",
+    "unterkapitel": "Minimalinvasiv",
+    "thema": "Chirurgie",
+    "statement": "Die minimalinvasive restaurative Proktokolektomie ist der offenen Operation deutlich unterlegen.",
+    "answer": false,
+    "explanation": "Empf. 4.20 (Grad B): minimalinvasiv ist elektiv mindestens GLEICHWERTIG.",
+    "leitlinie_wortlaut": "In der elektiven Situation ist die minimal invasive restaurative Proktokolektomie der offenen Operation mindestens gleichwertig, in einigen Punkten überlegen. Bei Frauen mit Kinderwunsch sollte bevorzugt minimal invasiv operiert werden.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "minimalinvasiv",
+      "Proktokolektomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_4_27_1_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "4.27.1",
+    "kapitel": "Chirurgie / Pouch",
+    "unterkapitel": "Antibiotika",
+    "thema": "Pouchitis",
+    "statement": "Die akute Pouchitis soll primär mit Biologika (z. B. Vedolizumab) behandelt werden.",
+    "answer": false,
+    "explanation": "Empf. 4.27.1 (Grad A): Primärtherapie der akuten Pouchitis sind Ciprofloxacin oder Metronidazol.",
+    "leitlinie_wortlaut": "Als Primärtherapie der akuten Pouchitis sollen Ciprofloxacin oder Metronidazol eingesetzt werden.",
+    "evidenz": "Grad A; LoE 1",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Pouchitis",
+      "Ciprofloxacin",
+      "Metronidazol"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_4_12_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "4.12",
+    "kapitel": "Chirurgie / Pouch",
+    "unterkapitel": "Rektummukosa",
+    "thema": "Chirurgie",
+    "statement": "Bei der ileoanalen Pouchanlage sollte die belassene Rektummukosa nicht länger als 2 cm sein.",
+    "answer": true,
+    "explanation": "Empf. 4.12. Kurze Cuff-Länge senkt Cuffitis-/Neoplasierisiko.",
+    "leitlinie_wortlaut": "Bei der ileoanalen Pouchanlage sollte die belassene Rektummukosa nicht länger als 2 cm sein.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Pouch",
+      "Rektummukosa"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
+  },
+  {
+    "id": "cu_4_22_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "4.22",
+    "kapitel": "Chirurgie / Pouch",
+    "unterkapitel": "Partielle Resektion",
+    "thema": "Chirurgie",
+    "statement": "Eine partielle kolorektale Resektion sollte bei therapierefraktärer Colitis in der Regel nicht durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 4.22. CU betrifft potenziell das gesamte Kolon → keine Teilresektion (Rezidiv im Rest).",
+    "leitlinie_wortlaut": "Eine partielle kolorektale Resektion sollte in der Regel bei therapierefraktärer Colitis nicht durchgeführt werden. Eine Ausnahme stellt die Ileorektostomie bei wenig entzündetem Rektum dar.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "partielle Resektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
+  },
+  {
+    "id": "cu_7_25_a",
+    "leitlinie": {
+      "id": "colitis_ulcerosa",
+      "name": "S3-LL Colitis ulcerosa",
+      "version": "7.0",
+      "datum": "November 2025",
+      "awmf": "021-009"
+    },
+    "empfehlung_nr": "7.25",
+    "kapitel": "Besondere Situationen",
+    "unterkapitel": "Schub",
+    "thema": "Schwangerschaft",
+    "statement": "Akute Krankheitsschübe während der Schwangerschaft sollten ohne Verzögerung therapiert werden.",
+    "answer": true,
+    "explanation": "Empf. 7.25 (Grad B). Aktive Entzündung ist für die Schwangerschaft gefährlicher als die meisten Medikamente.",
+    "leitlinie_wortlaut": "Akute Krankheitsschübe während der Schwangerschaft sollten ohne Verzögerung therapiert werden. Sichere Substanzen sind: TNF--Antikörper (Evidenzgrad 3), Ciclosporin (Evidenzgrad 4), Ustekinumab (Evidenzgrad 3), Vedolizumab (Evidenzgrad 3) und Steroide (Evidenzgrad 4). Steroide sollten auch in der Schwangerschaft nicht zur Remissionserhaltung eingesetzt werden. Bei schwangeren Patientinnen mit einem stabilen Verlauf der Erkrankung unter Therapie mit Azathioprin und/oder TNF--Antikörpern sollte diese Therapie fortgeführt werden. Auch eine Therapie mit Vedolizumab oder Ustekinumab sollte während der Schwangerschaft fortgeführt werden. Aufgrund der aktuell begrenzten Datenlage soll eine Therapie mit Guselkumab, Mirikizumab und Risankizumab während der Schwangerschaft nur nach kritischer Prüfung auf der Basis einer individuellen Entscheidung fortgeführt werden.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Schwangerschaft",
+      "Schub"
+    ],
+    "facetten": {
+      "entitaet": [
+        "colitis_ulcerosa"
+      ],
+      "phase": [
+        "akut",
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   }
 ]
