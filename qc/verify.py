@@ -36,6 +36,7 @@ PDFS = {
     "magen": "leitlinien/magen-v3.1.pdf",
     "oesophagus": "leitlinien/oesophagus-v4.0.pdf",
     "schilddruese": "leitlinien/schilddruese-v1.0.pdf",
+    "hcc": "leitlinien/hcc-v5.pdf",
 }
 OK_T, PRUEF_T = 0.85, 0.65
 
