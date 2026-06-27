@@ -29,6 +29,14 @@
     --serif: 'Charter', 'Iowan Old Style', 'Georgia', 'Source Serif Pro', serif;
     --sans: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
   }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17150f; --bg-card: #211e17; --bg-elev: #2c281f;
+      --ink: #ece4d3; --ink-soft: #c4bca9; --ink-muted: #908a7b;
+      --line: #3a352b; --accent: #9db58f; --accent-soft: #2c3327;
+      --correct: #82c193; --correct-bg: #233227; --wrong: #e3a0a0; --wrong-bg: #3a2626;
+    }
+  }
   * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
   html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); font-family: var(--sans); }
   body { min-height: 100dvh; padding-bottom: env(safe-area-inset-bottom); }
@@ -116,19 +124,39 @@
     cursor: pointer; min-height: 44px;
   }
 
-  .explanation {
-    margin-top: 18px; padding: 14px 16px; background: var(--bg-elev);
-    border-left: 3px solid var(--accent); border-radius: 8px; font-size: 14px;
-    line-height: 1.55; color: var(--ink-soft);
+  /* Antwort-Auflösung */
+  .reveal-banner {
+    display: flex; align-items: center; gap: 8px; margin-top: 22px;
+    padding: 12px 16px; border-radius: 12px; font-weight: 700; font-size: 16px;
   }
-  .explanation h4 { margin: 0 0 6px; font-size: 12px; text-transform: uppercase; letter-spacing: .8px; color: var(--ink-muted); font-weight: 600; }
-  .explanation .quote { font-family: var(--serif); font-style: italic; color: var(--ink); margin: 8px 0; padding-left: 10px; border-left: 2px solid var(--line); }
-  .explanation .src { margin-top: 8px; font-size: 12px; color: var(--ink-muted); }
+  .reveal-banner.ok { background: var(--correct-bg); color: var(--correct); }
+  .reveal-banner.no { background: var(--wrong-bg); color: var(--wrong); }
+  .reveal-quote {
+    margin-top: 14px; padding: 14px 16px; background: var(--bg-elev);
+    border-left: 3px solid var(--accent); border-radius: 8px;
+  }
+  .reveal-quote .ql { font-size: 11px; text-transform: uppercase; letter-spacing: .8px; color: var(--ink-muted); font-weight: 600; margin-bottom: 6px; }
+  .reveal-quote .qt { font-family: var(--serif); font-size: 17px; line-height: 1.55; color: var(--ink); }
+  .reveal-merke { margin-top: 14px; font-size: 14.5px; line-height: 1.55; color: var(--ink-soft); }
+  .reveal-merke b { color: var(--ink); }
+  .reveal-abbr { margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--line); font-size: 12.5px; line-height: 1.6; color: var(--ink-muted); }
+  .reveal-abbr .ablabel { font-weight: 600; color: var(--ink-soft); }
+  .reveal-abbr b { color: var(--ink-soft); }
+  .reveal-src { margin-top: 12px; font-size: 12px; color: var(--ink-muted); }
 
-  .nextbar { display: flex; gap: 8px; margin-top: 16px; }
+  /* dünner Fortschrittsbalken */
+  .qbar { height: 4px; background: var(--bg-elev); border-radius: 2px; overflow: hidden; margin: 2px 0 10px; }
+  .qbar .fill { height: 100%; background: var(--accent); width: 0; transition: width .3s ease; }
+
+  /* fixierter, daumengerechter Weiter-Knopf */
+  .nextbar {
+    position: sticky; bottom: 0; display: flex; gap: 8px; margin-top: 18px;
+    padding: 12px 0 calc(6px + env(safe-area-inset-bottom));
+    background: linear-gradient(to top, var(--bg-card) 72%, transparent);
+  }
   .nextbar button {
-    flex: 1; min-height: 48px; border-radius: 12px; border: 1px solid var(--accent);
-    background: var(--accent); color: white; font-size: 15px; font-weight: 500;
+    flex: 1; min-height: 54px; border-radius: 14px; border: 1px solid var(--accent);
+    background: var(--accent); color: white; font-size: 17px; font-weight: 600;
     cursor: pointer; font-family: var(--sans);
   }
   .nextbar button.ghost { background: transparent; color: var(--accent); }
@@ -409,6 +437,7 @@
       <span class="qt-progress"><span class="num" id="s-progress">0/0</span><span class="qt-correct"> · <span class="num" id="s-correct">0</span> richtig</span></span>
       <button id="controls-toggle" class="qt-btn qt-filter">🔍 Themen &amp; Filter</button>
     </div>
+    <div class="qbar"><div class="fill" id="qbar-fill"></div></div>
 
     <div id="controls" class="controls" hidden>
       <div class="search-wrap">
@@ -565,6 +594,21 @@ async function init() {
   // Steuer-Panel (Themen & Filter) auf-/zuklappen
   $('#controls-toggle').addEventListener('click', () => setControls($('#controls').hidden));
   $('#controls-done').addEventListener('click', () => { setControls(false); window.scrollTo({ top: 0 }); });
+
+  // Tastatur: R = Richtig, F = Falsch, Enter/→ = Weiter (außer beim Tippen im Suchfeld)
+  document.addEventListener('keydown', (e) => {
+    if ($('#view-quiz').hidden) return;
+    const tag = (e.target.tagName || '').toLowerCase();
+    if (tag === 'input' || tag === 'select' || tag === 'textarea') return;
+    const next = $('#next-btn');
+    if (next) {
+      if (e.key === 'Enter' || e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); next.click(); }
+      return;
+    }
+    const k = e.key.toLowerCase();
+    if (k === 'r') { const b = $('#card [data-pick="true"]'); if (b) b.click(); }
+    else if (k === 'f') { const b = $('#card [data-pick="false"]'); if (b) b.click(); }
+  });
 
   // Dashboard navigation
   $('#d-resume').addEventListener('click', () => {
@@ -1124,6 +1168,8 @@ function shuffle(a) {
 function updateScore() {
   $('#s-progress').textContent = `${Math.min(idx, queue.length)}/${queue.length}`;
   $('#s-correct').textContent = correctCount;
+  const fill = $('#qbar-fill');
+  if (fill) fill.style.width = (queue.length ? Math.min(100, Math.round(idx / queue.length * 100)) : 0) + '%';
 }
 
 function renderEmpty() {
@@ -1156,11 +1202,9 @@ function renderCurrent() {
   $('#quiz').innerHTML = `
     <div class="card" id="card">
       <div class="meta">
-        <span class="chip nr">Empf. ${esc(q.empfehlung_nr || '?')}</span>
-        ${q.evidenz ? `<span class="chip">${esc(q.evidenz)}</span>` : ''}
-        ${q.konsensstaerke ? `<span class="chip">${esc(q.konsensstaerke)}</span>` : ''}
+        ${q.leitlinie?.name ? `<span class="chip">${esc((q.leitlinie.name).replace(/^S3-LL\s*/, ''))}</span>` : ''}
         ${q.kapitel ? `<span class="chip">${esc(q.kapitel)}</span>` : ''}
-        ${q.seite_pdf ? `<span class="chip">S. ${esc(q.seite_pdf)}</span>` : ''}
+        ${q.schwierigkeit ? `<span class="chip">${esc(q.schwierigkeit)}</span>` : ''}
       </div>
       <div class="statement">${esc(q.statement)}</div>
       <div class="answers">
@@ -1208,15 +1252,23 @@ function handlePick(picked) {
     if (v === q.answer && !isCorrect) b.classList.add('reveal-correct');
   });
 
+  const srcBits = [
+    esc(q.leitlinie?.name || ''), esc(q.leitlinie?.version || ''),
+    q.seite_pdf ? `S. ${esc(q.seite_pdf)}` : '',
+    q.evidenz ? esc(q.evidenz) : '', q.konsensstaerke ? esc(q.konsensstaerke) : ''
+  ].filter(Boolean).join(' · ');
+  const abbrText = `${q.statement || ''} ${q.explanation || ''} ${q.leitlinie_wortlaut || ''}`;
   $('#reveal').innerHTML = `
-    <div class="explanation">
-      <h4>${isCorrect ? 'Richtig' : 'Falsch'} · Empfehlung ${esc(q.empfehlung_nr || '')}</h4>
-      <div>${esc(q.explanation || '')}</div>
-      ${q.leitlinie_wortlaut ? `<div class="quote">${esc(q.leitlinie_wortlaut)}</div>` : ''}
-      <div class="src">${esc(q.leitlinie?.name || '')} ${esc(q.leitlinie?.version || '')}${q.seite_pdf ? ` · S. ${esc(q.seite_pdf)}` : ''}</div>
-    </div>
+    <div class="reveal-banner ${isCorrect ? 'ok' : 'no'}">${isCorrect ? '✓ Richtig' : '✗ Falsch'}</div>
+    ${q.leitlinie_wortlaut ? `<div class="reveal-quote">
+      <div class="ql">S3-Leitlinie · Empf. ${esc(q.empfehlung_nr || '')}</div>
+      <div class="qt">„${esc(q.leitlinie_wortlaut)}"</div>
+    </div>` : ''}
+    ${q.explanation ? `<div class="reveal-merke"><b>Merke:</b> ${esc(q.explanation)}</div>` : ''}
+    ${glossarFor(abbrText)}
+    <div class="reveal-src">${srcBits}</div>
     <div class="nextbar">
-      <button id="next-btn">Weiter</button>
+      <button id="next-btn">Weiter →</button>
     </div>`;
 
   $('#next-btn').addEventListener('click', () => {
@@ -1227,6 +1279,40 @@ function handlePick(picked) {
     renderCurrent();
   });
   updateScore();
+}
+
+// Abkürzungs-Glossar — in der Auflösung werden vorkommende Kürzel automatisch erklärt
+const GLOSSAR = {
+  "TNM":"Tumor-Nodus-Metastasen-Klassifikation","UICC":"Union for International Cancer Control (Stadium)","WHO":"Weltgesundheitsorganisation (Klassifikation)",
+  "ECOG":"ECOG-Performance-Status (Allgemeinzustand 0–4)","R0":"kein Resttumor (mikroskopisch tumorfrei)","R1":"mikroskopischer Resttumor","R2":"makroskopischer Resttumor",
+  "L0":"keine Lymphgefäßinvasion","V0":"keine Veneninvasion","MSI":"Mikrosatelliten-Instabilität","MSI-H":"hochgradige Mikrosatelliten-Instabilität",
+  "dMMR":"Mismatch-Repair-Defizienz (defektes DNA-Reparatursystem)","MMR":"DNA-Mismatch-Repair","pMMR":"intaktes Mismatch-Repair","MSS":"Mikrosatelliten-stabil",
+  "HER2":"humaner epidermaler Wachstumsfaktor-Rezeptor 2","PD-L1":"Programmed Death-Ligand 1","PD-1":"Programmed Cell Death Protein 1","CPS":"Combined Positive Score (PD-L1)","TPS":"Tumor Proportion Score (PD-L1)",
+  "RAS":"RAS-Onkogen (KRAS/NRAS)","KRAS":"Kirsten-RAS-Onkogen","NRAS":"Neuroblastoma-RAS-Onkogen","BRAF":"BRAF-Onkogen (v. a. V600E)","NTRK":"neurotrophe Tyrosinrezeptor-Kinase (Genfusion)","RET":"RET-Onkogen (REarranged during Transfection)",
+  "CEA":"karzinoembryonales Antigen (Tumormarker)","CA 19-9":"Carbohydrate-Antigen 19-9 (Tumormarker)",
+  "ÖGD":"Ösophago-Gastro-Duodenoskopie (Magenspiegelung)","EUS":"endoskopischer Ultraschall (Endosonographie)","ERCP":"endoskopisch retrograde Cholangiopankreatikographie","MRCP":"Magnetresonanz-Cholangiopankreatikographie",
+  "MDCT":"Multidetektor-Computertomographie","CT":"Computertomographie","MRT":"Magnetresonanztomographie","PET-CT":"Positronen-Emissions-Tomographie mit CT","PET":"Positronen-Emissions-Tomographie","FDG":"Fluordesoxyglukose (PET-Tracer)",
+  "ESD":"endoskopische Submukosadissektion","EMR":"endoskopische Mukosaresektion","TME":"totale mesorektale Exzision","AEG":"Adenokarzinom des ösophagogastralen Übergangs","FNP":"Feinnadelpunktion",
+  "IORT":"intraoperative Radiotherapie","RChT":"Radiochemotherapie","IMRT":"intensitätsmodulierte Radiotherapie","SEMS":"selbstexpandierender Metallstent","PTCD":"perkutane transhepatische Cholangiodrainage","MIO":"maligne intestinale Obstruktion",
+  "VTE":"venöse Thromboembolie","NMH":"niedermolekulares Heparin","HIPEC":"hypertherme intraperitoneale Chemotherapie","PIPAC":"druckbasierte intraperitoneale Aerosol-Chemotherapie",
+  "FLOT":"5-FU/Folinsäure/Oxaliplatin/Docetaxel","FOLFIRINOX":"5-FU/Folinsäure/Irinotecan/Oxaliplatin","NALIRIFOX":"nal-Irinotecan/5-FU/Folinsäure/Oxaliplatin","NAPOLI":"nanoliposomales Irinotecan + 5-FU/Folinsäure","FOLFOX":"5-FU/Folinsäure/Oxaliplatin","5-FU":"5-Fluorouracil","CROSS":"neoadjuvante Radiochemotherapie (CROSS-Schema)","TNT":"totale neoadjuvante Therapie",
+  "IPMN":"intraduktale papillär-muzinöse Neoplasie","BRCA":"Breast-Cancer-Gen (BRCA1/2, DNA-Reparatur)","HDGC":"hereditäres diffuses Magenkarzinom","CDH1":"E-Cadherin-Gen (HDGC-Disposition)","CTNNA1":"αE-Catenin-Gen (HDGC-Disposition)","MEN2":"Multiple Endokrine Neoplasie Typ 2",
+  "PTC":"papilläres Schilddrüsenkarzinom","PTMC":"papilläres Schilddrüsen-Mikrokarzinom (≤ 1 cm)","FTC":"follikuläres Schilddrüsenkarzinom","MTC":"medulläres Schilddrüsenkarzinom (C-Zell-Karzinom)","ATC":"anaplastisches Schilddrüsenkarzinom","DTC":"differenziertes Schilddrüsenkarzinom","PDTC":"gering differenziertes Schilddrüsenkarzinom","MIFTC":"minimal-invasives FTC","WIFTC":"breit-invasives FTC",
+  "RIT":"Radioiodtherapie","IONM":"intraoperatives Neuromonitoring (Rekurrens)","TIRADS":"Thyroid Imaging Reporting and Data System","Ctn":"Calcitonin","Tg":"Thyreoglobulin","TAK":"Thyreoglobulin-Antikörper","TSH":"Thyreoidea-stimulierendes Hormon",
+  "IEN":"intraepitheliale Neoplasie (Dysplasie)","HGD":"hochgradige Dysplasie","LGD":"niedriggradige Dysplasie","AHB":"Anschlussheilbehandlung (Reha)","NRS":"Nutritional Risk Screening","MUST":"Malnutrition Universal Screening Tool",
+  "BSC":"Best Supportive Care","RECIST":"Response Evaluation Criteria in Solid Tumors","FISH":"Fluoreszenz-in-situ-Hybridisierung","IHC":"Immunhistochemie","GIST":"gastrointestinaler Stromatumor","SPV":"spezialisierte Palliativversorgung","PERT":"Pankreasenzym-Substitutionstherapie","cN1":"klinischer Lymphknotenbefall (cN+)"
+};
+function reEsc(s){ return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+function glossarFor(text) {
+  const t = String(text || '');
+  const found = [];
+  for (const k of Object.keys(GLOSSAR)) {
+    if (new RegExp('(^|[^A-Za-z0-9])' + reEsc(k) + '([^A-Za-z0-9]|$)').test(t)) found.push(k);
+  }
+  if (!found.length) return '';
+  found.sort((a, b) => a.localeCompare(b));
+  const items = found.slice(0, 12).map(k => `<b>${esc(k)}</b> = ${esc(GLOSSAR[k])}`).join(' · ');
+  return `<div class="reveal-abbr"><span class="ablabel">Abkürzungen:</span> ${items}</div>`;
 }
 
 function esc(s) {
