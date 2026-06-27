@@ -34,6 +34,7 @@ PDFS = {
     "krk": "leitlinien/krk-v3.2.pdf",
     "pankreas": "leitlinien/pankreas-v3.1.pdf",
     "magen": "leitlinien/magen-v3.1.pdf",
+    "oesophagus": "leitlinien/oesophagus-v4.0.pdf",
 }
 OK_T, PRUEF_T = 0.85, 0.65
 
