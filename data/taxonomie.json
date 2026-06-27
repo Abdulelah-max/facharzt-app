@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "achsen": {
+    "phase": {
+      "label": "Behandlungs-Phase",
+      "werte": {
+        "vorsorge": "Vorsorge / Früherkennung",
+        "diagnostik": "Diagnostik / Staging",
+        "neoadjuvanz": "Neoadjuvante Therapie",
+        "chirurgie": "Chirurgische Therapie",
+        "adjuvanz": "Adjuvante Therapie",
+        "metastasen": "Metastasen / palliativ",
+        "nachsorge": "Nachsorge",
+        "komplikationen": "Komplikationen / Funktion"
+      }
+    },
+    "modalitaet": {
+      "label": "Modalität",
+      "werte": {
+        "endoskopie": "Endoskopie",
+        "bildgebung": "Bildgebung",
+        "pathologie": "Pathologie",
+        "molekularpathologie": "Molekularpathologie",
+        "systemtherapie": "Systemtherapie",
+        "strahlentherapie": "Strahlentherapie",
+        "op_verfahren": "OP-Verfahren",
+        "tumorkonferenz": "Tumorkonferenz / Zentrum",
+        "stoma": "Stoma",
+        "reha_funktion": "Reha / Funktion (LARS)"
+      }
+    },
+    "stadium": {
+      "label": "Stadium / TNM / Risiko",
+      "werte": {
+        "stadium_1": "Stadium I",
+        "stadium_2": "Stadium II",
+        "stadium_3": "Stadium III",
+        "stadium_4": "Stadium IV",
+        "pt1": "pT1",
+        "pt2": "pT2",
+        "pt3": "pT3",
+        "pt4": "pT4",
+        "ct3": "cT3",
+        "ct4": "cT4",
+        "cn_plus": "cN+",
+        "m1": "M1",
+        "high_risk": "High-Risk",
+        "low_risk": "Low-Risk"
+      }
+    },
+    "lokalisation": {
+      "label": "Lokalisation",
+      "werte": {
+        "kolon": "Kolon",
+        "rektum": "Rektum",
+        "kolorektal": "Kolorektal (allg.)",
+        "pankreaskopf": "Pankreaskopf",
+        "pankreas_korpus_schwanz": "Pankreas Korpus/Schwanz",
+        "leber": "Leber(metastasen)",
+        "peritoneum": "Peritoneum",
+        "lunge": "Lunge"
+      }
+    },
+    "spezial": {
+      "label": "Hereditär / Molekular",
+      "werte": {
+        "lynch": "Lynch-Syndrom",
+        "fap": "FAP",
+        "sps": "Serratierte Polyposis",
+        "hereditaer_allg": "Hereditär (allg.)",
+        "msi_dmmr": "MSI / dMMR",
+        "mss_pmmr": "MSS / pMMR",
+        "ras": "RAS",
+        "braf": "BRAF",
+        "her2": "HER2",
+        "ntrk": "NTRK",
+        "ctdna": "ctDNA / Liquid Biopsy"
+      }
+    }
+  },
+  "szenarien": [
+    {
+      "name": "Stadium II Kolon",
+      "kriterien": {
+        "entitaet": "krk",
+        "lokalisation": "kolon",
+        "stadium": "stadium_2"
+      }
+    },
+    {
+      "name": "Kolon adjuvant (Stad. III)",
+      "kriterien": {
+        "entitaet": "krk",
+        "lokalisation": "kolon",
+        "phase": "adjuvanz"
+      }
+    },
+    {
+      "name": "Rektum neoadjuvant",
+      "kriterien": {
+        "entitaet": "krk",
+        "lokalisation": "rektum",
+        "phase": "neoadjuvanz"
+      }
+    },
+    {
+      "name": "Lebermetastasen",
+      "kriterien": {
+        "entitaet": "krk",
+        "lokalisation": "leber"
+      }
+    },
+    {
+      "name": "Lynch-Syndrom",
+      "kriterien": {
+        "entitaet": "krk",
+        "spezial": "lynch"
+      }
+    },
+    {
+      "name": "FAP",
+      "kriterien": {
+        "entitaet": "krk",
+        "spezial": "fap"
+      }
+    },
+    {
+      "name": "pT1 nach Polypektomie",
+      "kriterien": {
+        "entitaet": "krk",
+        "stadium": "pt1"
+      }
+    },
+    {
+      "name": "Molekularpathologie KRK",
+      "kriterien": {
+        "entitaet": "krk",
+        "modalitaet": "molekularpathologie"
+      }
+    },
+    {
+      "name": "KRK Nachsorge",
+      "kriterien": {
+        "entitaet": "krk",
+        "phase": "nachsorge"
+      }
+    },
+    {
+      "name": "Metastasen / palliativ",
+      "kriterien": {
+        "entitaet": "krk",
+        "phase": "metastasen"
+      }
+    }
+  ]
+}

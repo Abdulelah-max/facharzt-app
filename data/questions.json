@@ -23,7 +23,18 @@
     "tags": [
       "Tumorkonferenz",
       "MDT"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "tumorkonferenz"
+      ]
+    }
   },
   {
     "id": "krk_7_1_b",
@@ -50,7 +61,24 @@
       "Tumorkonferenz",
       "MDT",
       "Stadium"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "tumorkonferenz"
+      ],
+      "stadium": [
+        "stadium_2"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "krk_7_2_a",
@@ -78,7 +106,22 @@
       "MRT",
       "Kolon",
       "Rektum"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "kolon",
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_3_a",
@@ -104,7 +147,18 @@
     "tags": [
       "PET-CT",
       "Primärdiagnostik"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ]
+    }
   },
   {
     "id": "krk_7_4_a",
@@ -131,7 +185,23 @@
       "PET-CT",
       "Lebermetastasen",
       "Bildgebung"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik",
+        "metastasen"
+      ],
+      "modalitaet": [
+        "bildgebung",
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
   },
   {
     "id": "krk_7_5_a",
@@ -158,7 +228,15 @@
       "CEA",
       "Tumormarker",
       "T1"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ]
+    }
   },
   {
     "id": "krk_7_6_a",
@@ -186,7 +264,21 @@
       "Rektumkarzinom",
       "MRF",
       "EMVI"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_7_a",
@@ -213,7 +305,21 @@
       "Intraop",
       "Leber",
       "Sonographie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "leber"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ]
+    }
   },
   {
     "id": "krk_7_8_a",
@@ -240,7 +346,22 @@
       "CME",
       "Kolonkarzinom",
       "Lymphadenektomie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "kolon"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "krk_7_9_a",
@@ -268,7 +389,19 @@
       "MWA",
       "Lebermetastasen",
       "Ablation"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik",
+        "metastasen"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
   },
   {
     "id": "krk_7_10_a",
@@ -295,7 +428,22 @@
       "Rektumkarzinom",
       "Lymphadenektomie",
       "A. iliaca interna"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "rektum"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "krk_7_11_a",
@@ -323,7 +471,19 @@
       "Rektum",
       "oberes Drittel",
       "Coning"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_12_a",
@@ -349,7 +509,22 @@
     "tags": [
       "TME",
       "Rektumkarzinom"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_13_a",
@@ -377,7 +552,23 @@
       "Sicherheitsabstand",
       "Rektumkarzinom",
       "neoadjuvant"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik",
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_14_a",
@@ -404,7 +595,23 @@
       "Pouch",
       "Rekonstruktion",
       "TAR"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon",
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_15_a",
@@ -431,7 +638,20 @@
       "Sphinktererhalt",
       "neoadjuvant",
       "Reevaluation"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik",
+        "neoadjuvanz"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_16_a",
@@ -459,7 +679,23 @@
       "cCR",
       "neoadjuvant",
       "Organerhalt"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik",
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_17_a",
@@ -486,7 +722,22 @@
       "ELAPE",
       "APE",
       "Rektumexstirpation"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_18_a",
@@ -513,7 +764,22 @@
       "Wundverschluss",
       "perineal",
       "APE"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_19_a",
@@ -540,7 +806,23 @@
       "Stoma",
       "Deviation",
       "TME"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "stoma"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_20_a",
@@ -567,7 +849,21 @@
       "Ileostoma",
       "Deviation",
       "Stoma"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "stoma"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_22_a",
@@ -594,7 +890,18 @@
       "Stoma",
       "Markierung",
       "Notfall"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "stoma"
+      ]
+    }
   },
   {
     "id": "krk_7_23_a",
@@ -621,7 +928,18 @@
       "Stoma",
       "Anlage",
       "Prominenz"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "stoma"
+      ]
+    }
   },
   {
     "id": "krk_7_24_a",
@@ -649,7 +967,25 @@
       "Vollwandexzision",
       "low-risk",
       "TME"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "stadium": [
+        "low_risk"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_25_a",
@@ -676,7 +1012,20 @@
       "T1-high-risk",
       "T2",
       "lokale Exzision"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik",
+        "metastasen"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_26_a",
@@ -702,7 +1051,23 @@
     "tags": [
       "Laparoskopie",
       "minimalinvasiv"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "kolon",
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_7_27_a",
@@ -728,7 +1093,19 @@
     "tags": [
       "Robotik",
       "Laparoskopie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "krk_7_28_a",
@@ -755,7 +1132,18 @@
       "HIPEC",
       "Peritonealkarzinose",
       "CRS"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "peritoneum"
+      ]
+    }
   },
   {
     "id": "krk_7_29_a",
@@ -782,7 +1170,23 @@
       "Lebermetastasen",
       "simultan",
       "zweizeitig"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik",
+        "metastasen"
+      ],
+      "lokalisation": [
+        "leber"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "krk_7_30_a",
@@ -809,7 +1213,17 @@
       "Primärtumor",
       "Palliation",
       "Metastasierung"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik",
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_7_31_a",
@@ -837,7 +1251,22 @@
       "MSH6",
       "PMS2",
       "Kolonkarzinom"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "lynch"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "krk_7_32_a",
@@ -864,7 +1293,22 @@
       "FAP",
       "Proktokolektomie",
       "Pouch"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "spezial": [
+        "fap",
+        "hereditaer_allg"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "krk_8_1_a",
@@ -892,7 +1336,19 @@
       "Pathologie",
       "MSI",
       "Molekularpathologie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "molekularpathologie",
+        "pathologie"
+      ],
+      "spezial": [
+        "msi_dmmr"
+      ]
+    }
   },
   {
     "id": "krk_8_3_a",
@@ -919,7 +1375,19 @@
       "Lymphknoten",
       "Staging",
       "Qualität"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "pathologie"
+      ],
+      "phase": [
+        "diagnostik"
+      ]
+    }
   },
   {
     "id": "krk_8_4_a",
@@ -946,7 +1414,19 @@
       "TME",
       "Pathologie",
       "Mercury"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "pathologie"
+      ],
+      "phase": [
+        "chirurgie"
+      ]
+    }
   },
   {
     "id": "krk_8_5_a",
@@ -973,7 +1453,18 @@
       "CRM",
       "Pathologie",
       "Rektumkarzinom"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_8_6_a",
@@ -1001,7 +1492,23 @@
       "dMMR",
       "Molekularpathologie",
       "Lynch"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "molekularpathologie",
+        "pathologie"
+      ],
+      "spezial": [
+        "lynch",
+        "msi_dmmr"
+      ],
+      "phase": [
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_8_7_a",
@@ -1029,7 +1536,21 @@
       "BRAF",
       "Lynch",
       "Promotor-Methylierung"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "molekularpathologie",
+        "pathologie"
+      ],
+      "spezial": [
+        "braf",
+        "lynch",
+        "msi_dmmr"
+      ]
+    }
   },
   {
     "id": "krk_8_8_a",
@@ -1057,7 +1578,24 @@
       "BRAF",
       "anti-EGFR",
       "Erstlinie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "molekularpathologie",
+        "pathologie",
+        "systemtherapie"
+      ],
+      "spezial": [
+        "braf",
+        "ras"
+      ],
+      "phase": [
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_8_10_a",
@@ -1085,7 +1623,23 @@
       "Re-Challenge",
       "HER2",
       "Neo-RAS"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "molekularpathologie",
+        "pathologie"
+      ],
+      "spezial": [
+        "her2",
+        "ras"
+      ],
+      "phase": [
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_8_11_a",
@@ -1112,7 +1666,22 @@
       "HER2",
       "Molekularpathologie",
       "mKRK"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "molekularpathologie",
+        "pathologie"
+      ],
+      "spezial": [
+        "her2"
+      ],
+      "phase": [
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_8_14_a",
@@ -1140,7 +1709,21 @@
       "Liquid Biopsy",
       "MRD",
       "adjuvant"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "spezial": [
+        "ctdna"
+      ],
+      "phase": [
+        "adjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_6_4_a",
@@ -1169,7 +1752,19 @@
       "JNET",
       "LST",
       "Polypen"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "op_verfahren"
+      ],
+      "phase": [
+        "chirurgie"
+      ]
+    }
   },
   {
     "id": "krk_6_5_a",
@@ -1197,7 +1792,15 @@
       "Schlingenektomie",
       "EMR",
       "Endoskopie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_6_8_a",
@@ -1225,7 +1828,21 @@
       "low-risk",
       "high-risk",
       "Grading"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "pathologie"
+      ],
+      "stadium": [
+        "high_risk",
+        "low_risk",
+        "pt1"
+      ]
+    }
   },
   {
     "id": "krk_6_10_a",
@@ -1252,7 +1869,22 @@
       "pT1",
       "Submukosa",
       "Budding"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "pathologie"
+      ],
+      "stadium": [
+        "pt1"
+      ],
+      "phase": [
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_6_11_a",
@@ -1280,7 +1912,23 @@
       "Nachresektion",
       "low-risk",
       "high-risk"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "stadium": [
+        "high_risk",
+        "low_risk",
+        "pt1"
+      ],
+      "phase": [
+        "chirurgie"
+      ]
+    }
   },
   {
     "id": "krk_6_13_a",
@@ -1307,7 +1955,18 @@
       "Adenom",
       "Nachsorge",
       "Kontrollkoloskopie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_6_20_a",
@@ -1334,7 +1993,18 @@
       "Nachsorge",
       "Adenom",
       "Kontrolle"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_6_21_a",
@@ -1361,7 +2031,18 @@
       "piecemeal",
       "EMR",
       "Nachsorge"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_9_20_a",
@@ -1390,7 +2071,22 @@
       "TAR",
       "neoadjuvant",
       "Rektum"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "phase": [
+        "chirurgie",
+        "neoadjuvanz"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_9_21_a",
@@ -1417,7 +2113,25 @@
       "cT3",
       "primäre OP",
       "MRT-Qualität"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "stadium": [
+        "ct3"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "rektum"
+      ],
+      "phase": [
+        "chirurgie",
+        "neoadjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_9_22_a",
@@ -1445,7 +2159,21 @@
       "RAPIDO",
       "high-risk",
       "Rektum"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "stadium": [
+        "high_risk"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_9_23_a",
@@ -1473,7 +2201,21 @@
       "CAPOX",
       "FOLFOX",
       "Konsolidierung"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_9_24_a",
@@ -1500,7 +2242,19 @@
       "oberes Rektumdrittel",
       "primär OP",
       "Kolon-CA"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "lokalisation": [
+        "kolon",
+        "rektum"
+      ],
+      "phase": [
+        "adjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_9_26_a",
@@ -1527,7 +2281,22 @@
       "5x5 Gy",
       "RChT",
       "neoadjuvant"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "strahlentherapie"
+      ],
+      "phase": [
+        "adjuvanz",
+        "neoadjuvanz"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_9_27_a",
@@ -1554,7 +2323,22 @@
       "Capecitabin",
       "5-FU",
       "RChT"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "rektum"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_9_28_a",
@@ -1582,7 +2366,21 @@
       "OPRA",
       "Konsolidierung",
       "Organerhalt"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_9_29_a",
@@ -1611,7 +2409,25 @@
       "Dostarlimab",
       "ICI",
       "Organerhalt"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "spezial": [
+        "msi_dmmr"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "rektum"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_9_30_a",
@@ -1638,7 +2454,27 @@
       "adjuvant",
       "Rektum",
       "Chemotherapie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "adjuvanz",
+        "chirurgie",
+        "neoadjuvanz"
+      ],
+      "lokalisation": [
+        "rektum"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "stadium": [
+        "stadium_2"
+      ]
+    }
   },
   {
     "id": "krk_9_31_a",
@@ -1665,7 +2501,23 @@
       "Stadium I",
       "pT1/2N0",
       "adjuvant"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "stadium": [
+        "pt1",
+        "stadium_1"
+      ],
+      "phase": [
+        "adjuvanz",
+        "chirurgie"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_9_25_a",
@@ -1693,7 +2545,18 @@
       "cT4b",
       "mrCRM+",
       "oberes Drittel"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_5_1_a",
@@ -1720,7 +2583,19 @@
       "Familienanamnese",
       "Lynch",
       "Bethesda"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "lynch"
+      ]
+    }
   },
   {
     "id": "krk_5_4_a",
@@ -1748,7 +2623,20 @@
       "Keimbahn",
       "MSI",
       "dMMR"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "lynch",
+        "msi_dmmr"
+      ]
+    }
   },
   {
     "id": "krk_5_5_a",
@@ -1775,7 +2663,19 @@
       "early-onset",
       "Keimbahn",
       "Multigen-Panel"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "lynch"
+      ]
+    }
   },
   {
     "id": "krk_5_13_a",
@@ -1805,7 +2705,19 @@
       "MSH2",
       "MSH6",
       "PMS2"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "lynch"
+      ]
+    }
   },
   {
     "id": "krk_5_13b_a",
@@ -1832,7 +2744,23 @@
       "Lynch",
       "Intervall",
       "Koloskopie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "nachsorge",
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "lynch"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_5_14_a",
@@ -1859,7 +2787,22 @@
       "Lynch",
       "ÖGD",
       "Vorsorge"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "lynch"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_5_17_a",
@@ -1888,7 +2831,23 @@
       "PMS2",
       "Kolektomie",
       "metachron"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "lynch"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "krk_5_22_a",
@@ -1916,7 +2875,22 @@
       "ÖGD",
       "Spigelman",
       "Vorsorge"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "fap",
+        "hereditaer_allg"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_5_23_a",
@@ -1943,7 +2917,23 @@
       "FAP",
       "duodenale Polypen",
       "Endoskopie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "vorsorge"
+      ],
+      "spezial": [
+        "fap",
+        "hereditaer_allg"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_5_24_a",
@@ -1970,7 +2960,19 @@
       "FAP",
       "Magenkarzinom",
       "Drüsenkörperzysten"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "fap",
+        "hereditaer_allg"
+      ]
+    }
   },
   {
     "id": "krk_5_25_a",
@@ -1997,7 +2999,22 @@
       "FAP",
       "Whipple",
       "Duodenektomie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "fap",
+        "hereditaer_allg"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "krk_5_27_a",
@@ -2025,7 +3042,19 @@
       "Desmoid",
       "Schilddrüsenkarzinom",
       "extraintestinal"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "fap",
+        "hereditaer_allg"
+      ]
+    }
   },
   {
     "id": "krk_5_28_a",
@@ -2052,7 +3081,18 @@
       "MAP",
       "MUTYH",
       "Polyposis"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg"
+      ]
+    }
   },
   {
     "id": "krk_5_30_a",
@@ -2079,7 +3119,22 @@
       "SPS",
       "serratiert",
       "Polypektomie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "sps"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_5_31_a",
@@ -2106,7 +3161,19 @@
       "SPS",
       "Familienvorsorge",
       "Verwandte"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "sps"
+      ]
+    }
   },
   {
     "id": "krk_8_2_a",
@@ -2134,7 +3201,24 @@
       "Pathologie",
       "Dworak",
       "Pflichtangaben"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "spezial": [
+        "msi_dmmr"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_8_9_a",
@@ -2162,7 +3246,22 @@
       "Primärtumor",
       "Metastasen",
       "Mutationsanalyse"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "molekularpathologie",
+        "pathologie"
+      ],
+      "spezial": [
+        "ras"
+      ],
+      "phase": [
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_8_12_a",
@@ -2190,7 +3289,23 @@
       "Fusion",
       "TRK-Inhibitor",
       "mKRK"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "molekularpathologie",
+        "pathologie"
+      ],
+      "spezial": [
+        "ntrk"
+      ],
+      "phase": [
+        "metastasen",
+        "vorsorge"
+      ]
+    }
   },
   {
     "id": "krk_8_13_a",
@@ -2217,7 +3332,18 @@
       "ctDNA",
       "RiLiBÄK",
       "Qualität"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "spezial": [
+        "ctdna"
+      ]
+    }
   },
   {
     "id": "krk_8_15_a",
@@ -2245,7 +3371,23 @@
       "RAS",
       "BRAF",
       "Liquid Biopsy"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "spezial": [
+        "braf",
+        "ctdna",
+        "ras"
+      ],
+      "phase": [
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_6_6_a",
@@ -2272,7 +3414,16 @@
       "WHO",
       "Polypen",
       "Histologie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "pathologie"
+      ]
+    }
   },
   {
     "id": "krk_6_14_a",
@@ -2299,7 +3450,18 @@
       "LRA",
       "Nachsorge",
       "Adenom"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_6_15_a",
@@ -2326,7 +3488,18 @@
       "LRA",
       "Nachsorge",
       "Intervall"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_6_17_a",
@@ -2353,7 +3526,18 @@
       "HRA",
       "Nachsorge",
       "Adenom"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_6_18_a",
@@ -2381,7 +3565,21 @@
       "TSA",
       "serratiert",
       "Nachsorge"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "spezial": [
+        "sps"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_6_19_a",
@@ -2408,7 +3606,22 @@
       "pT1",
       "low-risk",
       "Nachsorge"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "stadium": [
+        "low_risk",
+        "pt1"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_6_22_a",
@@ -2435,7 +3648,18 @@
       "Nachsorge",
       "Kontrollkoloskopie",
       "Intervall"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_4_1_a",
@@ -2462,7 +3686,15 @@
       "Vorsorge",
       "Altersgrenze",
       "Screening"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ]
+    }
   },
   {
     "id": "krk_4_2_a",
@@ -2490,7 +3722,18 @@
       "iFOBT",
       "Sigmoidoskopie",
       "Screening"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_9_20b_a",
@@ -2517,7 +3760,21 @@
       "TNT",
       "Watch-and-Wait",
       "Organerhalt"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "krk_5_6_a",
@@ -2544,7 +3801,18 @@
       "Polyposis",
       "Multigen-Panel",
       "Keimbahn"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg"
+      ]
+    }
   },
   {
     "id": "krk_9_20_c",
@@ -2571,7 +3839,22 @@
       "FOLFOX",
       "cT2N0",
       "PROSPECT"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "rektum"
+      ],
+      "phase": [
+        "chirurgie",
+        "neoadjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_9_27_b",
@@ -2598,7 +3881,22 @@
       "Capecitabin",
       "Oxaliplatin",
       "RChT"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "rektum"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_5_13_c",
@@ -2626,7 +3924,19 @@
       "MSH6",
       "PMS2",
       "Vorsorge"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "lynch"
+      ]
+    }
   },
   {
     "id": "krk_5_22_b",
@@ -2653,7 +3963,22 @@
       "FAP",
       "ÖGD",
       "Spigelman"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "fap",
+        "hereditaer_allg"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_5_27_b",
@@ -2680,7 +4005,19 @@
       "FAP",
       "Schilddrüsenkarzinom",
       "Screening"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "fap",
+        "hereditaer_allg"
+      ]
+    }
   },
   {
     "id": "krk_5_30_b",
@@ -2707,7 +4044,22 @@
       "SPS",
       "Polypektomie",
       "Größe"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "sps"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_4_2_b",
@@ -2735,7 +4087,21 @@
       "CTC",
       "Koloskopie",
       "iFOBT"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "krk_9_1_a",
@@ -2763,7 +4129,21 @@
       "Kolon",
       "Beginn",
       "Timing"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "lokalisation": [
+        "kolon"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
   },
   {
     "id": "krk_9_3_a",
@@ -2791,7 +4171,24 @@
       "FOLFOX",
       "CAPOX",
       "Adjuvanz"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "stadium": [
+        "stadium_3"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "krk_9_4_a",
@@ -2818,7 +4215,24 @@
       "Alter",
       "Adjuvanz",
       "Performance-Status"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "lokalisation": [
+        "kolon"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "stadium_3"
+      ]
+    }
   },
   {
     "id": "krk_9_5_a",
@@ -2845,7 +4259,21 @@
       "Stadium II",
       "Adjuvanz",
       "Risiko"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "stadium": [
+        "stadium_2"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "krk_9_6_a",
@@ -2873,7 +4301,24 @@
       "Risikofaktoren",
       "T4",
       "ctDNA"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "stadium": [
+        "stadium_2"
+      ],
+      "spezial": [
+        "ctdna"
+      ],
+      "lokalisation": [
+        "kolon"
+      ],
+      "phase": [
+        "adjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_9_7_a",
@@ -2900,7 +4345,24 @@
       "MSI",
       "Stadium II",
       "Adjuvanz"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "spezial": [
+        "msi_dmmr"
+      ],
+      "stadium": [
+        "stadium_2"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "krk_9_16_a",
@@ -2929,7 +4391,24 @@
       "Kolon",
       "FOLFOX",
       "CAPOX"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "lokalisation": [
+        "kolon"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "spezial": [
+        "msi_dmmr"
+      ]
+    }
   },
   {
     "id": "krk_9_17_a",
@@ -2958,7 +4437,24 @@
       "Kolon",
       "Nivolumab",
       "Ipilimumab"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "spezial": [
+        "msi_dmmr"
+      ],
+      "lokalisation": [
+        "kolon"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_9_18_a",
@@ -2986,7 +4482,27 @@
       "high-risk",
       "RChT",
       "Komplettierungs-TME"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "stadium": [
+        "high_risk",
+        "pt1"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "strahlentherapie"
+      ],
+      "lokalisation": [
+        "rektum"
+      ],
+      "phase": [
+        "chirurgie",
+        "neoadjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_9_19_a",
@@ -3014,7 +4530,23 @@
       "cT2N0",
       "Organerhalt",
       "Sphinkter"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "strahlentherapie"
+      ],
+      "lokalisation": [
+        "rektum"
+      ],
+      "phase": [
+        "chirurgie",
+        "neoadjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_9_4_b",
@@ -3041,7 +4573,22 @@
       "Alter",
       "Adjuvanz",
       "Altersgrenze"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "adjuvanz",
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "kolon"
+      ],
+      "stadium": [
+        "stadium_3"
+      ]
+    }
   },
   {
     "id": "krk_10_1_a",
@@ -3068,7 +4615,18 @@
       "MDT",
       "Zertifizierung",
       "Strategie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "tumorkonferenz"
+      ]
+    }
   },
   {
     "id": "krk_10_5_a",
@@ -3096,7 +4654,20 @@
       "BRAF",
       "MSI",
       "Profiling"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "spezial": [
+        "braf",
+        "msi_dmmr",
+        "ras"
+      ]
+    }
   },
   {
     "id": "krk_10_6_a",
@@ -3124,7 +4695,18 @@
       "5-FU",
       "Capecitabin",
       "Toxizität"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
   },
   {
     "id": "krk_10_7_a",
@@ -3151,7 +4733,18 @@
       "UGT1A1",
       "Irinotecan",
       "Meulengracht"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
   },
   {
     "id": "krk_10_13_a",
@@ -3180,7 +4773,21 @@
       "ICI",
       "Pembrolizumab",
       "Nivolumab"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "spezial": [
+        "msi_dmmr"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
   },
   {
     "id": "krk_10_14_a",
@@ -3208,7 +4815,25 @@
       "anti-EGFR",
       "linksseitig",
       "Cetuximab"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "spezial": [
+        "braf",
+        "ras"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "krk_10_15_a",
@@ -3236,7 +4861,25 @@
       "anti-VEGF",
       "Bevacizumab",
       "rechtsseitig"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "spezial": [
+        "braf",
+        "ras"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "krk_10_15_b",
@@ -3264,7 +4907,24 @@
       "rechtsseitig",
       "Cetuximab",
       "Verwechslung"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ],
+      "spezial": [
+        "ras"
+      ]
+    }
   },
   {
     "id": "krk_10_16_a",
@@ -3291,7 +4951,21 @@
       "RAS-mutiert",
       "Bevacizumab",
       "Erstlinie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "spezial": [
+        "ras"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
   },
   {
     "id": "krk_10_17_a",
@@ -3320,7 +4994,21 @@
       "Encorafenib",
       "Breakwater",
       "Cetuximab"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "spezial": [
+        "braf"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
   },
   {
     "id": "krk_10_17_b",
@@ -3347,7 +5035,21 @@
       "BRAF",
       "FOLFOX",
       "Erstlinie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "spezial": [
+        "braf"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
   },
   {
     "id": "krk_10_24_a",
@@ -3375,7 +5077,18 @@
       "TARE",
       "Lebermetastasen",
       "leberdominant"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "lokalisation": [
+        "leber"
+      ]
+    }
   },
   {
     "id": "krk_10_3_a",
@@ -3402,7 +5115,15 @@
       "Therapiebeginn",
       "Mets",
       "asymptomatisch"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_10_8_a",
@@ -3429,7 +5150,19 @@
       "resektabel",
       "Oligometastasen",
       "Resektion"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "metastasen"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "krk_10_12_a",
@@ -3456,7 +5189,16 @@
       "Primärtumor",
       "asymptomatisch",
       "inop. Mets"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_11_1_a",
@@ -3483,7 +5225,19 @@
       "Nachsorge",
       "UICC I-III",
       "Schema"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "nachsorge"
+      ],
+      "stadium": [
+        "stadium_1"
+      ]
+    }
   },
   {
     "id": "krk_11_2_a",
@@ -3510,7 +5264,15 @@
       "Anamnese",
       "Untersuchung",
       "Nachsorge"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_11_6_a",
@@ -3537,7 +5299,18 @@
       "Koloskopie",
       "Nachsorge",
       "12 Monate"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_11_6_b",
@@ -3564,7 +5337,19 @@
       "Koloskopie",
       "Nachsorge",
       "Intervall"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ]
+    }
   },
   {
     "id": "krk_11_7_a",
@@ -3590,7 +5375,15 @@
     "tags": [
       "Beginn",
       "Nachsorge"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_11_8_a",
@@ -3618,7 +5411,19 @@
       "Nachsorge",
       "CT",
       "kurativ"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen",
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ]
+    }
   },
   {
     "id": "krk_11_4_a",
@@ -3645,7 +5450,16 @@
       "Sonografie",
       "Nachsorge",
       "Lebermets"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen",
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_11_5_a",
@@ -3672,7 +5486,19 @@
       "CT",
       "Nachsorge",
       "Mets"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen",
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ]
+    }
   },
   {
     "id": "krk_11_3_a",
@@ -3699,7 +5525,16 @@
       "CEA",
       "Nachsorge",
       "Tumormarker"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "diagnostik",
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_13_1_a",
@@ -3726,7 +5561,18 @@
       "AHB",
       "Reha",
       "Anschlussheilbehandlung"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "komplikationen"
+      ],
+      "modalitaet": [
+        "reha_funktion"
+      ]
+    }
   },
   {
     "id": "krk_13_2_a",
@@ -3754,7 +5600,19 @@
       "Postresektionssyndrom",
       "Biofeedback",
       "Irrigation"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "komplikationen"
+      ],
+      "modalitaet": [
+        "reha_funktion"
+      ]
+    }
   },
   {
     "id": "krk_13_3_a",
@@ -3782,7 +5640,19 @@
       "Medikation",
       "Resorption",
       "Retard"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "komplikationen"
+      ],
+      "modalitaet": [
+        "reha_funktion",
+        "stoma"
+      ]
+    }
   },
   {
     "id": "krk_13_4_a",
@@ -3810,7 +5680,20 @@
       "CHALLENGE",
       "Tertiärprävention",
       "MET"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "adjuvanz",
+        "komplikationen",
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "reha_funktion"
+      ]
+    }
   },
   {
     "id": "krk_13_4_b",
@@ -3837,7 +5720,19 @@
       "Bewegung",
       "DFS",
       "OS"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "komplikationen",
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "reha_funktion"
+      ]
+    }
   },
   {
     "id": "krk_6_7_a",
@@ -3864,7 +5759,19 @@
       "pT1",
       "Pathologie",
       "sm-Invasion"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "pathologie"
+      ],
+      "stadium": [
+        "pt1"
+      ]
+    }
   },
   {
     "id": "krk_6_9_a",
@@ -3891,7 +5798,20 @@
       "Budding",
       "pT1",
       "high-risk"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "pathologie"
+      ],
+      "stadium": [
+        "high_risk",
+        "pt1"
+      ]
+    }
   },
   {
     "id": "krk_6_16_a",
@@ -3918,7 +5838,18 @@
       "LRA",
       "Adenom",
       "Nachsorge"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "phase": [
+        "nachsorge"
+      ]
+    }
   },
   {
     "id": "krk_9_5_b",
@@ -3945,7 +5876,21 @@
       "Stadium II",
       "QUASAR",
       "partizipativ"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "stadium": [
+        "stadium_2"
+      ],
+      "lokalisation": [
+        "kolon"
+      ],
+      "phase": [
+        "adjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_10_2_a",
@@ -3972,7 +5917,15 @@
       "Tumorboard",
       "lokale Therapien",
       "kurativ"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_10_4_a",
@@ -3999,7 +5952,15 @@
       "Allgemeinzustand",
       "Alter",
       "Therapieentscheidung"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "krk_10_5_b",
@@ -4027,7 +5988,20 @@
       "BRAF",
       "MSI",
       "Erstlinie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "spezial": [
+        "braf",
+        "msi_dmmr",
+        "ras"
+      ]
+    }
   },
   {
     "id": "krk_11_1_b",
@@ -4054,7 +6028,19 @@
       "Stadium I",
       "Nachsorge",
       "Aufwand"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "chirurgie",
+        "nachsorge"
+      ],
+      "stadium": [
+        "stadium_2"
+      ]
+    }
   },
   {
     "id": "krk_13_1_b",
@@ -4081,7 +6067,19 @@
       "AHB",
       "Adjuvanz",
       "Timing"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "adjuvanz",
+        "komplikationen"
+      ],
+      "modalitaet": [
+        "reha_funktion"
+      ]
+    }
   },
   {
     "id": "krk_11_8_b",
@@ -4108,7 +6106,19 @@
       "Mets-Nachsorge",
       "CT",
       "Intervall"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen",
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ]
+    }
   },
   {
     "id": "krk_10_13_b",
@@ -4136,7 +6146,21 @@
       "ICI",
       "Erstlinie",
       "CheckMate"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "spezial": [
+        "msi_dmmr"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
   },
   {
     "id": "krk_9_7_b",
@@ -4163,7 +6187,27 @@
       "MSI",
       "Stadium II",
       "5-FU"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "spezial": [
+        "msi_dmmr"
+      ],
+      "stadium": [
+        "stadium_2"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ],
+      "phase": [
+        "adjuvanz"
+      ]
+    }
   },
   {
     "id": "krk_10_14_b",
@@ -4191,7 +6235,24 @@
       "Triplette",
       "anti-EGFR",
       "linksseitig"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "krk"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "spezial": [
+        "ras"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "pank_6_1_a",
@@ -4218,7 +6279,15 @@
       "Grundlagen",
       "kurativ",
       "OP"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ]
+    }
   },
   {
     "id": "pank_6_2_a",
@@ -4245,7 +6314,18 @@
       "resektabel",
       "Chemo",
       "RChT"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "strahlentherapie"
+      ]
+    }
   },
   {
     "id": "pank_6_3_a",
@@ -4272,7 +6352,18 @@
       "Zentrum",
       "Volume",
       "failure-to-rescue"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "tumorkonferenz"
+      ]
+    }
   },
   {
     "id": "pank_6_4_a",
@@ -4299,7 +6390,16 @@
       "Galleableitung",
       "Stent",
       "Cholangitis"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ]
+    }
   },
   {
     "id": "pank_6_5_a",
@@ -4325,7 +6425,17 @@
     "tags": [
       "Galleableitung",
       "neoadjuvant"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik",
+        "neoadjuvanz"
+      ]
+    }
   },
   {
     "id": "pank_6_6_a",
@@ -4352,7 +6462,19 @@
       "Laparoskopie",
       "Staging",
       "CA 19-9"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "pank_6_7_a",
@@ -4378,7 +6500,18 @@
     "tags": [
       "R0",
       "Resektion"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "pank_6_8_a",
@@ -4404,7 +6537,15 @@
     "tags": [
       "Alter",
       "Resektabilität"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ]
+    }
   },
   {
     "id": "pank_6_9_a",
@@ -4430,7 +6571,15 @@
     "tags": [
       "ECOG",
       "Performance-Status"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ]
+    }
   },
   {
     "id": "pank_6_10_a",
@@ -4457,7 +6606,17 @@
       "borderline resectable",
       "CA 19-9",
       "ABC-Kriterien"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik",
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "pank_6_11_a",
@@ -4484,7 +6643,20 @@
       "NCCN",
       "CT-Staging",
       "borderline"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie",
+        "diagnostik",
+        "metastasen"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ]
+    }
   },
   {
     "id": "pank_6_12_a",
@@ -4511,7 +6683,18 @@
       "Nachbarorgan",
       "multivisz.",
       "en bloc"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "lokalisation": [
+        "kolon"
+      ]
+    }
   },
   {
     "id": "pank_6_14_a",
@@ -4538,7 +6721,18 @@
       "Truncus coeliacus",
       "AMS",
       "180°"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "pank_6_15_a",
@@ -4565,7 +6759,18 @@
       "Pfortader",
       "V. mes. sup.",
       "Gefäßrekonstruktion"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "pank_6_13_a",
@@ -4591,7 +6796,18 @@
     "tags": [
       "Zweitmeinung",
       "sekundäre Resektabilität"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "tumorkonferenz"
+      ]
+    }
   },
   {
     "id": "pank_6_16_a",
@@ -4618,7 +6834,16 @@
       "Fernmets",
       "Primärtumor",
       "Palliation"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie",
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "pank_6_17_a",
@@ -4645,7 +6870,16 @@
       "Oligometastasen",
       "synchron",
       "Studien"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie",
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "pank_6_18_a",
@@ -4671,7 +6905,16 @@
     "tags": [
       "intraop. Mets",
       "Bypass"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie",
+        "metastasen"
+      ]
+    }
   },
   {
     "id": "pank_6_20_a",
@@ -4697,7 +6940,15 @@
     "tags": [
       "Antibiotika",
       "Prophylaxe"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ]
+    }
   },
   {
     "id": "pank_6_22_a",
@@ -4723,7 +6974,15 @@
     "tags": [
       "Somatostatin",
       "Pankreasfistel"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ]
+    }
   },
   {
     "id": "pank_6_23_a",
@@ -4749,7 +7008,15 @@
     "tags": [
       "Peritoneallavage",
       "Zytologie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ]
+    }
   },
   {
     "id": "pank_6_25_a",
@@ -4775,7 +7042,18 @@
     "tags": [
       "Whipple",
       "pp-Whipple"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "pank_6_26_a",
@@ -4802,7 +7080,18 @@
       "Pankreasschwanz",
       "Linksresektion",
       "Splenektomie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "pank_6_27_a",
@@ -4828,7 +7117,18 @@
     "tags": [
       "Korpus",
       "totale Pankreatektomie"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "pank_6_28_a",
@@ -4855,7 +7155,18 @@
       "Lymphadenektomie",
       "erweiterte LAD",
       "Plexus"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "pank_6_29_a",
@@ -4882,7 +7193,18 @@
       "Lymphknoten",
       "12 LK",
       "TNM"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "pank_6_31_a",
@@ -4909,7 +7231,18 @@
       "minimalinvasiv",
       "LEOPARD",
       "Robotik"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   },
   {
     "id": "pank_6_35_a",
@@ -4936,7 +7269,21 @@
       "CRM",
       "R0 narrow",
       "desmoplastisch"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "rektum"
+      ]
+    }
   },
   {
     "id": "pank_6_3_b",
@@ -4962,7 +7309,18 @@
     "tags": [
       "Zentrum",
       "Mindestmenge"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "tumorkonferenz"
+      ]
+    }
   },
   {
     "id": "pank_6_14_b",
@@ -4989,6 +7347,17 @@
       "Arterien",
       "180°",
       "primäre Resektion"
-    ]
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ]
+    }
   }
 ]

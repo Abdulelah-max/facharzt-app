@@ -1,5 +1,5 @@
-const CACHE = 'facharzt-krk-v2';
-const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg', './data/questions.json', './data/meta.json'];
+const CACHE = 'facharzt-krk-v3';
+const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg', './data/questions.json', './data/meta.json', './data/taxonomie.json'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting()));
@@ -15,7 +15,7 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
   const url = new URL(e.request.url);
-  if (url.pathname.endsWith('/data/questions.json') || url.pathname.endsWith('/data/meta.json')) {
+  if (url.pathname.endsWith('/data/questions.json') || url.pathname.endsWith('/data/meta.json') || url.pathname.endsWith('/data/taxonomie.json')) {
     e.respondWith(
       fetch(e.request).then((res) => {
         const copy = res.clone();

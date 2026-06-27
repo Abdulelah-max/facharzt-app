@@ -234,6 +234,62 @@
   }
   .ana-actions button[disabled] { opacity: .5; cursor: default; background: transparent; color: var(--accent); }
 
+  /* Themen-Filter (Suche + Szenarien + Facetten) */
+  .topic-panel { margin: 4px 0 14px; }
+  .search-wrap { position: relative; margin-bottom: 12px; }
+  .search-input {
+    width: 100%; min-height: 44px; padding: 10px 38px 10px 14px;
+    background: var(--bg-card); border: 1px solid var(--line); border-radius: 12px;
+    font-size: 15px; font-family: var(--sans); color: var(--ink);
+  }
+  .search-input:focus { outline: none; border-color: var(--accent); }
+  .search-clear {
+    position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+    background: var(--bg-elev); border: none; border-radius: 50%; width: 26px; height: 26px;
+    color: var(--ink-muted); font-size: 16px; cursor: pointer; line-height: 1;
+  }
+  .panel-label {
+    font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .7px;
+    color: var(--ink-muted); margin: 4px 0 8px;
+  }
+  .scenarios { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+  .scn-chip {
+    background: var(--accent-soft); border: 1px solid var(--line); color: var(--accent);
+    padding: 8px 12px; border-radius: 999px; font-size: 13px; font-family: var(--sans);
+    cursor: pointer; font-weight: 500; min-height: 36px;
+  }
+  .scn-chip .cnt { color: var(--ink-muted); font-weight: 400; margin-left: 4px; }
+  .scn-chip:active { transform: scale(.97); }
+
+  .facet-toggle {
+    background: none; border: none; color: var(--accent); font-size: 13px;
+    font-family: var(--sans); cursor: pointer; padding: 6px 0; font-weight: 500;
+  }
+  .facet-groups { margin-top: 8px; }
+  .facet-group { margin-bottom: 12px; }
+  .facet-group h5 {
+    margin: 0 0 6px; font-size: 11px; font-weight: 600; color: var(--ink-soft);
+    font-family: var(--sans);
+  }
+  .chip-row { display: flex; gap: 6px; flex-wrap: wrap; }
+  .fchip {
+    background: var(--bg-card); border: 1px solid var(--line); color: var(--ink-soft);
+    padding: 6px 10px; border-radius: 999px; font-size: 12px; font-family: var(--sans);
+    cursor: pointer; min-height: 32px;
+  }
+  .fchip .cnt { color: var(--ink-muted); margin-left: 3px; }
+  .fchip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .fchip.active .cnt { color: rgba(255,255,255,.75); }
+  .active-summary {
+    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    margin: 4px 0 10px; font-size: 12px; color: var(--ink-soft);
+  }
+  .active-summary .clear-all {
+    background: none; border: 1px solid var(--line); border-radius: 999px;
+    color: var(--accent); padding: 4px 10px; font-size: 12px; cursor: pointer; font-family: var(--sans);
+  }
+  .result-count { font-size: 13px; color: var(--ink-muted); margin-bottom: 10px; font-variant-numeric: tabular-nums; }
+
   @media (max-width: 480px) {
     .statement { font-size: 17px; }
     .card { padding: 16px; border-radius: 14px; }
@@ -271,6 +327,7 @@
 
     <div class="dash-actions">
       <button class="primary" id="d-resume">Weiter wo ich aufgehört habe</button>
+      <button id="d-topic">🔍 Nach Thema / Szenario üben</button>
       <button id="d-analytics" disabled>Analytik (folgt im nächsten Update)</button>
     </div>
   </div>
@@ -317,6 +374,17 @@
     <div class="topbar">
       <button id="q-back">← Übersicht</button>
     </div>
+    <div id="topic-panel" class="topic-panel">
+      <div class="search-wrap">
+        <input id="f-search" class="search-input" type="search" autocomplete="off" placeholder="🔍 Suche: Thema, Stichwort … z. B. Stadium II">
+        <button id="f-search-clear" class="search-clear" hidden aria-label="Suche löschen">×</button>
+      </div>
+      <div class="panel-label">Klinische Szenarien</div>
+      <div id="f-scenarios" class="scenarios"></div>
+      <button id="f-facet-toggle" class="facet-toggle">Nach Facetten filtern ▾</button>
+      <div id="f-facets" class="facet-groups" hidden></div>
+      <div id="f-active" class="active-summary"></div>
+    </div>
     <div id="filters" class="filters">
       <select id="f-chapter" class="filter"><option value="">Alle Kapitel</option></select>
       <select id="f-topic" class="filter"><option value="">Alle Themen</option></select>
@@ -348,12 +416,23 @@ const STORAGE_VERSION = 2;
 
 let questions = [];
 let meta = null;
+let taxonomie = null;
 let queue = [];
 let idx = 0;
 let answered = 0;
 let correctCount = 0;
 let state = loadState();
 let currentKey = '';
+
+// Themen-Filter Zustand
+const FACET_AXES = ['entitaet', 'phase', 'modalitaet', 'stadium', 'lokalisation', 'spezial'];
+const AXIS_TITLE = {
+  entitaet: 'Leitlinie', phase: 'Behandlungs-Phase', modalitaet: 'Modalität',
+  stadium: 'Stadium / TNM / Risiko', lokalisation: 'Lokalisation', spezial: 'Hereditär / Molekular'
+};
+let activeFacets = {};      // axis -> Set(values)
+let searchText = '';
+let facetLabel = {};        // value -> Label (für Anzeige + Suche)
 
 function loadState() {
   try {
@@ -367,8 +446,17 @@ function saveState() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
 }
 
+function facetsKey() {
+  return FACET_AXES
+    .map(ax => (activeFacets[ax] && activeFacets[ax].size) ? ax + ':' + [...activeFacets[ax]].sort().join(',') : '')
+    .filter(Boolean).join(';');
+}
+
 function getFilterKey() {
-  return [$('#f-chapter').value, $('#f-topic').value, $('#f-difficulty').value, $('#f-mode').value].join('|');
+  return [
+    $('#f-chapter').value, $('#f-topic').value, $('#f-difficulty').value, $('#f-mode').value,
+    facetsKey(), searchText.trim().toLowerCase()
+  ].join('|');
 }
 
 function todayStr() {
@@ -384,24 +472,52 @@ function showView(name) {
 }
 
 async function init() {
-  // load meta + questions in parallel
-  const [qRes, mRes] = await Promise.allSettled([
+  // load meta + questions + taxonomie in parallel
+  const [qRes, mRes, tRes] = await Promise.allSettled([
     fetch('data/questions.json', { cache: 'no-store' }),
     fetch('data/meta.json', { cache: 'no-store' }),
+    fetch('data/taxonomie.json', { cache: 'no-store' }),
   ]);
   try { questions = await qRes.value.json(); } catch { questions = []; }
   try { meta = await mRes.value.json(); } catch { meta = null; }
+  try { taxonomie = await tRes.value.json(); } catch { taxonomie = null; }
 
   if (!questions.length) { renderEmpty(); return; }
 
+  FACET_AXES.forEach(ax => activeFacets[ax] = new Set());
+  buildLabelMap();
   buildFilters();
+  try { buildTopicUI(); } catch (e) { console.warn('Themen-UI:', e); }
 
   if (state.lastFilter) {
     if ($('#f-chapter').querySelector(`option[value="${cssEsc(state.lastFilter.chapter)}"]`)) $('#f-chapter').value = state.lastFilter.chapter;
     if ($('#f-topic').querySelector(`option[value="${cssEsc(state.lastFilter.topic)}"]`)) $('#f-topic').value = state.lastFilter.topic;
     $('#f-difficulty').value = state.lastFilter.difficulty || '';
     $('#f-mode').value = state.lastFilter.mode || 'all';
+    if (state.lastFilter.facets) {
+      for (const ax of FACET_AXES) (state.lastFilter.facets[ax] || []).forEach(v => activeFacets[ax].add(v));
+    }
+    searchText = state.lastFilter.search || '';
+    $('#f-search').value = searchText;
   }
+  syncTopicUI();
+
+  // Suche
+  $('#f-search').addEventListener('input', () => {
+    searchText = $('#f-search').value;
+    $('#f-search-clear').hidden = !searchText;
+    applyFilters();
+  });
+  $('#f-search-clear').addEventListener('click', () => {
+    searchText = ''; $('#f-search').value = ''; $('#f-search-clear').hidden = true;
+    applyFilters();
+  });
+  // Facetten ein-/ausklappen
+  $('#f-facet-toggle').addEventListener('click', () => {
+    const box = $('#f-facets');
+    box.hidden = !box.hidden;
+    $('#f-facet-toggle').textContent = (box.hidden ? 'Nach Facetten filtern ▾' : 'Facetten ▴');
+  });
 
   // Dashboard navigation
   $('#d-resume').addEventListener('click', () => {
@@ -410,6 +526,14 @@ async function init() {
   });
   $('#q-back').addEventListener('click', () => {
     showView('dashboard');
+  });
+  $('#d-topic').addEventListener('click', () => {
+    showView('quiz');
+    applyFilters();
+    $('#f-facets').hidden = false;
+    $('#f-facet-toggle').textContent = 'Facetten ▴';
+    $('#f-search').focus();
+    window.scrollTo({ top: 0 });
   });
   $('#d-analytics').disabled = false;
   $('#d-analytics').textContent = 'Analytik öffnen';
@@ -421,6 +545,8 @@ async function init() {
     $('#f-topic').value = '';
     $('#f-difficulty').value = '';
     $('#f-mode').value = 'wrong';
+    FACET_AXES.forEach(ax => activeFacets[ax] && activeFacets[ax].clear());
+    searchText = ''; if ($('#f-search')) $('#f-search').value = '';
     showView('quiz');
     // force fresh queue
     const key = getFilterKey();
@@ -570,6 +696,8 @@ function jumpToQuestion(qid) {
   $('#f-topic').value = '';
   $('#f-difficulty').value = '';
   $('#f-mode').value = 'all';
+  FACET_AXES.forEach(ax => activeFacets[ax] && activeFacets[ax].clear());
+  searchText = ''; if ($('#f-search')) $('#f-search').value = '';
   showView('quiz');
   const key = getFilterKey();
   // build queue with this id first, rest after
@@ -736,6 +864,114 @@ function computeStreak() {
   return streak;
 }
 
+// ---- Themen-Filter: Aufbau & Rendering ----
+function buildLabelMap() {
+  facetLabel = {};
+  if (taxonomie && taxonomie.achsen) {
+    for (const ax of Object.keys(taxonomie.achsen)) {
+      const werte = taxonomie.achsen[ax].werte || {};
+      for (const v of Object.keys(werte)) facetLabel[v] = werte[v];
+    }
+  }
+  // Entität-Labels aus meta (id -> Kurzname)
+  if (meta && Array.isArray(meta.leitlinien)) {
+    for (const l of meta.leitlinien) if (l.id) facetLabel[l.id] = l.kurz || l.name || l.id;
+  }
+}
+
+function facetValueCounts(ax) {
+  const c = {};
+  for (const q of questions) for (const v of qFacets(q, ax)) c[v] = (c[v] || 0) + 1;
+  return c;
+}
+
+// Zählt Fragen, die ein Szenario-Kriterienobjekt {achse:wert} erfüllen
+function countScenario(crit) {
+  let n = 0;
+  for (const q of questions) {
+    let ok = true;
+    for (const ax in crit) { if (!qFacets(q, ax).includes(crit[ax])) { ok = false; break; } }
+    if (ok) n++;
+  }
+  return n;
+}
+
+function buildTopicUI() {
+  // Szenarien
+  const scn = (taxonomie && Array.isArray(taxonomie.szenarien)) ? taxonomie.szenarien : [];
+  const scnEl = $('#f-scenarios');
+  const visible = scn.map(s => ({ ...s, n: countScenario(s.kriterien) })).filter(s => s.n > 0);
+  if (!visible.length) { $('.panel-label').style.display = 'none'; scnEl.style.display = 'none'; }
+  scnEl.innerHTML = visible.map((s, i) =>
+    `<button class="scn-chip" data-scn="${i}">${esc(s.name)}<span class="cnt">${s.n}</span></button>`
+  ).join('');
+  scnEl.querySelectorAll('[data-scn]').forEach(btn => {
+    btn.addEventListener('click', () => applyScenario(visible[+btn.dataset.scn].kriterien));
+  });
+
+  // Facetten-Gruppen (nur Werte, die wirklich vorkommen)
+  const groups = FACET_AXES.map(ax => {
+    const counts = facetValueCounts(ax);
+    const vals = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+    if (!vals.length) return '';
+    const chips = vals.map(v =>
+      `<button class="fchip" data-ax="${ax}" data-val="${esc(v)}">${esc(facetLabel[v] || v)}<span class="cnt">${counts[v]}</span></button>`
+    ).join('');
+    return `<div class="facet-group"><h5>${esc(AXIS_TITLE[ax] || ax)}</h5><div class="chip-row">${chips}</div></div>`;
+  }).join('');
+  $('#f-facets').innerHTML = groups;
+  $('#f-facets').querySelectorAll('[data-ax]').forEach(btn => {
+    btn.addEventListener('click', () => toggleFacet(btn.dataset.ax, btn.dataset.val));
+  });
+}
+
+function toggleFacet(ax, val) {
+  const set = activeFacets[ax];
+  if (set.has(val)) set.delete(val); else set.add(val);
+  applyFilters();
+}
+
+function applyScenario(crit) {
+  // Dropdowns + Suche zurücksetzen, Facetten exakt auf das Szenario setzen
+  $('#f-chapter').value = ''; $('#f-topic').value = ''; $('#f-difficulty').value = '';
+  searchText = ''; $('#f-search').value = ''; $('#f-search-clear').hidden = true;
+  FACET_AXES.forEach(ax => activeFacets[ax].clear());
+  for (const ax in crit) if (activeFacets[ax]) activeFacets[ax].add(crit[ax]);
+  $('#f-facets').hidden = false;
+  $('#f-facet-toggle').textContent = 'Facetten ▴';
+  applyFilters();
+}
+
+function clearAllFacets() {
+  FACET_AXES.forEach(ax => activeFacets[ax].clear());
+  searchText = ''; $('#f-search').value = ''; $('#f-search-clear').hidden = true;
+  applyFilters();
+}
+
+// Aktive Chips markieren + Zusammenfassung/Anzahl anzeigen
+function syncTopicUI(count) {
+  $('#f-facets').querySelectorAll('[data-ax]').forEach(btn => {
+    const on = activeFacets[btn.dataset.ax] && activeFacets[btn.dataset.ax].has(btn.dataset.val);
+    btn.classList.toggle('active', !!on);
+  });
+  $('#f-search-clear').hidden = !searchText;
+
+  const chosen = [];
+  for (const ax of FACET_AXES) for (const v of (activeFacets[ax] || [])) chosen.push(facetLabel[v] || v);
+  const el = $('#f-active');
+  const anyFilter = chosen.length || searchText.trim();
+  const cnt = (typeof count === 'number') ? `<span class="result-count">${count} Frage${count === 1 ? '' : 'n'}</span>` : '';
+  if (anyFilter) {
+    const tags = chosen.map(c => esc(c)).join(' · ');
+    el.innerHTML = `${cnt}<button class="clear-all">Alle Filter löschen</button>` +
+      (tags ? `<span>${tags}</span>` : '');
+    const cb = el.querySelector('.clear-all');
+    if (cb) cb.addEventListener('click', clearAllFacets);
+  } else {
+    el.innerHTML = cnt;
+  }
+}
+
 function buildFilters() {
   const chapters = [...new Set(questions.map(q => q.kapitel).filter(Boolean))].sort();
   const topics = [...new Set(questions.map(q => q.thema).filter(Boolean))].sort();
@@ -743,10 +979,39 @@ function buildFilters() {
   for (const t of topics) $('#f-topic').insertAdjacentHTML('beforeend', `<option value="${esc(t)}">${esc(t)}</option>`);
 }
 
+function qFacets(q, ax) {
+  return (q.facetten && Array.isArray(q.facetten[ax])) ? q.facetten[ax] : [];
+}
+
+function matchesFacets(q) {
+  // über Achsen: UND   ·   innerhalb einer Achse: ODER
+  for (const ax of FACET_AXES) {
+    const sel = activeFacets[ax];
+    if (sel && sel.size) {
+      const qv = qFacets(q, ax);
+      if (![...sel].some(v => qv.includes(v))) return false;
+    }
+  }
+  return true;
+}
+
+function searchHaystack(q) {
+  let labels = '';
+  for (const ax of FACET_AXES) for (const v of qFacets(q, ax)) labels += ' ' + (facetLabel[v] || v);
+  return (
+    (q.statement || '') + ' ' + (q.explanation || '') + ' ' + (q.thema || '') + ' ' +
+    (q.leitlinie_wortlaut || '') + ' ' + ((q.tags || []).join(' ')) + ' ' +
+    (q.empfehlung_nr || '') + labels
+  ).toLowerCase();
+}
+
 function matchesFilter(q, ch, tp, df, md) {
   if (ch && q.kapitel !== ch) return false;
   if (tp && q.thema !== tp) return false;
   if (df && q.schwierigkeit !== df) return false;
+  if (!matchesFacets(q)) return false;
+  const txt = searchText.trim().toLowerCase();
+  if (txt && !searchHaystack(q).includes(txt)) return false;
   const a = state.answers[q.id];
   if (md === 'wrong') return a && a.lastAnswer !== q.answer;
   if (md === 'new') return !a;
@@ -760,7 +1025,11 @@ function applyFilters() {
   const df = $('#f-difficulty').value;
   const md = $('#f-mode').value;
 
-  state.lastFilter = { chapter: ch, topic: tp, difficulty: df, mode: md };
+  state.lastFilter = {
+    chapter: ch, topic: tp, difficulty: df, mode: md,
+    facets: Object.fromEntries(FACET_AXES.map(ax => [ax, [...activeFacets[ax]]])),
+    search: searchText
+  };
 
   const matching = questions.filter(q => matchesFilter(q, ch, tp, df, md));
   const matchingIds = new Set(matching.map(q => q.id));
@@ -792,6 +1061,7 @@ function applyFilters() {
     if (a && a.lastAnswer === queue[i].answer) correctCount++;
   }
 
+  syncTopicUI(queue.length);
   updateScore();
   renderCurrent();
 }
