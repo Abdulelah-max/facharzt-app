@@ -3,7 +3,7 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 248 Fragen · ✅ 248 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 333 Fragen · ✅ 333 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
@@ -205,6 +205,146 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | krk_4_1_a | 4.1 | 45 | R | ✅ | ☐ |
 | krk_4_2_a | 4.2 | 47 | R | ✅ | ☐ |
 | krk_4_2_b | 4.2 | 47 | F | ✅ | ☐ |
+
+## magen · Chirurgische Therapie  (9)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_10_10_a | 10.10 | 111 | F | ✅ | ☐ |
+| mag_10_12_a | 10.12 | 114 | R | ✅ | ☐ |
+| mag_10_13_a | 10.13 | 115 | R | ✅ | ☐ |
+| mag_10_1_a | 10.1 | 103 | R | ✅ | ☐ |
+| mag_10_2_a | 10.2 | 103 | R | ✅ | ☐ |
+| mag_10_4_a | 10.4 | 105 | F | ✅ | ☐ |
+| mag_10_6_a | 10.6 | 108 | R | ✅ | ☐ |
+| mag_10_8_a | 10.8 | 110 | R | ✅ | ☐ |
+| mag_10_9_a | 10.9 | 111 | F | ✅ | ☐ |
+
+## magen · Endoskopische Therapie  (5)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_9_1_a | 9.1 | 95 | F | ✅ | ☐ |
+| mag_9_3_a | 9.3 | 98 | R | ✅ | ☐ |
+| mag_9_4_a | 9.4 | 98 | F | ✅ | ☐ |
+| mag_9_6_a | 9.6 | 101 | R | ✅ | ☐ |
+| mag_9_7_a | 9.7 | 101 | R | ✅ | ☐ |
+
+## magen · Ernährung  (6)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_14_11_a | 14.11 | 190 | R | ✅ | ☐ |
+| mag_14_1_a | 14.1 | 179 | R | ✅ | ☐ |
+| mag_14_3_a | 14.3 | 180 | R | ✅ | ☐ |
+| mag_14_6_a | 14.6 | 184 | R | ✅ | ☐ |
+| mag_14_7_a | 14.7 | 185 | F | ✅ | ☐ |
+| mag_14_8_a | 14.8 | 187 | R | ✅ | ☐ |
+
+## magen · Histopathologie  (3)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_8_1_a | 8.1 | 90 | R | ✅ | ☐ |
+| mag_8_3_a | 8.3 | 90 | R | ✅ | ☐ |
+| mag_8_4_a | 8.4 | 90 | R | ✅ | ☐ |
+
+## magen · Multimodale Therapie  (10)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_11_10_a | 11.10 | 133 | R | ✅ | ☐ |
+| mag_11_11_a | 11.11 | 134 | F | ✅ | ☐ |
+| mag_11_12_a | 11.12 | 137 | R | ✅ | ☐ |
+| mag_11_1_a | 11.1 | 119 | R | ✅ | ☐ |
+| mag_11_2_a | 11.2 | 121 | F | ✅ | ☐ |
+| mag_11_3_a | 11.3 | 121 | R | ✅ | ☐ |
+| mag_11_4_a | 11.4 | 126 | R | ✅ | ☐ |
+| mag_11_6_a | 11.6 | 129 | R | ✅ | ☐ |
+| mag_11_8_a | 11.8 | 130 | R | ✅ | ☐ |
+| mag_11_9_a | 11.9 | 133 | R | ✅ | ☐ |
+
+## magen · Nachsorge / Rehabilitation  (7)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_15_10_a | 15.10 | 199 | F | ✅ | ☐ |
+| mag_15_1_a | 15.1 | 193 | R | ✅ | ☐ |
+| mag_15_2_a | 15.2 | 193 | R | ✅ | ☐ |
+| mag_15_4_a | 15.4 | 194 | F | ✅ | ☐ |
+| mag_15_5_a | 15.5 | 195 | R | ✅ | ☐ |
+| mag_15_6_a | 15.6 | 195 | R | ✅ | ☐ |
+| mag_15_7_a | 15.7 | 196 | R | ✅ | ☐ |
+
+## magen · Palliative / Systemtherapie  (14)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_12_10_a | 12.10 | 147 | R | ✅ | ☐ |
+| mag_12_13_a | 12.13 | 154 | F | ✅ | ☐ |
+| mag_12_13b_a | 12.13b | 154 | F | ✅ | ☐ |
+| mag_12_14_a | 12.14 | 155 | R | ✅ | ☐ |
+| mag_12_15_a | 12.15 | 156 | R | ✅ | ☐ |
+| mag_12_16_a | 12.16 | 159 | R | ✅ | ☐ |
+| mag_12_17_a | 12.17 | 159 | R | ✅ | ☐ |
+| mag_12_18_a | 12.18 | 164 | R | ✅ | ☐ |
+| mag_12_19_a | 12.19 | 165 | R | ✅ | ☐ |
+| mag_12_2_a | 12.2 | 139 | R | ✅ | ☐ |
+| mag_12_3_a | 12.3 | 141 | R | ✅ | ☐ |
+| mag_12_7_a | 12.7 | 143 | R | ✅ | ☐ |
+| mag_12_8_a | 12.8 | 146 | F | ✅ | ☐ |
+| mag_12_9_a | 12.9 | 146 | R | ✅ | ☐ |
+
+## magen · Palliative Situationen  (7)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_13_10_a | 13.10 | 174 | R | ✅ | ☐ |
+| mag_13_12_a | 13.12 | 174 | R | ✅ | ☐ |
+| mag_13_15_a | 13.15 | 178 | F | ✅ | ☐ |
+| mag_13_2_a | 13.2 | 168 | R | ✅ | ☐ |
+| mag_13_3_a | 13.3 | 168 | R | ✅ | ☐ |
+| mag_13_5_a | 13.5 | 170 | R | ✅ | ☐ |
+| mag_13_6_a | 13.6 | 171 | R | ✅ | ☐ |
+
+## magen · Primärdiagnostik  (6)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_6_1_a | 6.1 | 65 | R | ✅ | ☐ |
+| mag_6_2_a | 6.2 | 66 | F | ✅ | ☐ |
+| mag_6_4_a | 6.4 | 68 | R | ✅ | ☐ |
+| mag_6_6_a | 6.6 | 69 | F | ✅ | ☐ |
+| mag_6_7_a | 6.7 | 70 | R | ✅ | ☐ |
+| mag_6_8_a | 6.8 | 71 | R | ✅ | ☐ |
+
+## magen · Staging  (8)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_7_10_a | 7.10 | 84 | R | ✅ | ☐ |
+| mag_7_1_a | 7.1 | 74 | R | ✅ | ☐ |
+| mag_7_2_a | 7.2 | 76 | R | ✅ | ☐ |
+| mag_7_3_a | 7.3 | 76 | F | ✅ | ☐ |
+| mag_7_4_a | 7.4 | 79 | R | ✅ | ☐ |
+| mag_7_6_a | 7.6 | 80 | F | ✅ | ☐ |
+| mag_7_7_a | 7.7 | 81 | F | ✅ | ☐ |
+| mag_7_8_a | 7.8 | 82 | F | ✅ | ☐ |
+
+## magen · Vorsorge / Früherkennung  (10)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| mag_4_10_a | 4.10 | 52 | F | ✅ | ☐ |
+| mag_4_11_a | 4.11 | 53 | R | ✅ | ☐ |
+| mag_4_12_a | 4.12 | 54 | F | ✅ | ☐ |
+| mag_4_13_a | 4.13 | 55 | R | ✅ | ☐ |
+| mag_4_16_a | 4.16 | 58 | R | ✅ | ☐ |
+| mag_4_19_a | 4.19 | 59 | R | ✅ | ☐ |
+| mag_4_4_a | 4.4 | 47 | R | ✅ | ☐ |
+| mag_4_5_a | 4.5 | 47 | R | ✅ | ☐ |
+| mag_4_7_a | 4.7 | 48 | R | ✅ | ☐ |
+| mag_4_9_a | 4.9 | 50 | F | ✅ | ☐ |
 
 ## pankreas · Chirurgische Therapie  (30)
 

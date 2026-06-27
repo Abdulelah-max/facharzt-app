@@ -42,6 +42,7 @@
         "pt2": "pT2",
         "pt3": "pT3",
         "pt4": "pT4",
+        "ct2": "cT2",
         "ct3": "cT3",
         "ct4": "cT4",
         "cn_plus": "cN+",
@@ -65,7 +66,9 @@
         "pankreas_korpus_schwanz": "Pankreas Korpus/Schwanz",
         "leber": "Leber(metastasen)",
         "peritoneum": "Peritoneum",
-        "lunge": "Lunge"
+        "lunge": "Lunge",
+        "aeg": "Ösophagogastraler Übergang (AEG)",
+        "magen_distal": "Magen distal"
       }
     },
     "spezial": {
@@ -83,7 +86,9 @@
         "ntrk": "NTRK",
         "ctdna": "ctDNA / Liquid Biopsy",
         "brca": "BRCA1/2",
-        "kras_g12c": "KRAS-G12C"
+        "kras_g12c": "KRAS-G12C",
+        "cdh1": "CDH1 / HDGC",
+        "pdl1": "PD-L1"
       }
     }
   },
@@ -208,6 +213,62 @@
       "kriterien": {
         "entitaet": "pankreas",
         "phase": "vorsorge"
+      }
+    },
+    {
+      "name": "Magen Staging",
+      "kriterien": {
+        "entitaet": "magen",
+        "phase": "diagnostik"
+      }
+    },
+    {
+      "name": "Magen Frühkarzinom endoskopisch",
+      "kriterien": {
+        "entitaet": "magen",
+        "modalitaet": "endoskopie"
+      }
+    },
+    {
+      "name": "Magen Chirurgie (D2 etc.)",
+      "kriterien": {
+        "entitaet": "magen",
+        "phase": "chirurgie"
+      }
+    },
+    {
+      "name": "Magen perioperativ/multimodal",
+      "kriterien": {
+        "entitaet": "magen",
+        "phase": "neoadjuvanz"
+      }
+    },
+    {
+      "name": "Magen palliative Systemtherapie",
+      "kriterien": {
+        "entitaet": "magen",
+        "phase": "metastasen"
+      }
+    },
+    {
+      "name": "Magen HER2-positiv",
+      "kriterien": {
+        "entitaet": "magen",
+        "spezial": "her2"
+      }
+    },
+    {
+      "name": "Magen Nachsorge",
+      "kriterien": {
+        "entitaet": "magen",
+        "phase": "nachsorge"
+      }
+    },
+    {
+      "name": "HDGC / CDH1 (hereditär)",
+      "kriterien": {
+        "entitaet": "magen",
+        "spezial": "cdh1"
       }
     }
   ]

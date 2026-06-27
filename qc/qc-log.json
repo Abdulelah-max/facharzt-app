@@ -3966,5 +3966,1365 @@
     "statement": "Die perkutane transhepatische Cholangiodrainage (PTCD) ist in der Palliativtherapie sinnvoll, wenn eine endoskopische Galleableitung nicht möglich ist (z. B. bei tumorbedingter Duodenalstenose).",
     "leitlinie_wortlaut": "Die perkutane transhepatische Cholangiodrainage, PTCD, ist in der Palliativtherapie des Pankreaskarzinoms bei nicht möglicher endoskopischer Therapie (z. B. bei tumorbedingten Duodenalstenosen) sinnvoll. Die PTCD ist auch bei frustranem Verlauf der endoskopischen Therapie indiziert.",
     "leitlinie_pdf": "Die perkutane transhepatische Cholangiodrainage, PTCD, ist in der Palliativtherapie des Pankreaskarzinoms bei nicht möglicher endoskopischer Therapie (z. B. bei tumorbedingten Duodenalstenosen) sinnvoll. Die PTCD ist auch bei frustranem Verlauf der endoskopischen Therapie indiziert. [686]"
+  },
+  {
+    "id": "mag_4_4_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "4.4",
+    "kapitel": "Vorsorge / Früherkennung",
+    "seite_pdf": 47,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.72,
+      "via": "Hintergrund"
+    },
+    "statement": "Bei gesicherter pathogener CDH1- oder CTNNA1-Keimbahnmutation soll auf eine H.-pylori-Infektion getestet und bei positivem Ergebnis eradiziert werden.",
+    "leitlinie_wortlaut": "Bei Individuen mit gesicherter pathogener CDH1- oder CTNNA1-Keimbahnmuta- tion soll auf eine H. pylori-Infektion getestet und bei positivem Ergebnis eine Era- dikationsbehandlung durchgeführt werden.",
+    "leitlinie_pdf": "Bei Individuen mit gesicherter pathogener CDH1oder CTNNA1-Keimbahnmutation soll auf eine H. pylori-Infektion getestet und bei positivem Ergebnis eine Eradikationsbehandlung durchgeführt werden."
+  },
+  {
+    "id": "mag_4_7_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "4.7",
+    "kapitel": "Vorsorge / Früherkennung",
+    "seite_pdf": 48,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.81,
+      "via": "Hintergrund"
+    },
+    "statement": "Bei gesicherter pathogener CDH1-/CTNNA1-Mutation ohne prophylaktische Gastrektomie soll eine jährliche ÖGD durch erfahrene Endoskopiker erfolgen.",
+    "leitlinie_wortlaut": "Bei Individuen mit gesicherter pathogener CDH1- oder CTNNA1-Keimbahnmuta- tion (HDGC), bei denen keine prophylaktische Gastrektomie durchgeführt wird, soll eine jährliche Endoskopie (ÖGD) durch erfahrene Endoskopiker mit Kenntnis- sen über das HDGC angeboten werden.",
+    "leitlinie_pdf": "Bei Individuen mit gesicherter pathogener CDH1oder CTNNA1-Keimbahnmutation (HDGC), bei denen keine prophylaktische Gastrektomie durchgeführt wird, soll eine jährliche Endoskopie (ÖGD) durch erfahrene Endoskopiker mit Kenntnissen über das HDGC angeboten werden. [110], [94]"
+  },
+  {
+    "id": "mag_4_9_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "4.9",
+    "kapitel": "Vorsorge / Früherkennung",
+    "seite_pdf": 50,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.86,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei gesicherten Trägern einer pathogenen CDH1-Mutation soll eine prophylaktische Gastrektomie erst ab dem 40. Lebensjahr angeboten werden.",
+    "leitlinie_wortlaut": "Bei gesicherten Trägern einer pathogenen CDH1-Mutation soll eine prophylakti- sche Gastrektomie ab dem 20. Lebensjahr angeboten werden.",
+    "leitlinie_pdf": "Bei gesicherten Trägern einer pathogenen CDH1-Mutation soll eine prophylaktische Gastrektomie ab dem 20. Lebensjahr angeboten werden. [110]"
+  },
+  {
+    "id": "mag_4_10_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "4.10",
+    "kapitel": "Vorsorge / Früherkennung",
+    "seite_pdf": 52,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei Lynch-Syndrom soll erst ab dem 55. Lebensjahr zusätzlich zur Koloskopie eine ÖGD durchgeführt werden.",
+    "leitlinie_wortlaut": "Bei Lynch-Syndrom-Patienten und Risikopersonen für Lynch-Syndrom sollte ab dem 35. Lebensjahr zusätzlich zur Koloskopie regelmäßig eine ÖGD durchgeführt werden.",
+    "leitlinie_pdf": "Bei Lynch-Syndrom-Patienten und Risikopersonen für Lynch-Syndrom sollte ab dem 35. Lebensjahr zusätzlich zur Koloskopie regelmäßig eine ÖGD durchgeführt werden."
+  },
+  {
+    "id": "mag_4_11_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "4.11",
+    "kapitel": "Vorsorge / Früherkennung",
+    "seite_pdf": 53,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.87,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei allen Personen mit erhöhtem Magenkarzinomrisiko soll auf H. pylori getestet und bei positivem Ergebnis eradiziert werden.",
+    "leitlinie_wortlaut": "Bei allen Personen mit erhöhtem Magenkarzinomrisiko soll eine Testung auf H. pylori erfolgen. Bei positivem Testergebnis soll eine Eradikationstherapie mit nachfolgender Erfolgskontrolle angeboten werden. ndividuen bzw. -konstellationen, bei denen eine H. pylori-Testung und bei Eradikation unter karzinomprotektiven Aspekten durchgeführt werden dte von Patienten mit Magenkarzinom H. pylori-Hochprävalenzgebieten und Hochinzidenzgebieten für das Magenkarzi- der aufgewachsen sind: Asien, Osteuropa, Mittel- und Südamerika tgeschrittener, Korpusprädominanter atrophischer Gastritis mit/oder ohne intesti- OLGA 3/4, OLGIM 3/4 heren Magenneoplasien (Adenom, Frühkarzinom) nach endoskopischer Resektion ektion",
+    "leitlinie_pdf": "Bei allen Personen mit erhöhtem Magenkarzinomrisiko soll eine Testung auf H. pylori erfolgen. Bei positivem Testergebnis soll eine Eradikationstherapie mit nachfolgender Erfolgskontrolle angeboten werden. Tabelle 7: Risikoindividuen bzw. -konstellationen, bei denen eine H. pylori-Testung und bei positivem Nachweis Eradikation unter karzinomprotektiven Aspekten durchgeführt werden sollte Erstgradig Verwandte von Patienten mit Magenkarzinom Personen, die in H. pylori-Hochprävalenzgebieten und Hochinzidenzgebieten für das Magenkarzinom geboren und/oder aufgewachsen sind: Asien, Osteuropa, Mittelund Südamerika Patienten mit fortgeschrittener, Korpusprädominanter atrophischer Gastritis mit/oder ohne intestinale Metaplasie (OLGA 3/4, OLGIM 3/4 Patienten mit früheren Magenneoplasien (Adenom, Frühkarzinom) nach endoskopischer Resektion oder Magenteilresektion"
+  },
+  {
+    "id": "mag_4_12_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "4.12",
+    "kapitel": "Vorsorge / Früherkennung",
+    "seite_pdf": 54,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Ein serologisches Screening der asymptomatischen Bevölkerung auf H. pylori, EBV und pathologische Serumpepsinogene wird laut S3-LL empfohlen.",
+    "leitlinie_wortlaut": "Ein serologisches Screening der asymptomatischen Bevölkerung auf H. pylori, EBV sowie pathologische Serumpepsinogene soll nicht durchgeführt werden.",
+    "leitlinie_pdf": "Ein serologisches Screening der asymptomatischen Bevölkerung auf H. pylori, EBV sowie pathologische Serumpepsinogene soll nicht durchgeführt werden. [162], [163], [7]"
+  },
+  {
+    "id": "mag_4_13_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "4.13",
+    "kapitel": "Vorsorge / Früherkennung",
+    "seite_pdf": 55,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.85,
+      "via": "Hintergrund"
+    },
+    "statement": "Ein bevölkerungsbezogenes endoskopisches Magenkarzinom-Screening soll in Deutschland nicht durchgeführt werden.",
+    "leitlinie_wortlaut": "Ein bevölkerungsbezogenes endoskopisches Screening auf das Vorliegen präneo- plastischer Veränderungen und eines Magenkarzinoms soll in Deutschland nicht erfolgen.",
+    "leitlinie_pdf": "Ein bevölkerungsbezogenes endoskopisches Screening auf das Vorliegen präneoplastischer Veränderungen und eines Magenkarzinoms soll in Deutschland nicht erfolgen."
+  },
+  {
+    "id": "mag_4_16_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "4.16",
+    "kapitel": "Vorsorge / Früherkennung",
+    "seite_pdf": 58,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.96,
+      "via": "Empfehlung"
+    },
+    "statement": "Vor oder nach endoskopischer Resektion von Magenfrühkarzinomen/Adenomen oder operativen Teilresektionen soll auf H. pylori getestet werden.",
+    "leitlinie_wortlaut": "Vor oder nach endoskopischer Resektion von Magenfrühkarzinomen und Adeno- men oder operativen Magenteilresektionen soll eine Testung auf das Vorliegen ei- ner Helicobacter pylori-Infektion erfolgen. Bei positivem Testergebnis soll eine Eradikationstherapie mit nachfolgender Erfolgskontrolle durchgeführt werden.",
+    "leitlinie_pdf": "Vor oder nach endoskopischer Resektion von Magenfrühkarzinomen und Adenomen oder operativen Magenteilresektionen soll eine Testung auf das Vorliegen einer Helicobacter pylori-Infektion erfolgen. Bei positivem Testergebnis soll eine Eradikationstherapie mit nachfolgender Erfolgskontrolle durchgeführt werden."
+  },
+  {
+    "id": "mag_4_19_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "4.19",
+    "kapitel": "Vorsorge / Früherkennung",
+    "seite_pdf": 59,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.87,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei autoimmun-atrophischer Gastritis soll eine regelmäßige endoskopische Überwachung alle 3–5 Jahre angeboten werden.",
+    "leitlinie_wortlaut": "Bei Vorliegen einer autoimmun-atrophischen Gastritis soll eine regelmäßige endo- skopische Überwachung alle 3 – 5 Jahre angeboten werden.",
+    "leitlinie_pdf": "Bei Vorliegen einer autoimmun-atrophischen Gastritis soll eine regelmäßige endoskopische Überwachung alle 3 – 5 Jahre angeboten werden."
+  },
+  {
+    "id": "mag_4_5_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "4.5",
+    "kapitel": "Vorsorge / Früherkennung",
+    "seite_pdf": 47,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.89,
+      "via": "Empfehlung"
+    },
+    "statement": "Asymptomatischen Trägern einer pathogenen CTNNA1-Keimbahnmutation wird eine jährliche Endoskopie in einem erfahrenen Zentrum empfohlen.",
+    "leitlinie_wortlaut": "Asymptomatischen Trägern einer pathogenen CTNNA1-Keimbahnmutation wird eine jährliche Endoskopie in einem erfahrenen Zentrum empfohlen. Eine prophy- laktische Gastrektomie sollte in Abhängigkeit von den endoskopischen Befunden und der Penetranz des diffusen Magenkarzinoms in der Familie abhängig ge- macht werden.",
+    "leitlinie_pdf": "Asymptomatischen Trägern einer pathogenen CTNNA1-Keimbahnmutation wird eine jährliche Endoskopie in einem erfahrenen Zentrum empfohlen. Eine prophylaktische Gastrektomie sollte in Abhängigkeit von den endoskopischen Befunden und der Penetranz des diffusen Magenkarzinoms in der Familie abhängig gemacht werden. [94]"
+  },
+  {
+    "id": "mag_6_1_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "6.1",
+    "kapitel": "Primärdiagnostik",
+    "seite_pdf": 65,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.93,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei Alarmsymptomen für eine Neoplasie soll zeitnah eine komplette ÖGD mit Biopsie-Entnahme erfolgen.",
+    "leitlinie_wortlaut": "Bei Patienten mit einem oder mehreren der folgenden Alarmsymptome für das Vorliegen einer Neoplasie soll zeitnah eine komplette Ösophagogastroduodeno- skopie (ÖGD) mit Entnahme von Biopsien erfolgen: • Dysphagie • Rezidivierendes Erbrechen • Inappetenz • Unklarer Gewichtsverlust • Gastrointestinale Blutung • unklare Eisenmangelanämie • unklarer Vitamin B-12-Mangel",
+    "leitlinie_pdf": "Bei Patienten mit einem oder mehreren der folgenden Alarmsymptome für das Vorliegen einer Neoplasie soll zeitnah eine komplette Ösophagogastroduodenoskopie (ÖGD) mit Entnahme von Biopsien erfolgen: • Dysphagie • Rezidivierendes Erbrechen • Inappetenz • Unklarer Gewichtsverlust • Gastrointestinale Blutung • unklare Eisenmangelanämie • unklarer Vitamin B-12-Mangel"
+  },
+  {
+    "id": "mag_6_2_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "6.2",
+    "kapitel": "Primärdiagnostik",
+    "seite_pdf": 66,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Zur Primärdiagnostik des Magenkarzinoms genügt die einfache Weißlicht-Endoskopie ohne hochauflösende Technik.",
+    "leitlinie_wortlaut": "Zur Primärdiagnostik des Adenokarzinoms des Magens oder gastroösophagealen Übergangs soll die hochauflösende Videoendoskopie eingesetzt werden.",
+    "leitlinie_pdf": "Zur Primärdiagnostik des Adenokarzinoms des Magens oder gastroösophagealen Übergangs soll die hochauflösende Videoendoskopie eingesetzt werden. [289], [290], [291], [292], [293]"
+  },
+  {
+    "id": "mag_6_4_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "6.4",
+    "kapitel": "Primärdiagnostik",
+    "seite_pdf": 68,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.93,
+      "via": "Empfehlung"
+    },
+    "statement": "Aus allen suspekten Läsionen sollen Biopsien entnommen werden, um maligne Veränderungen sicher zu diagnostizieren.",
+    "leitlinie_wortlaut": "Es sollen Biopsien aus allen suspekten Läsionen genommen werden, um eine si- chere Diagnostik von malignen Veränderungen im Ösophagus und im Magen zu gewährleisten.",
+    "leitlinie_pdf": "Es sollen Biopsien aus allen suspekten Läsionen genommen werden, um eine sichere Diagnostik von malignen Veränderungen im Ösophagus und im Magen zu gewährleisten. [2]"
+  },
+  {
+    "id": "mag_6_8_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "6.8",
+    "kapitel": "Primärdiagnostik",
+    "seite_pdf": 71,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.91,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei negativer Histologie trotz tumorverdächtiger Läsion oder V. a. Linitis plastica sollen zeitnah erneut multiple Biopsien (Rand und Zentrum) oder eine diagnostische Resektion erfolgen.",
+    "leitlinie_wortlaut": "Nach negativer Histologie bei makroskopisch tumorverdächtiger Läsion oder V.a. Linitis plastica sollen zeitnah erneut multiple Biopsien aus dem Rand und dem Zentrum der Läsion oder eine diagnostische endoskopische Resektion durchge- führt werden.",
+    "leitlinie_pdf": "Nach negativer Histologie bei makroskopisch tumorverdächtiger Läsion oder V.a. Linitis plastica sollen zeitnah erneut multiple Biopsien aus dem Rand und dem Zentrum der Läsion oder eine diagnostische endoskopische Resektion durchgeführt werden. [323], [324], [325]"
+  },
+  {
+    "id": "mag_6_6_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "6.6",
+    "kapitel": "Primärdiagnostik",
+    "seite_pdf": 69,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.85,
+      "via": "Hintergrund"
+    },
+    "statement": "Dysplasien/intraepitheliale Neoplasien des Magens werden nach WHO einheitlich nur als „high-grade“ klassifiziert; eine Low-Grade-Kategorie existiert nicht.",
+    "leitlinie_wortlaut": "Dyplasien/Intraepitheliale Neoplasien des Magens und gastroösophagealen Über- gangs sollen nach WHO in Low-Grade und High-Grade unterschieden werden.",
+    "leitlinie_pdf": "Dyplasien/Intraepitheliale Neoplasien des Magens und gastroösophagealen Übergangs sollen nach WHO in Low-Grade und High-Grade unterschieden werden."
+  },
+  {
+    "id": "mag_6_7_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "6.7",
+    "kapitel": "Primärdiagnostik",
+    "seite_pdf": 70,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei histologischer Diagnose jeder IEN soll eine pathologische Zweitmeinung (Vier-Augen-Prinzip) eingeholt werden.",
+    "leitlinie_wortlaut": "Bei histologischer Diagnose jeder Dysplasie/Intraepithelialen Neoplasie (IEN) soll der Prozess einer kompetenten (dokumentierten) pathologischen Zweitmeinung im Sinne eines Vier-Augen-Prinzips durchgeführt werden.",
+    "leitlinie_pdf": "Bei histologischer Diagnose jeder Dysplasie/Intraepithelialen Neoplasie (IEN) soll der Prozess einer kompetenten (dokumentierten) pathologischen Zweitmeinung im Sinne eines Vier-Augen-Prinzips durchgeführt werden."
+  },
+  {
+    "id": "mag_7_2_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "7.2",
+    "kapitel": "Staging",
+    "seite_pdf": 76,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine Fernmetastasierung soll mittels Sonographie, CT-Thorax und CT-Abdomen inkl. Becken ausgeschlossen werden.",
+    "leitlinie_wortlaut": "Eine Fernmetastasierung soll mittels Sonographie, CT-Thorax und CT-Abdomen inklusive Becken ausgeschlossen werden.",
+    "leitlinie_pdf": "Eine Fernmetastasierung soll mittels Sonographie, CT-Thorax und CT-Abdomen inklusive Becken ausgeschlossen werden."
+  },
+  {
+    "id": "mag_7_3_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "7.3",
+    "kapitel": "Staging",
+    "seite_pdf": 76,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.75,
+      "via": "Hintergrund"
+    },
+    "statement": "Der endoskopische Ultraschall (EUS) spielt im T-Staging bei kurativer Therapieintention keine Rolle.",
+    "leitlinie_wortlaut": "Der EUS sollte Bestandteil des Stagings des Primärtumors mit kurativer Thera- pieintention sein.",
+    "leitlinie_pdf": "Der EUS sollte Bestandteil des Stagings des Primärtumors mit kurativer Therapieintention sein. [365], [366], [367], [368], [369], [370], [371], [372], [373], [374], [375], [376], [377], [378], [379], [380], [381], [382], [383], [384], [385], [386], [387], [388], [389], [390], [391], [392], [393], [394], [395], [396], [397], [398], [399]"
+  },
+  {
+    "id": "mag_7_4_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "7.4",
+    "kapitel": "Staging",
+    "seite_pdf": 79,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei kurativem Ansatz soll die CT mit i.v.-Kontrastmittel und Magendistension (orales KM oder Wasser) durchgeführt werden.",
+    "leitlinie_wortlaut": "Bei Patienten mit kurativem Therapieansatz soll die CT mit i.v. Kontrastmittel und Distension des Magens mit oralem Kontrastmittel oder Wasser durchgeführt wer- den.",
+    "leitlinie_pdf": "Bei Patienten mit kurativem Therapieansatz soll die CT mit i.v. Kontrastmittel und Distension des Magens mit oralem Kontrastmittel oder Wasser durchgeführt werden. [425], [359], [366], [426]"
+  },
+  {
+    "id": "mag_7_6_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "7.6",
+    "kapitel": "Staging",
+    "seite_pdf": 80,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine Knochenszintigraphie soll im Staging ohne Verdacht auf Knochenmetastasen routinemäßig durchgeführt werden.",
+    "leitlinie_wortlaut": "Eine Knochenszintigraphie soll im Rahmen des Stagings ohne Verdacht auf eine Knochenmetastasierung nicht durchgeführt werden.",
+    "leitlinie_pdf": "Eine Knochenszintigraphie soll im Rahmen des Stagings ohne Verdacht auf eine Knochenmetastasierung nicht durchgeführt werden."
+  },
+  {
+    "id": "mag_7_7_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "7.7",
+    "kapitel": "Staging",
+    "seite_pdf": 81,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.86,
+      "via": "Empfehlung"
+    },
+    "statement": "Das 18F-FDG-PET-CT soll zum routinemäßigen Staging des Magenkarzinoms durchgeführt werden.",
+    "leitlinie_wortlaut": "Das 18F-FDG PET-CT soll nicht für das routinemäßige Staging von Magenkarzino- men durchgeführt werden.",
+    "leitlinie_pdf": "Das 18F-FDG PET-CT soll nicht für das routinemäßige Staging von Magenkarzinomen durchgeführt werden. [433], [434], [435], [436], [437], [284]"
+  },
+  {
+    "id": "mag_7_8_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "7.8",
+    "kapitel": "Staging",
+    "seite_pdf": 82,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.88,
+      "via": "Empfehlung"
+    },
+    "statement": "Beim lokal fortgeschrittenen Magenkarzinom (cT3/cT4) ist eine Staging-Laparoskopie vor neoadjuvanter Therapie nicht indiziert.",
+    "leitlinie_wortlaut": "Die Staging-Laparoskopie verbessert die Therapieentscheidungen beim lokal fort- geschrittenen Magenkarzinom (Insbesondere cT3, cT4) und sollte vor Beginn der neoadjuvanten Therapie durchgeführt werden.",
+    "leitlinie_pdf": "Die Staging-Laparoskopie verbessert die Therapieentscheidungen beim lokal fortgeschrittenen Magenkarzinom (Insbesondere cT3, cT4) und sollte vor Beginn der neoadjuvanten Therapie durchgeführt werden. [101], [284], [433], [434], [440], [441], [442], [443], [2]"
+  },
+  {
+    "id": "mag_7_10_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "7.10",
+    "kapitel": "Staging",
+    "seite_pdf": 84,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.82,
+      "via": "Hintergrund"
+    },
+    "statement": "Bei metastasiertem/lokal fortgeschrittenem irresektablem Magenkarzinom sollen MSI-, PD-L1- und HER2-Status bestimmt werden.",
+    "leitlinie_wortlaut": "Bei therapiefähigen Patienten mit metastasiertem oder lokal fortgeschrittenem ir- resektablen Magenkarzinom sollen der MSI-, der PD-L1- und der HER2-Status auf- grund ihrer Bedeutung für die Prognose und/oder die Gestaltung der medikamen- tösen Tumortherapie bestimmt werden. Siehe Supplement, Evidenzbericht AG 2_prognostische & prädiktive Marker, Ta- belle 7 und 8",
+    "leitlinie_pdf": "Bei therapiefähigen Patienten mit metastasiertem oder lokal fortgeschrittenem irresektablen Magenkarzinom sollen der MSI-, der PD-L1und der HER2-Status aufgrund ihrer Bedeutung für die Prognose und/oder die Gestaltung der medikamentösen Tumortherapie bestimmt werden. Siehe Supplement, Evidenzbericht AG 2_prognostische & prädiktive Marker, Tabelle 7 und 8 [474], [475], [476], [477], [478], [479], [480], [481], [482], [483], [484], [485], [486], [487], [488], [489]"
+  },
+  {
+    "id": "mag_7_1_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "7.1",
+    "kapitel": "Staging",
+    "seite_pdf": 74,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Das klinische Staging der Magen-/AEG-Karzinome soll nach der jeweils aktuellen klinischen TNM-Klassifikation erfolgen.",
+    "leitlinie_wortlaut": "Das klinische Staging der Karzinome des gastroösophagealen Übergangs und des Magens soll auf der Grundlage der endoskopischen und bildgebenden Diagnostik nach der jeweils aktuellen klinischen TNM-Klassifikation der UICC erfolgen.",
+    "leitlinie_pdf": "Das klinische Staging der Karzinome des gastroösophagealen Übergangs und des Magens soll auf der Grundlage der endoskopischen und bildgebenden Diagnostik nach der jeweils aktuellen klinischen TNM-Klassifikation der UICC erfolgen."
+  },
+  {
+    "id": "mag_8_3_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "8.3",
+    "kapitel": "Histopathologie",
+    "seite_pdf": 90,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Im Resektat sind die Anzahl untersuchter UND die Anzahl befallener regionärer Lymphknoten anzugeben.",
+    "leitlinie_wortlaut": "Die Anzahl untersuchter und die Anzahl befallener regionärer Lymphknoten ist anzugeben.",
+    "leitlinie_pdf": "Die Anzahl untersuchter und die Anzahl befallener regionärer Lymphknoten ist anzugeben."
+  },
+  {
+    "id": "mag_8_4_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "8.4",
+    "kapitel": "Histopathologie",
+    "seite_pdf": 90,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.8,
+      "via": "Hintergrund"
+    },
+    "statement": "Bei undifferenzierten Tumoren werden immunhistologische Untersuchungen zur weiteren Spezifizierung empfohlen.",
+    "leitlinie_wortlaut": "Bei Patienten mit undifferenzierten Tumoren werden immunhistologische Unter- suchungen zur weiteren Spezifizierung empfohlen.",
+    "leitlinie_pdf": "Bei Patienten mit undifferenzierten Tumoren werden immunhistologische Untersuchungen zur weiteren Spezifizierung empfohlen."
+  },
+  {
+    "id": "mag_8_1_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "8.1",
+    "kapitel": "Histopathologie",
+    "seite_pdf": 90,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.86,
+      "via": "Empfehlung"
+    },
+    "statement": "Stadieneinteilung und histologische Klassifikation der Magen-/AEG-Karzinome sollen nach der jeweils aktuellen UICC-TNM- und WHO-Klassifikation erfolgen.",
+    "leitlinie_wortlaut": "Die Stadieneinteilung und histologische Klassifikation der Karzinome des gast- roösophagealen Übergangs und des Magens soll nach der jeweils aktuellen TNM- Klassifikation der UICC und nach der aktuellen WHO-Klassifikation erfolgen.",
+    "leitlinie_pdf": "Die Stadieneinteilung und histologische Klassifikation der Karzinome des gastroösophagealen Übergangs und des Magens soll nach der jeweils aktuellen TNMKlassifikation der UICC und nach der aktuellen WHO-Klassifikation erfolgen."
+  },
+  {
+    "id": "mag_9_1_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "9.1",
+    "kapitel": "Endoskopische Therapie",
+    "seite_pdf": 95,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.89,
+      "via": "Empfehlung"
+    },
+    "statement": "Magenfrühkarzinome sollen grundsätzlich primär chirurgisch (Gastrektomie) reseziert werden, auch wenn alle Frühkarzinom-Kriterien erfüllt sind.",
+    "leitlinie_wortlaut": "Intraepitheliale Neoplasien (sogenannte Dysplasien) jeglicher Größe sowie Magen- frühkarzinome, die alle vier folgenden Kriterien erfüllen, sollen endoskopisch en- bloc reseziert werden: a) 2 cm Durchmesser b) nicht ulceriert c) Mukosakarzinom d) intestinaler Typ bzw. histologischer Differenzierungsgrad gut oder mäßig (G1/G2)",
+    "leitlinie_pdf": "Intraepitheliale Neoplasien (sogenannte Dysplasien) jeglicher Größe sowie Magenfrühkarzinome, die alle vier folgenden Kriterien erfüllen, sollen endoskopisch enbloc reseziert werden: a) 2 cm Durchmesser b) nicht ulceriert c) Mukosakarzinom d) intestinaler Typ bzw. histologischer Differenzierungsgrad gut oder mäßig (G1/G2) [517], [518], [519], [520], [521], [522], [2]"
+  },
+  {
+    "id": "mag_9_3_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "9.3",
+    "kapitel": "Endoskopische Therapie",
+    "seite_pdf": 98,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.93,
+      "via": "Empfehlung"
+    },
+    "statement": "Die endoskopische Resektion von Magenfrühkarzinomen soll als komplette en-bloc-Resektion erfolgen, um laterale und basale Ränder vollständig beurteilen zu können.",
+    "leitlinie_wortlaut": "Die endoskopische Resektion (ER) von Magenfrühkarzinomen soll als komplette en-bloc Resektion erfolgen, die eine vollständige histologische Beurteilung der la- teralen und basalen Ränder erlaubt.",
+    "leitlinie_pdf": "Die endoskopische Resektion (ER) von Magenfrühkarzinomen soll als komplette en-bloc Resektion erfolgen, die eine vollständige histologische Beurteilung der lateralen und basalen Ränder erlaubt."
+  },
+  {
+    "id": "mag_9_4_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "9.4",
+    "kapitel": "Endoskopische Therapie",
+    "seite_pdf": 98,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.91,
+      "via": "Empfehlung"
+    },
+    "statement": "Die endoskopische Resektion/ESD von Magenfrühkarzinomen darf laut S3-LL von jedem Endoskopiker ohne spezielle Expertise durchgeführt werden.",
+    "leitlinie_wortlaut": "Die ER und ESD von Magenfrühkarzinomen soll nur durch Endoskopiker mit Ex- pertise in der endoskopischen Therapie von gastrointestinalen Frühkarzinomen durchgeführt werden.",
+    "leitlinie_pdf": "Die ER und ESD von Magenfrühkarzinomen soll nur durch Endoskopiker mit Expertise in der endoskopischen Therapie von gastrointestinalen Frühkarzinomen durchgeführt werden."
+  },
+  {
+    "id": "mag_9_7_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "9.7",
+    "kapitel": "Endoskopische Therapie",
+    "seite_pdf": 101,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.79,
+      "via": "Hintergrund"
+    },
+    "statement": "Patienten mit R1-Resektion nach endoskopischer Therapie sollen nachreseziert werden.",
+    "leitlinie_wortlaut": "Patienten mit einer R1-Resektion sollen nachreseziert werden. Nach einer Piece- Meal-Resektion ohne Indikation für eine Operation soll nach 3 Monaten endosko- pisch-bioptisch kontrolliert werden.",
+    "leitlinie_pdf": "Patienten mit einer R1-Resektion sollen nachreseziert werden. Nach einer PieceMeal-Resektion ohne Indikation für eine Operation soll nach 3 Monaten endoskopisch-bioptisch kontrolliert werden."
+  },
+  {
+    "id": "mag_9_6_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "9.6",
+    "kapitel": "Endoskopische Therapie",
+    "seite_pdf": 101,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.9,
+      "via": "Empfehlung"
+    },
+    "statement": "Nach endoskopischer Resektion sollen Patienten eine endoskopische Überwachung erhalten.",
+    "leitlinie_wortlaut": "Patienten, die mit endoskopischer Resektion behandelt wurden, sollen eine endo- skopische Überwachung erhalten. Bei Vorliegen erweiterter Kriterien sollten in der Nachsorge zusätzlich bildgebende Verfahren eingesetzt werden.",
+    "leitlinie_pdf": "Patienten, die mit endoskopischer Resektion behandelt wurden, sollen eine endoskopische Überwachung erhalten. Bei Vorliegen erweiterter Kriterien sollten in der Nachsorge zusätzlich bildgebende Verfahren eingesetzt werden."
+  },
+  {
+    "id": "mag_10_1_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "10.1",
+    "kapitel": "Chirurgische Therapie",
+    "seite_pdf": 103,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Die chirurgische Resektion ist die einzige Möglichkeit zur kurativen Behandlung und Standardtherapie für alle potenziell resektablen Magenkarzinome.",
+    "leitlinie_wortlaut": "Die chirurgische Resektion stellt die einzige Möglichkeit zur kurativen Behandlung und damit die Standardtherapie für alle potentiell resektablen Magenkarzinome dar. Eine Ausnahme stellen die endoskopisch kurativ resezierbaren Frühkarzinome dar (siehe Empfehlung 9.2. Siehe Supplement, Evidenzbericht AG 4_kurative Anwendung der LECS/NEWS",
+    "leitlinie_pdf": "Die chirurgische Resektion stellt die einzige Möglichkeit zur kurativen Behandlung und damit die Standardtherapie für alle potentiell resektablen Magenkarzinome dar. Eine Ausnahme stellen die endoskopisch kurativ resezierbaren Frühkarzinome dar (siehe Empfehlung 9.2. Siehe Supplement, Evidenzbericht AG 4_kurative Anwendung der LECS/NEWS"
+  },
+  {
+    "id": "mag_10_4_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "10.4",
+    "kapitel": "Chirurgische Therapie",
+    "seite_pdf": 105,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.93,
+      "via": "Empfehlung"
+    },
+    "statement": "Laut S3-LL genügt beim diffusen (infiltrativen) Magenkarzinom nach Laurén ein proximaler Sicherheitsabstand von 2 cm.",
+    "leitlinie_wortlaut": "Analog der ESMO Guidelines sollte für Magenkarzinome Stadium IB-II bei expansi- vem Wachstum (u.a. inestinaler Typ nach Lauren) ein Sicherheitsabstand von 3 cm, bei infiltrativem Wachstum (diffuser Typ nach Lauren/poorly cohesive) ein Si- cherheitsabstand von 5 cm nach oral eingehalten werden. Ist dies nicht möglich, sollte ein Schnellschnitt des gesamten Absetzungsrandes erfolgen.",
+    "leitlinie_pdf": "Analog der ESMO Guidelines sollte für Magenkarzinome Stadium IB-II bei expansivem Wachstum (u.a. inestinaler Typ nach Lauren) ein Sicherheitsabstand von 3 cm, bei infiltrativem Wachstum (diffuser Typ nach Lauren/poorly cohesive) ein Sicherheitsabstand von 5 cm nach oral eingehalten werden. Ist dies nicht möglich, sollte ein Schnellschnitt des gesamten Absetzungsrandes erfolgen. [332], [591], [592], [593], [594], [595], [596], [599], [600], [601]"
+  },
+  {
+    "id": "mag_10_9_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "10.9",
+    "kapitel": "Chirurgische Therapie",
+    "seite_pdf": 111,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.82,
+      "via": "Hintergrund"
+    },
+    "statement": "Bei der operativen Behandlung in kurativer Intention genügt eine D1-Lymphadenektomie.",
+    "leitlinie_wortlaut": "Die Entfernung der regionären Lymphknoten von Kompartiment I und II (D2-Lym- phadenektomie) soll bei der operativen Behandlung in kurativer Intention erfol- gen.",
+    "leitlinie_pdf": "Die Entfernung der regionären Lymphknoten von Kompartiment I und II (D2-Lymphadenektomie) soll bei der operativen Behandlung in kurativer Intention erfolgen. [433]"
+  },
+  {
+    "id": "mag_10_10_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "10.10",
+    "kapitel": "Chirurgische Therapie",
+    "seite_pdf": 111,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei der D2-Lymphadenektomie genügt die Entfernung von mindestens 10 regionären Lymphknoten.",
+    "leitlinie_wortlaut": "Bei der D2-Lymphadenektomie ohne Splenektomie/Pankreaslinksresektion sollten mindestens 25 regionäre Lymphknoten entfernt und histopathologisch untersucht werden.",
+    "leitlinie_pdf": "Bei der D2-Lymphadenektomie ohne Splenektomie/Pankreaslinksresektion sollten mindestens 25 regionäre Lymphknoten entfernt und histopathologisch untersucht werden."
+  },
+  {
+    "id": "mag_10_12_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "10.12",
+    "kapitel": "Chirurgische Therapie",
+    "seite_pdf": 114,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.85,
+      "via": "Hintergrund"
+    },
+    "statement": "In der Palliativsituation sollte bei asymptomatischen Patienten ohne Tumorblutung eine Resektion des Primärtumors nicht durchgeführt werden.",
+    "leitlinie_wortlaut": "In der Palliativsituation sollte bei asymptomatischen Patienten ohne Tumorblu- tung eine Resektion des Primärtumors nicht durchgeführt werden.",
+    "leitlinie_pdf": "In der Palliativsituation sollte bei asymptomatischen Patienten ohne Tumorblutung eine Resektion des Primärtumors nicht durchgeführt werden."
+  },
+  {
+    "id": "mag_10_6_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "10.6",
+    "kapitel": "Chirurgische Therapie",
+    "seite_pdf": 108,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.86,
+      "via": "Empfehlung"
+    },
+    "statement": "Patienten sollten an zertifizierten Magenkarzinomzentren bzw. Zentren mit hoher Fallzahl operiert werden.",
+    "leitlinie_wortlaut": "Kliniken mit hoher Fallzahl haben eine geringere perioperative Letalität als Klini- ken mit niedriger Fallzahl. Patienten sollten an zertifizierten Magenkarzinomzen- tren oder Zentren, die vergleichbare Anforderungen erfüllen, behandelt werden.",
+    "leitlinie_pdf": "Kliniken mit hoher Fallzahl haben eine geringere perioperative Letalität als Kliniken mit niedriger Fallzahl. Patienten sollten an zertifizierten Magenkarzinomzentren oder Zentren, die vergleichbare Anforderungen erfüllen, behandelt werden."
+  },
+  {
+    "id": "mag_10_8_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "10.8",
+    "kapitel": "Chirurgische Therapie",
+    "seite_pdf": 110,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.82,
+      "via": "Hintergrund"
+    },
+    "statement": "Bei AEG Typ II mit Infiltration der unteren Speiseröhre kann eine transthorakale subtotale Ösophagektomie mit proximaler Magenresektion erfolgen.",
+    "leitlinie_wortlaut": "Bei Lokalisation des Tumors im gastroösophagealen Übergang (AEG Typ II) mit In- filtration der unteren Speiseröhre kann eine transthorakale subtotale Ösopha- gektomie mit proximaler Magenresektion nach Ivor Lewis durchgeführt werden. Alternativ kann eine transhiatal erweiterte Gastrektomie mit distaler Ösophagus- resektion erfolgen. Bei zusätzlich ausgedehntem Magenbefall kann eine Ösophagogastrektomie er- forderlich sein.",
+    "leitlinie_pdf": "Bei Lokalisation des Tumors im gastroösophagealen Übergang (AEG Typ II) mit Infiltration der unteren Speiseröhre kann eine transthorakale subtotale Ösophagektomie mit proximaler Magenresektion nach Ivor Lewis durchgeführt werden. Alternativ kann eine transhiatal erweiterte Gastrektomie mit distaler Ösophagusresektion erfolgen. Bei zusätzlich ausgedehntem Magenbefall kann eine Ösophagogastrektomie erforderlich sein."
+  },
+  {
+    "id": "mag_10_2_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "10.2",
+    "kapitel": "Chirurgische Therapie",
+    "seite_pdf": 103,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.94,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei Magenfrühkarzinomen kann eine laparoskopische Resektion durchgeführt werden und ist der offenen onkologisch gleichwertig.",
+    "leitlinie_wortlaut": "Bei Magenfrühkarzinomen kann eine laparoskopische subtotale distale Resektion oder Gastrektomie durchgeführt werden und ist einer offenen Resektion onkolo- gisch gleichwertig, wobei bei lokal fortgeschrittenen Tumoren vor allem auch nach Vorbehandlung immer eine offene Operationsmethode zur Anwendung kom- men kann. Siehe Supplement, Evidenzbericht AG 4_Chirurgie und perioperative Therapie, Tabelle 9 und 12",
+    "leitlinie_pdf": "Bei Magenfrühkarzinomen kann eine laparoskopische subtotale distale Resektion oder Gastrektomie durchgeführt werden und ist einer offenen Resektion onkologisch gleichwertig, wobei bei lokal fortgeschrittenen Tumoren vor allem auch nach Vorbehandlung immer eine offene Operationsmethode zur Anwendung kommen kann. Siehe Supplement, Evidenzbericht AG 4_Chirurgie und perioperative Therapie, Tabelle 9 und 12 [567], [568], [569], [570], [571], [572], [573], [574], [575], [576], [577], [578], [579], [580], [581], [582], [583], [584], [585], [586]"
+  },
+  {
+    "id": "mag_11_2_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "11.2",
+    "kapitel": "Multimodale Therapie",
+    "seite_pdf": 121,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei lokalisiertem Magenkarzinom ≥ cT3 und/oder N+ soll primär operiert und Chemotherapie nur rein adjuvant (postoperativ) gegeben werden.",
+    "leitlinie_wortlaut": "Bei lokalisierten Magenkarzinom der Kategorien ≥ cT3 Tumoren und/oder N+ soll eine perioperative Chemotherapie durchgeführt, d.h. präoperativ begonnen und postoperativ fortgesetzt werden.",
+    "leitlinie_pdf": "Bei lokalisierten Magenkarzinom der Kategorien ≥ cT3 Tumoren und/oder N+ soll eine perioperative Chemotherapie durchgeführt, d.h. präoperativ begonnen und postoperativ fortgesetzt werden. [617], [657], [659], [661], [663], [664], [665], [666], [667], [668], [669]"
+  },
+  {
+    "id": "mag_11_1_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "11.1",
+    "kapitel": "Multimodale Therapie",
+    "seite_pdf": 119,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.86,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei lokalisiertem Magen-/AEG-Karzinom der Kategorie cT2 N0 kann eine perioperative Chemotherapie durchgeführt werden.",
+    "leitlinie_wortlaut": "Bei lokalisierten Adenokarzinomen des Magens oder gastroösophagealen Über- gangs mit Kategorie cT2 N0 kann eine perioperative Chemotherapie durchgeführt werden.",
+    "leitlinie_pdf": "Bei lokalisierten Adenokarzinomen des Magens oder gastroösophagealen Übergangs mit Kategorie cT2 N0 kann eine perioperative Chemotherapie durchgeführt werden. [657], [658], [659], [660], [661], [662], [663]"
+  },
+  {
+    "id": "mag_11_3_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "11.3",
+    "kapitel": "Multimodale Therapie",
+    "seite_pdf": 121,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.86,
+      "via": "Empfehlung"
+    },
+    "statement": "Beim nicht-fernmetastasierten AEG-Adenokarzinom (cT3 / resektabel cT4 und/oder N+) soll eine neoadjuvante Radiochemotherapie gefolgt von Operation erfolgen.",
+    "leitlinie_wortlaut": "Beim nicht-fernmetastasierten Adenokarzinom des gastroösophagealen Über- gangs der Kategorien cT3 und resektablen cT4 und/oder N+ Tumoren soll eine neoadjuvante Radiochemotherapie gefolgt von adjuvanter Immuntherapie bei Nachweis vitaler Tumorzellen im Resektat oder eine perioperative Chemotherapie durchgeführt werden. Siehe Supplement, Evidenzbericht AG 4_Neoadjuvante Radio- und Periopera- tive Chemotherapie bei GEJ-Patienten, Tabelle 5 2: Neoadjuvante RCTX 2: Perioperative Chemo",
+    "leitlinie_pdf": "Beim nicht-fernmetastasierten Adenokarzinom des gastroösophagealen Übergangs der Kategorien cT3 und resektablen cT4 und/oder N+ Tumoren soll eine neoadjuvante Radiochemotherapie gefolgt von adjuvanter Immuntherapie bei Nachweis vitaler Tumorzellen im Resektat oder eine perioperative Chemotherapie durchgeführt werden. Siehe Supplement, Evidenzbericht AG 4_Neoadjuvante Radiound Perioperative Chemotherapie bei GEJ-Patienten, Tabelle 5 [617], [647], [648], [650], [657], [659], [661], [662], [663], [670], [671], [672], [673], [674], [675], [676], [677], [678], [679], [680], [681], [682], [683], [684], [685], [686], [687], [688], [689], [690], [691], [692], 2 [693], [694] 2: Neoadjuvante RCTX 2: Perioperative Chemo"
+  },
+  {
+    "id": "mag_11_4_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "11.4",
+    "kapitel": "Multimodale Therapie",
+    "seite_pdf": 126,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.94,
+      "via": "Empfehlung"
+    },
+    "statement": "Antikörper und „small molecules“ sollen in der präoperativen Therapie nicht außerhalb klinischer Studien eingesetzt werden.",
+    "leitlinie_wortlaut": "Antikörper und „small molecules“ sollen in der präoperativen Therapie nicht au- ßerhalb klinischer Studien eingesetzt werden. Siehe Supplement, Evidenzbericht AG 4_Chirurgie und perioperative Therapie, Tabelle 7",
+    "leitlinie_pdf": "Antikörper und „small molecules“ sollen in der präoperativen Therapie nicht außerhalb klinischer Studien eingesetzt werden. Siehe Supplement, Evidenzbericht AG 4_Chirurgie und perioperative Therapie, Tabelle 7"
+  },
+  {
+    "id": "mag_11_6_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "11.6",
+    "kapitel": "Multimodale Therapie",
+    "seite_pdf": 129,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.91,
+      "via": "Empfehlung"
+    },
+    "statement": "Nach Abschluss der präoperativen Therapie soll ein Restaging mittels CT und ÖGD erfolgen.",
+    "leitlinie_wortlaut": "Ein Restaging zur Bewertung der Response soll mittels CT und ÖGD nach Ab- schluss der präoperativen Therapie durchgeführt werden.",
+    "leitlinie_pdf": "Ein Restaging zur Bewertung der Response soll mittels CT und ÖGD nach Abschluss der präoperativen Therapie durchgeführt werden. [710]"
+  },
+  {
+    "id": "mag_11_8_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "11.8",
+    "kapitel": "Multimodale Therapie",
+    "seite_pdf": 130,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.8,
+      "via": "Hintergrund"
+    },
+    "statement": "Nach präoperativer Therapie soll der histologische Tumorregressionsgrad bestimmt werden.",
+    "leitlinie_wortlaut": "Nach präoperativer Therapie soll eine histologische Bestimmung des Tumorre- gressionsgrades erfolgen.",
+    "leitlinie_pdf": "Nach präoperativer Therapie soll eine histologische Bestimmung des Tumorregressionsgrades erfolgen. [737], [738], [739], [740], [741], [742]"
+  },
+  {
+    "id": "mag_11_9_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "11.9",
+    "kapitel": "Multimodale Therapie",
+    "seite_pdf": 133,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.8,
+      "via": "Hintergrund"
+    },
+    "statement": "Nach präoperativer Chemotherapie und Operation sollte die postoperative Chemotherapie fortgesetzt werden.",
+    "leitlinie_wortlaut": "Nach präoperativer Chemotherapie und anschließender Operation sollte die post- operative Chemotherapie fortgesetzt werden.",
+    "leitlinie_pdf": "Nach präoperativer Chemotherapie und anschließender Operation sollte die postoperative Chemotherapie fortgesetzt werden."
+  },
+  {
+    "id": "mag_11_11_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "11.11",
+    "kapitel": "Multimodale Therapie",
+    "seite_pdf": 134,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.91,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei radiologischem und/oder endoskopischem Progress unter neoadjuvanter Therapie soll dieselbe präoperative Therapie postoperativ unverändert fortgesetzt werden.",
+    "leitlinie_wortlaut": "Bei radiologischem und/oder endoskopischen Progress soll die präoperative The- rapie postoperativ nicht fortgesetzt werden.",
+    "leitlinie_pdf": "Bei radiologischem und/oder endoskopischen Progress soll die präoperative Therapie postoperativ nicht fortgesetzt werden."
+  },
+  {
+    "id": "mag_11_12_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "11.12",
+    "kapitel": "Multimodale Therapie",
+    "seite_pdf": 137,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.88,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine adjuvante Therapie mit zielgerichteten Substanzen (allein oder mit Chemo) soll außerhalb von Studien nicht durchgeführt werden.",
+    "leitlinie_wortlaut": "Eine adjuvante Therapie mit zielgerichteten Substanzen alleine oder in Kombina- tion mit Chemotherapie soll außerhalb von Studien nicht durchgeführt werden.",
+    "leitlinie_pdf": "Eine adjuvante Therapie mit zielgerichteten Substanzen alleine oder in Kombination mit Chemotherapie soll außerhalb von Studien nicht durchgeführt werden."
+  },
+  {
+    "id": "mag_12_2_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.2",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 139,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.95,
+      "via": "Empfehlung"
+    },
+    "statement": "Patienten in gutem Allgemeinzustand (ECOG 0–1) soll eine medikamentöse Tumortherapie angeboten werden.",
+    "leitlinie_wortlaut": "Patienten in gutem Allgemeinzustand (ECOG 0-1) soll eine medikamentöse Tu- mortherapie angeboten werden. Therapieziel ist die Verbesserung des Überlebens und der Erhalt der Lebensqualität. Ein erhöhtes Alter stellt keine Kontraindikation dar.",
+    "leitlinie_pdf": "Patienten in gutem Allgemeinzustand (ECOG 0-1) soll eine medikamentöse Tumortherapie angeboten werden. Therapieziel ist die Verbesserung des Überlebens und der Erhalt der Lebensqualität. Ein erhöhtes Alter stellt keine Kontraindikation dar. [770], [771], [772], [773], [774], [775], [776], [777], [778], [779]"
+  },
+  {
+    "id": "mag_12_7_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.7",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 143,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.88,
+      "via": "Empfehlung"
+    },
+    "statement": "Vor palliativer Systemtherapie sollen HER2-, PD-L1- (CPS) und MSI-Status als positive prädiktive Faktoren bestimmt werden.",
+    "leitlinie_wortlaut": "Vor dem Einsatz einer palliativen medikamentösen Tumortherapie sollen der HER- 2-Status und der PD-L1 Status (CPS) und der MSI-Status als positive prädiktive Fak- toren für eine Therapie mit Trastuzumab oder PD-1 Inhibitoren bestimmt werden. edaktioneller Hinweis: Während der Leitlinien-Verabschiedung wurde Zolbetuximab egen Claudin 18.2 zugelassen. Daher ist eine Bestimmung von Claudin 18.2 mittels mmunhistochemie vor Beginn einer Erstlinientherapie als prädikativer Marker für ei- en Nutzen von Zolbetuximab ebenfalls zu rechtfertigen. Diesbezügliche Empfehlun- en werden in der nächsten Leitlinienaktualisierung (v4.0) diskutiert.",
+    "leitlinie_pdf": "Vor dem Einsatz einer palliativen medikamentösen Tumortherapie sollen der HER2-Status und der PD-L1 Status (CPS) und der MSI-Status als positive prädiktive Faktoren für eine Therapie mit Trastuzumab oder PD-1 Inhibitoren bestimmt werden. Redaktioneller Hinweis: Während der Leitlinien-Verabschiedung wurde Zolbetuximab gegen Claudin 18.2 zugelassen. Daher ist eine Bestimmung von Claudin 18.2 mittels Immunhistochemie vor Beginn einer Erstlinientherapie als prädikativer Marker für einen Nutzen von Zolbetuximab ebenfalls zu rechtfertigen. Diesbezügliche Empfehlungen werden in der nächsten Leitlinienaktualisierung (v4.0) diskutiert."
+  },
+  {
+    "id": "mag_12_8_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.8",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 146,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.83,
+      "via": "Hintergrund"
+    },
+    "statement": "Die palliative Erstlinientherapie soll als Monotherapie mit einem Fluoropyrimidin erfolgen.",
+    "leitlinie_wortlaut": "Bei Patienten mit fortgeschrittenem, irresektablen oder metastasiertem Erkran- kungsstadium soll eine medikamentöse Tumortherapie erfolgen. Diese soll in der Erstlinientherapie auf der Kombination eines Platinderivats mit einem Fluropopyri- midin (und ggf. weiteren Medikamenten) basieren.",
+    "leitlinie_pdf": "Bei Patienten mit fortgeschrittenem, irresektablen oder metastasiertem Erkrankungsstadium soll eine medikamentöse Tumortherapie erfolgen. Diese soll in der Erstlinientherapie auf der Kombination eines Platinderivats mit einem Fluropopyrimidin (und ggf. weiteren Medikamenten) basieren. [779]"
+  },
+  {
+    "id": "mag_12_13_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.13",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 154,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Auch bei HER2-negativen Tumoren soll die Erstlinienchemotherapie um Trastuzumab ergänzt werden.",
+    "leitlinie_wortlaut": "Bei HER2-überexprimierenden Tumoren soll eine Platin-/Fluoropyrimidin-basierte Erstlinienchemotherapie um Trastuzumab ergänzt werden.",
+    "leitlinie_pdf": "Bei HER2-überexprimierenden Tumoren soll eine Platin-/Fluoropyrimidin-basierte Erstlinienchemotherapie um Trastuzumab ergänzt werden. [744], [833]"
+  },
+  {
+    "id": "mag_12_14_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.14",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 155,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.93,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei HER2-überexprimierenden UND PD-L1-positiven Tumoren (CPS ≥ 1) sollte die Erstlinie zusätzlich zu Trastuzumab um Pembrolizumab ergänzt werden.",
+    "leitlinie_wortlaut": "Bei HER2-überexprimierenden und PDL-1-positiven Tumoren (CPS ≥ 1) sollte eine Platin-/Fluoropyrimidin-basierte Erstlinienchemotherapie zusätzlich zu Trastuzu- mab um Pembrolizumab ergänzt werden.",
+    "leitlinie_pdf": "Bei HER2-überexprimierenden und PDL-1-positiven Tumoren (CPS ≥ 1) sollte eine Platin-/Fluoropyrimidin-basierte Erstlinienchemotherapie zusätzlich zu Trastuzumab um Pembrolizumab ergänzt werden."
+  },
+  {
+    "id": "mag_12_15_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.15",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 156,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.9,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei HER2-negativen, PD-L1-positiven Tumoren (CPS ≥ 1) sollte zur Platin-/Fluoropyrimidin-Chemotherapie ein PD-1-Inhibitor hinzugefügt werden.",
+    "leitlinie_wortlaut": "Zur Behandlung von Patienten mit HER 2 negativen und PD-L1 positiven Tumoren (definiert als CPS ≥ 1) sollte zu einer Fluoropyrimidin-/Platin-basierten Chemothe- rapie ein PD-1-Inhibitor hinzugefügt werden. Der Nutzen hängt von der Höhe des PD-L1-/CPS-Status ab. edaktioneller Hinweis: Während der Leitlinien-Verabschiedung wurde Zolbetuximab egen Claudin 18.2 Überexprimierende Tumoren (Immunhistiochemisch mindestens 5 % der Tumorzellen positiv) zugelassen. Diesbezügliche Empfehlungen werden in er nächsten Leitlinienaktualisierung (v4.0) diskutiert.",
+    "leitlinie_pdf": "Zur Behandlung von Patienten mit HER 2 negativen und PD-L1 positiven Tumoren (definiert als CPS ≥ 1) sollte zu einer Fluoropyrimidin-/Platin-basierten Chemotherapie ein PD-1-Inhibitor hinzugefügt werden. Der Nutzen hängt von der Höhe des PD-L1-/CPS-Status ab. Redaktioneller Hinweis: Während der Leitlinien-Verabschiedung wurde Zolbetuximab gegen Claudin 18.2 Überexprimierende Tumoren (Immunhistiochemisch mindestens 75 % der Tumorzellen positiv) zugelassen. Diesbezügliche Empfehlungen werden in der nächsten Leitlinienaktualisierung (v4.0) diskutiert."
+  },
+  {
+    "id": "mag_12_16_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.16",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 159,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.9,
+      "via": "Empfehlung"
+    },
+    "statement": "Patienten in gutem Allgemeinzustand soll eine Zweitlinien-Chemotherapie angeboten werden.",
+    "leitlinie_wortlaut": "Patienten in gutem Allgemeinzustand soll eine Zweitlinien-Chemotherapie ange- boten werden. Das zu wählende Behandlungsschema soll sich nach der jeweiligen Vortherapie sowie nach dem HER 2 Status und dem Mikrosatellitenstatus richten.",
+    "leitlinie_pdf": "Patienten in gutem Allgemeinzustand soll eine Zweitlinien-Chemotherapie angeboten werden. Das zu wählende Behandlungsschema soll sich nach der jeweiligen Vortherapie sowie nach dem HER 2 Status und dem Mikrosatellitenstatus richten. [780], [781], [834], [840], [841], [842], [843], [844]"
+  },
+  {
+    "id": "mag_12_17_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.17",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 159,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.95,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine Zweitlinientherapie sollte u. a. Irinotecan, Docetaxel, Paclitaxel oder Paclitaxel + Ramucirumab beinhalten.",
+    "leitlinie_wortlaut": "Eine Zweitlinientherapie sollte Irinotecan*, Docetaxel*, Paclitaxel*, Ramucirumab oder Paclitaxel mit Ramucirumab, Pembrolizumab oder Trastuzumab Deruxtecan beinhalten. Der Evidenzgrad und die Effektstärke unterscheidet sich für die ge- nannten Substanzen. * = Off-Label Use",
+    "leitlinie_pdf": "Eine Zweitlinientherapie sollte Irinotecan*, Docetaxel*, Paclitaxel*, Ramucirumab oder Paclitaxel mit Ramucirumab, Pembrolizumab oder Trastuzumab Deruxtecan beinhalten. Der Evidenzgrad und die Effektstärke unterscheidet sich für die genannten Substanzen. * = Off-Label Use [780], [781], [834], [840], [841], [842], [843], [844]"
+  },
+  {
+    "id": "mag_12_18_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.18",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 164,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.87,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei mikrosatelliten-instabilen Tumoren ohne vorherige PD-L1-gerichtete Immuntherapie soll in der Zweitlinie Pembrolizumab eingesetzt werden.",
+    "leitlinie_wortlaut": "Bei mikrosatelliten-instabilen Tumoren, die noch keine PD-L1 gerichtete Immun- therapie erhalten haben, soll in der Zweitlinientherapie Pembrolizumab eingesetzt werden.",
+    "leitlinie_pdf": "Bei mikrosatelliten-instabilen Tumoren, die noch keine PD-L1 gerichtete Immuntherapie erhalten haben, soll in der Zweitlinientherapie Pembrolizumab eingesetzt werden."
+  },
+  {
+    "id": "mag_12_3_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.3",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 141,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.79,
+      "via": "Hintergrund"
+    },
+    "statement": "Eine palliative medikamentöse Tumortherapie sollte zum frühestmöglichen Zeitpunkt nach Diagnose der inoperablen/metastasierten Erkrankung eingeleitet werden.",
+    "leitlinie_wortlaut": "Eine palliative medikamentöse Tumortherapie sollte zum frühestmöglichen Zeit- punkt nach Diagnosestellung der lokal fortgeschritten inoperablen oder metasta- sierten Erkrankung eingeleitet werden.",
+    "leitlinie_pdf": "Eine palliative medikamentöse Tumortherapie sollte zum frühestmöglichen Zeitpunkt nach Diagnosestellung der lokal fortgeschritten inoperablen oder metastasierten Erkrankung eingeleitet werden. [665], [666], [744], [779], [778], [798], [799], [800], [801], [802]"
+  },
+  {
+    "id": "mag_12_13b_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.13b",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 154,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine Trastuzumab-Gabe ist laut S3-LL auch ohne vorherige Bestimmung des HER2-Status gerechtfertigt.",
+    "leitlinie_wortlaut": "Bei HER2-überexprimierenden Tumoren soll eine Platin-/Fluoropyrimidin-basierte Erstlinienchemotherapie um Trastuzumab ergänzt werden.",
+    "leitlinie_pdf": "Bei HER2-überexprimierenden Tumoren soll eine Platin-/Fluoropyrimidin-basierte Erstlinienchemotherapie um Trastuzumab ergänzt werden. [744], [833]"
+  },
+  {
+    "id": "mag_13_3_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "13.3",
+    "kapitel": "Palliative Situationen",
+    "seite_pdf": 168,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.79,
+      "via": "Hintergrund"
+    },
+    "statement": "Bei symptomatischen Tumorstenosen im Bereich des gastroösophagealen Übergangs sollen je nach Prognose selbstexpandierende Metallstents eingesetzt werden.",
+    "leitlinie_wortlaut": "Bei symptomatischen Tumorstenosen im Bereich des gastroösophagealen Über- gangs sollen in Abhängigkeit von der Prognose und Symptomatik und Vorbehand- lung selbstexpandierende Metallstents (SEMS), eine hoch dosierte intraluminale Brachytherapie und/oder eine perkutane Radiotherapie und/oder eine medika- mentöse Tumortherapie angeboten werden.",
+    "leitlinie_pdf": "Bei symptomatischen Tumorstenosen im Bereich des gastroösophagealen Übergangs sollen in Abhängigkeit von der Prognose und Symptomatik und Vorbehandlung selbstexpandierende Metallstents (SEMS), eine hoch dosierte intraluminale Brachytherapie und/oder eine perkutane Radiotherapie und/oder eine medikamentöse Tumortherapie angeboten werden."
+  },
+  {
+    "id": "mag_13_5_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "13.5",
+    "kapitel": "Palliative Situationen",
+    "seite_pdf": 170,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.96,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei endoskopisch nicht stillbaren, bedrohlichen Tumorblutungen sollte in der Palliativsituation eine angiographische Embolisation angeboten werden.",
+    "leitlinie_wortlaut": "Bei endoskopisch nicht stillbaren, bedrohlichen Tumorblutungen in der palliativen Situation sollte eine angiographische Embolisation angeboten werden. Führen konservative Verfahren nicht zur Blutstillung, kann eine palliative Resektion erwo- gen werden. Bei chronischer Sickerblutung sollte eine palliative Radiotherapie angeboten wer- den.",
+    "leitlinie_pdf": "Bei endoskopisch nicht stillbaren, bedrohlichen Tumorblutungen in der palliativen Situation sollte eine angiographische Embolisation angeboten werden. Führen konservative Verfahren nicht zur Blutstillung, kann eine palliative Resektion erwogen werden. Bei chronischer Sickerblutung sollte eine palliative Radiotherapie angeboten werden."
+  },
+  {
+    "id": "mag_13_10_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "13.10",
+    "kapitel": "Palliative Situationen",
+    "seite_pdf": 174,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.89,
+      "via": "Empfehlung"
+    },
+    "statement": "Die Therapie des symptomatischen, chemotherapie-refraktären Aszites soll mittels Parazentese erfolgen.",
+    "leitlinie_wortlaut": "Die Therapie des symptomatischen, Chemotherapie-refraktären Aszites soll mit- tels Parazentese erfolgen.",
+    "leitlinie_pdf": "Die Therapie des symptomatischen, Chemotherapie-refraktären Aszites soll mittels Parazentese erfolgen."
+  },
+  {
+    "id": "mag_13_12_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "13.12",
+    "kapitel": "Palliative Situationen",
+    "seite_pdf": 174,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "HIPEC soll beim chemotherapie-refraktären malignen Aszites in der Palliativsituation nicht durchgeführt werden.",
+    "leitlinie_wortlaut": "HIPEC soll beim Chemotherapie-refraktären Aszites – aufgrund der relevanten Morbidität und Letalität – bei fraglichem Nutzen in der Palliativsituation nicht durchgeführt werden. Siehe Supplement, Evidenzbericht AG 5_Wirksamkeit und Sicherheit HIPEC und Hämostase mittels Hemospray, Tabelle 6",
+    "leitlinie_pdf": "HIPEC soll beim Chemotherapie-refraktären Aszites – aufgrund der relevanten Morbidität und Letalität – bei fraglichem Nutzen in der Palliativsituation nicht durchgeführt werden. Siehe Supplement, Evidenzbericht AG 5_Wirksamkeit und Sicherheit HIPEC und Hämostase mittels Hemospray, Tabelle 6 [881]"
+  },
+  {
+    "id": "mag_13_15_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "13.15",
+    "kapitel": "Palliative Situationen",
+    "seite_pdf": 178,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine PIPAC zur Therapie der Peritonealkarzinose darf laut S3-LL als etabliertes Standardverfahren außerhalb von Studien eingesetzt werden.",
+    "leitlinie_wortlaut": "Eine PIPAC zur Therapie der Peritonealkarzinose soll nicht außerhalb von Studien durchgeführt werden.",
+    "leitlinie_pdf": "Eine PIPAC zur Therapie der Peritonealkarzinose soll nicht außerhalb von Studien durchgeführt werden."
+  },
+  {
+    "id": "mag_13_6_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "13.6",
+    "kapitel": "Palliative Situationen",
+    "seite_pdf": 171,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Patienten mit limitierter (Oligo-)Metastasierung sollte die Überweisung an eine Einrichtung mit hoher Fallzahl angeboten werden.",
+    "leitlinie_wortlaut": "Patienten mit limitierten Metastasen (sogenannte Oligometastasierung) sollte die Überweisung in eine Einrichtung mit hoher Fallzahl angeboten werden.",
+    "leitlinie_pdf": "Patienten mit limitierten Metastasen (sogenannte Oligometastasierung) sollte die Überweisung in eine Einrichtung mit hoher Fallzahl angeboten werden."
+  },
+  {
+    "id": "mag_14_1_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "14.1",
+    "kapitel": "Ernährung",
+    "seite_pdf": 179,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.83,
+      "via": "Hintergrund"
+    },
+    "statement": "Der Ernährungsstatus soll bei allen Tumorpatienten ab Diagnosestellung und bei jedem Kontakt mit einem Screening beurteilt werden.",
+    "leitlinie_wortlaut": "Der Ernährungsstatus soll bei allen Tumorpatienten, beginnend mit der Diagnose- stellung, bei jeder stationären Aufnahme und jedem ambulantem Patientenkon- takt mit einem Screening beurteilt werden. Im Falle eines auffälligen Ergebnisses soll der Ernährungsstatus genauer erfasst werden (Assessment), um Interventio- nen frühzeitig einleiten zu können.",
+    "leitlinie_pdf": "Der Ernährungsstatus soll bei allen Tumorpatienten, beginnend mit der Diagnosestellung, bei jeder stationären Aufnahme und jedem ambulantem Patientenkontakt mit einem Screening beurteilt werden. Im Falle eines auffälligen Ergebnisses soll der Ernährungsstatus genauer erfasst werden (Assessment), um Interventionen frühzeitig einleiten zu können."
+  },
+  {
+    "id": "mag_14_7_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "14.7",
+    "kapitel": "Ernährung",
+    "seite_pdf": 185,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.89,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine präoperative bilanzierte Trinknahrung ist nur bei bereits mangelernährten Patienten indiziert.",
+    "leitlinie_wortlaut": "Patienten sollen auch ohne Zeichen einer Mangelernährung präoperativ für 5 – 7 Tage zur Einnahme bilanzierter Trinknahrungen zusätzlich zur normalen Ernäh- rung motiviert werden.",
+    "leitlinie_pdf": "Patienten sollen auch ohne Zeichen einer Mangelernährung präoperativ für 5 – 7 Tage zur Einnahme bilanzierter Trinknahrungen zusätzlich zur normalen Ernährung motiviert werden. [959], [960]"
+  },
+  {
+    "id": "mag_14_8_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "14.8",
+    "kapitel": "Ernährung",
+    "seite_pdf": 187,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.95,
+      "via": "Empfehlung"
+    },
+    "statement": "Schwer mangelernährte Hochrisikopatienten sollten 10–14 Tage präoperativ eine gezielte Ernährungstherapie erhalten — auch wenn dafür die Operation verschoben wird.",
+    "leitlinie_wortlaut": "Mangelernährte Patienten mit hohem ernährungsmedizinischem Risiko sollten für eine Dauer von 10 – 14 Tagen präoperativ eine gezielte Ernährungstherapie erhal- ten, auch wenn dafür die Operation verschoben werden muss.",
+    "leitlinie_pdf": "Mangelernährte Patienten mit hohem ernährungsmedizinischem Risiko sollten für eine Dauer von 10 – 14 Tagen präoperativ eine gezielte Ernährungstherapie erhalten, auch wenn dafür die Operation verschoben werden muss. [901], [960]"
+  },
+  {
+    "id": "mag_14_11_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "14.11",
+    "kapitel": "Ernährung",
+    "seite_pdf": 190,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Nach Gastrektomie/Ösophagektomie kann die orale/enterale Substratzufuhr in der Regel früh (innerhalb 24 Stunden) begonnen werden.",
+    "leitlinie_wortlaut": "Nach Ösophagektomie oder Gastrektomie kann die orale/enterale Substratzufuhr in der Regel frühzeitig (innerhalb von 24 Stunden) begonnen werden.",
+    "leitlinie_pdf": "Nach Ösophagektomie oder Gastrektomie kann die orale/enterale Substratzufuhr in der Regel frühzeitig (innerhalb von 24 Stunden) begonnen werden. [2]"
+  },
+  {
+    "id": "mag_14_6_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "14.6",
+    "kapitel": "Ernährung",
+    "seite_pdf": 184,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.92,
+      "via": "Empfehlung"
+    },
+    "statement": "Bereits präoperativ soll eine Ernährungsfachberatung zur Vorbereitung auf Gastrektomie/Ösophagektomie erfolgen.",
+    "leitlinie_wortlaut": "Zur Begleitung während einer multimodalen Therapie und zur Vorbereitung auf die funktionellen Auswirkungen einer Ösophagektomie oder Gastrektomie soll be- reits präoperativ eine Ernährungsfachkraft einbezogen werden. Siehe Supplement, Evidenzbericht AG 6_prä- und postoperative Ernährungsthera- pie, Tabelle 5",
+    "leitlinie_pdf": "Zur Begleitung während einer multimodalen Therapie und zur Vorbereitung auf die funktionellen Auswirkungen einer Ösophagektomie oder Gastrektomie soll bereits präoperativ eine Ernährungsfachkraft einbezogen werden. Siehe Supplement, Evidenzbericht AG 6_präund postoperative Ernährungstherapie, Tabelle 5"
+  },
+  {
+    "id": "mag_15_1_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "15.1",
+    "kapitel": "Nachsorge / Rehabilitation",
+    "seite_pdf": 193,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.89,
+      "via": "Empfehlung"
+    },
+    "statement": "Patienten nach kurativer Therapie soll eine strukturierte, ganzheitliche Nachsorge angeboten werden.",
+    "leitlinie_wortlaut": "Patienten nach kurativer Therapie eines Karzinoms des Magens oder gastroöso- phagealen Übergangs soll eine strukturierte ganzheitliche Nachsorge angeboten werden.",
+    "leitlinie_pdf": "Patienten nach kurativer Therapie eines Karzinoms des Magens oder gastroösophagealen Übergangs soll eine strukturierte ganzheitliche Nachsorge angeboten werden."
+  },
+  {
+    "id": "mag_15_2_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "15.2",
+    "kapitel": "Nachsorge / Rehabilitation",
+    "seite_pdf": 193,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.85,
+      "via": "Hintergrund"
+    },
+    "statement": "Die strukturierte Nachsorge sollte in den ersten 2 Jahren mindestens halbjährlich, danach bis zum 5. Jahr jährlich erfolgen.",
+    "leitlinie_wortlaut": "Die strukturierte Nachsorge sollte in den ersten zwei Jahren zumindest halbjähr- lich und danach bis zum 5. Jahr jährlich stattfinden.",
+    "leitlinie_pdf": "Die strukturierte Nachsorge sollte in den ersten zwei Jahren zumindest halbjährlich und danach bis zum 5. Jahr jährlich stattfinden."
+  },
+  {
+    "id": "mag_15_4_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "15.4",
+    "kapitel": "Nachsorge / Rehabilitation",
+    "seite_pdf": 194,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.89,
+      "via": "Empfehlung"
+    },
+    "statement": "Nach Gastrektomie ist eine Vitamin-B12-Substitution nur in den ersten zwei Jahren erforderlich.",
+    "leitlinie_wortlaut": "Nach einer Gastrektomie soll eine regelmäßige Vitamin B12-Substitution lebens- lang durchgeführt werden. Diese kann parenteral oder oral erfolgen.",
+    "leitlinie_pdf": "Nach einer Gastrektomie soll eine regelmäßige Vitamin B12-Substitution lebenslang durchgeführt werden. Diese kann parenteral oder oral erfolgen."
+  },
+  {
+    "id": "mag_15_5_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "15.5",
+    "kapitel": "Nachsorge / Rehabilitation",
+    "seite_pdf": 195,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.86,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine Substitution mit Pankreasenzymen soll bei Patienten mit Fettstühlen (nach Magenresektion) erfolgen.",
+    "leitlinie_wortlaut": "Eine Substitution mit Pankreasenzymen soll bei Patienten mit Fettstühlen erfol- gen.",
+    "leitlinie_pdf": "Eine Substitution mit Pankreasenzymen soll bei Patienten mit Fettstühlen erfolgen."
+  },
+  {
+    "id": "mag_15_7_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "15.7",
+    "kapitel": "Nachsorge / Rehabilitation",
+    "seite_pdf": 196,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Nach Abschluss der Primärtherapie soll allen rehabilitationsfähigen Patienten eine Anschlussrehabilitation (AHB/AR) angeboten werden.",
+    "leitlinie_wortlaut": "Nach Abschluss der Primärtherapie soll allen rehabilitationsfähigen Patienten eine Anschlussrehabilitation (AHB/AR) angeboten werden.",
+    "leitlinie_pdf": "Nach Abschluss der Primärtherapie soll allen rehabilitationsfähigen Patienten eine Anschlussrehabilitation (AHB/AR) angeboten werden."
+  },
+  {
+    "id": "mag_15_10_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "15.10",
+    "kapitel": "Nachsorge / Rehabilitation",
+    "seite_pdf": 199,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine routinemäßige Bestimmung von Tumormarkern soll in der Nachsorge des Magenkarzinoms erfolgen.",
+    "leitlinie_wortlaut": "Eine routinemäßige Bestimmung von Tumormarkern soll in der Nachsorge nicht erfolgen.",
+    "leitlinie_pdf": "Eine routinemäßige Bestimmung von Tumormarkern soll in der Nachsorge nicht erfolgen."
+  },
+  {
+    "id": "mag_15_6_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "15.6",
+    "kapitel": "Nachsorge / Rehabilitation",
+    "seite_pdf": 195,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Nach subtotaler/totaler Gastrektomie sollte der Eisenstoffwechsel regelmäßig kontrolliert werden.",
+    "leitlinie_wortlaut": "Nach subtotaler und totaler Gastrektomie sollte der Eisenstoffwechsel regelmäßig kontrolliert werden.",
+    "leitlinie_pdf": "Nach subtotaler und totaler Gastrektomie sollte der Eisenstoffwechsel regelmäßig kontrolliert werden."
+  },
+  {
+    "id": "mag_12_9_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.9",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 146,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.85,
+      "via": "Hintergrund"
+    },
+    "statement": "Bei Kontraindikation gegen ein Platinderivat kann eine Kombination aus Fluoropyrimidin und Irinotecan erwogen werden (Off-Label-Use).",
+    "leitlinie_wortlaut": "Bei Vorliegen von Kontraindikationen gegen ein Platinderivat kann eine Kombina- tion aus Fluoropyrimidin mit Irinotecan erwogen werden (Off-Label-Use).",
+    "leitlinie_pdf": "Bei Vorliegen von Kontraindikationen gegen ein Platinderivat kann eine Kombination aus Fluoropyrimidin mit Irinotecan erwogen werden (Off-Label-Use). [779]"
+  },
+  {
+    "id": "mag_12_10_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.10",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 147,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.82,
+      "via": "Hintergrund"
+    },
+    "statement": "Eine Docetaxel-haltige Dreifachkombination kann bei Patienten mit gutem Allgemeinzustand erwogen werden.",
+    "leitlinie_wortlaut": "Eine Docetaxel-haltige Dreifachkombination kann bei Patienten mit gutem Allge- meinzustand erwogen werden.",
+    "leitlinie_pdf": "Eine Docetaxel-haltige Dreifachkombination kann bei Patienten mit gutem Allgemeinzustand erwogen werden. [779]"
+  },
+  {
+    "id": "mag_12_19_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "12.19",
+    "kapitel": "Palliative / Systemtherapie",
+    "seite_pdf": 165,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.95,
+      "via": "Empfehlung"
+    },
+    "statement": "Patienten in gutem Allgemeinzustand sollte nach Versagen von zwei Vortherapien neben Best Supportive Care auch eine Drittlinientherapie angeboten werden.",
+    "leitlinie_wortlaut": "Patienten in gutem Allgemeinzustand sollte nach Versagen von zwei vorherigen Therapien neben Best Supportiv Care (BSC) auch eine Drittlinien-Therapie angebo- ten werden.",
+    "leitlinie_pdf": "Patienten in gutem Allgemeinzustand sollte nach Versagen von zwei vorherigen Therapien neben Best Supportiv Care (BSC) auch eine Drittlinien-Therapie angeboten werden."
+  },
+  {
+    "id": "mag_11_10_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "11.10",
+    "kapitel": "Multimodale Therapie",
+    "seite_pdf": 133,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.86,
+      "via": "Empfehlung"
+    },
+    "statement": "In die Entscheidung zur postoperativen Chemotherapie sollen klinisches Ansprechen, Verträglichkeit, Allgemeinzustand und Regressionsgrad einfließen.",
+    "leitlinie_wortlaut": "In diese Entscheidung sollen klinisches Ansprechen, Verträglichkeit der Chemo- therapie, Allgemeinzustand und Regressionsgrad (siehe auch Empfehlung 11.8) einfließen.",
+    "leitlinie_pdf": "In diese Entscheidung sollen klinisches Ansprechen, Verträglichkeit der Chemotherapie, Allgemeinzustand und Regressionsgrad (siehe auch Empfehlung 11.8) einfließen."
+  },
+  {
+    "id": "mag_13_2_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "13.2",
+    "kapitel": "Palliative Situationen",
+    "seite_pdf": 168,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.87,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei symptomatischer Magenausgangsstenose kommen je nach Prognose eine chirurgische/endoskopische Gastroenterostomie oder ein Stent in Betracht.",
+    "leitlinie_wortlaut": "Bei symptomatischer lokalisierter Magenausgangsstenose kommen in Abhängig- keit von der Prognose, Symptomatik und Vorbehandlung eine chirurgische oder endoskopische Gastroenterostomie, eine Stentanlage, eine jejunale Ernährungsfis- tel, eine palliative Bestrahlung, eine PEG-Ablaufsonde oder eine medikamentöse Tumortherapie in Betracht. Eine palliative Magen(teil)resektion sollte nur in Aus- nahmefällen durchgeführt werden.",
+    "leitlinie_pdf": "Bei symptomatischer lokalisierter Magenausgangsstenose kommen in Abhängigkeit von der Prognose, Symptomatik und Vorbehandlung eine chirurgische oder endoskopische Gastroenterostomie, eine Stentanlage, eine jejunale Ernährungsfistel, eine palliative Bestrahlung, eine PEG-Ablaufsonde oder eine medikamentöse Tumortherapie in Betracht. Eine palliative Magen(teil)resektion sollte nur in Ausnahmefällen durchgeführt werden. [858], [859], [860], [861], [862], [863], [864], [865], [866]"
+  },
+  {
+    "id": "mag_10_13_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "10.13",
+    "kapitel": "Chirurgische Therapie",
+    "seite_pdf": 115,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.95,
+      "via": "Empfehlung"
+    },
+    "statement": "Nach R1-Resektion beim Magen-/AEG-Adenokarzinom soll die Indikation für eine kurative Nachresektion überprüft werden.",
+    "leitlinie_wortlaut": "Nach R1-Resektion beim Adenokarzinom des Magens und des gastroösophagea- len Übergangs soll die Indikation für eine kurative Nachresektion überprüft wer- den. Falls dies nicht möglich ist, kann eine postoperative Radiochemotherapie nach",
+    "leitlinie_pdf": "Nach R1-Resektion beim Adenokarzinom des Magens und des gastroösophagealen Übergangs soll die Indikation für eine kurative Nachresektion überprüft werden. Falls dies nicht möglich ist, kann eine postoperative Radiochemotherapie nach Konsens in der interdisziplinären Tumorkonferenz durchgeführt werden."
+  },
+  {
+    "id": "mag_14_3_a",
+    "leitlinie": "magen",
+    "empfehlung_nr": "14.3",
+    "kapitel": "Ernährung",
+    "seite_pdf": 180,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.97,
+      "via": "Empfehlung"
+    },
+    "statement": "Patienten sollen eine Ernährungstherapie erhalten, wenn der Ernährungszustand so kompromittiert ist, dass ein hohes Komplikationsrisiko besteht oder eine onkologische Therapie gefährdet wäre.",
+    "leitlinie_wortlaut": "Patienten sollen eine Ernährungstherapie erhalten, wenn der Ernährungszustand so weit kompromittiert ist, dass ein hohes Risiko für Komplikationen besteht oder eine geplante onkologische Therapie deshalb nicht durchgeführt werden kann. Siehe Supplement, Evidenzbericht AG 6_prä- und postoperative Ernährungsthera- pie, Tabelle 5",
+    "leitlinie_pdf": "Patienten sollen eine Ernährungstherapie erhalten, wenn der Ernährungszustand so weit kompromittiert ist, dass ein hohes Risiko für Komplikationen besteht oder eine geplante onkologische Therapie deshalb nicht durchgeführt werden kann. Siehe Supplement, Evidenzbericht AG 6_präund postoperative Ernährungstherapie, Tabelle 5"
   }
 ]
