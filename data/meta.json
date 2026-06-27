@@ -6,7 +6,7 @@
       "kurz": "KRK",
       "name": "Kolorektales Karzinom",
       "version": "S3 v3.2",
-      "geplante_fragen": 150,
+      "geplante_fragen": 153,
       "status": "fertig"
     },
     {
@@ -14,7 +14,7 @@
       "awmf": "032-010OL",
       "kurz": "Pankreas",
       "name": "Pankreaskarzinom",
-      "version": "S3",
+      "version": "S3 v3.1",
       "geplante_fragen": 95,
       "status": "fertig"
     },
@@ -23,7 +23,7 @@
       "awmf": "032-009OL",
       "kurz": "Magen",
       "name": "Magenkarzinom",
-      "version": "S3",
+      "version": "S3 v3.1",
       "geplante_fragen": 85,
       "status": "fertig"
     },
@@ -32,37 +32,36 @@
       "awmf": "021-023OL",
       "kurz": "Ösophagus",
       "name": "Ösophaguskarzinom",
-      "version": "S3",
+      "version": "S3 v4.0",
       "geplante_fragen": 70,
       "status": "fertig"
-    },
-    {
-      "id": "hernien",
-      "awmf": "088-001",
-      "kurz": "Hernien",
-      "name": "Leistenhernie & Narbenhernie",
-      "version": "AWMF",
-      "geplante_fragen": 65,
-      "status": "geplant"
     },
     {
       "id": "schilddruese",
       "awmf": "031-056OL",
       "kurz": "Schilddrüse",
       "name": "Schilddrüsenkarzinom",
-      "version": "S3",
-      "geplante_fragen": 45,
+      "version": "S3 v1.0",
+      "geplante_fragen": 42,
       "status": "fertig"
-    },
-    {
-      "id": "mesenteriale_ischaemie",
-      "awmf": "088-003",
-      "kurz": "Mes. Ischämie",
-      "name": "Mesenteriale Ischämie",
-      "version": "AWMF",
-      "geplante_fragen": 20,
-      "status": "geplant"
     }
   ],
-  "gesamt_geplant": 530
+  "gesamt_geplant": 445,
+  "nicht_aufgenommen": [
+    {
+      "id": "hernien",
+      "name": "Leistenhernie/Narbenhernie",
+      "grund": "Nur S1-LL (AWMF 006-030) verfügbar – kein verifizierbares S3 mit Empfehlungs-/Evidenzgraden."
+    },
+    {
+      "id": "mes_ischaemie",
+      "name": "Mesenteriale Ischämie",
+      "grund": "Kein dediziertes deutsches S2k/S3 verfügbar."
+    },
+    {
+      "id": "divertikulitis",
+      "name": "Divertikelkrankheit/Divertikulitis",
+      "grund": "S3 (021-020) liegt als zweispaltiges Zeitschriften-PDF vor – nicht mit dem aktuellen Box-Parser verbatim extrahierbar (Kandidat für späteren Spezial-Parser)."
+    }
+  ]
 }
