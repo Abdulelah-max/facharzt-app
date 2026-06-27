@@ -1,4 +1,4 @@
-const CACHE = 'facharzt-krk-v5';
+const CACHE = 'facharzt-krk-v6';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg', './data/questions.json', './data/meta.json', './data/taxonomie.json'];
 
 self.addEventListener('install', (e) => {
@@ -15,15 +15,23 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
   const url = new URL(e.request.url);
-  if (url.pathname.endsWith('/data/questions.json') || url.pathname.endsWith('/data/meta.json') || url.pathname.endsWith('/data/taxonomie.json')) {
+  // network-first für die App-HTML, Navigation und alle Daten -> Updates erscheinen
+  // sofort beim Reload (online). Offline: Fallback auf den Cache.
+  const networkFirst =
+    e.request.mode === 'navigate' ||
+    url.pathname.endsWith('/') ||
+    url.pathname.endsWith('/index.html') ||
+    url.pathname.endsWith('.json');
+  if (networkFirst) {
     e.respondWith(
       fetch(e.request).then((res) => {
         const copy = res.clone();
         caches.open(CACHE).then((c) => c.put(e.request, copy));
         return res;
-      }).catch(() => caches.match(e.request))
+      }).catch(() => caches.match(e.request).then((h) => h || caches.match('./index.html')))
     );
     return;
   }
+  // statische Assets (Icon, Manifest): cache-first
   e.respondWith(caches.match(e.request).then((hit) => hit || fetch(e.request)));
 });
