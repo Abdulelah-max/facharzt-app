@@ -3,10 +3,73 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 485 Fragen · ✅ 485 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 503 Fragen · ✅ 503 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
+
+## analkarzinom · Allgemeine Behandlungsaspekte  (1)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| anal_8_1_a | 8.1 | None | F | ✅ | ☐ |
+
+## analkarzinom · Definition / Klassifikation  (1)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| anal_4_1_a | 4.1 | None | R | ✅ | ☐ |
+
+## analkarzinom · Diagnostik  (2)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| anal_6_3_a | 6.3 | None | R | ✅ | ☐ |
+| anal_6_5_a | 6.5 | None | R | ✅ | ☐ |
+
+## analkarzinom · Nachsorge  (1)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| anal_11_1_a | 11.1 | None | R | ✅ | ☐ |
+
+## analkarzinom · Palliativ  (1)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| anal_14_4_a | 14.4 | None | R | ✅ | ☐ |
+
+## analkarzinom · Response-Evaluation  (2)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| anal_10_3_a | 10.3 | None | F | ✅ | ☐ |
+| anal_10_5_a | 10.5 | None | R | ✅ | ☐ |
+
+## analkarzinom · Rezidiv  (1)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| anal_12_2_a | 12.2 | None | R | ✅ | ☐ |
+
+## analkarzinom · Staging  (2)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| anal_7_2_a | 7.2 | None | R | ✅ | ☐ |
+| anal_7_6_a | 7.6 | None | R | ✅ | ☐ |
+
+## analkarzinom · Therapie (Radiochemotherapie)  (7)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| anal_9_10_a | 9.10 | None | F | ✅ | ☐ |
+| anal_9_13_a | 9.13 | None | F | ✅ | ☐ |
+| anal_9_15_a | 9.15 | None | R | ✅ | ☐ |
+| anal_9_16_a | 9.16 | None | F | ✅ | ☐ |
+| anal_9_2_a | 9.2 | None | R | ✅ | ☐ |
+| anal_9_7_a | 9.7 | None | F | ✅ | ☐ |
+| anal_9_9_a | 9.9 | None | R | ✅ | ☐ |
 
 ## hcc · Biliäre Karzinome (CCA)  (13)
 

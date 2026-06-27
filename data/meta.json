@@ -53,9 +53,18 @@
       "version": "S3 v5.2",
       "geplante_fragen": 40,
       "status": "fertig"
+    },
+    {
+      "id": "analkarzinom",
+      "awmf": "081-004OL",
+      "kurz": "Analkarzinom",
+      "name": "Analkarzinom",
+      "version": "S3 v1.2 (2020)",
+      "geplante_fragen": 18,
+      "status": "fertig"
     }
   ],
-  "gesamt_geplant": 485,
+  "gesamt_geplant": 503,
   "nicht_aufgenommen": [
     {
       "id": "hernien",

@@ -19422,5 +19422,713 @@
         "leber"
       ]
     }
+  },
+  {
+    "id": "anal_4_1_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "4.1",
+    "kapitel": "Definition / Klassifikation",
+    "unterkapitel": "Histologie",
+    "thema": "Definition",
+    "statement": "Die S3-Leitlinie Analkarzinom befasst sich ausschließlich mit Plattenepithelkarzinomen des Analkanals und Analrandes.",
+    "answer": true,
+    "explanation": "EK 4.1. Adenokarzinome u. a. seltene Entitäten sind ausgenommen.",
+    "leitlinie_wortlaut": "Die vorliegende Leitlinie befasst sich ausschließlich mit Plattenepithelkarzinomen des Analkanals und des Analrandes. Diese werden im Folgenden als Analkanalkarzinome bzw. Analrandkarzinome oder – übergreifend – als Analkarzinome bezeichnet. ntraepitheliale Vorstufen des Analkarzinoms (anale intraepitheliale Neoplasien, M. owen), der extramammäre M. Paget, Adenokarzinome des Analkanals ausgehend von ukosa, Analdrüsen oder Fisteln, neuroendokrine Karzinome, sowie Basalzellkarzinome Basaliome), und Karzinome der Hautanhangsgebilde der perianalen Haut sind nicht Ge- enstand der Leitlinie. Gleichermaßen sind nicht-epitheliale Tumoren (Lymphome, Mela- ome, Sarkome) des Analkanals und des Analrandes nicht Inhalt dieser Leitlinie. ur Diagnostik und Therapie der analen intraepithelialen Neoplasien sei auf die entspre- henden Leitlinien der AWMF verwiesen: „HPV-assoziierte Läsionen der äußeren Genito- nalregion und des Anus – Genitalwarzen und Krebsvorstufen der Vulva, des Penis und er peri- und intraanalen Haut“ (AWMF-Register Nr.: 082-008) [58, 59] und „Anale Dys- lasien und Analkarzinom bei HIV-Infizierten: Prävention, Diagnostik und Therapie“ AWMF-Register Nr.: 055-007) [60, 61]. Leitlinien zu den anderen, in dieser Leitlinie nicht bgebildeten Entitäten finden sich ebenfalls auf den Seiten der AWMF (www.awmf.org). bgrenzung von Analkanal- und Analrandkarzino- men er Analkanal schließt sich aboral an das Rektum an und hat eine Länge von ungefähr -5 cm. Der Übergang des Rektums in den Analkanal wird durch den oberen Rand der uborektalschlinge bestimmt. Oral wird der Analkanal von kolorektaler Schleimhaut aus- ekleidet, die nach distal in ein mehr oder weniger stark ausgeprägtes transitionales pithel übergeht. Aboral der Linea dentata ist der Analkanal durch ein mehrschichtiges, icht-verhorntes Plattenepithel ausgekleidet. Das aborale Ende des Analkanals wird urch den Übergang in Haut mit verhorntem Plattenepithel und Hautanhangsgebilden m Analrand markiert. Anatomisch-embryologisch reicht der Analkanal von der Über- angszone zwischen Drüsen- und Plattenepithel (anorektale Transitionszone) etwa 1-2 m über der Linea dentata bis an den Übergang von unverhorntem und verhorntem Plat- enepithel an der Linea anocutanea. Als Analrand wird der Bereich im Radius von 5 cm m die Linea anocutanea bezeichnet, welcher von verhorntem Plattenepithel mit Haut- nhangsgebilden (Haarfollikel, Schweiß- und Talgdrüsen) bedeckt wird [1, 16, 17, 62, 3]. linienprogramm Onkologie | S3-Leitlinie Analkarzinom | Version 1.2 | Dezember 2020 31 n und Stadieneinteilung",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Plattenepithelkarzinom",
+      "Definition"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_6_3_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "6.3",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Proktologie",
+    "thema": "Diagnostik",
+    "statement": "Bei Verdacht auf ein Analkarzinom soll eine proktologische Untersuchung inkl. digital-rektaler Untersuchung erfolgen.",
+    "answer": true,
+    "explanation": "EK 6.3. Klinisch-proktologische Basisuntersuchung.",
+    "leitlinie_wortlaut": "Bei Verdacht auf das Vorliegen eines Analkarzinoms soll eine proktologische Unter- suchung inkl. digital-rektaler Untersuchung, Proktoskopie, ggf. Rektoskopie, ggf. analer Endosonographie und ggf. Kolposkopie durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Proktologie",
+      "digital-rektal"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_6_5_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "6.5",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Histologie",
+    "thema": "Diagnostik",
+    "statement": "Bei Verdacht auf ein Analkarzinom soll eine histopathologische Sicherung angestrebt werden.",
+    "answer": true,
+    "explanation": "EK 6.5. Bioptische Diagnosesicherung vor Therapie.",
+    "leitlinie_wortlaut": "Bei Verdacht auf das Vorliegen eines Analkarzinoms soll eine histopathologische Si- cherung angestrebt werden. Die Biopsie aus dem Tumor sichert die Diagnose in den meisten Fällen und soll durch- geführt werden. Bei Analrandkarzinomen oder Analkarzinomen, die mehrere Bereiche überlappen, kann die Probengewinnung entweder unter direkter Sicht als Stanzbiopsie, Inzisions- oder Exzisionsbiopsie gewonnen werden. Häufig ist hierfür keine Lokalanäs- thesie notwendig, allerdings kann der Bereich sehr schmerzempfindlich sein, sodass eine Lokalanästhesie erforderlich sein kann. Nur in seltenen Fällen ist eine Untersuchung in Narkose notwendig. Bei einem Analkanalkarzinom ist die Proktoskopie wegweisend, bei der auch die Biopsie, üblicherweise als Zangenbiopsie, durchgeführt werden kann. Auch hierfür ist in der Regel keine Lokalanästhesie notwendig, allerdings kann der Tu- mor sehr schmerzempfindlich sein, insbesondere bei einer Lage im Bereich des Ano- derms, sodass eine Lokalanästhesie erforderlich werden kann. Auch hier kann in selte- nen Fällen eine Untersuchung in Narkose notwendig sein. Die histologische Abklärung soll erfolgen, da in diesem Bereich andere Tumorentitäten denkbar sind. Dazu zählen das Adenokarzinom als tiefsitzendes Rektumkarzinom, das Adenokarzinom ausgehend von den Proktodealdrüsen, der M. Paget, das maligne Melanom, Lymphome, Sarkome, neuroendokrine Tumore und gastrointestinale Stromatumore. Auch unklare Befunde bzw. ekzematöse Läsionen perianal, die nicht innerhalb einer 4 bis 6 Wochen-Frist auf eine adäquate konservative Therapie ansprechen, sollten durch Biopsie bzw. Exzisions- biopsie abgeklärt werden . Bei Nachweis eines Analkarzinoms sollte eine Analyse auf Humane Papillomaviren (HPV) durchgeführt werden, da Analkarzinome zu einem großen Teil mit HPV assoziiert sind. Im Falle einer HPV-Assoziation soll bei Frauen die gynäkologische Vorsorge empfohlen werden. Bei einem HPV-Nachweis ist nach 5 Jahren eine weitere Vorsorge/ein Screening zu empfehlen (s. Kapitel Nachsorge).",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Biopsie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_7_2_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "7.2",
+    "kapitel": "Staging",
+    "unterkapitel": "MRT Becken",
+    "thema": "Staging",
+    "statement": "Zur Bestimmung der Tumorkategorie (T) soll eine MRT-Untersuchung des Beckens erfolgen.",
+    "answer": true,
+    "explanation": "EK 7.2. Becken-MRT für lokales T-/N-Staging.",
+    "leitlinie_wortlaut": "Zur Bestimmung der Tumorkategorie soll eine MRT-Untersuchung des Beckens erfol- gen. Diese sollte eine multiparametrische MRT, anguliert auf den Analkanal, umfas- sen. Die Tumorkategorien T1 bis T3 des Primärtumors werden klinisch durch die maximale Tumorausdehnung in cm differenziert, jedoch erfordert die Abgrenzung von T4-Tumo- ren den Ausschluss einer Infiltration in benachbarte Organe, z.B. Vagina, Urethra oder Harnblase. Die MRT des Beckens erlaubt die Evaluation des Lokalbefundes sowohl in Hinblick auf die lokale Tumorausdehnung als auch Infiltration von Nachbarstrukturen (T4). Die aktuelle NCCN-Leitlinie misst der MRT weiterhin lediglich Bedeutung für das lokoregionäre LK-Staging und der T4 Situation bei, betont darüber hinaus aber die Wertigkeit der alleinigen klinischen Untersuchung für das T-Staging. In einer retrospektiven Studie bei 28 Patienten mit Analkarzinomen untersuchten Hoc- quelet et al. die prädiktive Wertigkeit von MRT-Texturparametern bei 28 metasta- tlinienprogramm Onkologie | S3-Leitlinie Analkarzinom | Version 1.2 | Dezember 2020 44 okoregionärer Lymphknotenmetastasen (N) senfreien Patient*innen mit Plattenepithel-Analkarzinomen vor und nach erfolgter Radi- ochemotherapie. Die vorläufigen Daten deuten auf einen prädiktiven Wert von MRT-Tex- turparametern in Hinblick auf die Krankheitsprogression hin. Die Autoren fordern wei- tere Studien, die die Wertigkeit von MRT-Texturparametern zur individuellen Dosisstrati- fizierung der Radiochemotherapie erlauben.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "MRT",
+      "Staging"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_7_6_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "7.6",
+    "kapitel": "Staging",
+    "unterkapitel": "Fernmetastasen",
+    "thema": "Staging",
+    "statement": "Zur Detektion von Fernmetastasen soll eine CT von Thorax und Abdomen durchgeführt werden.",
+    "answer": true,
+    "explanation": "EK 7.6. Ausbreitungsdiagnostik (Leber/Lunge/LK).",
+    "leitlinie_wortlaut": "Zur Detektion von Fernmetastasen soll eine CT des Thorax und des Abdomens durch- geführt werden. Alternativ kann die Durchführung einer PET/CT* erwogen werden. *CAVE: Die PET-Untersuchung ist im Rahmen der Diagnostik bei Analkarzinomen nicht Gegenstand des Leis- tungskatalogs der gesetzlichen Krankenversicherung (Kostenübernahme nicht gesichert).",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "CT",
+      "Fernmetastasen"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_8_1_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "8.1",
+    "kapitel": "Allgemeine Behandlungsaspekte",
+    "unterkapitel": "HIV-Test",
+    "thema": "Allgemein",
+    "statement": "Ein HIV-Test ist beim Analkarzinom nicht relevant und soll nicht empfohlen werden.",
+    "answer": false,
+    "explanation": "EK 8.1: bei unbekanntem HIV-Status soll ein HIV-Test empfohlen werden (HIV-/HPV-Assoziation).",
+    "leitlinie_wortlaut": "Bei unbekanntem HIV-Status soll Patient*innen mit Analkarzinom die Durchführung eines HIV-Tests empfohlen werden. Wie in der Einleitung dieser Leitlinie dargelegt, weisen Menschen, die mit HIV leben, ein erhöhtes Risiko für die Entwicklung eines Analkarzinoms auf, insbesondere HIV-positive Männer, die Sex mit Männern haben [26, 41, 46]. Das Analkarzinom zählt zu den Indi- katorkonditionen für HIV und in den Europäischen Leitlinien zur Implementierung von HIV-Testungen wird daher eine starke Empfehlung für die Durchführung einer HIV-Tes- tung bei Patient*innen mit Analkarzinom ausgesprochen .",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "HIV",
+      "HPV"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_9_2_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "9.2",
+    "kapitel": "Therapie (Radiochemotherapie)",
+    "unterkapitel": "Stadium I Analkanal",
+    "thema": "Therapie",
+    "statement": "Analkanalkarzinome im Stadium I (< 2 cm, N0 M0) sollten mittels primärer kombinierter Radiochemotherapie behandelt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.2 (Grad B). Organerhalt durch RChT auch beim kleinen Analkanalkarzinom.",
+    "leitlinie_wortlaut": "Analkanalkarzinome mit einem Durchmesser <2 cm ohne regionale oder Fernme- tastasen (Stadium I) sollten mittels primärer kombinierter Radiochemotherapie behandelt werden. Vergleich von lokaler Exzision vs. Radiochemotherapie, Evidenz aus retrospektiv vergleichenden Be- obachtungsstudien: Chai et al. 2018 ; Chakrabarti et al. 2019 ; Jelinek et al. 2015 ; Deshmukh et al. 2018 – detaillierte Studiencharakteristika und -ergebnisse siehe Evidenzbericht Kapitel 3.2.1 OS: keine statistisch signifikanten Unterschiede, HR 1,07 (95%-KI: 0,80–1,44) PFS: keine statistisch signifikanten Unterschiede, HR 0,94 (95%-KI: 0,09–9,44) Rezidiv: keine statistisch signifikanten Unterschiede, RR 1,26 (95%-KI: 0,03–45,83) QoL, CFS, Stuhlinkontinenz, CR, CSS/CSM, EFS, LC/LRC, Spätmorbidität, LF, Vaginalstenose Keine stat. sign. Unterschiede bzgl. behandlungsassoziierte Todesfälle (GRADE: Sehr gering (⨁◯◯◯)). In einer retrospektiven, nicht-vergleichenden Kohortenstudie (Kynaston et al. 2018 ) wurden bei lokaler Exzision von Tumoren des Analkanals R1-Resektionen häufiger (86%) beobachtet als bei Tumoren des Analrands (48%).",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Radiochemotherapie",
+      "Stadium I"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_9_7_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "9.7",
+    "kapitel": "Therapie (Radiochemotherapie)",
+    "unterkapitel": "Stadium II-III",
+    "thema": "Therapie",
+    "statement": "Analkarzinome der Stadien II–III sollen primär chirurgisch (abdominoperineale Exstirpation) behandelt werden.",
+    "answer": false,
+    "explanation": "Empf. 9.7 (Grad A): Stadien II–III sollen mit kombinierter RADIOCHEMOTHERAPIE behandelt werden (organerhaltend); OP nur als Salvage.",
+    "leitlinie_wortlaut": "Analkarzinome der Stadien II-III sollen mit einer kombinierten Radiochemothera- pie behandelt werden. Vergleich von Radiochemotherapie vs. Radiotherapie (Stadien II-III): Evidenz aus zwei multizentrischen RCTs: ACT I (Arnott et al. 1996 , Northover et al. 2010 ) und Bartelink et al. 1997 – detaillierte Studiencharakteristika und -ergebnisse siehe Evidenzbericht Kapitel 3.2.3.2 OS: keine statistisch signifikanten Unterschiede, HR 0,85 (95%-KI: 0,70–1,02) CSM: signifikanter Vorteil unter Radiochemotherapie, HR 0,67 (95%-KI: 0,51–0,88) CR: signifikanter Vorteil unter Radiochemotherapie, RR 1,49 (95%-KI: 1,12–1,99) Rezidiv, Residuum, Interventionsbedarf: signifikanter Vorteil unter Radiochemotherapie, RR 0,58 (95%-KI: 0,48–0,70) RFS: signifikanter Vorteil unter Radiochemotherapie, HR 0,70 (95%-KI: 0,58–0,84) EFS: keine statistisch signifikanten Unterschiede, HR 0,80 (95%-KI: 0,49–1,29) CFS: signifikanter Vorteil unter Radiochemotherapie, HR 0,71 (95%-KI: 0,53–0,95) Spätmorbidität (Grad 3/4): keine statistisch signifikanten Unterschiede, RR 1,10 (95%-KI: 0,90–1,35) QoL, Stuhlinkontinenz, PFS, LF, (Vaginalstenose) Statistisch signifikant häufigeres Auftreten von Frühmorbidität (GRADE: moderat), Diarrhoe (Grad 3/4) bzw. schwerer gastrointestinaler Toxizität (GRADE: hoch), analer Ulzeration (GRADE: moderat), Leukopenie (GRADE: hoch) und Throm- bozytopenie (GRADE: hoch) unter Radiochemotherapie im Vergleich zu Radiotherapie. Keine statistisch signifikanten Unterschiede bzgl. Therapie-assoziierter Todesfälle (GRADE: gering), kutaner Toxizität (GRADE: moderat), Dermatitis (Grad 3/4, bzw. ‚schwer‘) (GRADE: gering), Radionekrose, Ulzeration (GRADE: moderat), schwerer Fibrose (GRADE: gering), später kutaner Toxizität (GRADE: moderat), gastrointestinaler Toxizität (GRADE: mode- rat), später gastrointestinaler Toxziztät (GRADE: moderat), rektaler Stenose (GRADE: gering), urogenitaler Toxizität, schweren urogenitalen unerwünschten Wirkungen, und späten urogenitalen unerwünschten Wirkungen (jeweils GRADE: moderat). den Vergleich von alleiniger Radiotherapie mit Radiochemotherapie bei Patient*in- mit Analkarzinom der Stadien II-III wurden zwei multizentrische RCTs [72, 128, 171] geschlossen, in beiden Studien wurden Teilnehmer*innen mit Analkanal- und Anal- dkarzinomen eingeschlossen, insgesamt 585 bzw. 110 Tln. In beiden Studien be- nd die Radiotherapie aus 45 Gy in 4-5 Wochen sowie einem Boost von 15 bis 25 Gy, jedoch in unterschiedlicher Dosierung nur bei lokalem Ansprechen eingesetzt de. Als Chemotherapie wurde in beiden Studien ein Regime mit 5-FU und Mitomycin gesetzt (Nigro-Protokoll). it: Es liegen zwei RCTs [72, 128, 171] vor, auf deren Grundlage eine evidenzbasierte fehlung für eine alleinige Radiotherapie oder für eine kombinierte Radiochemothe- ie bei Patienten mit lokoregionalen Stadien des Analkarzinoms (Stadium II-III) erstellt nprogramm Onkologie | S3-Leitlinie Analkarzinom | Version 1.2 | Dezember 2020 69 alleinige Radiotherapie . Für die Interpretation der Ergebnisse gilt einschränkend, dass keine sepa- llung hinsichtlich verschiedener Lokalisationen (Analkanal- vs. Analrandkar- dien, Geschlechter oder Komorbiditäten vorliegt. Zusammenfassend zeigen htlich verschiedener Effektivitätsendpunkte (krankheits-spezifische Mortalität, es Ansprechen, Rezidiv- und Stoma-freies Überleben) signifikante Vorteile für hrung der kombinierten Radiochemotherapie (GRADE: geringes bis modera- en in die Effektschätzer), bei zugleich bestehenden Nachteilen hinsichtlich rüher und später unerwünschter Ereignisse (Frühmorbidität, Diarrhoe, gast- le Toxizität, anale Ulzeration, Hämatotoxizität).",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Radiochemotherapie",
+      "Standard"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_9_9_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "9.9",
+    "kapitel": "Therapie (Radiochemotherapie)",
+    "unterkapitel": "Kontraindikation",
+    "thema": "Therapie",
+    "statement": "Bei Kontraindikationen gegen eine Radiochemotherapie/Radiotherapie soll die primäre operative Therapie des Analkarzinoms erfolgen.",
+    "answer": true,
+    "explanation": "EK 9.9. Chirurgie als Ausweich-/Salvage-Option, nicht Primärstandard.",
+    "leitlinie_wortlaut": "Bei Kontraindikationen gegen die Durchführung einer Radiochemotherapie oder Ra- diotherapie soll die primäre operative Therapie des Analrand- oder Analkanalkarzi- noms erfolgen. iegt eine Kontraindikation gegen die Durchführung einer primären Radiochemotherapie or (z.B. ausgedehnte anogenitale Fistelung bis hin zur Kloakenbildung bei einschmel- enden Tumoren, komplexe Abszedierung ohne Möglichkeit der perkutanen oder trans- nalen Drainage, Vorbestrahlung ohne entsprechende Strahlenreserve), soll auch für nalkarzinome im Stadium II-III die primäre operative Therapie erfolgen. Das Ausmaß ieses Eingriffs hängt von der Ausdehnung des Befundes ab. linienprogramm Onkologie | S3-Leitlinie Analkarzinom | Version 1.2 | Dezember 2020 70 erapie mit MMC und 5-FU oder mit 5-FU alleine Radiochemotherapie mit MMC und 5-FU oder mit 5- FU alleine",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Operation",
+      "Kontraindikation"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_9_10_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "9.10",
+    "kapitel": "Therapie (Radiochemotherapie)",
+    "unterkapitel": "Mitomycin/5-FU",
+    "thema": "Therapie",
+    "statement": "Standard-Chemotherapie der Radiochemotherapie beim Analkarzinom (Stadium II–III) ist Cisplatin + Gemcitabin.",
+    "answer": false,
+    "explanation": "Empf. 9.10 (Grad A): Standard ist Mitomycin + 5-FU.",
+    "leitlinie_wortlaut": "Im Rahmen der kombinierten Radiochemotherapie sollen Analkarzinome der Sta- dien II-III mit einem Chemotherapie-Regime aus Mitomycin und 5-FU behandelt werden. Vergleich von Radiochemotherapie mit Mitomycin und 5-FU vs. Radiochemotherapie mit 5-FU alleine, Evidenz aus einer multizentrischen RCT: Flam et al. 1996 – detaillierte Studiencharakteristika und - ergebnisse siehe Evidenzbericht Kapitel 3.2.4 OS: keine statistisch signifikanten Unterschiede, HR 0,76 (95%-KI: 0,47–1,21) CR: Gleichwertigkeit der Interventionen, RR 1,03 (95%-KI: 0,92–1,15) RFS: signifikanter Vorteil unter Radiochemotherapie mit MMC+5-FU, HR 0,50 (95%-KI: 0,33–0,76) CFS: signifikanter Vorteil unter Radiochemotherapie mit MMC+5-FU, HR 0,59 (95%-KI: 0,39–0,90) Spätmorbidität: keine statistisch signifikanten Unterschiede, RR 6,95 (95%-KI: 0,87–55,80) QoL, Stuhlinkontinenz, CSS/CSM, PFS, EFS, LC/LRC, LF, (Vaginalstenose) Statistisch signifikant häufigeres Auftreten von Frühmorbidität (GRADE: hoch) und Toxizität (Grad 4, früh und spät) (GRADE: hoch) unter Radiochemotherapie mit MMC+5-FU im Vergleich zu Radiochemotherapie mit 5-FU alleine. Keine statistisch signifikanten Unterschiede bzgl. Therapie-assoziierter Todesfälle (GRADE: moderat). den Vergleich einer Radiochemotherapie mit 5-FU und Mitomycin mit einer Radio- motherapie ausschließlich mit 5-FU bei Patient*innen mit Analkanalkarzinom der Sta- n I-III wurde eine multizentrische RCT eingeschlossen, in der Ergebnisse von Teilnehmer*innen berichtet wurden. In beiden Gruppen wurde 5-FU in einer Dosis 1000 mg/m² an den Tagen d1–4 und d29–32 verabreicht; Teilnehmer*innen der erventionsgruppe erhielten zudem Mitomycin 10 mg/m², an den Tagen d1 und d29 Fall von Hämatotoxizität in verringerter Dosierung während des zweiten Zyklus). de Gruppen erhielten eine Radiotherapie mit 45-50,4 Gy in 25 Fraktionen. it: Es liegt eine RCT vor, auf deren Grundlage eine evidenzbasierte Empfehlung eine Radiochemotherapie mit 5-FU und Mitomycin oder für eine Radiochemotherapie mit 5-FU bei Patienten mit lokoregionalen Stadien des Analkarzinoms (Stadium I-III) tellt werden kann. Zusammenfassend zeigen sich – bei gleichzeitig bestehender Äqui- enz der beiden Regime hinsichtlich der kompletten Remission – signifikante Vorteile üglich des Rezidiv- und Stoma-freien Überlebens für das kombinierte Chemothera- -Regime (GRADE: moderates bis hohes Vertrauen in die Effektschätzer). Die nach T- dien stratifizierte Analyse zeigt, dass sich der signifikante Vorteil bezgl. des Stoma- ien Überlebens für das kombinierte Chemotherapie-Regime auf T3- und T4-Tumore chränkt, nicht jedoch T1- und T2-Tumore betrifft. Zugleich bestehen Nachteile nprogramm Onkologie | S3-Leitlinie Analkarzinom | Version 1.2 | Dezember 2020 71 5-FU und CDDP oder mit CDDP alleine erten Therapie-Regimes hinsichtlich einer häufiger auftretenden Frühmorbi- der frühen und späten kutanen Toxizität (GRADE: hohes Vertrauen in die zer). herapie mit 5-FU und CDDP oder mit ne gleich einer Radiochemotherapie mit 5-FU und Cisplatin zu Radiochemothe- hließlich mit Cisplatin bei Patient*innen mit Analkanalkarzinom der Stadien eine monozentrische RCT eingeschlossen, in der Ergebnisse von 26 berichtet wurden. Zu dieser Studie liegt jedoch ausschließlich eine Publika- nferenzabstract vor, eine entsprechende Publikation der Daten in einer begut- chzeitschrift wurde nicht identifiziert. Die Studienteilnehmer erhielten in den platin in unterschiedlichen Verabreichungsmodi (80mg/m² an d2 vs. d1-3), so dass in der Studie nicht ausschließlich die Ergänzung von 5-FU zu atin-basierten Regime untersucht wird. 5-FU wurde in einer verhältnismäßig von 1800 mg/m² an den Tagen d1–4 verabreicht. Beide Gruppen erhielten herapie mit 30 Gy in 10 Fraktionen sowie einen Brachytherapie-Boost (15-25 (Zusammenfassung): Unter Radiochemotherapie mit 5-FU und CDDP Gleich- bzgl. OS (GRADE: ⨁◯◯◯ SEHR GERING); kein statistisch signifikanter Vorteil RADE: ⨁◯◯◯ SEHR GERING); keine statistisch signifikanten Unterschiede 3 Morbidität (GRADE: ⨁◯◯◯ SEHR GERING); keine statistisch signifikanten e für die in der Studie untersuchten Endpunkte. Zu verschiedenen, als „kri- rteten Endpunkten (z.B. Lebensqualität, Stuhlinkontinenz, Störungen der Se- n, PFS, EFS) liegen keine Daten vor; detaillierte Ergebnisse finden sich im Evi- , Kapitel 3.2.5. iegt eine RCT vor, deren Ergebnisse jedoch aufgrund der geringen Studi- des Fehlens einer Publikation der Daten in einer begutachteten Fachzeit- von limitierter Aussagekraft sind. In der Studie zeigen sich keine signifikanten e der Interventionen hinsichtlich des Gesamtüberlebens und des vollständi- hens (GRADE: sehr geringes Vertrauen in die Effektschätzer). Unerwünschte im Sinne einer drittgradigen Morbidität traten in der Gruppe, die die kombi- otherapie erhielt, häufiger auf, aber diese Unterschiede waren statistisch fikant (GRADE: sehr geringes Vertrauen in die Effektschätzer). r hier dargestellten Ergebnisse ergibt sich keine Ergänzung oder Än- sonstigen, in dieser Leitlinie enthaltenen Empfehlungen. Die For- e dieser Studie wird als nicht prioritär gesehen. gramm Onkologie | S3-Leitlinie Analkarzinom | Version 1.2 | Dezember 2020 72 MMC und 5-FU oder mit CDDP und 5-FU iochemotherapie mit MMC und 5-FU oder mit DP und 5-FU",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Mitomycin",
+      "5-FU"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "systemtherapie",
+        "strahlentherapie"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_9_13_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "9.13",
+    "kapitel": "Therapie (Radiochemotherapie)",
+    "unterkapitel": "Induktion",
+    "thema": "Therapie",
+    "statement": "Vor der kombinierten Radiochemotherapie soll regelhaft eine Induktionschemotherapie durchgeführt werden.",
+    "answer": false,
+    "explanation": "Empf. 9.13 (Grad A): es soll KEINE Induktionschemotherapie durchgeführt werden.",
+    "leitlinie_wortlaut": "Im Rahmen der kombinierten Radiochemotherapie soll keine Induktionschemo- therapie durchgeführt werden. Vergleich von Radiochemotherapie mit Induktionschemotherapie vs. Radiochemotherapie ohne Indukti- onschemotherapie: Ergebnisse aus einer multizentrischen 2x2 faktoriellen randomisierten Studie: Peiffert et al. 2012 (für den hier dargestellten Vergleich wurden jeweils Daten aus den Studienarmen mit Standard- und Hochdosis-Boost gepoolt berichtet) – detaillierte Studiencharakteristika und -ergebnisse siehe Evidenzbericht Kapitel 3.2.10. CFS: keine statistisch signifikanten Unterschiede, HR 0,93 (95%-KI: 0,58–1,51) QoL, OS, Stuhlinkontinenz, RFS/DFS, CR, CSS/CSM, PFS, EFS, LC/LRC, Spätmorbidität, LF, (Vaginalstenose) Statistisch signifikant häufigeres Auftreten von hämatologischen unerwünschten Wirkungen (Grad 3/4) unter Radioche- motherapie mit Induktionschemotherapie (GRADE: hoch). Keine statistisch signifikanten Unterschiede bzgl. Diarrhoe, Mukositis, Infektion und kardialen unerwünschten Wirkungen (jeweils Grad 3/4) (jeweilige Bewertung GRADE: moderat). In der Studie berichtete Ergebnisse ohne ausreichende Daten zur Durchführung eigener Auswertungen/Metaanalysen und GRADE-Bewertungen: keine statistisch signifikanten Unterschiede bzgl. des 5-Jahres-Gesamtüberlebens, des 5-Jahres- Krankheitsspezifischen Überlebens, der 5-Jahres Lokalen Kontrolle und des 5-Jahres-Tumorfreien Überlebens zwischen den Gruppen. den Vergleich einer Radiochemotherapie mit Induktionschemotherapie zu einer Ra- chemotherapie ohne Induktionschemotherapie bei Patient*innen mit Analkanalkarzi- der Stadien II-III wurde eine multizentrische RCT eingeschlossen. Bei der Stu- handelt es sich um eine 2x2-faktorielle RCT, in der eine Radiochemotherapie mit 5- und Cisplatin mit oder ohne Induktionschemotherapie, jeweils mit Standard- oder h-Dosis-Boost zur Behandlung der Stadien II-III des Analkarzinoms untersucht wurde. den hier dargestellten Vergleich wurden jeweils Daten aus den Studienarmen mit ndard- und Hochdosis-Boost gepoolt. nprogramm Onkologie | S3-Leitlinie Analkarzinom | Version 1.2 | Dezember 2020 77 oder ohne Erhaltungs-Chemotherapie it: Es liegt Evidenz aus einer RCT vor, auf deren Grundlage eine evidenzbasierte fehlung für oder gegen die Durchführung einer Induktionschemotherapie vor der binierten Radiochemotherapie bei Patienten mit lokoregionalen Stadien des Analka- karzinoms (Stadium II-III) erstellt werden kann. Zusammenfassend zeigen sich bezüg- h des stomafreien Überlebens keine statistisch signifikanten Unterschiede (GRADE: erates Vertrauen in den Effektschätzer). Hinsichtlich unerwünschter Wirkungen gt sich jedoch für den Endpunkt Grad 3/4 hämatologische unerwünschte Wirkungen statistisch signifikanter Nachteil für die Induktionschemotherapie (GRADE: hohes trauen in den Effektschätzer). iochemotherapie mit oder ohne Erhaltungs-Che- therapie",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Induktionschemotherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_9_16_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "9.16",
+    "kapitel": "Therapie (Radiochemotherapie)",
+    "unterkapitel": "IMRT",
+    "thema": "Therapie",
+    "statement": "Die Bestrahlung beim Analkarzinom soll als konventionelle (2D-)Technik ohne IMRT erfolgen.",
+    "answer": false,
+    "explanation": "Empf. 9.16 (Grad A): die Bestrahlung soll mittels IMRT erfolgen (weniger Toxizität).",
+    "leitlinie_wortlaut": "Im Rahmen der kombinierten Radiochemotherapie soll die Bestrahlung mittels Intensitäts-modulierter Radiotherapie (IMRT) erfolgen. Vergleich von Radiochemotherapie mit intensitätsmodulierter Radiotherapie (IMRT) vs. Radiochemothe- rapie mit konventioneller / 3D-Radiotherapie (3D-RTx), Evidenz aus insgesamt acht Studien, darunter eine kleine (N=20) monozentrische RCT (Rattan et al. 2016 ), drei Register-basierte Studien (Bryant et al. 2018 , Elson et al. 2018 , Pollom et al. 2017 ) und vier monozentrische retrospektiv vergleichende Kohortenstudien (Chuong et al. 2013 , Koerber et al. 2014 und Koerber et al. 2019 , Spencer et al. 2014 , Weber et al. 2015 ) – detaillierte Studiencharakteristika und Ergebnisse siehe Evidenzbericht, Kapitel 3.2.13. „Erhebliche Verschlechterung der Lebensqualität“: keine statistisch signifikanten Unterschiede, RR 0,71 (95%-KI: 0,32– 1,57) OS: stat. signifikanter Vorteil unter Radiochemotherapie mit IMRT, HR 0,86 (95%-KI: 0,76–0,98) CSS: stat. signifikanter Vorteil unter Radiochemotherapie mit IMRT, HR 0,74 (95%-KI: 0,55–0,99) CR: keine statistisch signifikanten Unterschiede, RR 1,00 (95%-KI: 0,49–2,05) LF: keine statistisch signifikanten Unterschiede, RR 0,56 (95%-KI: 0,20–1,60) LRC: keine statistisch signifikanten Unterschiede, HR 0,46 (95%-KI: 0,15–1,39) DFS: keine statistisch signifikanten Unterschiede, HR 0,31 (95%-KI: 0,09–1,05) CFS: keine statistisch signifikanten Unterschiede, HR 0,75 (95%-KI: 0,07–8,18) Stuhlinkontinenz (Grad 2/3): keine statistisch signifikanten Unterschiede, RR 0,11 (95%-KI: 0,01–2,24) Vaginalstenose: keine statistisch signifikanten Unterschiede, RR 1,50 (95%-KI: 0,74-3,06) (QoL), PFS, EFS, Spätmorbidität Statistisch signifikante Vorteile unter Radiochemotherapie mit IMRT bzgl. Hospitalisierung (GRADE: sehr gering), akuter nicht-hämatologischer Toxizität (Grad 3/4) (GRADE: sehr gering), akuten gastrointestinalen unerwünschten Wirkungen (Grad 2-4) (GRADE: moderat) und späten gastrointestinalen unerwünschten Wirkungen (Grad 3/4) (GRADE: gering) im Vergleich zu Radiochemotherapie mit konventioneller/3D Radiotherapie. Keine statistisch signifikanten Unterschiede bzgl. metastasenfreien Überlebens (GRADE: sehr gering), Erforderlichkeit von parenteraler Flüssigkeitssubstitution (GRADE: moderat) und von Schmerzmedikation der Stufe II (GRADE: moderat), Proktitis (Grad 3), Enteritis (Grad 3), hämatologischen unerwünschten Wirkungen (Grad 2-4) (GRADE: moderat), Leuko- penie (Grad 3/4), Thrombozytopenie (Grad 3/4), Anämie (Grad 3/4), Dermatitis (Grad 3/4), urogenitalen unerwünsch- ten Wirkungen (Grad 3/4), Zystitis (Grad 3), und Vaginalstenosen (Grad 3) [für alle Endpunkte ohne andere Angabe: GRADE: sehr gering]. en Vergleich einer Radiochemotherapie mit Intensitäts-modulierter Radiotherapie ) und konventioneller bzw. 3D Radiotherapie bei Patient*innen mit Analkarzinom tadien I-III wurden insgesamt acht Studien eingeschlossen, darunter eine kleine mo- trische RCT (N=20), drei Register-basierte Studien aus den USA [190-192]",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "IMRT"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "strahlentherapie"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_9_15_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "9.15",
+    "kapitel": "Therapie (Radiochemotherapie)",
+    "unterkapitel": "Dosis",
+    "thema": "Therapie",
+    "statement": "Im Rahmen der Radiochemotherapie soll die Radiotherapie-Dosis nicht mehr als 59,4 Gy betragen.",
+    "answer": true,
+    "explanation": "Empf. 9.15 (Grad A). Dosislimit zur Toxizitätsbegrenzung.",
+    "leitlinie_wortlaut": "Im Rahmen der kombinierten Radiochemotherapie soll die Dosis der Radiothera- pie nicht mehr als 59,4 Gy betragen. Vergleich von Radiochemotherapie mit Hochdosisradiotherapie (≥59,4Gy) vs. Radiochemotherapie mit Standarddosisradiotherapie (<59,4Gy), Evidenz aus einer registerbasierten vergleichenden Kohortenstu- die: Prasad et al. 2018 – detaillierte Studiencharakteristika und Ergebnisse siehe Evidenzbericht, Kapitel 3.2.12. OS: keine statistisch signifikanten Unterschiede, HR 0,95 (95%-KI: 0,76–1,19) QoL, CFS, Stuhlinkontinenz, RFS/DFS, CR, CSS/CSM, PFS, EFS, LC/LRC, Spätmorbidität, LF, (Vaginalstenose) - den Vergleich einer Radiochemotherapie mit einer Standarddosis (<59,4 Gy) und ei- Hochdosis (≥59,4 Gy)-Radiotherapie bei Patient*innen mit Analkarzinom der Stadien II wurde eine registerbasierte vergleichende Kohortenstudie eingeschlossen . Vo- ssetzung für den Einschluss in die Studie war der Erhalt einer konkomittierenden motherapie, die jedoch nicht weiter spezifiziert wurde. it: Es liegt keine hochwertige Evidenz vor, auf deren Grundlage eine evidenzbasierte fehlung für oder gegen eine Radiochemotherapie mit Hochdosis- anstelle einer Stan- ddosis-Radiotherapie bei Patient*innen mit lokoregionalen Stadien des Analkanalkar- oms (Stadium II-III) erstellt werden kann. In der eingeschlossenen Register-basierten gleichenden Kohortenstudie zeigt sich bezüglich des Gesamtüberlebens kein tistisch signifikanter Unterschied (GRADE: sehr geringes Vertrauen in den Effektschät- ). Hinsichtlich unerwünschter Wirkungen liegen keine Daten vor. nprogramm Onkologie | S3-Leitlinie Analkarzinom | Version 1.2 | Dezember 2020 79 IMRT oder konventioneller / 3D-Radiotherapie ochemotherapie mit IMRT oder konventioneller D-Radiotherapie",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Strahlendosis"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "strahlentherapie"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_10_3_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "10.3",
+    "kapitel": "Response-Evaluation",
+    "unterkapitel": "Keine Biopsie",
+    "thema": "Response",
+    "statement": "Bei vollständiger klinischer Response nach Radiochemotherapie soll routinemäßig eine bioptische Bestätigung erfolgen.",
+    "answer": false,
+    "explanation": "EK 10.3: bei kompletter klinischer Response soll KEINE Biopsie erfolgen.",
+    "leitlinie_wortlaut": "Bei vollständiger klinischer Response soll keine Biopsie zur histopathologischen Be- stätigung des Ansprechens erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Response",
+      "Biopsie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_10_5_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "10.5",
+    "kapitel": "Response-Evaluation",
+    "unterkapitel": "26 Wochen",
+    "thema": "Response",
+    "statement": "Bei klinisch kompletter Remission sollte 26 Wochen nach Beginn der Radiochemotherapie eine MRT des Beckens zur Befundbestätigung erfolgen.",
+    "answer": true,
+    "explanation": "EK 10.5. Späte Remissionsbeurteilung (Ansprechen kann verzögert eintreten).",
+    "leitlinie_wortlaut": "Bei klinisch kompletter Remission 26 Wochen nach Beginn der Radiochemotherapie sollte eine MRT des Beckens zur Befundbestätigung und als Ausgangsbefund für die Nachsorge durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Response",
+      "26 Wochen"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_11_1_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "11.1",
+    "kapitel": "Nachsorge",
+    "unterkapitel": "Protokoll",
+    "thema": "Nachsorge",
+    "statement": "Allen Patient*innen mit Analkarzinom soll nach kurativer Behandlung eine protokollgesteuerte Nachsorge angeboten werden.",
+    "answer": true,
+    "explanation": "EK 11.1. Strukturierte Nachsorge (Rezidive sind oft salvage-fähig).",
+    "leitlinie_wortlaut": "Allen Patient*innen mit Analkarzinom soll nach einer Behandlung in kurativer Inten- tion eine protokollgesteuerte Nachsorge angeboten werden, nach Radiochemothera- pie in Teams aus der klinischen Onkologie/Radiotherapie und der koloproktologi- schen Chirurgie/Proktologie.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Nachsorge"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_12_2_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "12.2",
+    "kapitel": "Rezidiv",
+    "unterkapitel": "Salvage",
+    "thema": "Rezidiv",
+    "statement": "Bei Residual- oder Rezidivtumor im Bereich des Primarius nach primärer Radiochemotherapie soll die Behandlungsplanung interdisziplinär erfolgen (Salvage-Chirurgie).",
+    "answer": true,
+    "explanation": "EK 12.1/12.2. Lokalrezidiv nach RChT → Salvage-Operation (meist abdominoperineale Exstirpation).",
+    "leitlinie_wortlaut": "Bei Residual- oder Rezidivtumor nach primärer Therapie soll die weitere Behandlungsplanung im Rahmen einer interdisziplinären Tumorkonferenz erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Rezidiv",
+      "Salvage"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "anal_14_4_a",
+    "leitlinie": {
+      "id": "analkarzinom",
+      "name": "S3-LL Analkarzinom",
+      "version": "1.2",
+      "datum": "Dezember 2020",
+      "awmf": "081-004OL"
+    },
+    "empfehlung_nr": "14.4",
+    "kapitel": "Palliativ",
+    "unterkapitel": "PV",
+    "thema": "Palliativ",
+    "statement": "Allen Patienten soll nach der Diagnose eines nicht-heilbaren Analkarzinoms eine Palliativversorgung angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 14.4 (Grad A). Frühintegration der Palliativversorgung.",
+    "leitlinie_wortlaut": "Allen Patienten soll nach der Diagnose eines nicht-heilbaren Analkarzinoms Palliativ- versorgung angeboten werden, unabhängig davon, ob eine tumorspezifische Thera- pie durchgeführt wird. sierte Empfehlung 5.2; https://www.leitlinienprogramm-onkologie.de/leitlinien/palliativmedizin/ inienprogramm Onkologie | S3-Leitlinie Analkarzinom | Version 1.2 | Dezember 2020 111 tegration von Palliativversorgung das Analkarzinom als nicht heilbar eingestuft wird, ist der Zeitpunkt für die In- tion von Palliativversorgung gegeben, wobei die Durchführung der Palliativversor- in der Praxis überwiegend durch die primärbehandelnden Ärzt*innen der Fachrich- n Onkologie, Chirurgie, Strahlentherapie oder Allgemeinmedizin als allgemeine ativversorgung (APV) erfolgt.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Palliativversorgung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "analkarzinom"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
   }
 ]

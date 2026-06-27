@@ -73,7 +73,8 @@
         "magen_distal": "Magen distal",
         "oesophagus": "Ösophagus",
         "barrett": "Barrett-Ösophagus",
-        "gallenwege": "Gallenwege / Gallenblase"
+        "gallenwege": "Gallenwege / Gallenblase",
+        "anal": "Analkanal / Analrand"
       }
     },
     "spezial": {
@@ -431,6 +432,27 @@
       "kriterien": {
         "entitaet": "hcc",
         "modalitaet": "molekularpathologie"
+      }
+    },
+    {
+      "name": "Analkarzinom Diagnostik/Staging",
+      "kriterien": {
+        "entitaet": "analkarzinom",
+        "phase": "diagnostik"
+      }
+    },
+    {
+      "name": "Analkarzinom Radiochemotherapie",
+      "kriterien": {
+        "entitaet": "analkarzinom",
+        "modalitaet": "strahlentherapie"
+      }
+    },
+    {
+      "name": "Analkarzinom Nachsorge/Rezidiv",
+      "kriterien": {
+        "entitaet": "analkarzinom",
+        "phase": "nachsorge"
       }
     }
   ]

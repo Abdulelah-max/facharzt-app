@@ -37,10 +37,11 @@ PDFS = {
     "oesophagus": "leitlinien/oesophagus-v4.0.pdf",
     "schilddruese": "leitlinien/schilddruese-v1.0.pdf",
     "hcc": "leitlinien/hcc-v5.pdf",
+    "analkarzinom": "leitlinien/analkarzinom-v1.1.pdf",
 }
 OK_T, PRUEF_T = 0.85, 0.65
 
-HEAD = re.compile(r"^\s*(\d{1,2}\.\d{1,2}[a-z]?)\s+(Evidenzbasierte Empfehlung|Konsensbasierte Empfehlung|Evidenzbasiertes Statement|Konsensbasiertes Statement|Statement)\b")
+HEAD = re.compile(r"^\s*(\d{1,2}\.\d{1,2}[a-z]?)\.?\s+(Evidenz- und konsensbasierte Empfehlung|Evidenz- und konsensbasiertes Statement|Evidenzbasierte Empfehlung|Konsensbasierte Empfehlung|Evidenzbasiertes Statement|Konsensbasiertes Statement|Statement)\b")
 LABEL = re.compile(r"^\s*(Empfehlungsgrad|Empfehlungs\s*grad|Level of Evidence|Expertenkonsens|EK|[ABC0]|1a|1b|2a|2b|2c|3a|3b|3|4|5|geprüft 20\d\d|modifiziert 20\d\d|neu 20\d\d|bestätigt 20\d\d|geändert 20\d\d)\s{2,}(.*)$")
 DROP = re.compile(r"^\s*(Empfehlungsgrad|Level of Evidence|Expertenkonsens|EK|[ABC0]|1a|1b|2a|2b|2c|3a|3b|3|4|5|Starker Konsens|Konsens|Mehrheitliche.*|Mehrheitlicher.*|Dissens|Kein Konsens|Konsensstärke.*|geprüft 20\d\d.*|modifiziert 20\d\d.*|neu 20\d\d.*|bestätigt 20\d\d.*|\d{1,3})\s*$")
 PAGEHDR = re.compile(r"^\s*\d{1,2}\.\d{1,2}\b.+?\s+\d{2,3}\s*$")
