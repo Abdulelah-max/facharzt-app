@@ -7,7 +7,7 @@
       "name": "Kolorektales Karzinom",
       "version": "S3 v3.2",
       "geplante_fragen": 150,
-      "status": "in_arbeit"
+      "status": "fertig"
     },
     {
       "id": "pankreas",
@@ -16,7 +16,7 @@
       "name": "Pankreaskarzinom",
       "version": "S3",
       "geplante_fragen": 95,
-      "status": "in_arbeit"
+      "status": "fertig"
     },
     {
       "id": "magen",

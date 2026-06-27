@@ -26,7 +26,9 @@
         "op_verfahren": "OP-Verfahren",
         "tumorkonferenz": "Tumorkonferenz / Zentrum",
         "stoma": "Stoma",
-        "reha_funktion": "Reha / Funktion (LARS)"
+        "reha_funktion": "Reha / Funktion (LARS)",
+        "supportiv": "Supportiv / Palliativ",
+        "ernaehrung": "Ernährung"
       }
     },
     "stadium": {
@@ -45,7 +47,12 @@
         "cn_plus": "cN+",
         "m1": "M1",
         "high_risk": "High-Risk",
-        "low_risk": "Low-Risk"
+        "low_risk": "Low-Risk",
+        "resektabel": "Resektabel",
+        "borderline": "Borderline resektabel",
+        "lokal_fortgeschritten": "Lokal fortgeschritten",
+        "metastasiert": "Metastasiert (M1)",
+        "r1": "R1-Resektion"
       }
     },
     "lokalisation": {
@@ -74,7 +81,9 @@
         "braf": "BRAF",
         "her2": "HER2",
         "ntrk": "NTRK",
-        "ctdna": "ctDNA / Liquid Biopsy"
+        "ctdna": "ctDNA / Liquid Biopsy",
+        "brca": "BRCA1/2",
+        "kras_g12c": "KRAS-G12C"
       }
     }
   },
@@ -150,6 +159,55 @@
       "kriterien": {
         "entitaet": "krk",
         "phase": "metastasen"
+      }
+    },
+    {
+      "name": "Pankreas Diagnostik/Staging",
+      "kriterien": {
+        "entitaet": "pankreas",
+        "phase": "diagnostik"
+      }
+    },
+    {
+      "name": "Pankreas adjuvante Chemo",
+      "kriterien": {
+        "entitaet": "pankreas",
+        "phase": "adjuvanz"
+      }
+    },
+    {
+      "name": "Pankreas borderline resektabel",
+      "kriterien": {
+        "entitaet": "pankreas",
+        "stadium": "borderline"
+      }
+    },
+    {
+      "name": "Pankreas metastasiert (Erstlinie)",
+      "kriterien": {
+        "entitaet": "pankreas",
+        "stadium": "metastasiert"
+      }
+    },
+    {
+      "name": "Pankreas BRCA / Platin",
+      "kriterien": {
+        "entitaet": "pankreas",
+        "spezial": "brca"
+      }
+    },
+    {
+      "name": "Pankreas supportiv/palliativ",
+      "kriterien": {
+        "entitaet": "pankreas",
+        "modalitaet": "supportiv"
+      }
+    },
+    {
+      "name": "Pankreas Screening Hochrisiko",
+      "kriterien": {
+        "entitaet": "pankreas",
+        "phase": "vorsorge"
       }
     }
   ]

@@ -7359,5 +7359,2540 @@
         "op_verfahren"
       ]
     }
+  },
+  {
+    "id": "pank_4_2_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "4.2",
+    "kapitel": "Risikofaktoren / Screening",
+    "unterkapitel": "Lebensstil",
+    "thema": "Prävention",
+    "statement": "Laut S3-LL Pankreaskarzinom soll zur Risikoreduktion auf hohen Alkoholkonsum und jeglichen Tabakkonsum verzichtet werden.",
+    "answer": true,
+    "explanation": "Empf. 4.2 (Grad A). Tabak ist der wichtigste vermeidbare Risikofaktor; hoher Alkoholkonsum zusätzlich.",
+    "leitlinie_wortlaut": "Zur Verringerung des Risikos an einem Pankreaskarzinom zu erkranken, soll auf hohen Alkohol- und jeglichen Tabakkonsum verzichtet werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 53,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Prävention",
+      "Tabak",
+      "Alkohol"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "vorsorge"
+      ]
+    }
+  },
+  {
+    "id": "pank_4_13_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "4.13",
+    "kapitel": "Risikofaktoren / Screening",
+    "unterkapitel": "Normalbevölkerung",
+    "thema": "Screening",
+    "statement": "Ein generelles Pankreaskarzinom-Screening der asymptomatischen Normalbevölkerung wird laut S3-LL empfohlen.",
+    "answer": false,
+    "explanation": "Empf. 4.13 (EK): Screening soll bei asymptomatischen Personen OHNE erhöhtes Risiko NICHT erfolgen (niedrige Prävalenz, keine Mortalitätssenkung belegt).",
+    "leitlinie_wortlaut": "Screeninguntersuchungen sollen bei asymptomatischen Individuen ohne erhöhtes Risiko für ein Pankreaskarzinom nicht durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 73,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Screening",
+      "Normalbevölkerung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "vorsorge"
+      ]
+    }
+  },
+  {
+    "id": "pank_4_14_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "4.14",
+    "kapitel": "Risikofaktoren / Screening",
+    "unterkapitel": "Sporadisches Risiko",
+    "thema": "Screening",
+    "statement": "Bei erhöhtem Risiko für ein SPORADISCHES Pankreaskarzinom soll laut S3-LL ein regelmäßiges bildgebendes Screening erfolgen.",
+    "answer": false,
+    "explanation": "Empf. 4.14 (EK): GENAU NICHT — bei erhöhtem sporadischem Risiko soll KEIN Screening erfolgen (Risiko nur gering erhöht).",
+    "leitlinie_wortlaut": "Screeninguntersuchungen sollen bei asymptomatischen Individuen, für die ein erhöhtes Risiko für ein sporadisches Pankreaskarzinom bekannt ist oder vermutet wird, nicht durchgeführt werden, da diese Faktoren das Risiko nur gering erhöhen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 74,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Screening",
+      "sporadisch"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "vorsorge"
+      ]
+    }
+  },
+  {
+    "id": "pank_4_16_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "4.16",
+    "kapitel": "Risikofaktoren / Screening",
+    "unterkapitel": "Keimbahnträger",
+    "thema": "Surveillance",
+    "statement": "Trägern einer pathogenen Keimbahnvariante in einem prädisponierenden Gen (z. B. BRCA1/2, ATM, CDKN2A) sollen Surveillance-Untersuchungen angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 4.16 (EK). Hereditäres Hochrisiko → Surveillance anbieten (im Gegensatz zur Normalbevölkerung).",
+    "leitlinie_wortlaut": "Surveillance-Untersuchungen sollen Individuen angeboten werden, die Träger einer wahrscheinlich pathogenen/ pathogenen Keimbahnvariante in einem der prädisponierenden Genen APC, ATM, BARD1, BRCA1, BRCA2, CHEK2, CDKN2A, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2, TP53, WT1 sind und mit mindestens einem am Pankreaskarzinom erkrankten Angehörigen erstgradig verwandt sind.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 76,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Surveillance",
+      "Keimbahn",
+      "BRCA"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "brca",
+        "hereditaer_allg"
+      ]
+    }
+  },
+  {
+    "id": "pank_4_17_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "4.17",
+    "kapitel": "Risikofaktoren / Screening",
+    "unterkapitel": "Höchstrisiko-Syndrome",
+    "thema": "Surveillance",
+    "statement": "Patienten mit Peutz-Jeghers-Syndrom sollen aufgrund des hohen Risikos Pankreas-Surveillance-Untersuchungen angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 4.17 (EK). PJS gehört zu den Höchstrisiko-Konstellationen mit klarer Surveillance-Indikation.",
+    "leitlinie_wortlaut": "Surveillance-Untersuchungen sollen aufgrund des hohen Risikos an einem Pankreaskarzinom zu erkranken folgenden Individuen angeboten werden: • allen Patienten mit Peutz-Jeghers Syndrom oder Trägern einer wahrscheinlich pathogenen/pathogenen Keimbahnvariante im STK11 Gen, • allen Trägern einer wahrscheinlich pathogenen/ pathogenen Keimbahnvariante im CDKN2A Gen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 76,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Surveillance",
+      "Peutz-Jeghers"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "spezial": [
+        "hereditaer_allg"
+      ]
+    }
+  },
+  {
+    "id": "pank_4_9_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "4.9",
+    "kapitel": "Risikofaktoren / Screening",
+    "unterkapitel": "Genetische Testung",
+    "thema": "Genetik",
+    "statement": "Mitgliedern von Familien mit bekannter wahrscheinlich pathogener/pathogener Genvariante sollen genetische Untersuchungen angeboten werden — auch ohne manifeste Krebserkrankung.",
+    "answer": true,
+    "explanation": "Empf. 4.9 (Grad A). Prädiktive Testung bei bekannter Familienvariante; Voraussetzung für gezielte Surveillance.",
+    "leitlinie_wortlaut": "Genetische Untersuchungen sollen folgenden Individuen ohne manifeste oder symptomatische Krebserkrankung angeboten werden: • Mitglieder von Familien mit einer bekannten, wahrscheinlich pathogenen/pathogenen Genvariante, die für das Pankreaskarzinom disponiert (Tabelle 15). • Bislang nicht an einem Pankreaskarzinom erkrankten Individuen aus Familien, die die Kriterien für eine genetische Testung auf bekannte, mit einem Pankreaskarzinom assoziierte, genetische Tumorrisikosyndrome erfüllen (Tabelle 15).",
+    "evidenz": "Grad A; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 70,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Genetik",
+      "Keimbahntestung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "vorsorge",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "molekularpathologie"
+      ],
+      "spezial": [
+        "hereditaer_allg",
+        "brca"
+      ]
+    }
+  },
+  {
+    "id": "pank_4_19_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "4.19",
+    "kapitel": "Risikofaktoren / Screening",
+    "unterkapitel": "Bildgebung",
+    "thema": "Surveillance",
+    "statement": "Bei der Erstuntersuchung von Hochrisikoindividuen im Rahmen der Surveillance soll primär die kontrastmittelverstärkte CT eingesetzt werden.",
+    "answer": false,
+    "explanation": "Empf. 4.19 (EK): Bevorzugt MRT/MRCP und/oder endoskopischer Ultraschall — strahlenfrei, nicht primär CT.",
+    "leitlinie_wortlaut": "Bei der Erstuntersuchung von Hochrisikoindividuen im Rahmen einer Surveillance sollte eine MRT/MRCP und/oder der Endoskopische Ultraschall als bildgebende Surveillance Untersuchungen eingesetzt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 78,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Surveillance",
+      "MRT",
+      "EUS"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "modalitaet": [
+        "bildgebung",
+        "endoskopie"
+      ],
+      "spezial": [
+        "hereditaer_allg"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_1_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.1",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Erstsymptome",
+    "thema": "Symptome",
+    "statement": "Neu aufgetretene Oberbauch- und Rückenschmerzen sollten laut S3-LL diagnostische Untersuchungen auslösen, die die Diagnose eines Pankreaskarzinoms erlauben.",
+    "answer": true,
+    "explanation": "Empf. 5.1 (Grad C). Unspezifisch, aber Warnsymptom — Abklärung anstoßen.",
+    "leitlinie_wortlaut": "Neu aufgetretene Oberbauch- und Rückenschmerzen sollten diagnostische Untersuchungen auslösen, die die Diagnose eines Pankreaskarzinoms erlauben.",
+    "evidenz": "Grad C; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 81,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Symptome",
+      "Schmerz"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_2_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.2",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Ikterus",
+    "thema": "Symptome",
+    "statement": "Ein neu aufgetretener schmerzloser Ikterus sollte diagnostische Untersuchungen für ein Pankreaskarzinom auslösen.",
+    "answer": true,
+    "explanation": "Empf. 5.2 (Grad B). Schmerzloser Ikterus = klassisches Alarmsymptom (Pankreaskopf/Gallengang ~20 % der Ursachen).",
+    "leitlinie_wortlaut": "Ein neu aufgetretener schmerzloser Ikterus sollte diagnostische Untersuchungen für ein Pankreaskarzinom auslösen.",
+    "evidenz": "Grad B; LoE 2b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 82,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Ikterus",
+      "Symptome"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "pankreaskopf"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_5_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.5",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Detektion",
+    "thema": "Bildgebung",
+    "statement": "Diagnostisches Verfahren der ersten Wahl zur Detektion des Pankreaskarzinoms ist allein die ERCP.",
+    "answer": false,
+    "explanation": "Empf. 5.5 (Grad B): Verfahren der ersten Wahl sind Oberbauchsonographie, Endosonographie, Multidetektor-CT und MRT/MRCP.",
+    "leitlinie_wortlaut": "Diagnostische Verfahren der ersten Wahl zur Detektion des Pankreaskarzinoms sind die Oberbauchsonographie, die Endosonographie, die Multidetektor-CT, sowie die MRT in Kombination mit der MRCP.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 83,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Bildgebung",
+      "Detektion",
+      "CT",
+      "MRT"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung",
+        "endoskopie"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_7_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.7",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "CA 19-9",
+    "thema": "Tumormarker",
+    "statement": "Eine erhöhte CA-19-9-Konzentration beweist laut S3-LL das Vorliegen eines Pankreaskarzinoms.",
+    "answer": false,
+    "explanation": "Empf. 5.7 (Grad C): Bei nachgewiesener Raumforderung SOLL CA 19-9 bestimmt werden — als Verlaufs-/Ergänzungsmarker, NICHT als Beweis (falsch-positiv u. a. bei Cholestase).",
+    "leitlinie_wortlaut": "Bei Nachweis einer Pankreasraumforderung sollte eine CA19-9 Untersuchung durchgeführt werden.",
+    "evidenz": "Grad C; LoE 2a",
+    "konsensstaerke": "Mehrheitliche Zustimmung",
+    "seite_pdf": 85,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Tumormarker",
+      "CA19-9"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_8_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.8",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Resektion vs. Biopsie",
+    "thema": "Resektabilität",
+    "statement": "Bei einer potenziell resektablen, karzinomverdächtigen Pankreasraumforderung sollte primär die Resektion erfolgen; eine bioptische Sicherung vorab ist nicht obligat.",
+    "answer": true,
+    "explanation": "Empf. 5.8 (Grad B). Resektabel + karzinomverdächtig → OP; Biopsie nur bei differentialdiagnostischer Notwendigkeit.",
+    "leitlinie_wortlaut": "Bei Vorliegen einer potenziell resektablen, karzinomverdächtigen Raumforderung im Pankreas sollte primär die Resektion erfolgen. Eine endosonographisch gesteuerte Biopsie kann dann durchgeführt werden, wenn es differentialdiagnostische Hinweise gibt, die das Vorgehen ändern würden, wie z. B. Metastasenverdacht bei einem anderen Malignom in der Vorgeschichte.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 85,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Resektabilität",
+      "Biopsie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "pathologie"
+      ],
+      "stadium": [
+        "resektabel"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_10_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.10",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Palliative Therapie",
+    "thema": "Diagnosesicherung",
+    "statement": "Vor Beginn einer spezifischen palliativen Therapie ist eine bioptische Diagnosesicherung obligat — unabhängig davon, ob lokal fortgeschritten oder metastasiert.",
+    "answer": true,
+    "explanation": "Empf. 5.10 (Grad B). Vor palliativer Systemtherapie immer histologische/zytologische Sicherung.",
+    "leitlinie_wortlaut": "Vor der Durchführung einer spezifischen palliativen Therapie ist eine bioptische Diagnosesicherung obligat, unabhängig davon, ob es sich um ein lokal fortgeschrittenes, inoperables oder um ein metastasiertes Pankreaskarzinom handelt.",
+    "evidenz": "Grad B; LoE 2a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 86,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Biopsie",
+      "palliativ"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik",
+        "metastasen"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "stadium": [
+        "lokal_fortgeschritten",
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_12_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.12",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Lokales Staging",
+    "thema": "Resektabilität",
+    "statement": "Zur präoperativen Beurteilung der Resektabilität ist die ERCP das bevorzugte Verfahren.",
+    "answer": false,
+    "explanation": "Empf. 5.12 (Grad A): Bevorzugt werden Multidetektor-CT und Endosonographie — nicht die ERCP.",
+    "leitlinie_wortlaut": "Zur präoperativen Beurteilung der lokalen Tumorausdehnung bzw. zur Beurteilung der Resektabilität sind die Multidetektor-CT und die Endosonographie zu bevorzugen.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 87,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Staging",
+      "Resektabilität"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung",
+        "endoskopie"
+      ],
+      "stadium": [
+        "resektabel"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_14_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.14",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Ausbreitung",
+    "thema": "Staging",
+    "statement": "Eine kontrastmittelgestützte CT von Lunge und Abdomen/Becken soll erfolgen, wenn die Tumorausbreitung evaluiert werden muss und keine Kontraindikationen bestehen.",
+    "answer": true,
+    "explanation": "Empf. 5.14 (EK). KM-CT Thorax + Abdomen/Becken zum Ausschluss von Fernmetastasen.",
+    "leitlinie_wortlaut": "Eine kontrastmittelgestützte Computertomographie der Lunge und des Abdomens/Beckens soll erfolgen, wenn eine Evaluation der Tumorausbreitung notwendig ist und keine Kontraindikationen für ein CT vorliegen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 88,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Staging",
+      "CT"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_16_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.16",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "PET-CT",
+    "thema": "Staging",
+    "statement": "Alternativ zum Leber-MRT sollten Patienten ein FDG-PET-CT erhalten, um eine Fernmetastasierung mit höherer Sicherheit auszuschließen.",
+    "answer": true,
+    "explanation": "Empf. 5.16 (Grad B). FDG-PET-CT als Alternative zum Leber-MRT bei resezierbarem Befund.",
+    "leitlinie_wortlaut": "Alternativ sollten sie ein FDG-PET CT erhalten, um das Vorliegen einer Fernmetastasierung mit höherer Sicherheit auszuschließen.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 88,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "PET-CT",
+      "Staging"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "stadium": [
+        "resektabel"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_17_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.17",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Nicht geeignet",
+    "thema": "Staging",
+    "statement": "ERCP, MRCP und Skelettszintigraphie sollten laut S3-LL nicht zur Ausbreitungsdiagnostik des Pankreaskarzinoms herangezogen werden.",
+    "answer": true,
+    "explanation": "Empf. 5.17 (EK). Für das Ausbreitungs-Staging ungeeignet/nicht empfohlen.",
+    "leitlinie_wortlaut": "Die ERCP, die MRCP und die Skelettszintigraphie sollten nicht zur Ausbreitungsdiagnostik herangezogen werden. he Wertigkeit von Magnetresonanztomographie (MRT), ), Positronenemissionstomographie kombiniert mit CT (PET/CT), nd transabdomineller Ultraschall (US) zur Diagnose eines it: Bildgebende Verfahren zur Pankreaskarzinomdiagnostik MRT CT PET/CT EUS US 93 % 90 % 89 % 91 % 88 % 89 % 87 % 70 % 86 % 94 % e Genauigkeit) 90 % 89 % 84 % 89 % 91 % linienprogramm Onkologie | Pankreaskarzinom | Langversion 3.1 | September 2024",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 89,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Staging",
+      "ERCP",
+      "MRCP"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung",
+        "endoskopie"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_18_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.18",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Staging-Laparoskopie",
+    "thema": "Staging",
+    "statement": "Eine Staging-Laparoskopie ist beim Pankreaskarzinom vor jeder Resektion obligater Standard.",
+    "answer": false,
+    "explanation": "Empf. 5.18: Die Staging-Laparoskopie ist FAKULTATIV einzusetzen (z. B. bei hohem Risiko okkulter Peritonealkarzinose), nicht obligat.",
+    "leitlinie_wortlaut": "Die Staging-Laparoskopie ist fakultativ einzusetzen.",
+    "evidenz": "LoE 3",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 90,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Staging",
+      "Laparoskopie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "peritoneum"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_6_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.6",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Bürstenzytologie",
+    "thema": "Diagnostik",
+    "statement": "Eine Bürstenzytologie aus dem Gallengang hat bei Verdacht auf ein Pankreaskarzinom eine zu niedrige Sensitivität.",
+    "answer": true,
+    "explanation": "Empf. 5.6. Geringe Sensitivität → nicht zum Karzinomnachweis aus Pankreas-/Gallengang empfohlen.",
+    "leitlinie_wortlaut": "Eine Bürstenzytologie aus dem Gallengang hat bei V.a. ein Pankreaskarzinom eine zu niedrige Sensitivität. Es wird auch nicht empfohlen, aus dem Pankreasgang Bürstenzytologien zum Nachweis eines Pankreaskarzinoms zu entnehmen. Deswegen ist eine ERCP zur Gewebediagnostik des Pankreaskarzinoms nicht indiziert.",
+    "evidenz": "Statement; LoE 5",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 84,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Bürstenzytologie",
+      "ERCP"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "pathologie"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_19_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.19",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "DD zystisch",
+    "thema": "Zystische Läsion",
+    "statement": "Von allen schnittbildgebenden Verfahren sollte zur Differentialdiagnostik einer zystischen Pankreasläsion bevorzugt das MRT mit MRCP eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 5.19 (Grad B). MRT/MRCP beste Modalität für zystische Läsionen (Ganganschluss, Morphologie).",
+    "leitlinie_wortlaut": "Von allen schnittbildenden Verfahren sollte das MRT mit MRCP zur Differentialdiagnostik einer zystischen Läsion des Pankreas bevorzugt eingesetzt werden.",
+    "evidenz": "Grad B; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 90,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "zystisch",
+      "MRT",
+      "MRCP"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ]
+    }
+  },
+  {
+    "id": "pank_5_24_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "5.24",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "IPMN",
+    "thema": "Zystische Läsion",
+    "statement": "Bei Diagnose einer intraduktal papillär-muzinösen Neoplasie (IPMN) sollen therapeutische Entscheidungen in Anlehnung an die europäischen Leitlinien getroffen werden.",
+    "answer": true,
+    "explanation": "Empf. 5.24 (Grad A). IPMN-Management nach den europäischen (Fukuoka/European) Kriterien.",
+    "leitlinie_wortlaut": "Bei Diagnose einer intraduktal papillär muzinösen Neoplasie (IPMN) sollen die therapeutischen Entscheidungen in Anlehnung an die Europäischen Leitlinien",
+    "evidenz": "Grad A; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 93,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "IPMN",
+      "zystisch"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_1_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.1",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Indikation",
+    "thema": "Adjuvanz",
+    "statement": "Nach R0-Resektion eines Pankreaskarzinoms im UICC-Stadium I–III soll eine adjuvante Chemotherapie durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 7.1 (Grad A, LoE 1b). OS-/DFS-Vorteil in 5 RCTs + Metaanalyse.",
+    "leitlinie_wortlaut": "Nach R0-Resektion eines Pankreaskarzinoms im UICC-Stadium I–III soll eine adjuvante Chemotherapie durchgeführt werden.",
+    "evidenz": "Grad A; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 136,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Adjuvanz",
+      "R0"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "resektabel"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_5_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.5",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Regime ECOG 0-1",
+    "thema": "Adjuvanz",
+    "statement": "Bei gutem Allgemeinzustand (ECOG 0–1) ist die Gemcitabin-Monotherapie der adjuvante Standard.",
+    "answer": false,
+    "explanation": "Empf. 7.5 (Grad A): Bei ECOG 0–1 soll mFOLFIRINOX erfolgen; Gemcitabin-Mono nur bei reduziertem AZ/Unverträglichkeit.",
+    "leitlinie_wortlaut": "Bei einem ECOG 0-1 soll eine adjuvante Chemotherapie mit mFOLFIRINOX erfolgen.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 139,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Adjuvanz",
+      "mFOLFIRINOX"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_6_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.6",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Regime ECOG >1-2",
+    "thema": "Adjuvanz",
+    "statement": "Bei eingeschränktem Allgemeinzustand (ECOG > 1–2) sollten in der adjuvanten Therapie Gemcitabin oder Gemcitabin + Capecitabin eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 7.6 (Grad B). Weniger toxische Alternativen zu mFOLFIRINOX bei reduziertem ECOG.",
+    "leitlinie_wortlaut": "Bei einem ECOG > 1-2 sollten die folgenden Chemotherapieprotokolle eingesetzt werden: a) Gemcitabin b) Gemcitabin + Capecitabin",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 140,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Adjuvanz",
+      "Gemcitabin"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_4_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.4",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "R1-Resektion",
+    "thema": "Adjuvanz",
+    "statement": "Beim R1-resezierten Pankreaskarzinom sollte eine additive Chemotherapie über 6 Monate durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 7.4 (Grad B). Auch nach R1 systemische Therapie (additiv), nicht primär Radiochemo.",
+    "leitlinie_wortlaut": "Beim R1-resezierten Pankreaskarzinom sollte eine additive Chemotherapie über 6 Monate durchgeführt werden.",
+    "evidenz": "Grad B; LoE 2b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 138,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Adjuvanz",
+      "R1"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "r1"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_8_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.8",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Timing",
+    "thema": "Adjuvanz",
+    "statement": "Die adjuvante Chemotherapie sollte erst frühestens 6 Monate nach der Operation begonnen werden.",
+    "answer": false,
+    "explanation": "Empf. 7.8 (Grad B): Sie sollte nach Möglichkeit INNERHALB von 12 Wochen nach OP eingeleitet werden — nicht erst nach 6 Monaten.",
+    "leitlinie_wortlaut": "Eine adjuvante Chemotherapie sollte nach Möglichkeit innerhalb von 12 Wochen nach Operation eingeleitet werden.",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 141,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Adjuvanz",
+      "Timing"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_9_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.9",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Dauer",
+    "thema": "Adjuvanz",
+    "statement": "Die Dauer der adjuvanten Chemotherapie sollte 3 Monate betragen.",
+    "answer": false,
+    "explanation": "Empf. 7.9 (EK): Die adjuvante Chemotherapie sollte 6 Monate betragen.",
+    "leitlinie_wortlaut": "Die Dauer der adjuvanten Chemotherapie sollte 6 Monate betragen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 142,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Adjuvanz",
+      "Dauer"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_10_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.10",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Radiochemo",
+    "thema": "Adjuvanz",
+    "statement": "Nach R0-Resektion sollte außerhalb von randomisierten Studien keine adjuvante Radiochemotherapie durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 7.10 (Grad B). Adjuvante RChT ist nach R0 kein Standard (nur in Studien).",
+    "leitlinie_wortlaut": "Nach einer R0-Resektion bei Pankreaskarzinom sollte außerhalb von randomisierten, kontrollierten Studien keine adjuvante Radiochemotherapie durchgeführt werden. 1: -",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 143,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Adjuvanz",
+      "Radiochemo"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "strahlentherapie"
+      ],
+      "stadium": [
+        "resektabel"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_12_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.12",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Resektabel",
+    "thema": "Neoadjuvanz",
+    "statement": "Bei einem als resektabel eingeschätzten Pankreaskarzinom sollte außerhalb von Studien keine neoadjuvante Therapie angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 7.12 (Grad B). Primär resektabel → primäre Resektion; neoadjuvant nur in Studien.",
+    "leitlinie_wortlaut": "Eine neoadjuvante Strahlenchemotherapie, Strahlentherapie oder Chemotherapie sollte Patienten mit einem resektabel eingeschätztem Pankreaskarzinom außerhalb von Studien nicht angeboten werden.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 146,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "neoadjuvant",
+      "resektabel"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie",
+        "strahlentherapie"
+      ],
+      "stadium": [
+        "resektabel"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_13_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.13",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Borderline",
+    "thema": "Neoadjuvanz",
+    "statement": "Bei einem als borderline resektabel eingeschätzten Pankreaskarzinom soll primär ohne Vorbehandlung reseziert werden.",
+    "answer": false,
+    "explanation": "Empf. 7.13 (Grad B): Borderline → präoperative Chemo- bzw. Chemostrahlentherapie (Ziel: R0-Rate erhöhen), nicht primäre OP.",
+    "leitlinie_wortlaut": "Bei Patienten mit einem als borderline resektabel eingeschätzten Pankreaskarzinom sollte eine präoperative Chemotherapie oder Chemostrahlentherapie durchgeführt werden.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 148,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "neoadjuvant",
+      "borderline"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie",
+        "strahlentherapie"
+      ],
+      "stadium": [
+        "borderline"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_14_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.14",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "Lokal fortgeschritten",
+    "thema": "Neoadjuvanz",
+    "statement": "Bei einem als lokal fortgeschritten eingeschätzten Pankreaskarzinom soll primär eine alleinige Strahlentherapie erfolgen.",
+    "answer": false,
+    "explanation": "Empf. 7.14 (Grad A): Lokal fortgeschritten → initiale CHEMOtherapie; alleinige Strahlentherapie ist nicht primär indiziert.",
+    "leitlinie_wortlaut": "Bei einem als lokal fortgeschritten eingeschätztem Pankreaskarzinom soll eine initiale Chemotherapie durchgeführt werden. Eine initiale Strahlentherapie oder Strahlenchemotherapie sollte bei Patienten mit als lokal fortgeschritten eingeschätztem Pankreaskarzinom außerhalb von Studien nicht durchgeführt werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 149,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "lokal fortgeschritten",
+      "Chemo"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "lokal_fortgeschritten"
+      ]
+    }
+  },
+  {
+    "id": "pank_7_15_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "7.15",
+    "kapitel": "Neoadjuvante/Adjuvante Therapie",
+    "unterkapitel": "IORT",
+    "thema": "Strahlentherapie",
+    "statement": "Eine intraoperative Radiotherapie (IORT) gehört beim Pankreaskarzinom zum etablierten Standardvorgehen.",
+    "answer": false,
+    "explanation": "Empf. 7.15 (Grad B): IORT sollte außerhalb prospektiver kontrollierter Studien NICHT durchgeführt werden.",
+    "leitlinie_wortlaut": "Eine intraoperative Radiotherapie (IORT) sollte außerhalb von prospektiven, kontrollierten Studien nicht durchgeführt werden.",
+    "evidenz": "Grad B; LoE 2b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 150,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "IORT",
+      "Strahlentherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "strahlentherapie"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_1_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.1",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Indikation",
+    "thema": "Palliativ",
+    "statement": "Beim metastasierten bzw. lokal fortgeschrittenen Pankreaskarzinom soll bei einem ECOG-Performance-Status von 0–2 eine palliative Chemotherapie angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 8.1 (Grad A). Verbessert Lebensqualität, klinischen Benefit und Überleben bei ECOG 0–2.",
+    "leitlinie_wortlaut": "Beim metastasierten bzw. lokal fortgeschrittenen Pankreaskarzinom soll bei einem ECOG Performance Status von 0 bis 2 zur Verbesserung der Lebensqualität, des klinischen Benefits und der Überlebenszeit eine palliative Chemotherapie angeboten werden.",
+    "evidenz": "Grad A; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 155,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "palliativ",
+      "Chemo",
+      "ECOG"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert",
+        "lokal_fortgeschritten"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_5_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.5",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Kombination ECOG 0-1",
+    "thema": "Palliativ",
+    "statement": "Patienten mit ECOG 0–1 sollten bevorzugt eine Monotherapie statt einer Kombinationschemotherapie erhalten.",
+    "answer": false,
+    "explanation": "Empf. 8.5 (Grad B): ECOG 0–1 → KOMBINATIONStherapien anbieten (Erst- und Zweitlinie).",
+    "leitlinie_wortlaut": "Patienten mit einem ECOG Performance Status 0-1 profitieren von Kombinationschemotherapien. Diesen Patienten sollten in der Erst- und Zweitlinientherapie Kombinationstherapien angeboten werden. Dagegen sollten Patienten mit einem ECOG Performance Status ≥ 2 eher mit einer Monotherapie behandelt werden. In jedem Fall sollen die Patienten frühzeitigen Zugang zu supportiven Behandlungsoptionen haben.",
+    "evidenz": "Grad B; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 158,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Kombination",
+      "ECOG"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_6_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.6",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Mono Gem vs 5-FU",
+    "thema": "Palliativ",
+    "statement": "Wenn eine Monochemotherapie gegeben wird, ist 5-FU dem Gemcitabin vorzuziehen.",
+    "answer": false,
+    "explanation": "Empf. 8.6 (Grad A): Bei Monotherapie ist GEMCITABIN dem 5-FU vorzuziehen.",
+    "leitlinie_wortlaut": "Wenn Patienten mit fortgeschrittenem oder metastasiertem Pankreaskarzinom eine Monochemotherapie erhalten, dann ist Gemcitabin einer 5-FU Monotherapie vorzuziehen. Gemcitabin-Monotherapie",
+    "evidenz": "Grad A; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 159,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Gemcitabin",
+      "Monotherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_10_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.10",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "5-FU mono",
+    "thema": "Palliativ",
+    "statement": "5-FU mit oder ohne Folinsäure soll nicht als alleinige Erstlinientherapie eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 8.10 (Grad A). 5-FU-Monotherapie ist keine adäquate Erstlinie.",
+    "leitlinie_wortlaut": "5-FU mit oder ohne Folinsäure soll nicht als alleinige Erstlinientherapie eingesetzt werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 162,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "5-FU",
+      "Erstlinie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_11_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.11",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "FOLFIRINOX/NALIRIFOX",
+    "thema": "Palliativ",
+    "statement": "FOLFIRINOX oder NALIRIFOX sollen Patienten mit metastasiertem Pankreaskarzinom bei ECOG 0–1 und günstigem Komorbiditätsprofil angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 8.11 (Grad A). Intensive Kombinationen für fitte Patienten — bester OS-Vorteil.",
+    "leitlinie_wortlaut": "FOLFIRINOX oder NALIRIFOX sollen Patienten mit metastasiertem Pankreaskarzinom angeboten werden, wenn ein ECOG Performance Status von 0-1 und ein günstiges Komorbiditätsprofil vorliegen.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 163,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "FOLFIRINOX",
+      "NALIRIFOX",
+      "Erstlinie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_13_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.13",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Gem + nab-Paclitaxel",
+    "thema": "Palliativ",
+    "statement": "Die Kombination Gemcitabin + nab-Paclitaxel soll Patienten mit ECOG 0–1 und relativ günstigem Komorbiditätsprofil angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 8.13 (Grad A). Etablierte Erstlinien-Kombination (MPACT).",
+    "leitlinie_wortlaut": "Die Kombination von Gemcitabin mit nab-Paclitaxel soll Patienten angeboten werden, wenn ein ECOG Performance Status 0-1 und ein relativ günstiges Komorbiditätsprofil vorliegen.",
+    "evidenz": "Grad A; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 166,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Gemcitabin",
+      "nab-Paclitaxel"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_14_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.14",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Gem + Fluoropyrimidin",
+    "thema": "Palliativ",
+    "statement": "Die Kombination von Gemcitabin mit Fluoropyrimidinen (5-FU, Capecitabin, S1) ist kein Standard in der Erstlinientherapie des metastasierten Pankreaskarzinoms.",
+    "answer": true,
+    "explanation": "Empf. 8.14 (Grad B). Diese Kombination ist nicht Erstlinien-Standard.",
+    "leitlinie_wortlaut": "Die Kombination von Gemcitabin mit Fluoropyrimidinen wie 5-Fluorouracil, Capecitabin oder S1 ist kein Standard in der Erstlinientherapie des metastasierten oder lokal fortgeschrittenen, inoperablen Pankreaskarzinoms.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 167,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Gemcitabin",
+      "Capecitabin"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_18_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.18",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Targeted",
+    "thema": "Palliativ",
+    "statement": "Die Kombination von Gemcitabin mit Bevacizumab oder Cetuximab ist ein etablierter Standard in der Erstlinientherapie des metastasierten Pankreaskarzinoms.",
+    "answer": false,
+    "explanation": "Empf. 8.18 (Grad A): Gem + „Targeted Therapies\" (Cetuximab, Bevacizumab, Axitinib) haben KEINEN Stellenwert und sollen außerhalb von Studien nicht eingesetzt werden.",
+    "leitlinie_wortlaut": "Weitere Kombinationen von Gemcitabin mit sogenannten “Targeted Therapies” wie Cetuximab, Bevacizumab oder Axitinib besitzen keinen Stellenwert in der Therapie des Pankreaskarzinoms und sollen außerhalb von prospektiven, kontrollierten Studien nicht eingesetzt werden. Diese Kombinationen werden nicht empfohlen.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 171,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Targeted",
+      "Bevacizumab",
+      "Cetuximab"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_16_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.16",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Gem + Erlotinib",
+    "thema": "Palliativ",
+    "statement": "Alternativ zur Gemcitabin-Monotherapie kann beim metastasierten Pankreaskarzinom Gemcitabin + Erlotinib (EGFR-Tyrosinkinaseinhibitor) eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 8.16 (Grad 0). Marginaler Nutzen — als Option, nicht Standard.",
+    "leitlinie_wortlaut": "Alternativ zur Gemcitabin Monotherapie kann beim metastasierten Pankreaskarzinom eine Kombinationstherapie aus Gemcitabin und dem EGF- Rezeptor-Tyrosinkinaseinhibitor Erlotinib eingesetzt werden.",
+    "evidenz": "Grad 0; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 169,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Erlotinib",
+      "EGFR"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_9_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.9",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Gem-Dosierung",
+    "thema": "Palliativ",
+    "statement": "Gemcitabin soll beim Pankreaskarzinom grundsätzlich als hochdosierte Fixed-Dose-Rate-Infusion mit doppelter Standarddosis verabreicht werden.",
+    "answer": false,
+    "explanation": "Empf. 8.9 (Grad A): Gemcitabin soll in KONVENTIONELLER Dosierung (1000 mg/m² über 30 Min) gegeben werden.",
+    "leitlinie_wortlaut": "Gemcitabin soll in konventioneller Dosierung (1000mg/m2 über 30 Minuten) verabreicht werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 161,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Gemcitabin",
+      "Dosierung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_19_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.19",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "BRCA / Platin",
+    "thema": "Molekular",
+    "statement": "Bei Nachweis einer BRCA-1/2-Keimbahnmutation sollte eine platinFREIE Erstlinientherapie bevorzugt werden.",
+    "answer": false,
+    "explanation": "Empf. 8.19 (Grad B): BRCA-mutierte Tumoren sind platinSENSIBEL → platinbasierte Therapie bevorzugen.",
+    "leitlinie_wortlaut": "Bei Patienten mit Nachweis einer BRCA-1/2 Keimbahnmutation sollte eine Platin- basierte Erstlinientherapie bevorzugt werden.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 172,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "BRCA",
+      "Platin"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "spezial": [
+        "brca"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_20_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.20",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "BRCA-Testung",
+    "thema": "Molekular",
+    "statement": "Bei metastasiertem Pankreaskarzinom, das grundsätzlich für eine platinbasierte Therapie geeignet ist, sollte das Vorliegen einer BRCA1/2-Keimbahnmutation evaluiert werden.",
+    "answer": true,
+    "explanation": "Empf. 8.20 (Grad A). BRCA-Testung identifiziert platinsensible Patienten und Olaparib-Kandidaten (Erhaltung).",
+    "leitlinie_wortlaut": "Bei Patienten mit metastasiertem Pankreaskarzinom, die grundsätzlich für eine Platin-basierte Therapie geeignet sind, sollte das Vorliegen einer BRCA1/2 Keimbahnmutation evaluiert werden, um Platin-sensible Patienten frühzeitig zu identifizieren und die Option einer Erhaltungstherapie mit einem PARP-Inhibitor zu klären.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 173,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "BRCA",
+      "Testung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "molekularpathologie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "spezial": [
+        "brca"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_22_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.22",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "KRAS-G12C",
+    "thema": "Molekular",
+    "statement": "Bei Vorliegen einer KRAS-G12C-Mutation kann nach Ausschöpfen aller therapeutischen Optionen eine Therapie mit einem selektiven KRAS-G12C-Inhibitor durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 8.22 (EK). Seltene KRAS-G12C-Subgruppe → zielgerichtete Option in späteren Linien.",
+    "leitlinie_wortlaut": "Bei Vorliegen einer KRAS-G12C Mutation kann nach Ausschöpfen aller therapeutischer Optionen beim Pankreaskarzinom eine Therapie mit einem selektiven KRAS-G12C Inhibitor durchgeführt werden. KRAS-Mutationen werden bei etwa 90 % der Pankreaskarzinome gefunden. Seit kurzem ist eine gezielte Therapie einer KRAS p.G12C Mutation im Tumor möglich. Diese Subgruppe der KRAS-G12C mutierten Pankreaskarzinome ist klein und macht nur etwa 1-2 % der Fälle aus. Die CodeBreaK 100 Phase I-II Studie untersuchte die Effektivität des irreversiblen KRAS G12C Inhibitors Sotorasib bei überwiegend intensiv vorbehandelten metastasierten Pankreaskarzinompatienten (n=38) . Unter einer oralen Dosis von 960 mg pro Tag wurde bei einem akzeptablem Sicherheitsprofil eine ORR von 21% (DCR 84%), ein PFS von 4,0 Monaten und ein OS von 6,9 Monaten erreicht. Sotorasib ist derzeit zur Behandlung des Pankreaskarzinoms nicht zugelassen. Adagrasib, ein weiterer KRAS G12C Inhibitor wurde bei fortgeschrittenen soliden Tumoren untersucht und zeigte eine Ansprechrate von 33,3% bei den eingeschlossenen Patienten mit metastasiertem Pankreaskarzinom (n=21) nach im Median 2 Vortherapien . Immuntherapeutika in der palliativen Therapie Diagnostische Verfahren zur Bestimmung der Mikrosatelliteninstabilität",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 176,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "KRAS-G12C",
+      "zielgerichtet"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "spezial": [
+        "kras_g12c",
+        "ras"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_24_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.24",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Checkpoint dMMR/MSI",
+    "thema": "Molekular",
+    "statement": "Immuntherapien mit Checkpoint-Inhibitoren können nach Ausschöpfen aller Optionen eingesetzt werden, wenn eine Mismatch-Reparatur-Defizienz (dMMR) bzw. hochgradige Mikrosatelliteninstabilität (MSI-H) vorliegt.",
+    "answer": true,
+    "explanation": "Empf. 8.24 (Grad 0). Nur die seltene dMMR/MSI-H-Subgruppe profitiert von Checkpoint-Inhibitoren.",
+    "leitlinie_wortlaut": "Immuntherapien mit Checkpointinhibitoren können nach Ausschöpfen aller therapeutischen Optionen beim Pankreaskarzinom eingesetzt werden, wenn eine DNA Mismatch Reparatur Defizienz (MMRd) bzw. eine hochgradige Mikrosatelliteninstabilität (MSI-H) vorliegen.",
+    "evidenz": "Grad 0; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 177,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Immuntherapie",
+      "MSI",
+      "dMMR"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "spezial": [
+        "msi_dmmr"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_25_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.25",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Indikation",
+    "thema": "Zweitlinie",
+    "statement": "Bei Progress unter Erstlinientherapie ist auch bei gutem Allgemeinzustand (ECOG ≤ 2) keine Zweitlinientherapie indiziert.",
+    "answer": false,
+    "explanation": "Empf. 8.25 (Grad A): Bei ECOG ≤ 2 soll eine Zweitlinientherapie angeboten werden.",
+    "leitlinie_wortlaut": "Bei Progress unter einer Erstlinientherapie soll bei einem ECOG ≤ 2 eine Zweitlinientherapie angeboten werden.",
+    "evidenz": "Grad A; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 178,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Zweitlinie",
+      "ECOG"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_26_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.26",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "NAPOLI",
+    "thema": "Zweitlinie",
+    "statement": "Nach Gemcitabin-basierter Vorbehandlung ist in der Zweitlinie eine erneute Gemcitabin-Monotherapie das bevorzugte Standardregime.",
+    "answer": false,
+    "explanation": "Empf. 8.26 (Grad B): Nach Gemcitabin → bevorzugt nanoliposomales Irinotecan/5-FU (NAPOLI-Regime).",
+    "leitlinie_wortlaut": "Bei Progression nach einer Gemcitabin-basierten Vorbehandlung sollte eine Zweitlinientherapie mit nanoliposomalem Irinotecan/5-FU (NAPOLI-Regime) angeboten werden, wenn die folgenden Kriterien erfüllt werden: Karnofsky Performance Status ≥ 70 %, relativ günstiges Komorbiditätsprofil, Patientenpräferenz.",
+    "evidenz": "Grad B; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 179,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Zweitlinie",
+      "NAPOLI",
+      "Irinotecan"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_31_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.31",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Radiochemo",
+    "thema": "Lokal fortgeschritten",
+    "statement": "Bei lokal fortgeschrittenem, nicht-metastasiertem Pankreaskarzinom kann eine Radio- bzw. Radiochemotherapie zur Verbesserung der lokalen Kontrolle (bis ECOG 2) angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 8.31 (Grad 0). Option zur lokalen Kontrolle bei lokal fortgeschrittener Erkrankung.",
+    "leitlinie_wortlaut": "Eine Radio-(Evidenzlevel 3) bzw. Radiochemotherapie (Evidenzlevel 2) kann Patienten bis ECOG 2 mit lokal fortgeschrittenem nicht-metastasiertem Pankreaskarzinom zur Verbesserung der lokalen Kontrolle angeboten werden, bei denen während einer Chemotherapie keine Erkrankungsprogression eingetreten ist. Indikation zur Strahlentherapie Die Wirksamkeit der Radiochemotherapie wurde in drei randomisierten Studien mit einer adäquat dosierten Therapie von Gemcitabin verglichen. Die Resultate waren nicht einheitlich. In der ECCOG 4201 Studie wurde ein längeres Überleben durch die Radiochemotherapie erreicht (11,1 Monate vs. 9,2 Monate, p=0,017). Trotz erhöhter, vor allem gastrointestinaler Nebenwirkungen Grad IV (38 % vs. 6 %), die u.a. auf die hohe Dosis von Gemcitabin (600mg/m2) während der Radiochemotherapie zurückzuführen waren, schilderten die Patienten im längeren Verlauf keine Einbußen",
+    "evidenz": "Grad 0",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 183,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Radiochemo",
+      "lokal fortgeschritten"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "strahlentherapie"
+      ],
+      "stadium": [
+        "lokal_fortgeschritten"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_35_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.35",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Palliative RT",
+    "thema": "Palliativ",
+    "statement": "Eine palliative Strahlentherapie sollte nur bei symptomatischen Metastasen bzw. Metastasen mit drohender Symptomatik durchgeführt werden (insbesondere Skelett- und zerebrale Metastasen).",
+    "answer": true,
+    "explanation": "Empf. 8.35 (EK). Palliative RT symptomorientiert (Schmerz, drohende Fraktur/neurologisch).",
+    "leitlinie_wortlaut": "Eine palliative Strahlentherapie sollte nur bei symptomatischen Metastasen bzw. Metastasen mit drohender Symptomatik durchgeführt werden (insbesondere Skelett- und zerebrale Metastasen). Ziel ist die Symptomkontrolle oder die Vermeidung von durch Metastasen bedingten Komplikationen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 186,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "palliative RT",
+      "Metastasen"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "supportiv"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_2_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.2",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Frühe PV",
+    "thema": "Palliativversorgung",
+    "statement": "Allen Patienten soll nach Diagnose einer nicht-heilbaren Pankreaskarzinomerkrankung Palliativversorgung angeboten werden — unabhängig davon, ob eine tumorspezifische Therapie erfolgt.",
+    "answer": true,
+    "explanation": "Empf. 9.2 (Grad A). Frühe Integration der Palliativversorgung parallel zur Tumortherapie.",
+    "leitlinie_wortlaut": "Allen Patienten soll nach der Diagnose einer nicht-heilbaren Pankreaskarzinomerkrankung Palliativversorgung angeboten werden, unabhängig davon, ob eine tumorspezifische Therapie durchgeführt wird.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 187,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Palliativversorgung",
+      "früh"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_4_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.4",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Spezialisierte PV",
+    "thema": "Palliativversorgung",
+    "statement": "Patienten mit nicht-heilbarer Erkrankung und hoher Komplexität ihrer Situation sollen eine spezialisierte Palliativversorgung erhalten.",
+    "answer": true,
+    "explanation": "Empf. 9.4 (Grad A). Hohe Komplexität → SPV (spezialisierte Palliativversorgung).",
+    "leitlinie_wortlaut": "Patienten mit einer nicht-heilbaren Pankreaskarzinomerkrankung und einer hohen Komplexität ihrer Situation sollen eine spezialisierte Palliativversorgung erhalten.",
+    "evidenz": "Grad A; LoE 3",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 188,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "SPV",
+      "Komplexität"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_11_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.11",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Mangelernährung-Screening",
+    "thema": "Ernährung",
+    "statement": "Bei Patienten mit Pankreaskarzinom sollte ein regelmäßiges Screening auf Mangelernährung (z. B. NRS oder MUST) erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 9.11 (Grad B). Hohe Kachexie-Prävalenz → strukturiertes Screening.",
+    "leitlinie_wortlaut": "Bei Patienten mit Pankreaskarzinom sollte ein regelmäßiges Screening auf Mangelernährung (z.B. Nutritional Risk Screening (NRS) oder Malnutrition Universal Screening Tool (MUST)) erfolgen.",
+    "evidenz": "Grad B; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 191,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Mangelernährung",
+      "NRS",
+      "Screening"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen",
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "ernaehrung",
+        "supportiv"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_12_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.12",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Ernährungsassessment",
+    "thema": "Ernährung",
+    "statement": "Bei Ernährungsproblemen soll ein individuelles Ernährungsassessment und eine Beratung durch eine qualifizierte Ernährungsfachkraft erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 9.12 (Grad A). Strukturierte Ernährungsintervention durch Fachkraft.",
+    "leitlinie_wortlaut": "Bei Ernährungsproblemen soll ein individuelles Ernährungsassessment und eine entsprechende Beratung durchgeführt werden. Diese sollte durch eine qualifizierte Ernährungsfachkraft* erfolgen.",
+    "evidenz": "Grad A; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 191,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Ernährung",
+      "Beratung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "ernaehrung"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_14_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.14",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Exokrine Insuffizienz",
+    "thema": "Supportiv",
+    "statement": "Bei exokriner Pankreasinsuffizienz im Rahmen eines Pankreaskarzinoms ist eine Pankreasenzymsubstitution in der Regel nicht erforderlich.",
+    "answer": false,
+    "explanation": "Empf. 9.14 (Grad A): Patienten mit exokriner Insuffizienz SOLLEN eine Pankreasenzymtherapie erhalten.",
+    "leitlinie_wortlaut": "Patienten mit exokriner Pankreasinsuffizienz bei Pankreaskarzinom sollen eine Pankreasenzymtherapie erhalten.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 193,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Pankreasenzyme",
+      "exokrine Insuffizienz"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen",
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "supportiv",
+        "ernaehrung"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_15_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.15",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Perioperativ",
+    "thema": "Ernährung",
+    "statement": "Patienten sollen vor und nach onkologischer Pankreasresektion eine individualisierte Ernährungsintervention erhalten.",
+    "answer": true,
+    "explanation": "Empf. 9.15 (Grad A). Perioperative Ernährungstherapie verbessert Outcome (ESPEN).",
+    "leitlinie_wortlaut": "Patienten mit Pankreaskarzinom sollen vor und nach einer onkologischen Pankreasresektion eine individualisierte Ernährungsintervention erhalten.",
+    "evidenz": "Grad A; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 194,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Ernährung",
+      "perioperativ"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "ernaehrung"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_16_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.16",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Galleableitung",
+    "thema": "Supportiv",
+    "statement": "In der Palliativsituation sind Plastikstents generell die Therapie der Wahl zur endoskopischen Galleableitung.",
+    "answer": false,
+    "explanation": "Empf. 9.16 (Grad A): Metallstents sind Therapie der Wahl; Plastikstents nur bei geschätzter Überlebenszeit < 3 Monate.",
+    "leitlinie_wortlaut": "Metallstents werden als Therapie der Wahl angesehen, Plastikstents sollen eingesetzt werden, wenn die Überlebenszeit auf < 3 Monate eingeschätzt wird.",
+    "evidenz": "Grad A; LoE 1a",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 194,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Stent",
+      "Cholestase"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "supportiv"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_22_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.22",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "MIO inkomplett",
+    "thema": "Supportiv",
+    "statement": "Bei inkompletter maligner intestinaler Obstruktion (MIO) sollten zur Antiemese Prokinetika wie Metoclopramid eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.22 (Grad B). Bei INKOMPLETTER MIO sind Prokinetika sinnvoll (Motilitätsförderung).",
+    "leitlinie_wortlaut": "Für die Behandlung von Übelkeit und Erbrechen bei Patienten mit einer Pankreaskarzinomerkrankung und einer inkompletten malignen intestinalen Obstruktion (MIO) sollten Prokinetika wie Metoclopramid zur Antiemese eingesetzt werden. 4: Übernahme aus S3 LL Palliativmedizin (14.37.)",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 197,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "MIO",
+      "Metoclopramid",
+      "Antiemese"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_24_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.24",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Duodenalstent",
+    "thema": "Supportiv",
+    "statement": "Bei tumorbedingter Obstruktion im Magenausgang/Duodenum kann eine endoskopische Stentanlage zur Symptomlinderung durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.24 (EK). Enteraler Stent bei Magenausgangsstenose als palliative Option.",
+    "leitlinie_wortlaut": "Bei Patienten mit einer nicht-heilbaren Krebserkrankung und mit einer Tumor- bedingten Obstruktion im Magenausgang und Duodenum kann eine endoskopische Stentanlage zur Symptomlinderung durchgeführt werden. Übernahme aus S3 LL Palliativmedizin (14.31.)",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 197,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Duodenalstent",
+      "Magenausgang"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "supportiv"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_28_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.28",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "VTE-Prophylaxe",
+    "thema": "Supportiv",
+    "statement": "Bei ambulanten Patienten mit fortgeschrittenem Pankreaskarzinom unter Chemotherapie kann eine prophylaktische Antikoagulation mit niedermolekularem Heparin unter Nutzen-/Risiko-Abwägung erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 9.28 (EK). Hohes VTE-Risiko beim Pankreaskarzinom → NMH-Prophylaxe im ambulanten Setting erwägbar.",
+    "leitlinie_wortlaut": "Bei ambulanten Patienten mit fortgeschrittenem Pankreaskarzinom, die sich einer Chemotherapie unterziehen, kann eine prophylaktische Antikoagulation mit einem niedermolekularen Heparin unter Nutzen-/Risiko-Abwägung hinsichtlich des Blutungsrisikos durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 200,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "VTE",
+      "NMH",
+      "Antikoagulation"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_30_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.30",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Strukturiertes Programm",
+    "thema": "Nachsorge",
+    "statement": "Ein strukturiertes (bildgebungsbasiertes) Nachsorgeprogramm wird beim Pankreaskarzinom stadienunabhängig nicht empfohlen.",
+    "answer": true,
+    "explanation": "Empf. 9.30 (EK). Kein belegter Überlebensvorteil eines strukturierten Nachsorgeprogramms — symptomorientiert vorgehen.",
+    "leitlinie_wortlaut": "Ein strukturiertes Nachsorgeprogramm kann beim Pankreaskarzinom stadienunabhängig nicht empfohlen werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 202,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Nachsorge",
+      "Programm"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_31_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.31",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Nachbetreuung",
+    "thema": "Nachsorge",
+    "statement": "Eine strukturierte Nachbetreuung sollte dem Patienten angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 9.31 (EK). Nachbetreuung (Symptomkontrolle, Ernährung, psychosoziale Begleitung) ≠ bildgebendes Nachsorgeprogramm.",
+    "leitlinie_wortlaut": "Eine strukturierte Nachbetreuung sollte dem Patienten angeboten werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 202,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Nachbetreuung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_29_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.29",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "Anschlussheilbehandlung",
+    "thema": "Nachsorge",
+    "statement": "Eine postoperative Anschlussheilbehandlung (Reha) sollte dem Patienten angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 9.29 (EK). AHB nach Pankreasresektion anbieten, mit familiärer Abstimmung.",
+    "leitlinie_wortlaut": "Eine postoperative Anschlussheilbehandlung sollte dem Patienten angeboten werden. Es sollte eine Abstimmung mit dem familiären Umfeld erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 202,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Reha",
+      "AHB"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "reha_funktion",
+        "supportiv"
+      ]
+    }
+  },
+  {
+    "id": "pank_8_7_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "8.7",
+    "kapitel": "Palliative / Systemtherapie",
+    "unterkapitel": "Mono ECOG 2",
+    "thema": "Palliativ",
+    "statement": "Eine Gemcitabin-Monotherapie sollte Patienten angeboten werden, die aufgrund eines ECOG-Status 2 und/oder ihres Komorbiditätsprofils eine Kombinationstherapie nicht tolerieren.",
+    "answer": true,
+    "explanation": "Empf. 8.7 (Grad B). Gem-Mono als verträgliche Option bei reduziertem Allgemeinzustand.",
+    "leitlinie_wortlaut": "Eine Monotherapie mit Gemcitabin sollte Patienten angeboten werden, die aufgrund eines ECOG Performance Status 2 und/oder ihres Komorbiditätsprofils eine Kombinationstherapie nicht tolerieren oder diese nicht präferieren.",
+    "evidenz": "Grad B; LoE 5",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 159,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Gemcitabin",
+      "ECOG"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ]
+    }
+  },
+  {
+    "id": "pank_9_18_a",
+    "leitlinie": {
+      "id": "pankreas",
+      "name": "S3-LL Pankreaskarzinom",
+      "version": "3.1",
+      "datum": "September 2024",
+      "awmf": "032-010OL"
+    },
+    "empfehlung_nr": "9.18",
+    "kapitel": "Supportiv / Palliativ / Nachsorge",
+    "unterkapitel": "PTCD",
+    "thema": "Supportiv",
+    "statement": "Die perkutane transhepatische Cholangiodrainage (PTCD) ist in der Palliativtherapie sinnvoll, wenn eine endoskopische Galleableitung nicht möglich ist (z. B. bei tumorbedingter Duodenalstenose).",
+    "answer": true,
+    "explanation": "Empf. 9.18 (Grad B). PTCD als Ausweichverfahren bei frustraner/unmöglicher endoskopischer Drainage.",
+    "leitlinie_wortlaut": "Die perkutane transhepatische Cholangiodrainage, PTCD, ist in der Palliativtherapie des Pankreaskarzinoms bei nicht möglicher endoskopischer Therapie (z. B. bei tumorbedingten Duodenalstenosen) sinnvoll. Die PTCD ist auch bei frustranem Verlauf der endoskopischen Therapie indiziert.",
+    "evidenz": "Grad B; LoE 3",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 195,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "PTCD",
+      "Cholestase"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pankreas"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "supportiv"
+      ]
+    }
   }
 ]
