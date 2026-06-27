@@ -16091,5 +16091,1701 @@
         "oesophagus"
       ]
     }
+  },
+  {
+    "id": "sd_3_2_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "3.2",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Sonographie",
+    "thema": "Diagnostik",
+    "statement": "Zur Risikostratifizierung von Schilddrüsenknoten soll eine standardisierte B-Mode-Sonographie erfolgen.",
+    "answer": true,
+    "explanation": "EK 3.2. Sonographie als Basisverfahren der Knotenabklärung.",
+    "leitlinie_wortlaut": "Zur Risikostratifizierung von Schilddrüsenknoten soll eine standarisierte B-Mode Sonographie erfolgen. Die Sonographie stellt eine bei Allgemein- und Fachärzten weit verbreitete Untersuchungsmethode dar. Häufig werden Schilddrüsenknoten und Schilddrüsenkarzinome im Rahmen von Routineuntersuchungen gefunden. Ein sonographisches Screening auf Schilddrüsenknoten ist nicht sinnvoll, da dies zu Überdiagnostik führt , . Dieses Kapitel beschreibt den Stellenwert der Sonographie in der Diagnostik des Schilddrüsenkarzinoms und gibt Hinweise auf die Durchführung und die technischen Voraussetzungen für die Untersuchung. Neben der Elastographie, der kontrastmittelverstärkten Sonographie, der Duplexsonographie und der Lymphknotensonographie wird die standardisierte Dokumentation adressiert. Mit B-Mode Ultraschall können verschiedene Knotencharakteristika wie Singularität, Zusammensetzung (z. B. solide oder zystisch), Echogenität (Reflexintensität von Gewebe), Form, Randbeschaffenheit und Vorhandensein von Mikrokalk standardisiert erfasst und beurteilt werden. Zusätzlich erfolgt die Dokumentation der Lage von Knoten innerhalb der Schilddrüse. Wichtig ist insbesondere eine einheitliche Nomenklatur im Hinblick auf die Echogenität. Hierzu ist die folgende Tabelle hilfreich: tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 atur der Echogenität von Schilddrüsenknoten DEGUM-Nomenklatur Synonyme r echogen als das gesunde stärker echogen echoreich, e hyperechogen echogen wie das gesunde echogleich, isoechogen echonormal e her echogen als das schwächer echogen schwächer echogen sengewebe her echogen als die stark schwächer echogen stark echoarm, stark nfrahyal, M. hypoechogen ideus) e Echogenität echofrei zystisch In einer großen Metaanalyse von Remonti et al., die 52 retrospektive Beobachtungsstudien mit über 12000 Knoten auswerteten (bis 2012), waren Mikrokalzifikationen, ein größeres Tiefen- als Breitenwachstum des Knotens („taller- than-wide“ Form: größerer Durchmesser in der Sagittal- als in der Transversalebene) und irreguläre Knotenränder mit einem höheren Risiko für Malignität verknüpft, ohne dass allerdings ein einzelnes Kriterium zu einer klinisch relevanten Steigerung der diagnostischen Genauigkeit führte . In einer weiteren Metaanalyse speziell zu den Charakteristika von medullären Schilddrüsenkarzinomen, die bis 2013 sechs Studien einschloss, gingen Kalzifikationen und eine „taller-than-wide“ Form mit einer höheren Wahrscheinlichkeit für einen malignen Knoten einher, während ein spongiformes Bild der Knoten (multiple kleine zystische Binnenstrukturen, schwammartiger Knotenaufbau) oder zystische Knoten mit einer geringen Wahrscheinlichkeit einhergingen . Die Autoren kamen ebenfalls zu dem Schluss, dass keines der Ultraschallkriterien, isoliert betrachtet, einen ausreichenden prädiktiven Faktor für ein Schilddrüsenkarzinom darstellen. Kritisch angemerkt werden muss, dass sich in beiden Metaanalysen eine hohe Heterogenität der Studiencharakteristika und - ergebnisse nachweisen ließ. In der Metaanalyse von Wolinski et al. wurden zwar weniger Studien (n=6) bzw. Knoten (n=5439) eingeschlossen als in den beiden vorher Zitierten, jedoch konnte für keines der untersuchten Einzelkriterien eine signifikante Heterogenität oder ein Publikationsbias nachgewiesen werden. Der höchste gepoolte PPV und die höchste gepoolte Spezifität wurden mit 76% und 96% für die taller-than- wide Konfiguration errechnet, allerdings war die gepoolte Sensitivität mit 26% die Niedrigste von allen untersuchten Kriterien. Für die anderen Einzelkriterien lagen die Werte für den gepoolten PPV zwischen 23,5% und 42,3% . In einer weiteren Metaanalyse von 12 Studien an jungen Patienten unter 21 Jahren waren Kalzifikationen zwar mit einer höheren Wahrscheinlichkeit eines malignen Knotens, zystische Knoten dagegen mit Gutartigkeit assoziiert . Auch hier wird allerdings die Auffassung geteilt, dass einzelne Kriterien keine ausreichend genauen Prädiktoren darstellen. tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 Einzelkriterien für die Beurteilung von Schilddrüsenknoten zystisch (stärker echogen, isoechogen, schwächer echogen, stark schwächer echogen, s. Tab. 1) latt inkl. Halo, lobuliert, irregulär, unscharf) (Mikrokalk, Makrokalk, Randkalk) n (wider-than-tall, taller-than-wide) Charakteristika (spongiform, Konglomerat, Zyste) umentation der Lage innerhalb der Schilddrüse Verwendung von standardisierten Risikostratifizierungssystemen in der Schilddrüsensonographie (TIRADS)",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 33,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Sonographie",
+      "Knoten"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_3_3_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "3.3",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "TIRADS",
+    "thema": "Diagnostik",
+    "statement": "Die Malignitätswahrscheinlichkeit von Schilddrüsenknoten sollte mittels eines TIRADS-Klassifikationssystems eingeschätzt werden.",
+    "answer": true,
+    "explanation": "Empf. 3.3 (Grad B). TIRADS standardisiert die sonographische Risikoeinschätzung.",
+    "leitlinie_wortlaut": "Die Einschätzung der Malignitätswahrscheinlichkeit von Schilddrüsenknoten sollte mittels eines TIRADS-Klassifikationssystems erfolgen. Für die standardisierte Sonographie der Schilddrüse unter Berücksichtigung der Anzahl bzw. der Kombination der sonographischen Einzelkriterien stehen Thyroid Imaging Reporting and Data Systeme (TIRADS) zur Verfügung. Sie ermöglichen eine Risikostratifizierung, indem eine Klassifizierung in Knoten mit niedrigem, intermediärem und hohem Malignitätsrisiko vorgenommen wird (Risikostratifizierungssysteme). Derzeit werden weltweit noch verschiedene Klassifikationssysteme eingesetzt , , , , , , . Bei der systematischen Literaturrecherche zur diagnostischen Wertigkeit von TIRADS- Klassifikationen konnten insgesamt 3 Metaanalysen identifiziert werden. Eine Metaanalyse, die 4 retrospektive und 2 prospektive Studien mit insgesamt fast 11.000 Schilddrüsenknoten einschloss, untersuchte das Klassifizierungssystem nach linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 k . Es zeigte sich für die Diagnose des Schilddrüsenkarzinoms eine gepoolte sitivität von 91% (88-94%) und Spezifität von 35% (31 bis 39%). Eine weitere aanalyse wertete 12 Studien zu TIRADS-Klassifikationssystemen aus, die über 000 Schilddrüsenknoten einschlossen . Fast die Hälfte der untersuchten ten hat die Europäische Studie von Russ et al. beigetragen. Die Sensitivität de hier zu 79% (77% - 81 %) bestimmt, die Spezifität betrug 71% (70 - 72%). Die oren weisen darauf hin, dass unterschiedliche Standards in der pathologischen rteilung zu einer Heterogenität der Ergebnisse führen. In einer früheren Studie selben Autoren ergab die Auswertung älterer Studien ein gepoolte Sensitivität von – 78 % und Spezifität von 68 – 70% . Die Ergebnisse der in den Metaanalysen geschlossenen Studien weisen eine recht große Heterogenität auf. Gemeinsam ist och allen, dass die Befundung standardisiert und damit objektiv nachvollziehbar reproduzierbar erfolgt, was bei geringem Vertrauen in die Evidenzqualität, die ht zuletzt Folge der derzeit konkurrierenden Systeme ist, zur positiven fehlung führt. verschiedenen Systeme unterscheiden sich in der Anwendung und es bestehen Teil deutliche Unterschiede bezüglich der Empfehlung zur Feinnadelpunktion. In sem Punkt scheint ACR TI-RADS im Vergleich mit anderen Systemen überlegen zu n , , , . Deutschland wurde von Seifert et al. eine multizentrische Studie zum Vergleich fünf TIRADS (Kwak-TIRADS, EU-TIRADS, ACR TI-RADS, K-TIRADS und ATA) liziert, bei der nicht-autonome Schilddrüsenknoten prospektiv klassifiziert wurden ]. Die diagnostischen Genauigkeiten von Kwak-TIRADS (79%), ACR TI-RADS (78%) K-TIRADS (82%) waren dem EU-TIRADS (70%) leicht überlegen. Die ATA- ssifizierung zeigte eine gute diagnostische Genauigkeit (79%), allerdings konnten der Knoten nicht klassifiziert werden. Yoon et al. fand eine fehlende ssifizierbarkeit von sogar 18% der Knoten im ATA-System . Zusammengefasst, e Präferenz für ein TIRADS-Klassifikationssystem kann derzeit nicht angegeben den. „International Thyroid Nodule Working Group“, die sich aus Radiologen, okrinologen und Chirurgen verschiedener Organisationen zusammensetzt (u.a. rican Thyroid Association, European Thyroid Association, Korean Society of roid Radiology) hat 2018 damit begonnen, ein international einsetzbares „I- ADS“ zu entwickeln. Informationen und online-Rechner zu TIRADS finden sich als fe unter http://tiradscalculator.com, http://gap.kr/xeEstimation, http://aace- roid.deontics.com und http://tirads.de. Wenn sonographische Nachkontrollen tehender Schilddrüsenknoten notwendig sind, bieten die bestehenden ikostratifizierungssysteme eine Hilfestellung bezüglich der Verlaufskontrolle. sprechende Verlaufsintervalle sind dort hinterlegt , .",
+    "evidenz": "Grad B; LoE 2a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 35,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "TIRADS"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_3_14_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "3.14",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Heißer Knoten",
+    "thema": "Diagnostik",
+    "statement": "Beim szintigraphisch hyperfunktionellen („heißen“) Schilddrüsenknoten soll regelhaft eine Feinnadelpunktion zur Malignitätsabklärung erfolgen.",
+    "answer": false,
+    "explanation": "EK 3.14: heiße (autonome) Knoten sind quasi nie maligne → KEINE weitere Abklärung über die Sonographie hinaus.",
+    "leitlinie_wortlaut": "Beim szintigraphischen Befund eines hyperfunktionellen (autonomen) Knotens soll keine weitere (über die Sonographie hinausgehende) Dignitätsabklärung erfolgen. er spezielle klinische Wert der Szintigraphie besteht in der Identifikation autonomer denome als benigne Schilddrüsenknoten. Der szintigraphische Befund eines yperfunktionellen (autonomen) Knotens lässt sich durch keine andere Methode inschließlich Sonographie oder durch Ultraschall-Elastographie , orhersagen. Der überwiegende Teil der hyperfunktionellen Knoten wird zintigraphisch zum Zeitpunkt einer Euthyreose nachgewiesen, was verschiedene tudien belegen , . zintigraphisch vermehrt anreichernde Knoten entsprechen nahezu immer fokalen utonomien , . In einer pathologischerseits initiierten Aufarbeitung von 65 linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 ublikationen über als hyperfunktionelle Knoten imponierende childdrüsenmalignome hielten lediglich 10 einer kritischen Überprüfung stand . alignität eines hyperfunktionellen Schilddrüsenknotens ist somit eine Rarität.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 44,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Szintigraphie",
+      "heißer Knoten"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_3_17_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "3.17",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "TSH",
+    "thema": "Diagnostik",
+    "statement": "Eine TSH-Bestimmung soll bei jeder Abklärung von Schilddrüsenknoten durchgeführt werden.",
+    "answer": true,
+    "explanation": "EK 3.17. TSH steuert das weitere Vorgehen (z. B. Szintigraphie bei niedrigem TSH).",
+    "leitlinie_wortlaut": "Eine TSH-Bestimmung soll bei jeder Knotenabklärung durchgeführt werden. Bei Schilddrüsenknoten können erniedrigte TSH-Werte auf eine autonome Funktionsstörung hinweisen , . In der Abklärung von Schilddrüsenknoten ist daher eine TSH-Bestimmung notwendig. In einigen Studien wurde eine Assoziation zwischen höheren TSH-Werten und dem Risiko für das Auftreten eines DTC gefunden , , , , , , sie ein höheres Risiko bei niedrigeren TSH-Werten . Für fortgeschrittene Tumorstadien und ein aggressives Tumorwachstum wurde ebenfalls ein Zusammenhang mit der Höhe des TSH-Wertes gefunden , , , . Eine Studie beschreibt den Zusatznutzen einer TSH-Bestimmung bei Zytologien von Feinnadelpunktaten von Schilddrüsenknoten mit unbestimmter Signifikanz . Bei 127 spanischen Patienten mit einer Bethesda Klassifikation IV in der Feinnadelpunktion zeigte sich eine höhere Rate an Malignität bei höheren TSH-Werten TSH-Werten und dem Tumorstadium finden , , wohingegen eine Studie ein niedrigeres Risiko für die Entwicklung papillärer SD-Karzinome mit niedrigeren TSH- Werten beschreibt . In einem prospektiven Kollektiv waren höhere TSH-Werte bei Patienten mit histologisch nachgewiesener lymphozytärer Infiltration nicht mit einer höheren Karzinomwahrscheinlichkeit gekoppelt . Eine deutsche Untersuchung zeigt ein erhöhtes Karzinomrisiko sowohl bei erhöhten als auch bei erniedrigten TSH - Werten . Eine Metaanalyse mit insgesamt 23.799 Teilnehmern bestätigte ein leicht erhöhtes Risiko für das DTC bei höheren TSH-Werten . Die Bestimmung eines höheren TSH-Wertes bei einem Individuum mit Knoten erlaubt jedoch nicht die Vorhersage von Malignität. hyreoglobulin Thyreoglobulin (Tg) ist ein gut validierter Tumormarker in der postoperativen Nachsorge von Patienten mit differenziertem Schilddrüsenkarzinom . In der präoperativen Diagnostik der Abklärung von Schilddrüsenknoten kann Thyreoglobulin das Vorhandensein eines Schilddrüsenkarzinoms nicht verlässlich vorhersagen . Die Datenlage hierzu ist widersprüchlich , , , , , . Es gibt keine prospektiven Studien die einen ausreichend hohen Stellenwert der Thyreoglobulin-Bestimmung in der präoperativen Abklärung von Schilddrüsenknoten belegen. Erhöhte Thyreoglobulinwerte finden sich auch bei vielen Patienten mit tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 benignen Schilddrüsenknoten, bei Strumen und im Iodmangel , . Vergleichsweise hohe Thyreoglobulin-Werte finden sich häufiger bei Patienten mit lymphogen metastasiertem Tumorleiden oder bei radioiodrefraktären Schilddrüsenkarzinomen , . Einige Autoren haben das Verhältnis von TSH zu Thyreoglobulin berechnet, um die Vorhersage für Malignität von Schilddrüsenknoten zu verbessern. Auch hierzu existieren nur retrospektive Daten weiteren Vorgehens hilfreich sein, eine routinemäßige Bestimmung von Thyreoglobulin in der Abklärung von Schilddrüsenknoten ist jedoch nicht sinnvoll.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 46,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "TSH"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_3_19_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "3.19",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "FNP-Selektion",
+    "thema": "Diagnostik",
+    "statement": "Eine unselektierte Feinnadelpunktion aller Schilddrüsenknoten soll routinemäßig erfolgen.",
+    "answer": false,
+    "explanation": "EK 3.19/3.21: FNP nur nach Vorselektion suspekter Knoten (≥ 1 cm); unselektierte FNP soll NICHT erfolgen.",
+    "leitlinie_wortlaut": "Eine Feinnadelpunktion von Schilddrüsenknoten (≥ 1 cm) soll nur nach adäquater Vorselektion bei suspekt eingestuften Knoten erfolgen, und wenn der Punktionsbefund Eingang in die Planung der weiteren Vorgehensweise findet.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 48,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Feinnadelpunktion",
+      "Selektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_3_42_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "3.42",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Iod-Kontrastmittel",
+    "thema": "Diagnostik",
+    "statement": "Bei Verdacht auf ein Schilddrüsenkarzinom sollte die Gabe von iodhaltigem Kontrastmittel vermieden werden.",
+    "answer": true,
+    "explanation": "EK 3.42. Iodkontamination blockiert spätere Radioioddiagnostik/-therapie.",
+    "leitlinie_wortlaut": "Die Gabe von iodhaltigem Kontrastmittel oder weiteren stark iodhaltigen Substanzen sollte bei V. a. Schilddrüsenkarzinom vermieden werden. Die Magnetresonanztomographie (MRT) wird oft bei Tumoren im Kopf-Hals-Bereich eingesetzt, um die Tumorausbreitung zur erfassen und vor allem auch infiltratives Wachstum auszuschließen. Gegenüber der Ultraschalluntersuchung zeigte eine Studie aus dem Jahr 2014 an Schilddrüsenkarzinompatienten jedoch eine geringere Sensitivität in der Beurteilung der extrathyreoidalen Ausbreitung des Karzinoms tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 räoperative Stimmlippendiagnostik und aryngologische Diagnostik",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 60,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Iod-Kontrastmittel"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_3_43_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "3.43",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "Laryngoskopie",
+    "thema": "Diagnostik",
+    "statement": "Eine präoperative Laryngoskopie der Stimmlippen ist beim Schilddrüsenkarzinom verzichtbar.",
+    "answer": false,
+    "explanation": "EK 3.43: vor JEDER Schilddrüsen-OP soll die Stimmlippenbeweglichkeit laryngoskopisch kontrolliert werden.",
+    "leitlinie_wortlaut": "Vor jeder Schilddüsenoperation sollen eine laryngoskopische Kontrolle der respiratorischen Beweglichkeit der Stimmlippen erfolgen und subjektive Stimm-, Atem- und Schluckbeschwerden erfasst werden. Bei Funktionseinschränkungen sollte eine phoniatrische Stimmuntersuchung erfolgen. tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 ytologie / Pathologie athologische Klassifikation von childdrüsentumoren Die WHO aktualisiert periodisch das System der histologischen Klassifikation von Schilddrüsentumoren. Für diese Leitlinienerstellung ist noch die 4. Auflage maßgeblich, Änderungen zur 5. Auflage wurden erst 2022 verabschiedet und somit liegen noch keine Studien oder klinische Erfahrungen mit ihr vor. In der folgenden Tabelle wird die Einteilung der 4. Auflage der 5. Auflage bzgl. der wichtigsten Punkte zu den Schilddrüsenkarzinomen der Follikelepithelzellen gegenübergestellt. Das medulläre Schilddrüsenkarzinom wird in Kapitel 8 gesondert behandelt. ch der 4. und 5. Auflage der WHO-Klassifikation von häufigen ien der Follikelepithelzellen 5. Auflage (Änderungen) m Benigne Neoplasien Follikuläres Adenom Follikuläres Adenom mit papillärer Architektur Onkozytäres Adenom Thyreoidale follikulär noduläre Erkrankung (FND) rabekulärer Low-Risk Neoplasien Hyalinisierender trabekulärer Tumor (HTT) unklaren Follikulärer Tumor unklaren s (FT-UMP) malignen Potentials (FT-UMP) r Tumor Gut differenzierter Tumor Potentials unklaren malignen Potentials (WDT-UMP) likuläre Nicht-invasive follikuläre äquivalenten Neoplasie mit PTC-äquivalenten TP) Kernmerkmalen (NIFTP) Maligne Neoplasien Follikuläres om (FTC) Schilddrüsenkarzinom (FTC) tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 5. Auflage (Änderungen) Invasives gekapseltes papilläres Schilddrüsenkarzinom follikuläre Variante (IEFVPTC) rüsenkarzinom Papilläres Schilddrüsenkarzinom (PTC) nom Onkozytäres Schilddrüsenkarzinom (OTC) High-grade Schilddrüsenkarzinome der Follikelzellen Differenziertes high-grade Schilddrüsenkarzinom (DHGTC) iertes Schlecht differenziertes om (PDTC) Schilddrüsenkarzinom (PDTC) Anaplastisches om (ATC) Schilddrüsenkarzinom (ATC) Die (weitaus überwiegenden) epithelialen Tumoren der Schilddrüse werden in der 4. Auflage der WHO-Klassifikation in gutartige Tumoren, in andere gekapselte Tumoren mit follikulärem Aufbau (alle Tumoren dieser Gruppe weisen ein unsicheres/sehr geringes Malignitätspotential auf) und maligne Tumoren (Karzinome) unterteilt. In der 5. Auflage der WHO-Klassifikation werden als wesentliche Änderung die epithelialen Tumoren der Follikelepithelzellen konsequent in die Kategorien „benigne“, „low-risk“ und „maligne“ eingeordnet. Auf weitere Änderungen der Benennung von Tumoren und Einführung neuer Entitäten gehen wir im untenstehenden Text soweit notwendig ein. Nicht-epitheliale Tumoren sind Raritäten.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 61,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Laryngoskopie",
+      "Stimmlippen"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik",
+        "chirurgie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_3_33_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "3.33",
+    "kapitel": "Diagnostik",
+    "unterkapitel": "FDG-PET",
+    "thema": "Diagnostik",
+    "statement": "Eine regelhafte präoperative FDG-PET/CT sollte beim Schilddrüsenkarzinom nicht erfolgen.",
+    "answer": true,
+    "explanation": "EK 3.33. Kein Routine-PET prä-OP (nur in Spezialsituationen/ATC-Verdacht).",
+    "leitlinie_wortlaut": "Eine regelhafte präoperative [¹⁸F]FDG-PET/CT sollte nicht erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 56,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "FDG-PET"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_4_1_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "4.1",
+    "kapitel": "Zytologie / Pathologie",
+    "unterkapitel": "WHO",
+    "thema": "Pathologie",
+    "statement": "Die histopathologische Klassifikation von Schilddrüsentumoren soll nach der aktuellen WHO-Klassifikation erfolgen.",
+    "answer": true,
+    "explanation": "EK 4.1. WHO als Standard.",
+    "leitlinie_wortlaut": "Die histopathologische Klassifikation von Schilddrüsentumoren soll gemäß der aktuellen WHO-Klassifikation erfolgen. Der histologische Typ bzw. Subtyp eines Schilddrüsentumors beeinflusst die Prognose, das weitere therapeutische Vorgehen (z. B. Radioiod-Therapierbarkeit) und die Gestaltung der Tumornachsorge (s. hierzu auch Abschnitt 3.5). tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 Benigne Neoplasien Während in der 4. Auflage der WHO-Klassifikation nur das follikuläre Adenom und das onkozytäre Adenom (Hürthle-Zell-Adenom) der Schilddrüse aufgeführt wurden, führt die 5. Auflage nun zwei weitere Entitäten ein, das follikuläre Adenom mit papillärer Architektur und die follikulär noduläre Erkrankung (FND). Das follikuläre Adenom mit papillärer Architektur repräsentiert eine benigne, gekapselte Neoplasie ohne PTC-artige Zellkerne mit einem charakteristischen zentripetalen Aufbau aus Pseudopapillen. Diese Adenome sind häufig assoziiert mit einer autonomen Hyperfunktion. Eine Neuerung ist die Einordnung der Knotenstruma (Struma colloides nodosa, SCN) als echte Neoplasie. Dies trägt der Tatsache Rechnung, dass viele Knotenstrumen neben einer entzündlich-reaktiven hyperplastischen Knotenbildung auch echte neoplastische Anteile aufweisen. Diese zeigen häufig keine vollständige Kapsel, jedoch sind klassische Treibermutationen einer Neoplasie nachweisbar. Die Autoren der 5. Auflage der WHO-Klassifikation benennen diese Läsion als „thyroid follicular nodular disease, FND“, was zu der im Deutschen etwas sperrigen Benennung einer thyreoidalen follikulär-nodulären Erkrankung führt. Low-risk Neoplasien Sowohl in der 4. als auch in der 5. Auflage der WHO-Klassifikation werden in diese Gruppe die Schilddrüsenneoplasien mit unklarem malignem Potential, die nichtinvasive follikuläre Neoplasie mit PTC-ähnlichen Kernmerkmalen (NIFTP) und der hyalinisierende trabekuläre Tumor (HTT) eingeordnet. Die NIFTP war in der 4. Auflage neu eingeführt worden, um Patienten mit einer biologisch indolenten Subgruppe der follikulären Variante des papillären Karzinoms sowohl eine Übertherapie als auch eine psychologisch belastende Krebsdiagnose zu ersparen; die Etablierung der NIFTP machte eine Neudefinition der Diagnosekriterien des PTC notwendig und hat Auswirkungen auf die Bewertung der Feinnadelpunktion der Schilddrüse . Maligne Neoplasien Follikuläres Schilddrüsenkarzinom (FTC) Die WHO-Klassifikation unterscheidet beim FTC drei klinisch relevante Subgruppen: • Das minimal invasive FTC ist ein invasiv wachsender gekapselter Tumor, dessen Diagnose ausschließlich auf dem Nachweis eines oder mehrerer vollständiger Kapseldurchbrüche beruht. Angioinvasion muss beim minimal invasiven FTC explizit histologisch ausgeschlossen werden, da eine Angioinvasion im Gegensatz zu vereinzelten Kapseldurchbrüchen einen relevanten negativen prognostischen Marker darstellt. Ein alleiniger Kapseldurchbruch stellt einen prognostisch sehr geringen Risikofaktor dar • Das gekapselte angioinvasive FTC wird anhand der im Bereich der Tumorkapsel oder jenseits der Tumorkapsel nachweisbaren Gefäßeinbrüche diagnostiziert; Kapseldurchbrüche können vorkommen. Die Angioinvasion muss dabei von einer häufig auftretenden artifiziellen Verschleppung von Tumoranteilen im Rahmen der Operation und weiteren Prozessierung in der Pathologie sicher abgegrenzt werden. Die gekapselten angioinvasiven FTC werden in 2 Gruppen eingeteilt. Solche mit limitierter Angioinvasion von < 4 tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 Angioinvasionen und Tumore mit ≥ 4 Angioinvasionen, Die Anzahl von ≥ 4 Gefäßeinbrüchen allein qualifiziert dabei nicht zur Diagnose eines breit invasiven FTC. • Das breit invasive FTC ist durch unterschiedlich ausgeprägtes invasives Wachstum des Tumors ins angrenzende nicht-neoplastische Gewebe („normales“ Schilddrüsengewebe und/oder extrathyreoidales Weichgewebe) definiert. Gefäßeinbrüche sind häufig zusätzlich nachweisbar, sind für die Diagnosestellung aber grundsätzlich nicht notwendig Gekapselte FTC müssen differenzialdiagnostisch gegenüber Adenomen (Gefäßein-, Kapseldurchbrüche), gekapselten (follikulär aufgebauten) PTC und der NIFTP (Kernkriterien), sowie gekapselten PDTC (Turin-Kriterien) abgegrenzt werden. Breit invasive FTC müssen in erster Linie von PDTC und differenzierten high-grade Schilddrüsenkarzinomen (DHGTC) unterschieden werden. Zurzeit gibt es keine spezifischen molekularen Marker zur Diagnose eines FTC oder zur Abgrenzung zu Adenomen (siehe dazu auch den Abschnitt „FNP der Schilddrüse“). Papilläres Schilddrüsenkarzinom (PTC) Durch die 2017 erfolgte Einführung der NIFTP (nicht-invasive follikuläre Neoplasie mit PTC-äquivalenten Kernmerkmalen) in der WHO-Klassifikation musste die Definition des PTC geändert werden. Neben den obligat beim PTC nachzuweisenden charakteristischen Kernmerkmalen müssen nunmehr Invasion und/oder gut ausgebildete Papillen bzw. weitere Surrogatmarker wie echte Psammomkörperchen vorliegen . PTC sind entweder ungekapselt und damit grundsätzlich invasiv wachsend, oder gekapselt. Bei den gekapselten PTC sind Invasion im Kapselbereich (oder darüber hinaus) und/oder Papillen zur Diagnose notwendig; gekapselte PTC mit vollständig oder überwiegend follikulärem Aufbau werden in der Regel anhand der Invasion im Kapselbereich und/oder des immunhistochemischen/molekularpathologischen Nachweises einer BRAF V600E-Mutation neben weiteren Surrogatmarkern wie echten Psammomkörperchen vom NIFTP unterschieden. Vollständige gekapselte PTC vom follikulären Subtyp, die auf Grund von histomorphologischen Kriterien nicht als NIFTP eingeordnet werden können und keine BRAF V600E Mutation aufweisen, werden nach der WHO-Klassifikation (5. Auflage) als eigene Entität im Sinne einer infiltrativen bekapselte follikulare Variante des PTC eingeordnet (IEFVPTC). Diese Tumore verhalten sich nach heutiger Auffassung biologisch eher wie FTC und werden molekularbiologisch der Gruppe der RAS-like Schilddrüsentumoren zugeordnet . Nach heutigem Verständnis können PTC anhand einer BRAF V600E-Mutation, RET- Fusion oder NTRK-Fusion molekulardiagnostisch diagnostiziert werden (sog. diagnostische Marker des PTC) wobei das Fehlen dieser Mutationen ein PTC nicht ausschließt. Diese genetischen Alterationen kommen nicht in Adenomen oder im FTC vor, sie können aber auch im gering differenzierten Karzinom (PDTC, oder auch als differentiated high-grade thyroid carcinoma DHGTC bezeichnet) und anaplastischem Karzinom (ATC) nachgewiesen werden. Daher ist insbesondere bei solidem/trabekulärem Wachstumsmuster, Nekrosen und/oder ≥3 Mitosen/2mm² (PDTC) bzw. bei klassischer Architektur mit ≥ 5 Mitosen/2mm², Ki67 10-30 %, tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 Nekrosen (DHGTC) eine morphologische Abgrenzung des PTC als gut differenziertes Karzinom vom PDTC und DHGTC obligat. PTC-Subtypen Sowohl in der 4. als auch der 5. Auflage der WHO-Klassifikation werden zahlreiche Subtypen des PTC aufgeführt. Es bietet sich an, im pathologischen Befundbericht insbesondere die Subtypen mit prognostischer Bedeutung aufzuführen. Als aggressive Subtypen gelten die großzellige Variante (tall cell), kolumnarzellige Variante (columnar cell) und Hobnail Variante. Diese treten üblicherweise im fortgeschrittenen Lebensalter auf und sind häufig assoziiert mit Angioinvasion, erhöhter mitotischer Aktivität und fortgeschrittenem pathologischem Stadium. Differenzialdiagnostisch sollte hierbei an ein DHGTC gedacht werden. Die Angabe eines aggressiven Subtyps (insbesondere der Hobnail Variante) erfordert den Ausschluss von regressiven Prozessen im klassischen PTC, welche auch hobnailartige Veränderungen zeigen können. Auch die aggressiven Subtypen können als klinisch nicht aggressiv und insbesondere bei jüngeren Patienten auch bekapselt auftreten. In diesen Fällen fehlen die pathologischen Zeichen wie extrathyreoidale Extension, Lymph- und Veneninfiltration sowie Lymphknotenmetastasen , . Auch für den diffus sklerosierenden und soliden bzw. trabekulären Subtyp sind Fälle mit aggressiven klinischen Verläufen beschrieben. Ob eine prognostische Bedeutung nach Einführung der Entitäten des PDTC und des DHGTC als mögliche Differentialdiagnose in kommenden Studien bestätigt werden kann bleibt abzuwarten Das papilläre Schilddrüsenmikrokarzinom (PTMC) wird in der 5. Auflage der WHO- Klassifikation nicht weiter als Subtyp geführt werden, da es sich nicht um einen histomorphologischen Subtyp handelt und nur noch als PTC mit entsprechender Größenangabe (entspricht TNM-Stadium pT1a) benannt. Auch PTC mit einem Durchmesser ≤ 1 cm können primär mit Lymphknotenmetastasen klinisch auffällig werden , . Diese Tumoren unterscheiden sich somit offenbar biologisch von inzidentellen kleinen PTC ohne vorherigen klinischen Malignitätsverdacht. Es bietet sich somit an, die prognostische Aussagekraft von histologischen Subtypen des PTC im TNM-Stadium pT1a, insbesondere bei inzidentellen Tumoren, kritisch zu hinterfragen. Onkozytäres Schilddrüsenkarzinom (OTC) / Hürthle-Zell-Karzinom Tumoren mit einem Anteil von >75% an oxyphil differenzierten Zellen werden dann als Hürthle-Zell-Neoplasien bezeichnet, wenn ihr Aufbau grundsätzlich einem Adenom oder einem FTC entspricht. In der WHO-Klassifikation (4. Auflage, 2017) werden Hürthle-Zell-Neoplasien als eigene Entität geführt, bis dahin wurden diese Tumoren als Adenom, oxyphile Variante, oder FTC, oxyphile Variante, klassifiziert. In der 5. Auflage der WHO-Klassifikation wurde der Name in onkozytäres Schilddrüsenkarzinom geändert. Onkozytär differenzierte PTC, PDTC und MTC werden weiterhin als onkozytäre Varianten des jeweiligen Tumortyps klassifiziert. Das onkozytäre Schilddrüsenkarzinom / Hürthle-Zell-Karzinom wird anhand der diagnostischen Kriterien des FTC von onkozytären Adenomen / Hürthle-Zell- Adenomen unterschieden; ebenso werden onkozytäre Karzinome / Hürthle-Zell- Karzinome in minimal invasiv, gekapselt angioinvasiv und breit invasiv tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 subklassifiziert. Breit invasive onkozytäre Schilddrüsenkarzinome / Hürthle-Zell- Karzinome müssen von der onkozytären Variante des PDTC abgegrenzt werden. Gering differenziertes Karzinom (PDTC) Das PDTC ist morphologisch und biologisch zwischen dem differenzierten (FTC, PTC) und dem ATC angesiedelt. Die diagnostischen Kriterien wurden 2007 im sogenannten Turin-Proposal festgelegt . PDTC zeigen einen soliden, trabekulären und/oder insulären Aufbau (sog. STI- Pattern), meist finden sich zwei oder auch alle drei Muster in unterschiedlicher Ausprägung nebeneinander. Dazu muss noch mindestens eines der drei Kriterien Nekrosen, Mitosen (≥3/2mm²) und kondensierte Zellkerne (convoluted nuclei) zur Diagnose PDTC nachweisbar sein. In der Mehrzahl der Fälle bestehen zusätzlich eindeutige Zeichen der Invasion (Gefäßeinbrüche, breit invasives Wachstum), in Einzelfällen erfolgt die Diagnose aber ausschließlich anhand des STI-Pattern und dem Nachweis von Tumornekrosen und/oder der Mitosen (≥3/2mm²). Bisher sind keine für das PDTC spezifischen molekulargenetischen Alterationen bekannt. Differenziertes high-grade Schilddrüsenkarzinom (DHGTC) Trotz der klinisch oft indolent verlaufenden differenzierten Schilddrüsenkarzinome (PTC und FTC) kommt es bei einem Teil der Patienten zu Fernmetastasierung und Rezidiven und Versagen der Radioiodtherapie. Neben molekularen Risikofaktoren (siehe Kapitel 3.2) konnten in den letzten Jahren histomorphologische Kriterien für differenzierte Karzinome mit ungünstigem Krankheitsverlauf identifiziert und mit der 5. Auflage der WHO-Klassifikation die Tumorentität des differenzierten high-grade Schilddrüsenkarzinoms (DHGTC) eingeführt werden. Aufgrund der fehlenden insulären, soliden oder trabekulären Architektur konnten diese Tumoren nicht als schlecht differenzierte Schilddrüsenkarzinome (PDTC) eingeordnet werden. Ähnlich wie beim PDTC und beim high-grade MTC ist auch hier ein wichtiges Kriterium die Teilungsaktivität der Tumorzellen. Der Nachweis von fünf oder mehr Mitosen auf 2 mm² stützen die Diagnose eines DHGTC. Ein alternatives/additives Kriterium ist der Nachweis von echten Tumornekrosen, welche von fokalen ischämisch bedingten Nekrosen abgegrenzt werden müssen. Als zusätzliches Kriterium kommt beim PDTC nach Maßgabe der Turin-Kriterien noch die kondensierten Zellkerne (convoluted nuclei) zum Tragen. Diese sind in der Praxis jedoch aufgrund der hohen Interobserver-Variabilität ein eher unsicheres Kriterium. Für die Diagnose des DHGTC spielen diese Kernveränderungen keine Rolle . tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 ch der histomorphologischen Kriterien zur Diagnose eines PDTC bzw. ches Kriterium kommt beim PDTC nach Maßgabe der Turin-Kriterien noch ellkerne (convoluted nuclei) zum Tragen. Diese sind in der Praxis jedoch Interobserver-Variabilität ein eher unsicheres Kriterium PDTC DHGTC itektur solide / insulär / trabekulär FTC- / PTC-artig osen ja ja / oder sen ≥ 3 / 2mm² ≥ 5 / 2mm² Anaplastisches Schilddrüsenkarzinom (ATC) Das anaplastische Schilddrüsenkarzinom (ATC) - oder früher auch undifferenziertes Schilddrüsenkarzinom (UTC) - ist im Vergleich zu den differenzierten Schilddrüsenkarzinomen selten, trägt aber aufgrund der oft extrem schlechten Prognose wesentlich zur Letalität von Schilddrüsenkarzinomen bei. Bei Diagnosestellung liegt aufgrund des rasanten Wachstums häufig ein fortgeschrittenes Tumorstadium vor. Mikroskopisch ist das ATC durch ein weitgehendes Fehlen von für Schilddrüsenkarzinome typischen histomorphologischen und immunhistochemischen Charakteristika definiert, so dass es sich in erster Linie um eine Ausschlussdiagnose in Zusammenschau der klinisch-radiologischen Befunde sowie der Anamnese des Patienten handelt. In vielen Fällen kann eine Pan-Zytokeratin sowie eine PAX8- Positivität nachgewiesen werden. Marker wie TTF1 und Thyreoglobulin sind in der Regel negativ. Immunhistochemisch abzugrenzen ist das ATC in jedem Fall von einem Angiosarkom, Lymphomen und einem medullärem Schilddrüsenkarzinom. Die paucizelluläre Variante des ATC kann aufgrund seiner Klinik und seiner extremen Zellarmut insbesondere bei Biopsien differentialdiagnostisch schwer von einer Riedel- Struma abzugrenzen sein. In einigen Fällen können differenziertere Anteile (FTC, PTC, PDTC, DHGTC) im ATC vorliegen. Entsprechend der Entdifferenzierung lassen sich beim ATC zahlreiche molekulare Aberrationen nachweisen. Dabei können auch sämtliche für die differenzierten Schilddrüsenkarzinome typischen Mutationen auftreten. In speziellen Fällen (z. B. BRAF V600E, RET-Fusion, NTRK-Fusion) ergibt sich daraus eine Therapieoption mittels für das ATC zugelassener molekular zielgerichteter Therapeutika oder auch die Möglichkeit eines individuellen Heilversuchs. Somit ist je nach klinischem Kontext eine genomweite Parallelsequenzierung mittels eines großen Genpanels und anschließender Diskussion im interdisziplinären molekularen Tumorboard anzuraten. Häufigkeit der verschiedenen Entitäten Es gibt nur wenig aktuellere, belastbare Daten hinsichtlich der Verteilung der histologischen Typen von Schilddrüsenkarzinomen in Deutschland. In einer repräsentativen Populationsstudie aus Unterfranken, in der die Veränderungen von tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 1981-2015 in 5-Jahresintervallen analysiert wurden , fand sich eine Zunahme der Schilddrüsenkarzinom-Inzidenz von insgesamt 4,5 auf 8,7/100.000/Jahr bei Frauen und von 1,7 auf 4,1/100.000/Jahr bei Männern, die überwiegend den papillären Schilddrüsenkarzinomen zuzuschreiben ist, während die Inzidenz von anaplastischen Schilddrüsenkarzinomen abnahm bei weitgehend konstantem Anteil von follikulären Schilddrüsenkarzinomen. Im letzten analysierten 5-Jahresintervall 2011-2015 fand sich eine Inzidenz von papillären bzw. follikulären und anaplastischen Schilddrüsenkarzinomen von 7,60 bzw. 1,06 und 0,08/100.000/Jahr bei Frauen und von 3,41 bzw. 0,63 und 0,04 /100.000/Jahr bei Männern. Eine ähnliche Entwicklung wurde auch in einer Populations-basierten Studie aus 25 Ländern beschrieben . Was das TNM-Stadium betrifft, zeigte sich in der Studie aus Unterfranken im analysierten Zeitraum 1981 bis 2015 eine signifikante Zunahme der T1-Stadien bei gleichzeitiger Abnahme der T4- und M1-Stadien, andererseits aber auch eine signifikante Zunahme der T3-Stadien und des Lymphknotenbefalls, was gegen eine Überdiagnostik als alleinige Ursache der beobachteten Inzidenzzunahme von Schilddrüsenkarzinomen spricht .",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 63,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "WHO"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_4_9_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "4.9",
+    "kapitel": "Zytologie / Pathologie",
+    "unterkapitel": "Befundsystem",
+    "thema": "Zytologie",
+    "statement": "Für die Schilddrüsenzytologie soll ein etabliertes Befundungssystem (z. B. 5-stufig/Bethesda) verwendet werden.",
+    "answer": true,
+    "explanation": "EK 4.9. Standardisiertes zytologisches Kategoriensystem.",
+    "leitlinie_wortlaut": "Es soll ein etabliertes zytologisches Befundungssystem verwendet werden. In einem Strumaendemiegebiet wie Deutschland kann das 5-stufige zytologische Befundungssystem verwendet werden, welches die Befundkategorie „AUS/FLUS“ des Bethesda-Systems aufteilt und folgende Befundkategorien beinhaltet: • SD-Befundkategorie I – nicht diagnostisches Punktat • SD-Befundkategorie II – zytologisch benignes Punktat • SD-Befundkategorie III –follikuläre Neoplasie/Verdacht auf follikuläre Neoplasie • SD-Befundkategorie IV –malignomverdächtiges Punktat • SD-Befundkategorie V – zytologisch sicher maligne as von der ATA empfohlene System zur Kategorisierung von Schilddrüsenpunktaten st die 6-stufige Bethesda-Klassifikation , . Dagegen werden in Europa 5- tufige Befundsysteme (Großbritannien und Italien ) angewandt. Auf der rundlage der in Deutschland vorgeschlagenen strikten Punktionsindikation Punktion nur bei klinisch und/oder sonographisch auffälligen, szintigraphisch nicht- yperfunktionellen „Knoten“) wurde ein 5-stufiges Befundsystem empfohlen, in dem ie Befund-Kategorie III (Abnormität unbestimmter Signifikanz/ follikuläre Läsion nbestimmter Signifikanz) nach dem 6-stufigen Bethesda-System entfällt und in bhängigkeit vom Schweregrad der zytologischen Auffälligkeiten de facto den efund-Kategorien II oder III des 5-stufigen Systems zugerechnet wird . In der achfolgenden Tabelle 3.4 werden die genannten vier Befundsysteme vergleichend egenübergestellt. linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 h unterschiedlicher Befund-Systeme für die Schilddrüsenzytologie Britisches System Italienisches System Deutsches System (Cross 2016) (Nardi et al. 2014) (Ting et al. 2015) Thy1 TIR 1 SD-Befund-Kategorie I Nicht diagnostisch Nicht-diagnostisch Nicht diagnostisch oder nicht (TIR 1C nicht- ausreichend diagnostisch zystisch) (zystische Läsionen werden gesondert gekennzeichnet Thy2 TIR 2 SD-Befund-Kategorie II Nicht-neoplastisch Nicht-maligne Zytologisch benigne (zystische inklusive Läsionen werden (thyreozytenfreie) gesondert Zystenpunktate gekennzeichnet und mildere zytologische Abnormitäten unterschiedlicher Ursachen I Thy3a TIR 3A Neoplasie möglich Unklare Läsion, geringes - Risiko Abnormität/nicht- diagnostisch Thy3f TIR 3B SD-Befund-Kategorie III Neoplasie Unklare Läsion, hohes Follikuläre möglich, Risiko Neoplasie/Verdacht auf wahrscheinlich follikuläre Neoplasie sie follikuläre in diese Kategorie fallen Neoplasie auch alle zytologischen Abnormitäten, die wahrscheinlich einer Neoplasie entsprechen linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 Britisches System Italienisches System Deutsches System (Cross 2016) (Nardi et al. 2014) (Ting et al. 2015) Thy4 TIR 4 SD-Befund-Kategorie IV Verdacht auf Verdacht auf Malignität Verdacht auf Malignität Malignität Bei entsprechenden Kernveränderungen „Verdacht auf PTC“ Verdacht auf andere, nicht FTC/PTC Malignome Thy5 TIR 5 SD-Befund-Kategorie V Maligne Maligne Zytologisch maligne Die unten aufgeführten, in Deutschland empfohlenen Befund-Kategorien gelten für Punktate aus der Schilddrüse, nicht aber für Punktate bei Verdacht auf Metastasen eines Schilddrüsenmalignoms in regionären Lymphknoten oder anderen Lokalisationen. Ebenso sollen Punktate, die unerwarteterweise Nebenschilddrüsengewebe zeigen (para- oder intrathyreoidal punktiert) nicht nach dem angegebenen Schema kategorisiert werden. Für ein repräsentatives Punktat sollten optimalerweise mindestens fünf Follikelzellverbände mit jeweils zumindest 10 Zellen vorliegen (nicht notwendig, wenn Zellen nachgewiesen werden, die eindeutig den SD-Befundkategorien IV oder V zuzuordnen sind, oder wenn Zysten punktiert wurden, s. unten). SD-Befund-Kategorie I (nicht diagnostisch) Auch bei erfahrenen Punkteuren sind mindestens 10 – 15% der Punktate als technisch inadäquat zu erwarten. Neben Aspekten der Punktionsdurchführung wie Verfehlen der Läsion (sog. Sampling-Error) kann auch die Natur der punktierten Läsion (z. B. ausgeprägte Regression, stromareiche oder mit ausgeprägten Verkalkungen versehene Läsionen) die Ursache eines nicht diagnostischen Präparates sein. Somit hängt die Rate nicht diagnostischer Punktate maßgeblich auch vom punktierten Kollektiv ab. Punktate aus Blutungszysten (Siderophagen und Blut) oder Kolloidknoten (zytologisch kolloidreiches Bild) werden bei passender Klinik auch trotz des Fehlens von Thyreozyten als repräsentativ (Kategorie II) eingestuft. (Für derartige Knoten besteht keine Punktions-Indikation im Sinne einer Dignitätsabklärung; größere, lokal symptomatische zystische Läsionen können aber zur Entlastung punktiert werden.) Bei der „SD-Befundkategorie I – nicht diagnostisches Punktat“ - ist eine zeitnahe Re- Punktion empfohlen, oder (insbes. bei wiederholtem nicht-diagnostischen Punktat) im individuellen Fall die histologische Abklärung. Bei dieser Befundkategorie wurden linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 alignitätsraten bis nahezu 30 % beschrieben , , . Zudem wurden bei ieser Kategorie in Vergleichsstudien bei Kindern höhere Malignitätsraten als bei rwachsenen gefunden . D-Befundkategorie II – zytologisch benigne n Abhängigkeit vom Patientenkollektiv und der Erfahrung des Zytopathologen ntsprechen 50 – 90% aller FNP dieser Kategorie. Punktionen aus zystischen Läsionen ollten bei entsprechender Klinik auch bei fehlenden adäquaten Thyreozytenzahlen ieser Befundkategorie zugeordnet werden, sofern entsprechende Bestandteile achgewiesen werden, die zu einer Zyste passen (Makrophagen, Siderophagen, ibrin…). ei primär korrekter Indikationsstellung zur Punktion ist auch bei Befundkategorie II on einem fortbestehenden Restrisiko (Malignitätsquote bis zu 3 %) auszugehen. aher entbindet auch die Befundkategorie II nicht von der Verantwortung, die ntwicklung der Läsion weiter zu verfolgen, um bei suspekten Veränderungen eine e-Punktion oder weitergehende Maßnahmen zur Dignitätsabklärung zu veranlassen. eringfügig auffällige/unklare zytologische Bilder, die nicht den Befundkategorien III V entsprechen, sollten unter Berücksichtigung der klinischen Angaben der efundkategorie II zugeordnet werden; bei entsprechender Indikation zur Punktion nur klinisch und/oder sonographisch auffällige Knoten) sollte insbesondere in erartigen Fällen eine klinische Kontrolle, ggf. unter Einschluss einer Re-Punktion ewährleistet sein. Höhergradige zytologische Abnormitäten sollten bei klinisch nd/oder sonographisch auffälligem Befund einer Operation und abschließenden istologischen Klassifizierung zugeführt werden. Aus diesem Grund kann auf eine ytologische Kategorie analog der Befund-Kategorie III der Bethesda-Klassifikation AUS/FLUS) verzichtet werden. D-Befundkategorie III - follikuläre Neoplasie/Verdacht auf follikuläre Neoplasie twa 5 – 20% aller FNP entsprechen der Befund-Kategorie III, von denen postoperativ 0 – 40% histologisch als Karzinome (überwiegend FTC, aber auch PTC) klassifiziert erden . Auch histologisch als NIFTP klassifizierte Tumoren können zytologisch iner follikulären Neoplasie entsprochen haben. Die zytologische Diagnose eines ollikulären Karzinoms durch Eingruppierung in SD-Befundkategorie V ist rundsätzlich nicht möglich, da für die Diagnose histologische Kriterien Kapseldurchbruch / Gefäßeinbruch) gefordert werden. Ebenso ist es nicht sinnvoll, m Rahmen der SD-Befundkategorie IV die zytologische Verdachtsdiagnose follikuläres Karzinom“ zu stellen. Selbst in auffallend zellreichen Punktaten mit usgeprägten Atypien wäre die Festlegung auf ein follikuläres Karzinom usschließlich anhand zytologischer Kriterien nicht begründbar ; sie stellt mgekehrt sogar eine der häufigsten Ursachen „falsch-positiver“ Befunde dar. ie Befundkategorie III sollte sparsam diagnostiziert werden, mäßiggradige ellvermehrung und/oder einzelne Zellen mit Kerngrößenschwankungen rechtfertigen icht per se die Diagnose einer „follikulären Neoplasie“. Diese Zellbilder sollten als zytologisch negativ“ (SD-Befundkategorie II) mit dem Hinweis zur klinischen Kontrolle nd ggf. Re-Punktion kategorisiert werden. Die methodenbedingte höhere Zellularität n der Dünnschichtzytologie empfiehlt einen restriktiveren Einsatz dieses Kriteriums 296]. linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 nkozytär differenzierte follikuläre Neoplasien werden statistisch häufiger ostoperativ zur Diagnose eines Hürthle-Zell-Karzinoms (oder onkozytäres childdrüsenkarzinom nach neuer WHO-Klassifikation; früher FTC, onkozytäre ariante) führen als bei zytologisch nicht-onkozytär differenzierten follikulären eoplasien. Grundsätzlich ist aber auch bei onkozytär differenzierten Neoplasien eine zytologische Unterscheidung zwischen benignen und malignen Tumoren öglich. Onkozytäre Zellen kommen im Übrigen auch metaplastisch in notenstrumen und bei der Autoimmunthyreoiditis Hashimoto vor. Einzelne nkozyten oder ein lymphozytenreiches Punktat mit onkozytären Zellen sollten daher benfalls als „zytologisch negativ“ (SD-Befundkategorie II) kategorisiert werden. agegen sollten Punktate, die ausschließlich onkozytäre Zellen beinhalten, als ategorie III klassifiziert werden. älle mit Verdacht auf die follikuläre Variante eines papillären Karzinoms sollten der D-Befundkategorie IV (Verdacht auf Malignom) zugeordnet werden; durch den insatz entsprechender molekularer Marker (BRAF V600E, RET-Fusionen, NTRK- usionen) kann es in einem Teil dieser Fälle gelingen, Malignität zu sichern, wodurch iese Fälle dann der SD-Befundkategorie V zuzuordnen sind. ei der „SD-Befundkategorie III – follikuläre Neoplasie“ ist die Operation zur istologischen Dignitätsbeurteilung empfohlen. Im Einzelfall können – in bhängigkeit von der individuellen Situation (Komorbidität, Risikofaktoren, Alter, her negative OP-Einstellung) - andere Kriterien herangezogen werden, durch die das alignomrisiko hinreichend gesenkt werden kann (s. Kapitel 2). D-Befundkategorie IV – Verdacht auf Malignom ax. 5 % aller FNP entsprechen der Befund-Kategorie IV. Diese Befundgruppe umfasst ellbilder, die keine Eingruppierung als benigne ermöglichen, aber nicht für die iagnose „sicher maligne“ ausreichen; die Zellen können von einem papillären, edullären, gering differenzierten oder anaplastischen Karzinom, einem malignen ymphom oder einer Metastase, aber auch von benignen Läsionen, die mit ytologischen Auffälligkeiten einhergehen, stammen. Bei mindestens 70 – 80% der efunde in dieser Kategorie liegt der Verdacht auf ein papilläres Karzinom vor. Durch ie Einführung der NIFTP ist zytologisch die definitive Diagnose (Befundkategorie V) ines PTC nur mehr in Einzelfällen möglich (eindeutige Papillen, sammomkörperchen), da zur histologischen Diagnose eines PTC nunmehr Invasion nd/oder eindeutige Papillen notwendig sind . Nach der neuen WHO- lassifikation (2022) wird für die Diagnose eines NIFTP ein Anteil von < 1 % indeutiger Papillen toleriert; dies erschwert die korrekte Zuordnung von eindeutigen apillen hinsichtlich ihrer Dignität im Rahmen der zytologischen Befundung. Auch ntzündliche Veränderungen der Schilddrüse können reaktive Kernveränderungen ervorrufen, die äußerst schwierig von denen eines papillären Karzinoms oder NIFTP u unterscheiden sind. Mit Hilfe molekularpathologischer Marker (BRAF V600E, RET- usionen, NTRK-Fusionen) gelingt in einem Teil der Fälle eine Zuordnung zur efundkategorie V (zytologisch maligne) ; ein negatives olekularpathologisches Ergebnis kann einen begründeten zytologischen alignitätsverdacht nicht beseitigen. ie SD-Befundkategorie IV ist eine Indikation zur Operation mit nachfolgender istologischer Dignitätsbeurteilung. Die histologische Untersuchung der dieser efundkategorie zugeordneten Fälle sollte in mindestens 45 – 60% ein Malignom rgeben. linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 D-Befundkategorie V – zytologisch maligne ax. 2 % aller FNP entsprechen der Befund-Kategorie V. Dieser Kategorie ntsprechende Befunde müssen entweder zytologische Veränderungen aufweisen, die ür ein Karzinom sprechen (siehe unten) oder bei denen ein Karzinom durch ntsprechende Zusatzuntersuchungen (Immunhistochemie, Molekularpathologie) estätigt werden kann. urch die Etablierung der NIFTP hat die Anzahl der PTC, die anhand der Zytologie indeutig diagnostiziert werden können, deutlich abgenommen; in einem Teil der älle, die zytologisch primär als „Verdacht auf PTC“ kategorisiert werden können, ann durch den Nachweis bestimmter genetischer Alterationen (BRAF V600E- unktmutationen, RET/PTC-Fusionen, NTRK-Fusionen) eine eindeutige PTC-Diagnose rreicht werden . Punktate aus einem MTC können regelmäßig anhand typischer ytologischer Kriterien identifiziert werden; in Zweifelsfällen kann der mmunzytologische Nachweis von Calcitonin ein MTC sichern. Punktate aus ATC eigen hochgradig atypische Tumorzellen und häufig auch reichlich segmentkernige ranulozyten aus nekrotischen Tumorarealen. Die zytologische Diagnose eines ering differenzierten Karzinoms (PDTC) und auch der neuen Entität eines ifferenzierten high-grade Schilddrüsenkarzinoms (Dv HGTC, WHO 2022) ist in vielen ällen nicht möglich; insbesondere sind die in einem Teil des PDTC nachweisbaren convoluted nuclei“ nicht eindeutig von Kernveränderungen des papillären Karzinoms u unterscheiden, wodurch die überwiegende Mehrzahl der PDTC nur histologisch orrekt klassifiziert werden kann. Die eindeutige zytologische Diagnose eines niedrig- alignen Non-Hodgkin-Lymphoms ist kaum möglich. Hoch-maligne Non-Hodgkin- ymphome werden regelmäßig mit (gering differenzierten oder undifferenzierten) arzinomen verwechselt; entsprechende Lymphozytenmarker können mmunzytochemisch hilfreich sein. Angiosarkome zeigen ein typisches Zellbild und mmunzytochemisch entsprechende Gefäßmarker (CD31, Faktor VIII, ERG ranskriptionsfaktor). as Vorliegen maligner Zellen sollte differenzialdiagnostisch auch an Metastasen in er Schilddrüse denken lassen, wenn diese nicht eindeutig (ggf. mit Hilfe der mmunzytochemie) einem primären Malignom der Schilddrüse zugeordnet werden önnen. In diesem Zusammenhang wird auf die Wichtigkeit der klinischen Angabe on bekannten extrathyreoidalen Malignomen bei der Einsendung von FNP-Material ingewiesen (s. Abschnitt 3.2.4). dealerweise entsprechen alle zytologisch als „sicher maligne“ klassifizierten Punktate alignomen. In der Praxis ist allerdings mit 1 – 3% falsch-positiven Befunden zu echnen. linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 olekularpathologische Untersuchungen des childdrüsenfeinnadelpunktats",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 76,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Bethesda",
+      "Zytologie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_4_11_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "4.11",
+    "kapitel": "Zytologie / Pathologie",
+    "unterkapitel": "Anaplastisch",
+    "thema": "Pathologie",
+    "statement": "Bei Verdacht auf ein anaplastisches Schilddrüsenkarzinom genügt eine Feinnadelpunktion zur Diagnosesicherung.",
+    "answer": false,
+    "explanation": "EK 4.11: bei ATC-/Lymphomverdacht KEINE FNP, sondern histologische Sicherung (Stanze/offene Biopsie).",
+    "leitlinie_wortlaut": "Bei Verdacht auf ein anaplastisches Schilddrüsenkarzinom oder ein Lymphom soll keine Feinnadelbiopsie, sondern eine histologische Sicherung durchgeführt werden – z. B. durch eine Stanzbiopsie. ür den Nachweis eines anaplastischen Schilddrüsenkarzinoms, eines Lymphoms oder rganfremder Metastasen ist die Stanzbiopsie der FNP deutlich überlegen . Im nterschied zur FNP können im Falle einer repräsentativen Stanzbiopsie iagnosesichernde histomorphologische und ausführliche immunhistochemische efunde erhoben werden. uch wenn starke regressive Veränderungen einschließlich Verkalkungen in den noten vorliegen, wird von einer Überlegenheit der Stanzbiopsie gegenüber der FNP erichtet , . ei einem Teil stanzbioptischer Präparate von follikulären Neoplasien lassen sich ngioinvasionen nachweisen und damit die Diagnose des Follikulären Karzinoms ichern. Dies ist zytologisch grundsätzlich nicht möglich. Park et al. berichten für die iagnose des follikulären Karzinoms eine signifikante Überlegenheit der Stanzbiopsie egenüber der Zytologie . linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 ntraoperativer Gefrierschnitt efinition Beim intraoperativen Gefrierschnitt werden von chirurgischer Seite noch während der laufenden Operation das entnommene Organ, Lymphknoten oder Biopsien der Pathologie unfixiert übergeben. Das Gewebe wird in einem Schnellverfahren makroskopisch begutachtet und exemplarisch - oder bei kleinen Proben komplett - im tiefgefrorenen Zustand aufgearbeitet. Die dadurch gewonnenen HE (Hämatoxylin- Eosin) gefärbten Präparate ermöglichen dann in vielen Fällen eine schnelle, intraoperative histologische Aussage. llgemeine Indikationen",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 83,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "anaplastisch",
+      "Histologie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_4_12_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "4.12",
+    "kapitel": "Zytologie / Pathologie",
+    "unterkapitel": "Gefrierschnitt",
+    "thema": "Pathologie",
+    "statement": "Bei präoperativem Verdacht auf einen malignen Schilddrüsenknoten soll ein intraoperativer Gefrierschnitt zur Dignitätsklärung durchgeführt werden.",
+    "answer": true,
+    "explanation": "EK 4.12. Schnellschnitt steuert das OP-Ausmaß intraoperativ.",
+    "leitlinie_wortlaut": "Bei präoperativem Verdacht auf einen malignen Schilddrüsenknoten soll ein intraoperativer Gefrierschnitt zur Dignitätsklärung durchgeführt werden, ausgenommen des Vorliegens eines Befundes der Kategorie V (5-stufiges Befundsystem: entsprechend Malignität) einer vorangegangenen FNP. • Der intraoperative Gefrierschnitt verfolgt das Ziel, die Dignität eines Präparates bzw. den histologischen Typ eines klinisch auffälligen Herdbefundes intraoperativ festzulegen, um damit beizutragen, einzeitig den dem pathologischen Befund angemessenen chirurgischen Eingriff durchzuführen. • Die einzeitige Operation hat ein niedrigeres Komplikationsrisiko hinsichtlich einer Recurrensparese und eines Hypoparathyreoidismus. Ein weiterer Grund für anzustrebende Einzeitigkeit können ältere oder anderweitig eingeschränkte Patienten mit erhöhtem Anästhesierisiko sein. Dies bedeutet, dass der Gefrierschnitt dann eingesetzt werden sollte, wenn präoperativ bereits eine Dignitätsabschätzung mittels Klinik, Ultraschall, Szintigraphie und/oder Feinnadelpunktion stattgefunden hat. In Abhängigkeit davon ist unter Einbezug der Befunde, ihrer Malignitätswahrscheinlichkeit, der Wahrscheinlichkeit einer Änderung des intraoperativen Vorgehens und der histopathologischen Aussagekraft die Gefrierschnittuntersuchung einzusetzen. Das Ausmaß des chirurgischen Vorgehens kann dabei sowohl eine Ausdehnung erfahren, als auch dazu führen, dass eine chirurgische Übertherapie vermieden werden kann , , . • Falls das angestrebte einzeitige Vorgehen nicht möglich ist, sollte sowohl vonseiten der Chirurgie als auch der Pathologie ein standardisiert konzertiertes Vorgehen angewandt werden. Dies soll in der Regel eine endgültige histologische Diagnose spätestens innerhalb von 48h nach Präparateeingang gewährleisten, um eine eventuell notwendige Komplettierungsoperation innerhalb von 72 h zu ermöglichen, da ansonsten das Komplikationsrisiko des zweizeitigen chirurgischen Vorgehens stark ansteigt , linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 • Als weitere Einsatzmöglichkeit kann der intraoperative Gefrierschnitt von Lymphknoten dem Chirurgen bei kurativ intendierten Operationen insbesondere von papillären Schilddrüsenkarzinomen (PTC) und medullären Schilddrüsenkarzinomen (MTC) helfen, das Ausmaß der Lymphknotenresektion zu planen und ggf. auf eine laterale Lymphknotenresektion zu verzichten, um damit ein höheres Risiko von Nebenwirkungen für die Patienten zu vermeiden. • Prinzipiell ist der intraoperative Gefrierschnitt der Schilddrüse klinischerseits immer dann in Betracht zu ziehen, wenn eine definierte suspekte Läsion der Schilddrüse vorliegt, präoperativ ein histologisch abzuklärendes Ergebnis (follikuläre Neoplasie, Verdacht auf ein nichtfollikuläres Malignom) erhoben wurde, sich bildgebend eine suspekte Raumforderung ohne zytologische Befundklärung ergeben hat oder während der Operation suspekte Veränderungen (inkl. Lymphknoten) auffallen, die präoperativ nicht bekannt waren oder als benigne eingeschätzt wurden. • Die Durchführung des intraoperativen Gefrierschnitts erfordert pathologischerseits ein entsprechendes Maß an Erfahrung und sollte somit nur in Zentren mit hoher Frequenz (siehe Kapitel 5.7.1) von Schilddrüsenoperationen angewendet werden. Die nativ eingesandten Präparate werden in der Pathologie lamelliert, und nur die makroskopisch auffälligen Areale werden weiterbearbeitet. Die Untersuchung von Schilddrüsengewebe ohne makroskopisch definierbare Läsion ist - wie auch die Untersuchung unauffälliger Kolloidknoten einer Struma colloides nodosa - nicht erforderlich. Unnötige Gefrierschnitte tragen nicht zu einem intraoperativ relevanten Erkenntnisgewinn bei, sie können aber in der Paraffinhistologie dieses Gewebes durchaus aufgrund ihrer durch das Gefrieren bedingten differenten Morphologie (u.a. die Kernveränderungen beim PTC) für eine erschwerte endgültige Diagnosefindung verantwortlich sein. Aus diesem Grund ist auch zu empfehlen, auffällige Läsionen nur zum Teil im intraoperativen Schnellschnitt zu bearbeiten und weitere komplementäre Anteile für die endgültige Diagnose direkt in Formalin zu fixieren. Dies gilt insbesondere auch für winzige (0,1 bis 0,2 cm große) Läsionen, die primär nicht im intraoperativen Gefrierschnitt bearbeitet werden sollten , . • Für den Einsatz des intraoperativen Gefrierschnitts im Rahmen der Therapie des medullären Schilddrüsenkarzinoms (MTC) verweisen wir zudem auf das entsprechende Unterkapitel dieser Leitlinie. • Der Einsatz des intraoperativen Gefrierschnitts muss – im Gegensatz zur Vorgehensweise in anderen Ländern (insbesondere in den USA/Kanada) – in Iodmangelgebieten wie dem deutschsprachigen Raum aufgrund der häufigeren Knotenstrumen und damit einhergehend erschwerter präoperativer Diagnostik anders bewertet werden, als beispielsweise in den ATA-Leitlinien ausgeführt. So wird insbesondere in den Strumaendemiegebieten Mitteleuropas der intraoperative Gefrierschnitt, der zum Standardrepertoire der Schilddrüsenchirurgie gehört, in den angelsächsischen Ländern teils vehement abgelehnt , , , linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 84,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Gefrierschnitt"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_4_4_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "4.4",
+    "kapitel": "Zytologie / Pathologie",
+    "unterkapitel": "Lymphknoten",
+    "thema": "Pathologie",
+    "statement": "Der histopathologische Befund soll die Zahl der tumorbefallenen im Verhältnis zu den insgesamt untersuchten Lymphknoten aufführen.",
+    "answer": true,
+    "explanation": "EK 4.4. LN-Ratio im Befund.",
+    "leitlinie_wortlaut": "Der histopathologische Befund soll die Zahl der tumorbefallenen im Verhältnis zu den insgesamt untersuchten Lymphknoten aufführen. Ab der 6. TNM-Auflage (UICC 2002) fließt in das N-Stadium auch in genauerem Maße als zuvor die Lokalisation etwaiger Lymphknotenmetastasen ein.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 73,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Lymphknoten"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_2_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.2",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "PTMC Surveillance",
+    "thema": "Chirurgie",
+    "statement": "Ein unifokales Niedrigrisiko-PTMC soll grundsätzlich durch eine totale Thyreoidektomie behandelt werden; eine Beobachtung ist nicht zulässig.",
+    "answer": false,
+    "explanation": "EK 5.2: beim isolierten unifokalen PTMC ohne Risikofaktoren ist eine aktive Surveillance möglich.",
+    "leitlinie_wortlaut": "Ein isoliertes unifokales PTMC ohne aggressive zytologische Merkmale und ohne Risikofaktoren kann beobachtet werden, wenn sich der Patient > 30 Jahre im Rahmen eines „informed consent“-Aufklärungsprozesses unter Berücksichtigung insbesondere der Größen- und der Altersabhängigkeit des Rezidivrisikos dafür entscheidet. ie Inzidenz des papillären Schilddrüsenkarzinoms hat in den letzten Jahren in inzelnen Ländern stark zugenommen und betrug 2013 in den USA 4,5% der esamtbevölkerung . Im internationalen Vergleich ist die Frequenz der childdrüsenkarzinome in Deutschland jedoch weitgehend stabil . Papilläre ikrokarzinome (PTMC), definiert als papilläre Karzinome ≤1cm, stellen über 80% ller zufällig entdeckten papillären Karzinome der Schilddrüse (PTC) dar . Sie erden in Deutschland aufgrund der Empfehlung Knoten < 1cm nicht zu punktieren, ur selten präoperativ diagnostiziert. Diese Empfehlung kommt de facto einer eobachtungsstrategie gleich. Diese wurde für solitäre PTMC in einer normalen childdrüse von einigen Arbeitsgruppen durchgeführt , , , . ie Untersuchung von Miyauchi et al. (2018) an 1211 Pat. mit PTMC hatte zum Ziel, ie Wahrscheinlichkeit der Erkrankungsprogression auf die Lebenszeit abzuschätzen, iese beträgt für 20-29jährige 60,3%, 30-39jährige 37,1%, 40-49jährige 14.5%, 50- 9jährige 6,6% und über 70jährige 3,5% in einem Beobachtungszeitraum von 10 ahren. Bei 20jährigen wurde innerhalb von 10 Jahren in 46% bzw. 27% und bei über tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 0jährigen in 3% und unter 1% ein Tumorwachstum bzw. das Auftreten von ymphknotenmetastasen gesehen. Keiner der primär nur beobachteten und aufgrund er Progression später operierten Patienten hatte Fernmetastasen entwickelt oder ist n dem Tumor verstorben . Ein isoliertes unifokales PTMC ohne aggressive ytologische Merkmale (z. B. großzellige Variante, gering differenzierte Varianten) nd ohne Risikofaktoren (nicht kapselständig oder an der Trachea, keine zusätzlichen noten, keine Prädisposition, kein Verdacht auf eine Metastasierung, keine olekulargenetischen Risikoprofile) kann beobachtet werden, wenn sich der Patient m Rahmen eines „informed consent“-Aufklärungsprozesses dafür entscheidet . h et al. wiesen dagegen ein 100% höheres Risiko für die Verdopplung des umorvolumens bei Pat <45 Jahren nach . ls Patienten mit niedrigem Risiko galten nach Miyauchi diejenigen, die nur ein olitäres PTMC aufwiesen, primär keine Lymphknotenmetastasen und keine nfiltration der Schilddrüsenkapsel zeigten sowie nicht direkt an die Trachea oder den ervus laryngeus recurrens grenzten. Einschränkend muss hier erwähnt werden, dass nklar ist, wie hoch der Anteil der neu definierten NIFTP in dem Patientenkollektiv ist, a diese in Feinnadelpunktaten nicht von papillären Schilddrüsenkarzinomen ifferenziert werden können. ugitani et al. führten eine Befragung in japanischen Kliniken durch, von denen über 0% die „aktive Beobachtung“ ohne Operation bei Patienten mit geringem Risiko ornehmen . Jeon et al. konnten zusätzlich keinen negativen Effekt auf eine bis u einem Jahr nach Diagnose verzögerte Operation gegenüber sofort operierten atienten mit PTMC nachweisen . TMC weisen ein unterschiedliches biologisches Verhalten auf. Neben indolenten angsam progredienten Formen können aggressive Varianten abgegrenzt werden. Zu ieser Gruppe gehören multifokale PTMC sowie PTMC mit spezifischen genetischen erkmalen wie BRAF-Mutationen oder Veränderungen von Genen des stimulierten ell-Zyklus und der Stammzell-Aktivierung aufweisen , , , . ird ein solitäres papilläres Mikrokarzinom durch eine FNP gesichert und bestehen eine weiteren Risikofaktoren, kann eine Beobachtungsstrategie eine Alternative zur ofortigen Operation darstellen. Der Patient soll jedoch über das Risiko einer ggf. otwendigen erweiterten Resektion (z. B. Thyreoidektomie anstatt emithyreoidektomie und ggf. zusätzliche Lymphadenektomie) bei Progress des umors sowie über Art, Umfang und Dauer der notwendigen strukturierten erlaufskontrolle informiert werden. Zudem soll eine Aufklärung über die etablierte perative Therapie erfolgen. Die Empfehlung für eine konservative Therapie soll urch ein interdisziplinäres Tumorboard getragen, schriftlich fixiert und dem atienten erläutert werden. Eine systematische Erfassung dieser Pateinten und der erläufe in etablierte Register wird ausdrücklich angeregt. okalablative Verfahren des PTMC okal ablative Verfahren haben gegenüber einer Operation einen kosmetischen orteil, indem eine klassische Zervikotomie vermieden wird. Anhand einer etaanalyse von 12 Studien mit über 1.000 Patienten mit PTMC wiesen Tong et al. ach, dass die Radiofrequenzablation, Mikrowellen-Ablation und Laser-Ablation TMC-Foci effektiv lokal abladieren können . Zu gleichem Ergebnis kommen hen et al., die 13 Studien mit verschiedenen lokalen Ablationsverfahren als effektiv nd sehr komplikationsarm auswiesen . Lokal ablative Verfahren scheinen in tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 angzeituntersuchungen eine zur Operation vergleichbare Effektivität in der ehandlung des PMTC zu haben, prospektive Vergleichsstudien zu den klassischen hirurgischen Vorgehensweisen fehlen jedoch. Kritisch muss zu den in der etaanalyse eingeschlossenen Studien angemerkt werden, dass 9 der zitierten tudien aus China stammen, 3 aus Korea. 9/12 Studien waren retrospektiv. Bei 2 tudien, darunter der größten mit 412 Pat. aus China, waren weder das Alter noch as Geschlecht der Pat. bekannt. Nur bei 76% war das Schilddrüsenkarzinom nach der herapie nicht mehr nachweisbar. Nach MWA kam es bei 2,8% zu einer Blutung und ei 4,4% zu einer teils persistierenden Heiserkeit. Da keine Laryngoskopie erfolgte, ann der Prozentsatz an Recurrensparesen deutlich höher liegen. Zudem sind die achbeobachtungszeiten noch nicht ausreichend lang, für eine abschließende ewertung des Langzeitergebnisses. ls obligat gilt es dabei, den Patienten über die Bedeutung einer fehlenden Histologie owie über mögliche Einschränkungen der sonographischen Verlaufsbeurteilung ufzuklären und eine Aufklärung über die etablierte operative Therapie egenüberzustellen. Die Entscheidung für eine lokal ablative Therapie soll durch ein nterdisziplinäres Tumorboard getragen werden und idealerweise nur im Rahmen ines Studieneinschlusses erfolgen. peration des PTMC",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 103,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "PTMC",
+      "Active Surveillance"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "stadium": [
+        "low_risk"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_3_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.3",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "PTMC Hemi",
+    "thema": "Chirurgie",
+    "statement": "PTMC ohne Risikofaktoren sollten im Falle einer Operation durch eine Hemithyreoidektomie behandelt werden.",
+    "answer": true,
+    "explanation": "EK 5.3. Lobektomie ausreichend beim Niedrigrisiko-PTMC.",
+    "leitlinie_wortlaut": "PTMC ohne Risikofaktoren sollten im Falle einer chirurgischen Behandlung durch eine Hemithyreoidektomie therapiert werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 105,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "PTMC",
+      "Hemithyreoidektomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "stadium": [
+        "low_risk"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_7_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.7",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "Totale TX",
+    "thema": "Chirurgie",
+    "statement": "Beim PTC > 1 cm, multifokalem PTC, familiärem PTC und bei kapselüberschreitendem Wachstum sollte eine totale Thyreoidektomie erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 5.7 (Grad B). Total bei Risikokonstellationen.",
+    "leitlinie_wortlaut": "Beim PTC > 1cm, beim multifokalen PTC, beim familiären PTC, und unabhängig von der Größe des Primärtumors beim kapselüberschreitenden und beim metastasierten PTC sowie bei histologisch aggressiveren Varianten sollte die Thyreoidektomie durchgeführt werden.",
+    "evidenz": "Grad B; LoE 2b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 108,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Thyreoidektomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_5_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.5",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "cN1 zentral",
+    "thema": "Chirurgie",
+    "statement": "Beim cN1-PTC/PTMC sollte mit der totalen Thyreoidektomie eine zentrale Kompartmentresektion (Level VI) durchgeführt werden.",
+    "answer": true,
+    "explanation": "EK 5.5/5.9. Therapeutische zentrale LAD bei Lymphknotenbefall.",
+    "leitlinie_wortlaut": "Beim cN1-PTMC sollte in Verbindung mit der totalen Thyreoidektomie eine bilaterale zentrale Kompartmentresektion (Level VI) durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 107,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "zentrale Kompartmentresektion",
+      "cN1"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "stadium": [
+        "cn_plus"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_13_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.13",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "Laterale LAD",
+    "thema": "Chirurgie",
+    "statement": "Bei differenziertem Schilddrüsenkarzinom soll routinemäßig eine prophylaktische laterale Kompartmentresektion erfolgen.",
+    "answer": false,
+    "explanation": "EK 5.13: OHNE Hinweis auf laterale LK-Metastasen KEINE routinemäßige prophylaktische laterale LAD.",
+    "leitlinie_wortlaut": "Bei fehlendem Hinweis auf laterale Lymphknotenmetastasen soll auf eine routinemäßige prophylaktische laterale Kompartmentresektion verzichtet werden. aterale Lymphknotenmetastasen finden sich bei ca. 25 % der PTC-Patienten , 413]. Bei präoperativ palpatorischem, sonographischem, bioptischem oder ntraoperativ makroskopischem bzw. gefrierschnitthistologischem etastasenverdacht/-nachweis wird die Durchführung einer primären lateralen ompartmentresektion des befallenen Kompartments empfohlen , , , 59], , , . Ob die laterale Kompartmentresektion dabei auf bestimmte egionen des lateralen Kompartments beschränkt werden kann , , ist noch icht hinreichend durch Studien geklärt, sodass in der Regel die Durchführung einer ompletten Kompartmentresektion angezeigt ist. Bei ausgedehntem zentralen ymphknotenbefall (> 5 Lymphknotenmetastasen) ist in über 70 % sowohl das psilaterale als auch das kontralateral laterale Kompartimente befallen , sodass ierbei die Durchführung einer primären uni- oder bilateralen lateralen ompartmentresektion mit dem Ziel einer Minimierung des Rezidivrisikos und der ermeidung von Reoperationen gerechtfertigt ist. Alternativ kann ein sequentielles orgehen (Entscheid über laterale Kompartmentresektion nach Radioiodtherapie bzw. nderer Bildgebung) gewählt werden. Prinzipiell kann die laterale ompartmentresektion kann zweizeitig vorgenommen werden, wenn indikative aktoren zum Zeitpunkt der Operation nicht geklärt sind. ei fehlendem Hinweis für laterale Lymphknotenmetastasen und fehlendem oder nur inimalem zentralen Lymphknotenbefall ergibt sich insbesondere unter dem Aspekt er operativen Morbidität (Schulter-Arm-Syndrom, Lymphfistel) , , , 423], keine hinreichende Evidenz für die Empfehlung zur Durchführung einer rophylaktischen lateralen Kompartmentresektion , . eim PTC liegen in 1,6 – 21,8 % sog. „skip“-Metastasen im ipsilateralen lateralen ompartiment ohne gleichzeitige zentrale Lymphknotenmetastasen vor , , 428], , , . Dieser Metastasierungsweg wird bevorzugt bei rimärtumoren im oberen Schilddrüsenpol beobachtet , , , . tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 ediastinale Metastasen",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 111,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "laterale Kompartmentresektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_30_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.30",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "IONM",
+    "thema": "Chirurgie",
+    "statement": "Das intraoperative Neuromonitoring (IONM) soll bei beidseitiger Schilddrüsenoperation angewendet werden.",
+    "answer": true,
+    "explanation": "Empf. 5.30 (Grad A). IONM zur Schonung des N. recurrens (v. a. bilateral).",
+    "leitlinie_wortlaut": "Das intraoperative Neuromonitoring (IONM) soll bei beidseitiger Schilddrüsenoperation angewendet werden, bei besonderer Risikokonstellation vorzugsweise in Form des kontinuierlichen Neuromonitorings (CIONM). as intraoperative Neuromonitoring (IONM) ersetzt nicht den Goldstandard der isuellen Nervendarstellung, sondern wird in Ergänzung zu dieser eingesetzt. Die dentität des Nervus laryngeus recurrens kann sicher bestätigt und die ervenfunktionsfähigkeit bei über die Stimulation des übergeordneten Nervus vagus ach Resektion nachweisen. Eine Metaanalyse von 5 RCT – davon 4 mit sehr eringer Sicherheit der Evidenz – mit 1558 Pat. (781 randomisiert IONM, 777 visuelle ervenidentifikation) zeigte keinen signifikanten Vorteil des IONM zur Vermeidung er permanenten Rekurrensparese (RR 0.77, 95% CI 0.33 – 1.77; 4 Studien 2895 erves at risk. Dagegen findet sich für die Vermeidung passagerer Rekurrensparesen ei Anwendung des IONM ein tendenzieller Vorteil (RR 0.62, 95% CI 0.0 -1.08;). Dabei uss berücksichtigt werden, dass Studien im Allgemeinen von besonders erfahrenen hirurgen durchgeführt werden und mutmaßlich die Erfolge der IONM dadurch eniger deutlich ausfallen. Nur IONM ermöglicht bei geplanter beidseitiger Operation nd Signalverlust auf der ersten Seite eine Überprüfung der Strategie (z. B. weizeitiges Operationsvorgehen, mit dem die Gefahr einer beidseitigen ekurrensparese vermindert werden kann. Daher und da mit der IONM keine achteile verbunden sind, erfolgt eine starke positive Empfehlung. adioiodtherapie adioiodtherapie – Definition efinition: Bei der Radioiodtherapie (RIT) handelt es sich um die systemische pplikation von ¹³¹I (als Natrium-Iodid) zur selektiven internen Bestrahlung von enignem oder malignem iodspeicherndem Schilddrüsengewebe. Die RIT hat eine ohe therapeutische Breite und wird adjuvant, kurativ oder palliativ eingesetzt. u den malignen Tumoren, die wegen ihrer Fähigkeit, Iod anzureichern und zu peichern mit einer RIT behandelt werden können, zählen das PTC mit seinen istologischen Subtypen und das FTC, das onkozytäre Schilddrüsenkarzinom (alte ezeichnung: Hürthle-Zell-Tumoren) und das PDTC (= poorly differentiated thyroid arcinoma = schlecht differenziertes Schilddrüsenkarzinom). Die Wahrscheinlichkeit nd Fähigkeit, Radioiod anzureichern und damit auf eine RIT anzusprechen, differiert wischen diesen histologischen Typen. Onkozytäre Schilddrüsenkarzinome und das DTC sprechen im Mittel schlechter auf eine RIT an.",
+    "evidenz": "Grad A; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 122,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "IONM",
+      "Neuromonitoring"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_34_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.34",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "Metastasiert",
+    "thema": "Radioiod",
+    "statement": "Beim initial lymphogen oder hämatogen metastasierten PTC pT1a soll nach der Thyreoidektomie eine Radioiodtherapie erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 5.34 (Grad A). Metastasierung → RIT trotz kleinem Primarius.",
+    "leitlinie_wortlaut": "Beim initial lymphogen oder hämatogen metastasierten PTC pT1a (PTMC) soll nach der Thyreoidektomie eine Radioiodtherapie erfolgen. ie Publikation von Zhao et al. identifizierte das Vorliegen von Lymphknoten- etastasen bei Patienten mit papillärem Mikrokarzinom als Risikofaktor für Rezidive, o dass diese Patienten von einer Radioiodtherapie profitieren . ür das präoperativ diagnostizierte papilläre Mikrokarzinom zeigte eine Meta-Analyse on Mehanna et al. eine um den Faktor 14,7 höhere Rezidivwahrscheinlichkeit im ergleich zu dem histopathologisch zufällig entdeckten Mikrokarzinom . won et al. untersuchten in einer retrospektiven Kohortenstudie aus Seoul / Korea en Effekt der Radioiodtherapie beim papillären Mikrokarzinom. Von insgesamt 1932 atienten hatten 1648 eine Radioiodtherapie und 284 keine RIT nach totaler hyreoidektomie erhalten. Das Rezidivrisiko war bei einer mittleren achbeobachtungszeit von 8,3 Jahren identisch, aber nur unter der Voraussetzung, ass die Patienten keine Lymphknotenmetastasen im lateralen Halskompartiment und eine Fernmetastasen hatten . l-Qahtani et al. untersuchten den Nutzen der Radioiodtherapie bei Patienten mit apillärem Mikrokarzinom in einer retrospektiven Kohortenstudie im Zeitraum 2000 is 2012 . 326 Patienten hatten ein papilläres Mikrokarzinom, von denen 144 atienten eine Radioiodtherapie und 182 keine Radioiodtherapie erhielten. Während es medianen Nachbeobachtungszeitraums von 8,05 Jahren traten 23 Rezidive auf, nd zwar 8 (4,4%) in der mit Radioiod behandelten Gruppe und 15 (10,4%) bei den atienten, die keine Radioiodtherapie erhalten hatten. Das Vorliegen von ymphknotenmetastasen war in der uni- und multivariaten Analyse ein statistisch ochsignifikanter Risikofaktor für das krankheitsfreie Überleben (univariate Analyse K positiv 4,45 versus LK negativ 1,17, p < 0,0001 und multivariate Analyse LK ositiv 3,74 versus LK negativ 1,01, p < 0,0001). iese Publikationen begründen die Empfehlung zur Radioiodtherapie beim papillären ikrokarzinom beim Vorliegen von Lymphknoten und Fernmetastasen. eitere Publikationen befassen sich mit der Frage, wie häufig Lymphknoten- etastasen beim papillären Mikrokarzinom sind und wie häufig eine rankheitspersistenz in diesem Tumorstadium vorkommt. n einer Meta-Analyse von Qu et al. wurde aus 11 Studien eine Wahrscheinlichkeit für as Vorliegen von Lymphknotenmetastasen im zentralen Kompartiment von 30,2%",
+    "evidenz": "Grad A; LoE 2b",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 133,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Radioiodtherapie",
+      "metastasiert"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "adjuvanz",
+        "metastasen"
+      ],
+      "modalitaet": [
+        "radiojod"
+      ],
+      "stadium": [
+        "m1"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_35_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.35",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "pT1b pN0",
+    "thema": "Radioiod",
+    "statement": "Bei jedem PTC pT1b pN0 soll unabhängig von Risikofaktoren eine Radioiodtherapie durchgeführt werden.",
+    "answer": false,
+    "explanation": "Empf. 5.35: bei pT1b pN0 OHNE Risikofaktoren sollte nach kompletter OP KEINE RIT erfolgen.",
+    "leitlinie_wortlaut": "Bei Patienten mit PTC pT1b pN0 ohne Risikofaktoren sollte keine Radioiodtherapie durchgeführt werden, wenn durch die Operation bereits ein exzellentes Ergebnis erreicht wurde, andernfalls sollen die Vor- und Nachteile einer Radioiodtherapie individuell besprochen werden. eboulleux et al. publizierten eine prospektive randomisierte Studie (ESTIMABL2) zum utzen der RIT bei Patienten in den Tumorstadien pT1aN0, pT1aNx, pT1bN0 und T1bNx . In dieser französischen prospektiven ESTIMABL2-Studie wurden PTC- atienten in diesen Stadien thyreoidektomiert und danach in 2 Gruppen randomisiert: 89 Patienten erhielten eine RIT, 387 Patienten bekamen keine RIT. Die Operationen aren bereits primär als onkologische Operationen geplant und in 35 ausgewählten xpertenzentren durchgeführt worden. In beiden Gruppen waren bei 44% der atienten Lymphadenektomien im Rahmen der Thyreoidektomie erfolgt. Patienten mit ggressiven Tumorhistologien wurden ausgeschlossen. Angaben zum ebenwirkungsprofil (Rekurrensparesen, Hypoparathyreoidismus) fehlen in der ublikation. Nach 3 Jahren waren die Ergebnisse in beiden Gruppen vergleichbar, obei ein zusammengesetzter Endpunkt untersucht wurde, nämlich das Auftreten unktioneller, struktureller oder biochemischer Auffälligkeiten. Mehr als 95% der atienten hatten einen unauffälligen Verlauf und der Vorteil für die RIT betrug ediglich 0,3% (bei kleiner Fallzahl, p = n.s.). In der Nachbeobachtungszeit traten bei 6/367 Patienten (4,4%) auffällige Befunde in der Beobachtungsgruppe auf und bei 5/363 Patienten (4,1%) in der mit Radioiod behandelten Gruppe. Die Endpunkte aren in den Gruppen unterschiedlich definiert. In der mit Radioiod behandelten ruppe wurden Iodanreicherungen außerhalb des Schilddrüsenbettes als Ereignisse ezählt, was in der nicht mit Radioiod behandelten Gruppe erwartungsgemäß nicht öglich war. Dies bedeutet, dass in der mit Radioiod behandelten Gruppe das ensitivere Verfahren zum Einsatz kam. In der mit Radioiod therapierten Gruppe urden behandlungsbedürftige Befunde bei 10 Patienten gefunden, dies war bei nur Patienten in der Beobachtungsgruppe der Fall. Die Ergebnisse legen nahe, dass bei nkologisch ausgerichteter Operation der Nutzen der RIT sich auf wenige Patienten eschränkt und die Entscheidung zur RIT in diesem Tumorstadium von multiplen aktoren abhängt. Kritisch ist anzumerken, dass die Nachbeobachtungszeit mit 3 ahren sehr kurz war, und in radioiodtherapierten Gruppe sehr viel mehr Rezidive iagnostiziert worden sind. Das lässt mutmaßen, dass die Radioiodtherapie eine ensitivere Nachsorge ermöglicht hat. RIT wurde mit der à priori festgelegten",
+    "evidenz": "Grad B; LoE 1b",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 135,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Radioiodtherapie",
+      "Niedrigrisiko"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "radiojod"
+      ],
+      "stadium": [
+        "low_risk"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_38_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.38",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "pT4",
+    "thema": "Radioiod",
+    "statement": "Beim PTC pT4 soll nach der Thyreoidektomie keine Radioiodtherapie erfolgen.",
+    "answer": false,
+    "explanation": "Empf. 5.38 (Grad A): bei pT4 SOLL eine Radioiodtherapie durchgeführt werden (Hochrisiko).",
+    "leitlinie_wortlaut": "Beim PTC in der Risiko-Gruppe pT4 jedes N jedes M soll nach der Thyreoidektomie eine Radioiodtherapie erfolgen.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 140,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Radioiodtherapie",
+      "pT4"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "radiojod"
+      ],
+      "stadium": [
+        "high_risk"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_29_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.29",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "Erfahrung",
+    "thema": "Chirurgie",
+    "statement": "Schilddrüsenkarzinome sollten von in der Schilddrüsenchirurgie erfahrenen Chirurgen operiert werden.",
+    "answer": true,
+    "explanation": "Empf. 5.29 (Grad B). Komplikationsraten sinken mit Erfahrung/Fallzahl.",
+    "leitlinie_wortlaut": "Schilddrüsenkarzinome sollten von in der Schilddrüsenchirurgie erfahrenen Chirurgen operiert werden. Zahlreiche Studien haben gezeigt, dass „hospital and surgeon volume“ einen wesentlichen Einfluss auf die Komplikationsraten von Schilddrüsenoperationen haben. Im Evidenzreport wurde ein Review von Meta-Analysen berücksichtigt, der die Publikationen , , , , , , bewertet. Die Datenlage ist insgesamt heterogen, insbesondere bezüglich der Anforderungen an den einzelnen Operateur, was nicht zuletzt daran liegt, dass in den Studien nicht immer explizit Thyreoidektomien gegenüber Schilddrüsenoperationen abgegrenzt wird. Bei insgesamt geringem Vertrauen in die Evidenzqualität, wird die Empfehlung ausgesprochen. Auf der Datenbasis erscheint die Forderung einer Mindestzahl von 100 Thyreoidektomien pro Jahr in der Einrichtung und von mehr 50 Thyreoidektomien pro Operateur und Jahr angemessen . linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 Neuromonitoring",
+    "evidenz": "Grad B; LoE 2a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 121,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Erfahrung",
+      "Chirurg"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren",
+        "tumorkonferenz"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_5_23_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "5.23",
+    "kapitel": "Initialtherapie diff. SD-Ca",
+    "unterkapitel": "WIFTC",
+    "thema": "Chirurgie",
+    "statement": "Beim breit-invasiven follikulären Schilddrüsenkarzinom (WIFTC) sollte eine totale Thyreoidektomie erfolgen.",
+    "answer": true,
+    "explanation": "EK 5.23. WIFTC = aggressiver → totale TX.",
+    "leitlinie_wortlaut": "Beim WIFTC sollte eine totale Thyreoidektomie erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 118,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "FTC",
+      "Thyreoidektomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_6_4_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "6.4",
+    "kapitel": "Nachsorge diff. SD-Ca",
+    "unterkapitel": "TSH",
+    "thema": "Nachsorge",
+    "statement": "Die TSH-Einstellung soll risikoadaptiert (abhängig vom Rezidiv-/Progressrisiko) erfolgen.",
+    "answer": true,
+    "explanation": "EK 6.4. TSH-Suppression nur risikoadaptiert, nicht pauschal maximal.",
+    "leitlinie_wortlaut": "Die TSH-Einstellung soll abhängig vom Risiko für ein Rezidiv bzw. einen Progress unter Berücksichtigung der individuellen Verträglichkeit der Medikation incl. Patientenbefinden, Gesundheitszustand und Begleiterkrankungen (Osteopenie / Osteoporose, Herzrhythmusstörungen, etc.) erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 183,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "TSH-Suppression"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_6_7_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "6.7",
+    "kapitel": "Nachsorge diff. SD-Ca",
+    "unterkapitel": "Thyreoglobulin",
+    "thema": "Nachsorge",
+    "statement": "Zur Nachsorge soll Thyreoglobulin (Tg) in Kombination mit Thyreoglobulin-Antikörpern (TAK) bestimmt werden.",
+    "answer": true,
+    "explanation": "EK 6.7. Tg = Tumormarker des DTC; TAK können Tg verfälschen.",
+    "leitlinie_wortlaut": "Die Bestimmung des Thyreoglobulin- (Tg-) Wertes in Kombination mit der Bestimmung der Thyreoglobulin-Antikörper (TAK) soll im Rahmen der Nachsorge mit einem qualitätsgesicherten hochsensitiven Assay erfolgen. Bei erhöhten TAK soll ein negatives Tg als diagnostisch nicht verwertbar betrachtet werden. Dies gilt insbesondere hinsichtlich eines mit einem immunometrischen Assay nicht nachweisbaren Tg.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 188,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Thyreoglobulin",
+      "TAK"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_6_10_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "6.10",
+    "kapitel": "Nachsorge diff. SD-Ca",
+    "unterkapitel": "Halssonographie",
+    "thema": "Nachsorge",
+    "statement": "Die Halssonographie soll Bestandteil jeder Nachsorgeuntersuchung sein.",
+    "answer": true,
+    "explanation": "EK 6.10. Lokoregionäres Rezidiv früh erkennen.",
+    "leitlinie_wortlaut": "Die Halssonographie soll Bestandteil jeder Nachsorgeuntersuchung sein und soll die systematische Untersuchung des Schilddrüsenbettes sowie der zentralen und lateralen Lymphabflussgebiete der Schilddrüsenregion beinhalten. ie Sonographie ist eine der zentralen Untersuchungsmethoden in der Nachsorge des childdrüsenkarzinoms. Sie ist weitgehend risikofrei und kostengünstig. Die onographie hat sowohl in älteren [Torlontano, M et al. 2006] als auch neueren linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 ? tudien , ihren diagnostischen Nutzen zum Nachweis einer Persistenz oder ekurrenz in unterschiedlichen Situationen in der Nachsorge des childdrüsenkarzinoms gezeigt. s existieren drei Szenarien für die Sonographie in der Nachsorge des childdrüsenkarzinoms: Zeitnaher postoperativer Ultraschall, postoperativer ltraschall zur sonomorphologischen Charakterisierung des Therapieansprechens nd Risikostratifizierung sowie die langfristige Nachsorge. in zeitnaher postoperativer (d.h. innerhalb der ersten 3 Monate postoperativ) ltraschall ist nicht regelhaft sinnvoll, da die Beurteilbarkeit sowie Aussagekraft ingeschränkt sind. Ausnahmen können hier sein : Es existiert keine räoperative Sonographie und die Diagnose erfolgte zufällig durch die Histologie, die räoperative Sonographie ist nicht aussagekräftig oder nicht vollständig bzgl. öglicher Lymphknotenmetastasen, es zeigt sich Aktivität außerhalb des childdrüsenbettes in der Szintigraphie nach RIT nach totaler Thyreoidektomie oder s existieren diskrepant hohe Tg-Werte im Vergleich zur Anreicherung im childdrüsenbett in der postablativen Szintigraphie. Für Patienten, die initial eine adioiodtherapie erhalten haben, wird der zervikale Ultraschall im Rahmen der ildgebenden Vorbereitung der Radioiodtherapie bereits im Kapitel 5.8.4 dargestellt. ine wichtige Untersuchung ist der postoperative Ultraschall zur onomorphologischen Charakterisierung des Therapieansprechens. Auch wenn rospektive Studien zur Fragestellung des besten Zeitpunkts der Ultraschall- ontrollen fehlen, werden diese 6-12 Monate postoperativ empfohlen , . etrospektive Untersuchungen haben Hinweise dafür gefunden, dass eine zeitlich zu rühe Risikostratifizierung nach totaler Thyreoidektomie und Radioiodtherapie keinen orteil für diese Einschätzung aufweist , . ine gesonderte Situation mit vorgezogenem Kontrollbedarf nach 3 Monaten ergibt ich für einen Befund, der ggf. eine erneute chirurgische Therapie indizieren würde 23], . Hierzu gehören organüberschreitendes Wachstum (pT3/pT4), R1/R2- esektionen sowie der histologische Nachweis von Lymphknotenmetastasen. etzteres ergibt sich in der Praxis dadurch, dass sonografisch präoperativ achgewiesene suspekte Lymphknoten häufig nicht sicher den entsprechenden efunden der Histologie zugeordnet werden können. Postoperativer Ultraschall 3 – 4 onate nach OP war zudem in einer Studie die sensitivste Methode zum Nachweis on zervikaler Tumormanifestation . ostoperative sonographische Befunde können grundsätzlich nur in genauer Kenntnis er klinischen, laborchemischen, histopathologischen und anderen bildgebenden efunde interpretiert werden. tandardisierte Protokolle und Dokumentation der Sonographie sind ualitätskriterien medizinischer Befunderhebung. Sie vereinheitlichen sonografische efunde und verbessern die Vergleichbarkeit. Eine vollständige Sonographie muss die ntersuchung des Schilddrüsenbettes , sowie der zervikalen und lateralen ymphknotenstationen , beinhalten. ach Thyreoidektomie wird im Ultraschall typischerweise echoreiches Narbengewebe m Schilddrüsenbett als Folge der bindegewebigen Gewebsreaktion nach der peration beobachtet . Nach erfolgreicher Radioiodtherapie von childdrüsenrestgewebe kann dieses anschließend als inhomogen echoarmes Gewebe linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 rbleiben, welches in der farbkodierten Duplex-Sonographie typischerweise ohne chweisbare Perfusion ist , . Kriterien für suspekte Läsionen im hilddrüsenbett nach Thyreoidektomie sind vergleichbar mit den allgemeinen lignitätskriterien von Schilddrüsenläsionen (Details im Kapitel „Diagnostik“). sammenfassend beinhalten diese hypoechogene, noduläre Läsionen (insbesondere lche, die im anteroposterioren Durchmesser größer sind als im lateralen rchmesser [„taller than wide“] ) oder zystische oder unscharf begrenzte oder ärker vaskularisierte oder größenprogrediente Läsionen oder solche mit lzifikationen , , . ne Sonderstellung nehmen hierbei Patienten mit initial niedrigem oder termediärem Risiko und exzellentem sowie guten und akzeptablen Ansprechen auf e Primärtherapie ein. Das Rezidivrisiko ist mit <1% sehr gering, sodass auffällige funde in der sonographischen Nachsorge häufiger falsch positiv sind , , 34], . Somit ist es gerechtfertigt, bei diesen Patienten nach 5 Jahren auffälliger Nachsorge auf weitere routinemäßige sonographische Kontrollen zu rzichten e Sonographie von Lymphknoten im Abflussgebiet der Schilddrüse ist ebenfalls sführlich im Kapitel „Diagnostik“ (Kapitel 3.4.6) dargestellt, auch hinsichtlich chnischer Aspekte. Zusammenfassend ist eine Klassifizierung von Lymphknoten in e Kategorien normal, unbestimmt oder malignitätsverdächtig unter Verwendung aluierter sonomorphologischer Kriterien sinnvoll (zystische Veränderungen, hogene Foci, Verlust des Hiluszeichens, atypische periphere Vaskularisation , 3]). Zudem ist die Angabe der Lokalisation der Lymphknoten in den zentralen und teralen Kompartimenten nach einer evaluierten Klassifikation notwendig, um die produzierbarkeit der Befunde zu gewährleisten. e häufig sollten ambulante bzw. stationäre chsorgeuntersuchungen erfolgen?",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 189,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Halssonographie",
+      "Nachsorge"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_6_9_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "6.9",
+    "kapitel": "Nachsorge diff. SD-Ca",
+    "unterkapitel": "TSH-Stimulation",
+    "thema": "Nachsorge",
+    "statement": "Eine TSH-Stimulation allein für die Thyreoglobulin-Bestimmung soll in der Nachsorge routinemäßig durchgeführt werden.",
+    "answer": false,
+    "explanation": "Empf. 6.9 (Grad A): TSH-Stimulation NUR für die Tg-Bestimmung soll NICHT erfolgen (sensitive Assays).",
+    "leitlinie_wortlaut": "Eine endogene oder exogene TSH Stimulation allein für die Tg-Bestimmung soll in der Tumornachsorge nicht erfolgen. 2a: NPV Das Eiweiß Thyreoglobulin (Tg) wird ausschließlich von Thyreozyten synthetisiert und lässt sich als Tumormarker im Serum nachweisen. Eine Differenzierung zwischen malignem und benignem Schilddrüsengewebe als Quelle des Tg ist allerdings nicht möglich. Die Verwendung des Tg als sensitiven Tumormarker setzt daher die komplette Entfernung der Schilddrüse voraus, was meist durch totale Thyreoidektomie und adjuvante Radioiodtherapie gegeben ist. Der Tg–Nachweis im Serum kann durch anti-Tg-Antikörper gestört werden. Daher müssen diese parallel zur Tg-Bestimmung ebenfalls bestimmt werden. Bei nachweisbaren TAK kann die linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 lidität der Tg-Bestimmung (im Hinblick auf die Widerspiegelung der Tumorlast) cht garantiert werden. Ansonsten ist Tg ein sehr sensitiver Tumormarker in der mornachsorge differenzierter Schilddrüsenkarzinome. Zuverlässige sensitive Tg- sts sind kommerziell verfügbar und haben ein Limit of Quantification (LoQ) von 0,1 s 0,2 ng/ml, teilweise auch schon noch niedriger. ch einer Hemithyreoidektomie ist Tg aufgrund des residuellen hilddrüsengewebes messbar, die Aussagekraft als Tumormarker ist dann ngeschränkt. Nach einer Hemithyreoidektomie ist der Tg-Wert allein somit zum chweis eines Rezidivs nicht geeignet , , . ch der systematischen Literaturrecherche erfolgte die Evidenzbewertung auf der sis der Metaanalyse von Giovanella . Acht Publikationen mit insgesamt 1568 tienten wurden eingeschlossen. Es wurde das Ergebnis der Bestimmung yreoglobulin-Serumkonzentration (Tg-Wert) unter Schilddrüsenhormonmedikation t verschiedenen Bildgebenden Verfahren verglichen, Ultraschall, Röntgen-Thorax, , MRT, Feinnadelpunktionszytologie, 99mTc-MIBI-Szintigraphie und FDG-PET/CT. e Sensitivität wurde über alles zu 83,4% (73,4 – 90,1) bestimmt, die Spezifität zu ,9% (63,0% – 90,3%). Der positive prädiktive Wert lag bei lediglich 21,3% (11,9 – .7), der Negative Prädiktive Wert dagegen mit 99,4% (89,9 %– 99,9%) extrem hoch. e alleinige Anwendung der Tg-Bestimmung unter Schilddrüsenhormonmedikation nn also ein Rezidiv weitestgehend ausschließen, sofern die Tg-Bestimmung valide t. Trotz des nur geringen bis moderaten Vertrauens in die Evidenzqualität können her die beiden starken Negativempfehlungen ausgesprochen werden. r Wertigkeit der Tg-Bestimmung für den Rezidivnachweis machen obige idenzbasierte Empfehlungen keine Aussage. Konsens herrscht unter den Experten, ss die absoluten Tg-Werte von geringerer Bedeutung sind als der progressive stieg der Tg-Werte. Zu der Frage, wie ein progressiv steigender Tg-Wert zu finieren ist und welche diagnostischen und/oder therapeutischen Konsequenzen nn zu ziehen sind, geben die meist retrospektiven Studien nur eine sehr schwache idenz. Die PPV reichen von 8% bis 40% und ist abhängig von den rtherapien, den gewählten Kriterien und nicht zuletzt von der Qualität der Tg- stimmung. lche Rolle spielt die Halssonographie bei der chkontrolle von Patienten mit differenziertem hilddrüsenkarzinom?",
+    "evidenz": "Grad A; LoE 2a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 188,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "TSH-Stimulation",
+      "Thyreoglobulin"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_6_1_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "6.1",
+    "kapitel": "Nachsorge diff. SD-Ca",
+    "unterkapitel": "Risikoadaptiert",
+    "thema": "Nachsorge",
+    "statement": "Die Nachsorge des differenzierten Schilddrüsenkarzinoms soll abhängig von der Risikostratifizierung gestaltet werden.",
+    "answer": true,
+    "explanation": "EK 6.1. Intensität der Nachsorge richtet sich nach dem Rezidivrisiko.",
+    "leitlinie_wortlaut": "Die Nachsorge des differenzierten Schilddrüsenkarzinoms soll abhängig von der Risikostratifizierung gestaltet werden, zunächst entsprechend der initialen Risikokategorie, später abhängig vom Verlauf insbesondere dem Ansprechen auf die Initialtherapie(n). ie initiale Klassifizierung der Schilddrüsenkarzinome entsprechend der TNM- lassifikation ist für die Indikation der initialen Therapien und für die Erfolgskontrolle er Therapie(n) von Bedeutung , . Die TNM-Klassifikation lässt jedoch keine ussage bezüglich des progressionsfreien Überlebens und des Gesamtüberlebens ach den erfolgten Therapien zu , , , , , , . ußerdem gehen weder Operationsergebnis, das Ansprechen auf eine adioiodtherapie noch molekulare Marker wie zum Beispiel BRAFV600E, TERT und P53 in die TNM-Klassifikation oder in andere, bisher vorgeschlagene Klassifikationen in. s konnte zum Beispiel gezeigt werden, dass eine TERT-Mutation einen unabhängigen aktor für eine erhöhte Mortalität (Hazard Ratio [HR]: 10,35; 95%-Konfidenzintervall: ,01–53,24) für alle differenzierten Karzinome darstellt. Für das papilläre childdrüsenkarzinom allein ist das Risiko noch deutlicher ausgeprägt (HR: 23,8; 95%- onfidenzintervall: 1,36–415,8) . erburg et al. konnten zeigen, dass nach abgeschlossener Radioiodtherapie eine nauffällige Erfolgskontrolle mit diagnostischer ¹³¹I-Ganzkörperszintigraphie in ombination mit einem nicht messbaren stimulierten Tg-Wert das initiale ezidivrisiko unabhängig nach TNM-Stadium nivelliert und Patienten bei dieser onstellation unabhängig von der initialen Risikoklassifikation nur eine sehr niedrige ezidivrate von 3% haben. Die Langzeitletalität bei einer Nachbeobachtungszeit über 5 Jahre lag im Niedrigrisiko-Arm bei 3,4% ± 1,3% und im Hochrisiko-Arm bei 3,7% ± ,7% (p = n.s.) . tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 erminologie des Therapieansprechens und isikobewertung für ein Rezidiv des DTC",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 177,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Nachsorge",
+      "Risiko"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_7_11_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "7.11",
+    "kapitel": "Rezidiv / Metastasen",
+    "unterkapitel": "TKI",
+    "thema": "Metastasen",
+    "statement": "Bei progredientem Radioiod-refraktärem DTC soll die Radioiodtherapie hochdosiert fortgesetzt werden.",
+    "answer": false,
+    "explanation": "Empf. 7.11: bei RAI-Refraktärität sind Multikinase-Inhibitoren (Sorafenib/Lenvatinib) indiziert, nicht weitere RIT.",
+    "leitlinie_wortlaut": "Eine systemische Therapie mit den zugelassenen Multityrosinkinase-Inhibitoren Sorafenib, Lenvatinib oder Cabozantinib (ab Zweitlinie) soll im Rahmen einer Evaluation im interdisziplinären Tumorboard bei Patienten mit Radioiod- refraktärem DTC/PDTC geprüft werden, wenn eine metastasierte, rasch progrediente (nach RECIST), symptomatische und/oder lokal unmittelbar bedrohliche Erkrankung ohne sinnvolle lokale Therapiemöglichkeiten vorliegt.",
+    "evidenz": "Grad A; LoE 4",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 221,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Multikinase-Inhibitor",
+      "RAI-refraktär"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_7_13_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "7.13",
+    "kapitel": "Rezidiv / Metastasen",
+    "unterkapitel": "RET-Fusion",
+    "thema": "Molekular",
+    "statement": "Bei Radioiod-refraktärem DTC/PDTC mit RET-Fusion und progredienter Erkrankung soll ein selektiver RET-Inhibitor eingesetzt werden.",
+    "answer": true,
+    "explanation": "EK 7.13. Selpercatinib bei RET-Fusion (zielgerichtet).",
+    "leitlinie_wortlaut": "Bei Patienten mit Radioiod-refraktärem DTC/PDTC, die eine RET Fusion aufweisen, mit metastasierter, rasch progredienter (nach RECIST), symptomatischer, und/oder lokal unmittelbar bedrohlicher Erkrankung ohne sinnvolle lokale Therapiemöglichkeiten, stellt eine Therapie mit einem selektiven RET Inhibitor einen alternativen Therapieansatz mit niedriger Nebenwirkungsrate und hohem Therapieansprechen dar und sollte eingesetzt werden. TC können eine Reihe von Genfusionen aufweisen, wie RET-, NTRK- und ALK- usionen, die tumoragnostisch mit den jeweils verfügbaren selektiven Inhibitoren herapeutisch angehbar sind. n der einarmigen LIBRETTO-001 Phase 1/2 Studie zum selektiven RET-Inhibitor elpercatinib wurden 22 vortherapierte und 12 Therapie-naive Patienten mit RET- usions-positiven Schilddrüsenkarzinomen eingeschlossen, die bei 2 bzw. 4 Patienten u einer Komplettremission führten, sowie bei 15 bzw. 7 Patienten zu einer partiellen emission, während die restlichen Patienten eine Tumorstabilisierung aufwiesen (ORR 7% bzw. 92%) , . Die häufigsten Nebenwirkung bei Selpercatinib sind undtrockenheit (39%), Hypertonie (30%), Diarrhoe (17%), Fatigue (25%), tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 ? Leberwerterhöhung (28%). Der Langzeitverlauf der Patienten der LIBRETTO-001 Phase 1/2 Studie wurde von Wirth publiziert . In Bezug auf die RET-Fusions-positiven Tumoren wurden insgesamt 66 Patienten nachverfolgt. Die objektive Ansprechrate lag bei 85,8% (der nicht vorbehandelten Patienten). Die mediane Nachbeobachtungszeit betrug 24,9 bzw. 30,4 Monate in der Gruppe der nicht-vorbehandelten bzw. der vorbehandelten Patienten. Das mediane progressionsfreie Überleben wurde in der nicht- vorbehandelten Gruppe noch nicht erreicht. Die Gesamtüberlebensrate zum Zeitpunkt der medianen Nachbeobachtungszeit in der Gruppe der nicht-vorbehandelten Patienten betrug 94,4% und in der Gruppe der vorbehandelten Patienten 65,5%. Das Sicherheitsprofil war vergleichbar gegenüber initial publizierten LIBRETTO-001 Studie. Selpercatinib ist mittlerweile für RET-Fusions-positive Schilddrüsenkarzinome in der Erstlinientherapie zugelassen (siehe BAnz AT 10.12.2024 B3). Eine ähnlich Effektivität zeigte sich in der ARROW Phase-2 Studie zum selektiven RET- Inhibitor Pralsetinib, für das aktuell keine Zulassung für das Schilddrüsenkarzinom in Europa verfolgt wird. Hierbei wurden 9 Patienten mit RET-Fusions-positiven Schilddrüsenkarzinomen eingeschlossen, von denen 8 Patienten eine partielle Remission zeigten und ein Patient eine Tumorstabilisierung aufwies. Damit zeigt sich eine ähnliche ORR von 89% . Die häufigsten Nebenwirkungen bei Pralsetinib waren Leberwerterhöhung (34%), Obstipation (28%), Leukopenie (34%), Asthenie (26%), Neutropenie (34%), Anämie (29%). Beide Substanzen sind im Gegensatz zu den zugelassenen MKI Therapien mit einem relativ milden Nebenwirkungspotential assoziiert mit überwiegend Grad 1-3 Nebenwirkungen. Aufgrund der dokumentierten Wirksamkeit und besseren Verträglichkeit wird bei Nachweis von RET-Fusionen die Empfehlung zur Therapie mit einem selektiven RET-Inhibitor ausgesprochen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 223,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "RET",
+      "Selpercatinib"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ],
+      "spezial": [
+        "ret"
+      ]
+    }
+  },
+  {
+    "id": "sd_7_14_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "7.14",
+    "kapitel": "Rezidiv / Metastasen",
+    "unterkapitel": "NTRK-Fusion",
+    "thema": "Molekular",
+    "statement": "Bei Radioiod-refraktärem DTC/PDTC mit NTRK-Fusion und progredienter Erkrankung kann ein NTRK-Inhibitor eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 7.14 (Grad B). Larotrectinib/Entrectinib bei NTRK-Fusion.",
+    "leitlinie_wortlaut": "Bei Patienten mit Radioiod-refraktärem DTC/PDTC, die eine NTRK Fusion aufweisen, mit metastasierter, rasch progredienter (nach RECIST), symptomatischer, und/oder lokal unmittelbar bedrohlicher Erkrankung ohne sinnvolle lokale Therapiemöglichkeiten, stellt eine Therapie mit einem selektiven TRK Inhibitor einen alternativen Therapieansatz mit niedriger Nebenwirkungsrate und hohem Therapieansprechen dar und sollte daher eingesetzt werden.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 224,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "NTRK"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ],
+      "spezial": [
+        "ntrk"
+      ]
+    }
+  },
+  {
+    "id": "sd_7_4_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "7.4",
+    "kapitel": "Rezidiv / Metastasen",
+    "unterkapitel": "RAI-refraktär",
+    "thema": "Metastasen",
+    "statement": "Bei progredienter Radioiod-refraktärer ausgedehnter Erkrankung ohne andere Therapieoption soll die Indikation zur systemischen Therapie geprüft werden.",
+    "answer": true,
+    "explanation": "EK 7.4. RAI-refraktär → Systemtherapie evaluieren.",
+    "leitlinie_wortlaut": "Bei progredienter Radioiod-refraktärer ausgedehnter Erkrankung ohne anderweitige Therapieoption soll die Indikation zur systemischen medikamentösen Therapie gegenüber einem abwartenden Verhalten geprüft und mit dem Patienten besprochen werden. Die meisten Patienten mit einem differenzierten Schilddrüsenkarzinom können durch die initiale (Operation, gegebenenfalls mit anschließender Radioiodtherapie) Therapie geheilt werden. Zahlen zur Rezidivhäufigkeit und –lokalisation sowie zur Häufigkeit und Lokalisation einer bereits zum Diagnosezeitpunkt vorliegenden Metastasierung sind heterogen. Bei etwa 1 - 4% der PTC-Patienten und bei etwa 7 - 28% der FTC- Patienten werden bereits initial Fernmetastasen festgestellt . Hier ist eine zeitnahe gezielte Therapie notwendig. Bei Patienten mit Fernmetastasen bedeutet eine Verzögerung der RIT von mehr als 6 Monaten ein schlechteres Gesamtüberleben, was bereits in einem Nachbeobachtungszeitraum von nur 5-6 Jahren nachgewiesen werden konnte . Shokoohi et al. berichteten über kanadische Daten, wonach 87% der primär metastasierten DTC-Patienten in Vollremission kommen. 136 Patienten (13%) in deren Kollektiv hatten allerdings ein Rezidiv, davon 37 Patienten (3%) Fernmetastasen, überwiegend lokalisiert in der Lunge (76%) oder im Skelett (30%) . Carvalho et al analysierten 4085 Patienten im Zeitraum von 1996 bis 2015. Patienten mit extrathyreoidaler Infiltration oder zervikalen Lymphknotenmetastasen bzw. höherem Rezidivrisiko erhielten nach der Operation eine Radioiodtherapie. Nach einer medianen Nachbeobachtungszeit von nur 58,7 Monaten wurde bei 176 Patienten ein Rezidiv festgestellt (4,3%), meistens in Lymphknoten. Fernmetastasen fanden sich bei 18 Patienten (0,4%). Die Rezidivrate im Niedrigrisikoarm betrug 1,6%, bei den intermediären Stadien 7,4% und 22,7% bei den Hochrisiko-Patienten. Fernmetastasen fanden sich bei 18 Patienten (0,4%). . Goffredo et al. berichteten über 2,2% der DTC-Patienten des SEER-Registers (n = 1291) mit Metastasen zum Diagnosezeitpunkt, das 5-Jahres-Überleben betrug in dieser metastasierten Gruppe 59% und war damit deutlich schlechter im Vergleich zu den nicht-metastasierten Patienten . tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 Daten zum Überleben sind heterogen, so berichteten Chow et al. bei 164 metastasierten Patienten über eine 10-Jahres-Überlebensrate von 85% und eine 20- Jahres-Überlebensrate von 71% . Sampson et al. publizierten, dass das 3-Jahres Überleben von metastasierten FTC-Patienten mit 62% schlechter ist als das der metastasierten PTC-Patienten . Nixon et al. publizierten schlechtere Daten zum Langzeitüberleben. Etwa die Hälfte der metastasierten Patienten verstarb innerhalb der nächsten 5 Jahre, wenn Fernmetastasen zum Zeitpunkt der Diagnose vorlagen . Auch Lin et al. bestätigen die reduzierte Prognose von Patienten mit Fernmetastasen: von 70 PTC- Patienten mit Fernmetastasen waren 70% nach einer mittleren Nachbeobachtungszeit von 10,1 Jahren an ihrer Erkrankung verstorben . Metachrone Metastasen haben ebenfalls eine schlechte Prognose mit einer 10-Jahres-Überlebensrate von nur 57% Nach Li et al. stellt die Behandlung mit Radioiod eine effektive Behandlung metastasierter Patienten dar, dabei wurden metastasierten Patienten 22 GBq (600 mCi) Radioiod und mehr gegeben . Allgemein anerkannte onkologische Prinzipien gelten auch für das DTC. Die Prognose ist umso schlechter je fortgeschrittener die Erkrankung ist, je rascher progredient sie ist um umso schlechter der Tumor differenziert ist. Beim DTC ergibt sich aber die Besonderheit, dass eine bessere Differenzierung mit dem Erhalt des Iodstoffwechsels verbunden ist. Die dadurch mögliche Radioiodtherapie kann auch bei ausgedehnterer Metastasierung kurativ sein. Nachfolgend soll das Vorgehen bei den einzelnen Metastasenlokalisationen abgehandelt werden. In eine individuelle Therapieentscheidung fließen multiple Faktoren ein. Neben Zahl und Lokalisation von Metastasen (Tumorlast) ist die Tumordynamik wichtig. Das Patientenalter, Co-Morbiditäten, Lebenserwartung und Patientenwünsche spielen eine wichtige Rolle. Es gilt folgendes strukturiertes Vorgehen bei persistierender Tumorlast bzw. einem Rezidiv: Ein kuratives Konzept nutzt alleine oder in Kombination die Therapieoptionen Operation und / oder RIT und / oder perkutane Bestrahlung. Werden Metastasen als inoperabel eingeschätzt, muss überprüft werden, ob durch eine Radioiodtherapie, ggf. in Kombination mit einer perkutane Radiatio noch eine Kuration erzielbar ist. Anderenfalls ist das kurative Konzept ausgeschöpft. Bei palliativer Intention kommen zunächst Operation / RIT / Bestrahlung oder eine Kombination in Betracht. Sind diese Maßnahmen nicht indiziert oder erfolglos, kommen ein kontrolliertes Zuwarten oder eine systemische medikamentöse Therapie in Frage. Darüber hinaus kann mit dem Pat. eine Redifferenzierungstherapie (bei niedriger Erfolgswahrscheinlichkeit) diskutiert werden, hier ist auf das entsprechende Kapitel zu verweisen. Solange eine suffiziente Iodspeicherung der Metastasen belegt oder anzunehmen ist, und wenn die Tumorlast nicht chirurgisch kurativ zu behandeln ist, stellt die RIT meistens das Behandlungsverfahren der Wahl dar. Die damit verbundene Szintigraphie gibt Aufschluss über die Radioiodspeicherfähigkeit der Metastasen und damit auch deren Differenzierungsgrad. In Abhängigkeit von diesem Ergebnis ist eine tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 sondern entdifferenzierter Metastasen geht. Bei lokalisierter Metastasierung ist die Möglichkeit der Resektion als primäre Therapieoption zu prüfen. Die Ergebnisse einer RIT sind umso besser, je kleiner die Tumormasse und je höher der Differenzierungsgrad ist. Insbesondere bei Lungenmetastasen – auch bei disseminierter Metastasierung – kommt die RIT als alleinige Therapiemaßnahme in Betracht. Bei inoperablen sowie nicht vollständig operativ entfernbaren Tumoren erfolgt eine Radioiodtherapie, wenn eine relevante Radioiod-Speicherung bewiesen oder anzunehmen ist. Dieses Vorgehen wird durch eine Reihe retrospektiver Studien gestützt, die über die Ergebnisse der RIT bei Metastasierung berichten: Schlumberger publizierte 1996 zum Nutzen der RIT bei Patienten mit Lungen- und Knochenmetastasen. Patienten mit einem sehr guten Ansprechen auf die RIT im Sinne einer kompletten Response hatten ein deutlich besseres 15-Jahres-Gesamtüberleben als die, bei denen dies nicht der Fall war (89% versus 8%) . Durante et al. berichteten über 444 metastasierte PTC und FTC-Patienten im Zeitraum von 1953- 1994 mit Lungen- (n = 223), Knochen- (n = 115), Lungen- und Knochenmetastasen (n = 82) oder anderen Metastasenlokalisationen. Es erfolgten serielle Therapien im Abstand von 3-9 Monaten in Hypothyreose in den ersten beiden Jahren und danach in jährlichen Abständen. 43% der Patienten erreichten eine Vollremission im ¹³¹I- Ganzkörper-Szintigramm . Ito et al. (Japan) werteten 5969 PTC-Patienten aus, von denen 71 (1,2%, Zeitraum 1987 - 2004) Fernmetastasen zum Zeitpunkt der Erstdiagnose aufwiesen, überwiegend mit ausschließlicher Lungenmetastasierung (n = 60), bzw. sonst ausschließlicher Knochenmetastasierung (n = 5), Lungen- und Knochenmetastasen (n = 5) und 1 Pt. mit Hirnmetastasen. Patienten mit iodaviden Metastasen erhielten eine oder wiederholte RIT. 15 Patienten verstarben bei einer mittleren Nachbeobachtungsdauer von 7 Jahren und 10 Monaten. Die 5- und 10-Jahres- Überlebensrate betrug 78,8 ± 5,2 % bzw. 76,3 ± 5,7 , . Li et al. analysierten den Nutzen der RIT bei 1608 Patienten mit Fernmetastasen anhand der SEER-Datenbank, darunter fanden sich 521 Patienten (32,4 %) mit Knochenmetastasen, 90 Patienten (5,6 %) mit Hirnmetastasen, 158 Patienten (9,8 %) mit Lebermetastasen, 995 Patienten (61,9 %) mit Lungenmetastasen und 50 Patienten (3,1 %) mit anderen Metastasen. Fernmetastasierte Patienten im Alter unter 45 Jahren, die sich einer RIT unterzogen, hatten eine 5-Jahres-Überlebensrate von 91,7 %, während diejenigen, die sich einer perkutanen Strahlentherapie unterzogen, eine Rate von nur 45,5 % aufwiesen; diese war somit signifikant niedriger als die RIT (externe Strahlentherapie versus Radioiodtherapie), bereinigte Hazard Ratio [HR]: 5,5; 95%CI: 1,672-18,804, p < 0,005). Bei den Patienten, die älter als 45 Jahre waren, lag die 5- Jahres- Überlebensrate bei 69,1 %, verglichen mit 20,0 % bei den Patienten, die sich einer EBRT unterzogen . Insgesamt ist bei metastasierter Erkrankung oftmals ein individuelles Konzept erforderlich, welches eine Kombination von therapeutischen Optionen (Operation, Radioiodtherapie, Bestrahlung, u.a.m.) umfasst. Shokoohi et al. publizierten ihre Erfahrungen zur Rezidivtherapie und erreichten mit multimodalen Therapiekonzepten bei 67% der Patienten ein sehr gutes Behandlungsergebnis . Durch unterschiedliche Kollektive und unterschiedliche Therapiekonzepte ergeben sich auch tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 ariable Überlebensraten. Kim et al. berichteten über 242 Patienten mit einer 5- ahres-Überlebensrate von 85% und einer 10-Jahres-Überlebensrate von 68% . eben den häufigsten Metastasenlokalisationen (LK, Lunge, Skelett) publizierten adani et al. über seltene Metastasenlokalisationen . Mihailovic et al. bestätigen, ass die Radioiodavidität von Metastasen bzw. die Möglichkeit Metastasen mit adioiod zu therapieren, mit einer besseren Prognose einhergeht, als wenn dies nicht er Fall ist . Patienten mit Metastasen in drei und mehr Organsystemen haben in besonders schlechtes Überleben. Zhang et al. berichteten über 37/717 Patienten 5,2%) mit Metastasen in drei und mehr Organsystemen. Das 5-Jahres- und 10-Jahres- berleben lag bei 45,9 % bzw. 37,8 % bei Patienten mit Fernmetastasen in drei oder ehr Organsystemen gegenüber 74,5 % bzw. 64,9 % bei Patienten mit ernmetastasen in einem oder zwei Organsystem. adioiodanreicherung in den Metastasen war der wesentliche Faktor für ein längeres berleben . Zunino fokussierten auf das Vorkommen seltener Organmetastasen nd beschrieben bei 36/3982 Patienten (0,9 %), überwiegend im ZNS lokalisierte etastasen. Diese Patienten mit seltenen Organmetastasen hatten oftmals eine chlechte Prognose: Nach einer medianen Nachbeobachtungszeit von 13 Monaten aren 21/36 (58,3 %) Patienten an den Folgen des DTC verstorben . herapie von Tumorpersistenz, -rezidiv und/oder etastasen ungenmetastasen",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 210,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "RAI-refraktär"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_8_3_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "8.3",
+    "kapitel": "Medulläres SD-Ca (MTC)",
+    "unterkapitel": "Calcitonin",
+    "thema": "MTC",
+    "statement": "Eine Calcitonin-Bestimmung vor Schilddrüsenoperationen wegen Knoten ist entbehrlich.",
+    "answer": false,
+    "explanation": "EK 8.3: vor jeder Knoten-OP soll Calcitonin bestimmt werden (okkultes MTC).",
+    "leitlinie_wortlaut": "Bei V.a. MTC sowie vor jeder Schilddrüsen-Operation wegen Knoten soll eine Ctn- Bestimmung durchgeführt werden, ein erhöhtes Ctn ist richtungsweisend für ein MTC. Bei V.a. MTC im Rahmen der MEN2 soll eine Keimbahnanalyse des RET Gens durchgeführt werden, der molekulargenetische Nachweis einer aktivierenden pathogenen Keimbahn-Variante des RET Gens ist beweisend für ein MEN2 Syndrom. Bei MEN2-Verdacht soll vor der Operation zum Ausschluss bzw. Nachweis eines Phäochromozytoms bzw. Hyperparathyreoidismus eine entsprechende Diagnostik (Plasma-, Urin-Metanephrine bzw. Serumkalzium, Parathormon) durchgeführt werden. Die wichtigste zur Diagnose MTC führende Laboruntersuchung ist das Ctn. Der molekulargenetische Nachweis einer aktivierenden pathogenen Keimbahn-Variante im RET-Gens beweist die familiäre Variante des MTC. Bei Verdacht auf eine hereditäre Form des MTC (MEN2) sollte präoperativ die molekulargenetische Keimbahn- Diagnostik durchgeführt werden (siehe Kapitel 8.5). Sollte eine aktivierende pathogene Keimbahn-Variante im RET-Gen vorliegen oder anamnestisch der V.a. MEN2 bestehen, muss vor einer Thyreoidektomie zunächst biochemisch ein tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 Phäochromozytom und ein primärer Hyperparathyreoidismus ausgeschlossen bzw. gesichert werden. Im Falle des Nachweises eines Phäochromozytoms, soll dieses zur Vermeidung hypertensiver Krisen während der Thyreoidektomie zuerst operiert werden (siehe Kapitel 8.5). alcitonin",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 230,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Calcitonin",
+      "MTC"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_8_6_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "8.6",
+    "kapitel": "Medulläres SD-Ca (MTC)",
+    "unterkapitel": "CEA",
+    "thema": "MTC",
+    "statement": "Das CEA soll nicht zur präoperativen Primärdiagnostik des MTC eingesetzt werden.",
+    "answer": true,
+    "explanation": "EK 8.6. CEA ist Verlaufs-/Zweitmarker, nicht für die Primärdiagnose.",
+    "leitlinie_wortlaut": "Das Carcinoembryonale Antigen (CEA) ist der zweite Tumor-Marker beim MTC. Es soll nicht zur präoperativen Diagnostik eingesetzt werden. Es ist ein stabilerer Marker im Vergleich zum Ctn zum Tumormonitoring und kann in der Verlaufskontrolle beim metastasierten MTC eingesetzt werden (siehe 8.15). Neben dem Ctn können vom MTC noch andere Substanzen wie CEA, Pro-Calcitonin, ACTH, Chromogranin A und andere neuroendokrine Marker sezerniert werden. Das CEA hat eine besondere Bedeutung, da gelegentlich bei Patienten mit gastroenterologisch schon abgeklärter, jedoch persistierender unklarer CEA Erhöhung ein MTC vorliegt. Das CEA ist der unempfindlichere Marker und steigt häufig erst an, wenn das Ctn eindeutig erhöht ist (häufig erst bei Ctn Spiegeln über 100 pg/ml). Ebenso wie das Ctn korreliert CEA mit der Tumormasse. Im Verlauf hat CEA neben dem Ctn eine Bedeutung als Tumormarker, die Schwankungsbreite der CEA-Werte ist im Verlauf geringer als beim Ctn, die Abbaurate im Blut ist deutlich länger. Die paraneoplastische ACTH-Produktion kann beim MTC ein ektopes Cushing Syndrom auslösen . räoperative Bildgebung ltraschall",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 234,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "CEA",
+      "MTC"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_8_10_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "8.10",
+    "kapitel": "Medulläres SD-Ca (MTC)",
+    "unterkapitel": "RET-Keimbahn",
+    "thema": "MTC",
+    "statement": "Bei gesichertem medullärem Schilddrüsenkarzinom ist eine RET-Keimbahnanalyse nicht erforderlich.",
+    "answer": false,
+    "explanation": "EK 8.10: bei MTC(-Verdacht) soll eine RET-Keimbahnanalyse erfolgen (MEN2 ausschließen).",
+    "leitlinie_wortlaut": "Bei V.a. MTC (eindeutig erhöhtes Ctn, Frauen ≥ 30 pg/ml, Männer ≥ 60 pg/ml) sollte eine Keimbahn-Analyse des RET-Gens aus Voll-Blut durchgeführt werden, da in ca. 25% ein hereditäres MTC ggf. mit Phäochromozytom und/oder primärem Hyperparathyreoidismus vorliegen kann (siehe auch Kapitel 8.5.2). Sofern präoperativ kein negatives Ergebnis einer Keimbahn-Analyse des RET-Gens vorliegt, sollen ein Phäochromozytom und der primäre Hyperparathyreoidismus präoperativ biochemisch ausgeschlossen werden. Wenn die RET-Analyse nicht vorliegt, müssen vor OP des MTC ein Phäochromozytom und ein primärer Hyperparathyreoidismus ausgeschlossen werden. Da ein familiäres MTC nicht allein aufgrund der Familienanamnese sicher auszuschließen bzw. zu beweisen ist, empfiehlt sich bei allen MTC eine molekulargenetische Diagnostik. In ca. 3-7% ist bei scheinbar „sporadischem“ MTC mit unauffälliger Familienanamnese überraschenderweise eine pathogene Keimbahn-Variante nachweisbar, entweder als de novo-Variante oder als pathogene Variante im RET-Gen mit geringer Penetranz des MTC . Spätestens nach histologischem Nachweis eines MTC muss eine tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 molekulare Diagnostik auf das Vorliegen einer aktivierenden pathogenen Keimbahn- Variante im RET-Gen veranlasst werden (siehe 8.15 / Kapitel 8.3.1). Initiale operative Therapie OP-Indikation",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 238,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "RET-Keimbahn",
+      "MEN2"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "molekularpathologie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ],
+      "spezial": [
+        "ret"
+      ]
+    }
+  },
+  {
+    "id": "sd_8_12_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "8.12",
+    "kapitel": "Medulläres SD-Ca (MTC)",
+    "unterkapitel": "Thyreoidektomie",
+    "thema": "MTC",
+    "statement": "Beim MTC soll eine totale Thyreoidektomie durchgeführt werden.",
+    "answer": true,
+    "explanation": "EK 8.12. MTC produziert kein Radioiod-Speichern → komplette chirurgische Entfernung essenziell (hereditär oft multifokal).",
+    "leitlinie_wortlaut": "Operative Therapie des MTC: 1. Es soll eine Thyreoidektomie durchgeführt werden, da hereditäre MTC und auch 10% der sporadischen MTC multifokal (beidseits) auftreten, 2. Die Thyreoidektomie soll durch eine zentrale und ggf. laterale zervikale LK- Dissektion ergänzt werden, da eine frühzeitige lokale/regionäre Metastasierung stattfinden kann, 3. Eine transsternale mediastinale Lymphadenektomie ist indiziert, wenn LK- Metastasen bildgebend gesehen werden und eine kurative Operation möglich erscheint, oder die LK-Resektion zur Vermeidung lokaler Probleme indiziert ist. 4. Bei fortgeschrittenem Organ-überschreitendem MTC mit Infiltration von Trachea und/oder Oesophagus kann in Einzelfällen eine Resektion zur Verbesserung der Prognose sinnvoll sein. Ausnahmen bei der operativen Therapie des MTC: • Bei im Gefrierschnitt fehlender desmoplastischer Stromareaktion sollte primär auf eine einzeitige zervikale LK Dissektion verzichtet werden. • Bei präoperativ gering erhöhten Ctn-Werten bis 30 pg/ml bei Frauen, bis 60 pg/ml bei Männern) kann primär auf die zervikal laterale LK- Dissektion verzichtet werden. • Die zervikal laterale LK-Dissektion kann wahlweise auch im Rahmen einer Zweitoperation erfolgen, sofern 6 -12 Wochen postoperativ der Ctn-Wert nicht unter der Nachweisgrenze liegt. ei biochemisch nachgewiesenem MTC wird eine Thyreoidektomie mit beidseitiger entraler LK-Dissektion empfohlen, da auch 10% der sporadischen MTCs multifokal bilateral) auftreten und Mikro-MTC auch mit Lymphknotenmetastasen assoziiert sind Ausnahme fehlender Desmoplasie-Nachweis im Gefrierschnitt) , . Es onnte gezeigt werden, dass bei Frauen mit basalem Ctn ≥ 85 pg/ml und Männern ≥ 00 pg/ml zumindest 40% der Frauen und 53% der Männer laterale ymphknotenmetastasen vorliegen . Die Autoren empfehlen deshalb im rsteingriff neben der Thyreoidektomie und der beidseitigen zentralen auch eine einseitig) laterale LK-Dissektion auf der Tumorseite durchzuführen. Spätestens bei inem basalen Ctn >200pg/ml soll auch eine kontralaterale laterale LK-Dissektion rfolgen, da ein kontralateraler LK-Befall beschrieben ist . ie systematische laterale (einseitige) LK-Dissektion als Kompartmentdissektion kann m Einzelfall auch im Rahmen einer Zweitoperation erfolgen . Aufgrund der rühen Mikrometastasierungsneigung ist die zentrale LK-Dissektion ein wichtiger Teil es Ersteingriffs. Das damit verbundene Morbiditätsrisiko wird geringer eingeschätzt ls die Verschlechterung der Prognose bzw. im Krankheitsverlauf auftretende lokale omplikationen durch potentiell befallene, aber belassene Lymphknoten. Darüber inaus ist das Morbiditätsrisiko bei zentralem Re-Eingriff erhöht. linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 s sollte immer eine systematische, en bloc Kompartmentdissektion mit quantitativer ymphknotenanalyse (Relation entfernter zu befallenen Lymphknoten) erfolgen. Eine elektive, also nicht systematische Lymphknotenentfernung („berry picking“ ergrößerter Lymphknoten) ist zu vermeiden. Sie verringert die Chance auf eine eilung, da die Operationsbedingungen bei der dann häufiger notwendigen Zweit- der Komplettierungsoperation narbenbedingt erschwert sind und die Morbidität adurch deutlich ansteigt . Eine Reoperation kann in besonderen Einzelfällen ach vorausgegangener adäquater Kompartmentresektion notwendig sein. ine transsternale mediastinale Lymphknotendissektion ist nur bei Verdacht auf LK- efall der entsprechenden Lymphknoten und fehlenden Fernmetastasen indiziert, der im Einzelfall um lokale Komplikationen zu vermeiden. ie Gewebsreaktion durch die Feinnadelbiopsie gleicht mikroskopisch einer esmoplastischen Stromareaktion und sollte deshalb vermieden werden. Der ntraoperative Gefrierschnitt ist notwendig, da nur dadurch das Fehlen einer esmoplastischen Stromareaktion nachgewiesen werden kann und damit bei ca. 27% er Patienten auf die laterale LK-Dissektion verzichtet werden kann . ie desmoplastische Stromareaktion ist das Charakteristikum eines invasiven umorwachstums. Das MTC ohne desmoplastische Stromareaktion stellt eine onderform dar. Tumore ohne desmoplastische Stromareaktion bilden keine LK- etastasen. Patienten mit MTC ohne desmoplastische Stromareaktion wurden auch hne LK-Dissektion im Langzeitverlauf geheilt . Bei fehlender desmoplastischer eaktion im intraoperativen Gefrierschnitt ist somit unabhängig vom präoperativen asalen Ctn-Spiegel keine weitere LK Dissektion notwendig. a das Fehlen einer desmoplastischen Stromareaktion im Gefrierschnitt jedoch erst ach Organentnahme im Gefrierschnitt des Primärtumors gezeigt werden kann, die entrale beidseitige LK-Dissektion aber technisch einfacher ist, solange die childdrüse noch in Situ ist, wird in einigen Zentren zunächst immer eine zentrale, eidseitige LK-Dissektion durchgeführt . linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 ndikation zur Komplettierungs-Operation",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 240,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "MTC",
+      "Thyreoidektomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_8_11_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "8.11",
+    "kapitel": "Medulläres SD-Ca (MTC)",
+    "unterkapitel": "OP-Indikation",
+    "thema": "MTC",
+    "statement": "Bei biochemisch, molekulargenetisch und klinisch dringendem MTC-Verdacht soll operiert werden, da die OP die einzige kurative Option ist.",
+    "answer": true,
+    "explanation": "EK 8.11. MTC: nur chirurgisch kurabel.",
+    "leitlinie_wortlaut": "Bei biochemisch, molekulargenetisch und klinisch dringendem V.a. MTC soll eine Operation durchgeführt werden, da sie die einzige kurative Therapiemöglichkeit darstellt. Patienten mit Schilddrüsenknoten und einem Ctn ≥ 30 pg/ml (Frauen) bzw. Ctn ≥ 60 pg/ml (Männer) haben mit sehr hoher Wahrscheinlichkeit ein MTC und sollen operiert werden (siehe 8.1.2.1). Bei Vorliegen von Schilddrüsenknoten und leicht erhöhtem Ctn oberhalb des Referenzbereiches bis 30 pg/ml bei Frauen bzw. bis 60 pg/ml bei Männern sollte zunächst der Wert spätestens nach 3 Monaten kontrolliert werden, bei reproduzierbaren steigenden Werten, die sich dem Grenzwert nähern, kann eine Operation diskutiert werden. Man findet in einem geringen Prozentsatz der Patienten ein Mikro-MTC (< 10mm), und bei denen sehr selten eine Lymphknotenbeteiligung. as Ziel der Operation des MTC ist die Heilung durch komplette Entfernung des rimärtumors und eventuell befallener Lymphknoten. linisch fassbare MTC weisen fast immer bereits mehr als 10 Lymphknoten- und äufig Fernmetastasen auf und sind meist nicht durch die Operation zu heilen. ei grob invasiv wachsenden Tumoren, ausgeprägt lokal metastasierten Tumoren der bei Fernmetastasen ist das Ziel eine lokale Tumorkontrolle zur Vermeidung okaler Komplikationen durch den Tumor. ur Frühdiagnose des MTC soll die Bestimmung der basalen Ctn-Werte bei Patienten it Schilddrüsenknoten durchgeführt werden . Ein MTC gilt bei Ctn-Werten ber dem Grenzwert von 30 pg/ml bei Frauen und über 60 pg/ml bei Männern als ehr wahrscheinlich (siehe 8.1.2.1). ei Ctn-Werten oberhalb des Referenzwertes bis 30 pg/ml bei der Frau und bis 60 g/ml beim Mann (Grauzone) besteht nur eine relative Operationsindikation, da nur elten ein Mikro-MTC (pT1a) aber weit häufiger eine C-Zell Hyperplasie mit fraglicher räkanzeröser Bedeutung gefunden wird. Ein Lymphknotenbefall wird hier selten eobachtet. Sollte man sich nicht zur Operation entschließen, sind 3-6monatige, päter jährliche Ctn-Kontrollen empfohlen. Bei Anstieg über 30 pg/ml bei der Frau nd über 60 pg/ml beim Mann soll die Indikation zur OP gestellt werden. Bei basalen tn-Werten bis 100 pg/ml ist in nahezu allen Fällen eine Heilung möglich . linienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 P-Ausmaß – Calcitonin- und Desmoplasie-abhängig",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 239,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "MTC",
+      "kurativ"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_9_6_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "9.6",
+    "kapitel": "Anaplastisches SD-Ca (ATC)",
+    "unterkapitel": "Molekularpanel",
+    "thema": "ATC",
+    "statement": "Bereits bei Diagnosestellung soll beim anaplastischen Schilddrüsenkarzinom eine zügige molekularpathologische Panelsequenzierung erfolgen.",
+    "answer": true,
+    "explanation": "EK 9.6. ATC ist hochaggressiv → schnelle Molekulardiagnostik (v. a. BRAF-V600E).",
+    "leitlinie_wortlaut": "Bereits bei Diagnosestellung durch Stanze oder ggf. offene Biopsie soll eine zügige molekularpathologische Panelsequenzierung des Tumormaterials sowie die immunhistochemische Bestimmung der PD-L1-Expression zur Therapieplanung erfolgen. Für das ATC sind bereits einzelne gezielte medikamentöse Therapien mit der Notwendigkeit eines Nachweises einer spezifischen genetischen Aberration durch die EMA bzw. FDA zugelassen (z. B. RET-Fusion, BRAF V600E Mutation). Weitere Biomarkeranalysen für gezielte Therapien, zugelassen für fortgeschrittene Tumoren ungeachtet der Tumorentität (tumoragnostisch), können ebenfalls als Therapieoptionen in Erwägung gezogen werden (z. B. NTRK-Fusion (Waguespack, Drilon et al. 2019), Mikrosatelliteninstabilität). Detaillierte molekulargenetische Analysen großer Fallserien von ATC konnten zudem verschiedene genomische Veränderungen in verschiedenen Signalwegen oder Reparaturmechanismen als Ansatzpunkt für bereits bei anderen soliden Tumoren zugelassener oder in Studien zugänglicher, gezielter medikamentöser Therapien aufzeigen. In einer Analyse von 196 ATC Tumoren zeigten sich am häufigsten prognostisch relevante TP53- (65%) sowie TERT-Mutationen (65%). 41% wiesen BRAF-Mutationen auf und 27% RAS- Mutationen . Aktuell ist die BRAF-Mutation, die in unterschiedlichen Serien in 11-45% nachgewiesen werden, kann durch die FDA für eine kombinierte zielgerichteten Therapie in Kombination eines BRAF Inhibitors mit einem MEK Inhibitor zugänglich. Auch andere genetische Alterationen ermöglichen den Einsatz selektiver Inhibitoren im individuellen Heilversuch (z. B. ALK-Translokation , ROS1-Fusionen oder nonsense TSC2 Mutation . Bei zunehmenden Therapieoptionen im Rahmen des Fortschrittes in der personalisierten onkologischen Medizin ist eine initiale breite genomische molekularpathologische Parallelsequenzierung (Panelsequenzierung der wichtigen Signalwege einschließlich Fusionen, TMB, HRR) am zumeist bereits vorliegenden und durch den Pathologen charakterisierten, formalinfixierten und paraffinisierten (FFPE) Tumormaterial zu empfehlen. Dies gilt insbesondere vor dem Hintergrund des oft schnell fortschreitenden Krankheitsverlaufs und der zeitlichen Verzögerung durch die aufwendige molekularpathologische Diagnostik. Der routinemäßige Einsatz von whole exome (WES) oder whole genome (WGS) Sequenzierungen kann zurzeit auf Grund der hohen technischen Anforderungen an tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 ie Qualität und Menge der DNA / RNA sowie dem höheren Zeitaufwand von ehreren Wochen außerhalb von Studien nicht empfohlen werden. ie Kenntnis der Expression von PD-L1 kann zur Abschätzung der Rationale einer mmuncheckpointinhibitortherapie außerhalb der Zulassung, zum Beispiel im Rahmen on Studien oder einem individuellen Heilversuch (a.e. Kombinationstherapie mit yrosin-Kinase Inhibitoren (TKI), siehe unten) herangezogen werden. Hierzu sollen die ängigen Scores zur immunhistologischen PD-L1 Analyse (IC, CPS, TPS) durch den athologen berichtet werden. herapie des resektablen ATC peration",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 267,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "ATC",
+      "Molekularpanel"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "molekularpathologie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ],
+      "spezial": [
+        "braf"
+      ]
+    }
+  },
+  {
+    "id": "sd_9_14_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "9.14",
+    "kapitel": "Anaplastisches SD-Ca (ATC)",
+    "unterkapitel": "BRAF neoadjuvant",
+    "thema": "ATC",
+    "statement": "Beim anaplastischen Schilddrüsenkarzinom mit BRAF-V600E-Mutation besteht keine zielgerichtete Therapieoption.",
+    "answer": false,
+    "explanation": "EK 9.14: bei BRAF-V600E sollte eine zielgerichtete (neoadjuvante) Therapie (Dabrafenib/Trametinib) erfolgen.",
+    "leitlinie_wortlaut": "In der nicht-resektablen Situation sollte bei Patienten mit einer BRAF-V600E Mutation eine neoadjuvante Therapie erfolgen. In einer Fallserie von 57 ATC Patienten mit einer BRAF V600E Mutation am MD Anderson Cancer Center, Texas, in einem Zeitraum von 2017 bis 2021 war bei ca.70% der Patienten nach einer mindestens einen Monat dauernden Kombinationstherapie mit Dabrafenib und Trametinib (DT) eine Resektion möglich . Erfolgte die DT- Behandlung erst nach der Operation (n=12), war das Ergebnis etwas schlechter als bei den Patienten (n=32), bei den die DT-Behandlung präoperativ durchgeführt worden ist. tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 Bei weiteren 13 Patienten konnte wegen unzureichenden Ansprechens (n=9) nach DT, unzureichendem AZ (n=2) keine Operation erfolgen. Zwei Patienten lehnten die Operation ab. In der Gruppe DT + Operation war das mediane OS [CI 39,2 Monate – NA) nicht erreicht, das 1- und 2-Jahre OS lag bei 93,6% und 80,3%. In der Gruppe ohne Operation +DT lag das 1 und 2 Jahre OS bei 38,5% und 15,4%. Bei Patienten mit präoperativer DT-Behandlung lag das 1 und 2 Jahre OS bei 74,1% und 74,1%. Eine britische Studie erfasste 17 inoperable Patienten mit einem BRAF V600E positiven ATC, die zwischen August 2018 und Oktober 2021 mit DT behandelt worden sind. 12 Patienten konnten nach DT operiert werden, 4 hatten eine R0-, 7 eine R1- und einer eine R2-Resektion. Das mediane OS betrug 12 Monaten (range 3 bis 43). Diese real world Daten sind zwar schlechter als die der ROAR-Basket Studie, dennoch besser im Vergleich zu anderen retrospektiven Daten. Neben strengeren Einschlusskriterien in Studien, wird auch ein verzögerter Zugang zu DT als mögliche Erklärung genannt. Studien mit anderen Medikamentenkombinationen sind initiiert: DT plus Pemprolizumab (30 Patienten, Phase-II-Studie; NCT04675710), M D Anderson Cancer Center Immuncheckpointinhibitor Atezolizumab kombiniert mit dem BRAF-Inhibitor Vemurafenib und dem MEK-Inhibitor Cobimetinib (VCA) kombiniert wird (n=17).",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 272,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "ATC",
+      "BRAF-V600E"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ],
+      "spezial": [
+        "braf"
+      ]
+    }
+  },
+  {
+    "id": "sd_9_11_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "9.11",
+    "kapitel": "Anaplastisches SD-Ca (ATC)",
+    "unterkapitel": "Radiochemo",
+    "thema": "ATC",
+    "statement": "Bei volldosierter Strahlentherapie (≥ 50 Gy) des ATC sollte eine simultane Chemotherapie erfolgen.",
+    "answer": true,
+    "explanation": "EK 9.11. Radiochemotherapie zur lokalen Kontrolle beim resektablen/postop ATC.",
+    "leitlinie_wortlaut": "Bei Patienten, die mit einer volldosierten Strahlentherapie (mindestens 50 Gy) behandelt werden, sollte eine simultane Chemotherapie mit einer Kombination aus Taxan (Paclitaxel, Docetaxel) und / oder Anthracyclin (Doxorubicin) und / oder Platin (Cisplatin, Carboplatin) eingesetzt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 270,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "ATC",
+      "Radiochemotherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
+  },
+  {
+    "id": "sd_9_8_a",
+    "leitlinie": {
+      "id": "schilddruese",
+      "name": "S3-LL Schilddrüsenkarzinom",
+      "version": "1.0",
+      "datum": "Juli 2025",
+      "awmf": "031-056OL"
+    },
+    "empfehlung_nr": "9.8",
+    "kapitel": "Anaplastisches SD-Ca (ATC)",
+    "unterkapitel": "Adjuvante RT",
+    "thema": "ATC",
+    "statement": "Nach R0-/R1-Resektion soll Patienten mit ATC in gutem Allgemeinzustand ohne Metastasen eine (Radio-)Therapie angeboten werden.",
+    "answer": true,
+    "explanation": "EK 9.8. Multimodal beim resezierten ATC.",
+    "leitlinie_wortlaut": "Nach einer R0- oder R1-Resektion soll Patienten mit ATC in gutem Allgemeinzustand ohne Hinweis auf eine metastasierte Erkrankung, eine normofraktionierte Strahlentherapie in Form der intensitätsmodulierten Radiotherapie (IMRT) mit simultaner Systemtherapie angeboten werden. rotz der schlechten Prognose des ATC stellt die perkutane Strahlentherapie eine esentliche lokale Therapieoption mit überwiegend palliativem Charakter dar. Eine okoregionäre Tumorkontrolle wird in 60-80% der perkutan bestrahlten Patienten rreicht , , , , so dass ein Tod durch Ersticken in der Regel erhindert werden kann. In einer großen retrospektiven Serie war die Kombination on Operation und perkutaner Strahlentherapie ein unabhängiger Prognosefaktor für as tumorspezifische Überleben . Dieser Effekt beruhte auf dem Vorteil einer ggressiven Lokaltherapie bei Patienten mit lokoregionär fortgeschrittener oder ernmetastasierter, nicht mit rein intrathyreoidaler Tumorausdehnung. Auch bei orliegender Fernmetastasierung scheint eine lokale Tumorkontrolle die berlebenszeiten zu verlängern . Somit ist eine primäre oder postoperative trahlentherapie beim ATC in der Regel indiziert. ei Patienten ohne Fernmetastasen, bei denen eine komplette Tumorresektion öglich ist, kann eine intensivierte Radiochemotherapie (im Sinne einer trimodalen herapie) mit Drei-Jahres-Überlebensraten von mindestens 50% , , ogar einen kurativen Therapieansatz darstellen. Die präoperative bzw. die ostoperative Radiochemotherapie ergaben vergleichbare Ergebnisse , , 1205], so dass beide Sequenzen prinzipiell vertretbar sind. Eine sowohl prae- als uch postoperative Strahlentherapie („split course“) ist nicht empfehlenswert . n einer größeren Fallserie (104 Patienten, Zeitraum 1984-2017) wurde nach OP und imultaner Radiochemotherapie (Doxorubicin in 74%, Paclitaxel mit oder ohne azopanib in 24%) ein 1-Jahres-Überleben von 45% beschrieben . ine aktuelle Metaanalyse (17 nicht-randomisierte Beobachtungsstudien, 1147 atienten) betrachtete den Stellenwert einer postoperativen Strahlentherapie nach esektion (R-Status nicht spezifiziert) des ATC (Kwon, Kim et al. 2016). Die ostoperative Radiatio reduzierte das Sterberisiko im Vergleich zu alleiniger OP mit iner HR von 0,556 (95% CI, 0,419-0,737; p<0,001). Der Effekt war am stärksten in en Stadien IVA (HR 0,364; p=0.012) und IVB (HR 0,460; p=0.059). In einer weiteren etaanalyse (10 Studien, 1163 Patienten) wurde nach OP + Radiotherapie im ergleich zu alleiniger Resektion eine Absenkung des Sterberisikos mit HR 0,51 (95% I: 0,36-0,73, p=0,0002) berichtet . tlinienprogramm Onkologie | Schilddrüsenkarzinom | Langversion - 1.0 | Juli 2025 urchführung der Strahlentherapie",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 269,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "ATC",
+      "adjuvant"
+    ],
+    "facetten": {
+      "entitaet": [
+        "schilddruese"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "strahlentherapie"
+      ],
+      "lokalisation": [
+        "schilddruese"
+      ]
+    }
   }
 ]

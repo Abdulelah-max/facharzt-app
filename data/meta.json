@@ -47,12 +47,12 @@
     },
     {
       "id": "schilddruese",
-      "awmf": "088-002",
+      "awmf": "031-056OL",
       "kurz": "Schilddrüse",
       "name": "Schilddrüsenkarzinom",
       "version": "S3",
       "geplante_fragen": 45,
-      "status": "geplant"
+      "status": "fertig"
     },
     {
       "id": "mesenteriale_ischaemie",

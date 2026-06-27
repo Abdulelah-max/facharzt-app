@@ -3,7 +3,7 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 403 Fragen · ✅ 403 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 445 Fragen · ✅ 445 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
@@ -560,3 +560,80 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | pank_9_30_a | 9.30 | 202 | R | ✅ | ☐ |
 | pank_9_31_a | 9.31 | 202 | R | ✅ | ☐ |
 | pank_9_4_a | 9.4 | 188 | R | ✅ | ☐ |
+
+## schilddruese · Anaplastisches SD-Ca (ATC)  (4)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| sd_9_11_a | 9.11 | 270 | R | ✅ | ☐ |
+| sd_9_14_a | 9.14 | 272 | F | ✅ | ☐ |
+| sd_9_6_a | 9.6 | 267 | R | ✅ | ☐ |
+| sd_9_8_a | 9.8 | 269 | R | ✅ | ☐ |
+
+## schilddruese · Diagnostik  (8)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| sd_3_14_a | 3.14 | 44 | F | ✅ | ☐ |
+| sd_3_17_a | 3.17 | 46 | R | ✅ | ☐ |
+| sd_3_19_a | 3.19 | 48 | F | ✅ | ☐ |
+| sd_3_2_a | 3.2 | 33 | R | ✅ | ☐ |
+| sd_3_33_a | 3.33 | 56 | R | ✅ | ☐ |
+| sd_3_3_a | 3.3 | 35 | R | ✅ | ☐ |
+| sd_3_42_a | 3.42 | 60 | R | ✅ | ☐ |
+| sd_3_43_a | 3.43 | 61 | F | ✅ | ☐ |
+
+## schilddruese · Initialtherapie diff. SD-Ca  (11)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| sd_5_13_a | 5.13 | 111 | F | ✅ | ☐ |
+| sd_5_23_a | 5.23 | 118 | R | ✅ | ☐ |
+| sd_5_29_a | 5.29 | 121 | R | ✅ | ☐ |
+| sd_5_2_a | 5.2 | 103 | F | ✅ | ☐ |
+| sd_5_30_a | 5.30 | 122 | R | ✅ | ☐ |
+| sd_5_34_a | 5.34 | 133 | R | ✅ | ☐ |
+| sd_5_35_a | 5.35 | 135 | F | ✅ | ☐ |
+| sd_5_38_a | 5.38 | 140 | F | ✅ | ☐ |
+| sd_5_3_a | 5.3 | 105 | R | ✅ | ☐ |
+| sd_5_5_a | 5.5 | 107 | R | ✅ | ☐ |
+| sd_5_7_a | 5.7 | 108 | R | ✅ | ☐ |
+
+## schilddruese · Medulläres SD-Ca (MTC)  (5)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| sd_8_10_a | 8.10 | 238 | F | ✅ | ☐ |
+| sd_8_11_a | 8.11 | 239 | R | ✅ | ☐ |
+| sd_8_12_a | 8.12 | 240 | R | ✅ | ☐ |
+| sd_8_3_a | 8.3 | 230 | F | ✅ | ☐ |
+| sd_8_6_a | 8.6 | 234 | R | ✅ | ☐ |
+
+## schilddruese · Nachsorge diff. SD-Ca  (5)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| sd_6_10_a | 6.10 | 189 | R | ✅ | ☐ |
+| sd_6_1_a | 6.1 | 177 | R | ✅ | ☐ |
+| sd_6_4_a | 6.4 | 183 | R | ✅ | ☐ |
+| sd_6_7_a | 6.7 | 188 | R | ✅ | ☐ |
+| sd_6_9_a | 6.9 | 188 | F | ✅ | ☐ |
+
+## schilddruese · Rezidiv / Metastasen  (4)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| sd_7_11_a | 7.11 | 221 | F | ✅ | ☐ |
+| sd_7_13_a | 7.13 | 223 | R | ✅ | ☐ |
+| sd_7_14_a | 7.14 | 224 | R | ✅ | ☐ |
+| sd_7_4_a | 7.4 | 210 | R | ✅ | ☐ |
+
+## schilddruese · Zytologie / Pathologie  (5)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| sd_4_11_a | 4.11 | 83 | F | ✅ | ☐ |
+| sd_4_12_a | 4.12 | 84 | R | ✅ | ☐ |
+| sd_4_1_a | 4.1 | 63 | R | ✅ | ☐ |
+| sd_4_4_a | 4.4 | 73 | R | ✅ | ☐ |
+| sd_4_9_a | 4.9 | 76 | R | ✅ | ☐ |

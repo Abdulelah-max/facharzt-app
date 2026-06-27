@@ -28,7 +28,8 @@
         "stoma": "Stoma",
         "reha_funktion": "Reha / Funktion (LARS)",
         "supportiv": "Supportiv / Palliativ",
-        "ernaehrung": "Ernährung"
+        "ernaehrung": "Ernährung",
+        "radiojod": "Radioiodtherapie"
       }
     },
     "stadium": {
@@ -90,7 +91,8 @@
         "brca": "BRCA1/2",
         "kras_g12c": "KRAS-G12C",
         "cdh1": "CDH1 / HDGC",
-        "pdl1": "PD-L1"
+        "pdl1": "PD-L1",
+        "ret": "RET"
       }
     }
   },
@@ -327,6 +329,62 @@
       "kriterien": {
         "entitaet": "oesophagus",
         "spezial": "pdl1"
+      }
+    },
+    {
+      "name": "Schilddrüse Diagnostik (Knoten/FNP)",
+      "kriterien": {
+        "entitaet": "schilddruese",
+        "phase": "diagnostik"
+      }
+    },
+    {
+      "name": "Schilddrüse Pathologie/Zytologie",
+      "kriterien": {
+        "entitaet": "schilddruese",
+        "modalitaet": "pathologie"
+      }
+    },
+    {
+      "name": "Schilddrüse Chirurgie",
+      "kriterien": {
+        "entitaet": "schilddruese",
+        "phase": "chirurgie"
+      }
+    },
+    {
+      "name": "Schilddrüse Radioiodtherapie",
+      "kriterien": {
+        "entitaet": "schilddruese",
+        "modalitaet": "radiojod"
+      }
+    },
+    {
+      "name": "Schilddrüse Nachsorge",
+      "kriterien": {
+        "entitaet": "schilddruese",
+        "phase": "nachsorge"
+      }
+    },
+    {
+      "name": "Schilddrüse metastasiert / RAI-refraktär",
+      "kriterien": {
+        "entitaet": "schilddruese",
+        "phase": "metastasen"
+      }
+    },
+    {
+      "name": "Medulläres SD-Ca (MTC / RET)",
+      "kriterien": {
+        "entitaet": "schilddruese",
+        "spezial": "ret"
+      }
+    },
+    {
+      "name": "Schilddrüse molekular (RET/BRAF/NTRK)",
+      "kriterien": {
+        "entitaet": "schilddruese",
+        "modalitaet": "molekularpathologie"
       }
     }
   ]
