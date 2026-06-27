@@ -3,7 +3,7 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 333 Fragen · ✅ 333 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 399 Fragen · ✅ 399 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
@@ -345,6 +345,92 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | mag_4_5_a | 4.5 | 47 | R | ✅ | ☐ |
 | mag_4_7_a | 4.7 | 48 | R | ✅ | ☐ |
 | mag_4_9_a | 4.9 | 50 | F | ✅ | ☐ |
+
+## oesophagus · Diagnostik / Staging / Pathologie  (16)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| oes_6_10_a | 6.10 | 57 | F | ✅ | ☐ |
+| oes_6_11_a | 6.11 | 57 | R | ✅ | ☐ |
+| oes_6_13_a | 6.13 | 58 | F | ✅ | ☐ |
+| oes_6_14_a | 6.14 | 60 | R | ✅ | ☐ |
+| oes_6_15_a | 6.15 | 63 | R | ✅ | ☐ |
+| oes_6_16_a | 6.16 | 63 | R | ✅ | ☐ |
+| oes_6_17_a | 6.17 | 64 | R | ✅ | ☐ |
+| oes_6_18_a | 6.18 | 66 | R | ✅ | ☐ |
+| oes_6_19_a | 6.19 | 66 | R | ✅ | ☐ |
+| oes_6_25_a | 6.25 | 76 | R | ✅ | ☐ |
+| oes_6_2_a | 6.2 | 45 | R | ✅ | ☐ |
+| oes_6_3_a | 6.3 | 45 | R | ✅ | ☐ |
+| oes_6_4_a | 6.4 | 47 | R | ✅ | ☐ |
+| oes_6_5_a | 6.5 | 47 | R | ✅ | ☐ |
+| oes_6_6_a | 6.6 | 50 | F | ✅ | ☐ |
+| oes_6_8_a | 6.8 | 55 | R | ✅ | ☐ |
+
+## oesophagus · Kurative Therapie  (31)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| oes_8_10_a | 8.10 | 89 | R | ✅ | ☐ |
+| oes_8_11_a | 8.11 | 90 | F | ✅ | ☐ |
+| oes_8_13_a | 8.13 | 91 | F | ✅ | ☐ |
+| oes_8_15_a | 8.15 | 101 | R | ✅ | ☐ |
+| oes_8_17_a | 8.17 | 104 | R | ✅ | ☐ |
+| oes_8_18_a | 8.18 | 105 | F | ✅ | ☐ |
+| oes_8_19_a | 8.19 | 106 | R | ✅ | ☐ |
+| oes_8_1_a | 8.1 | 79 | R | ✅ | ☐ |
+| oes_8_20_a | 8.20 | 106 | F | ✅ | ☐ |
+| oes_8_23_a | 8.23 | 110 | F | ✅ | ☐ |
+| oes_8_24_a | 8.24 | 111 | R | ✅ | ☐ |
+| oes_8_25_a | 8.25 | 113 | R | ✅ | ☐ |
+| oes_8_26_a | 8.26 | 113 | F | ✅ | ☐ |
+| oes_8_28_a | 8.28 | 114 | F | ✅ | ☐ |
+| oes_8_29_a | 8.29 | 118 | F | ✅ | ☐ |
+| oes_8_2_a | 8.2 | 80 | R | ✅ | ☐ |
+| oes_8_30_a | 8.30 | 119 | R | ✅ | ☐ |
+| oes_8_33_a | 8.33 | 122 | R | ✅ | ☐ |
+| oes_8_34_a | 8.34 | 123 | F | ✅ | ☐ |
+| oes_8_35_a | 8.35 | 124 | R | ✅ | ☐ |
+| oes_8_36_a | 8.36 | 127 | R | ✅ | ☐ |
+| oes_8_37_a | 8.37 | 129 | R | ✅ | ☐ |
+| oes_8_38_a | 8.38 | 130 | F | ✅ | ☐ |
+| oes_8_3_a | 8.3 | 83 | R | ✅ | ☐ |
+| oes_8_40_a | 8.40 | 135 | R | ✅ | ☐ |
+| oes_8_41_a | 8.41 | 136 | R | ✅ | ☐ |
+| oes_8_4_a | 8.4 | 84 | R | ✅ | ☐ |
+| oes_8_6_a | 8.6 | 86 | R | ✅ | ☐ |
+| oes_8_7_a | 8.7 | 86 | F | ✅ | ☐ |
+| oes_8_8_a | 8.8 | 88 | R | ✅ | ☐ |
+| oes_8_9_a | 8.9 | 89 | R | ✅ | ☐ |
+
+## oesophagus · Palliativtherapie  (11)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| oes_9_14_a | 9.14 | 153 | R | ✅ | ☐ |
+| oes_9_15_a | 9.15 | 154 | R | ✅ | ☐ |
+| oes_9_16_a | 9.16 | 155 | R | ✅ | ☐ |
+| oes_9_17_a | 9.17 | 156 | F | ✅ | ☐ |
+| oes_9_1_a | 9.1 | 141 | R | ✅ | ☐ |
+| oes_9_2_a | 9.2 | 141 | R | ✅ | ☐ |
+| oes_9_3_a | 9.3 | 141 | R | ✅ | ☐ |
+| oes_9_4_a | 9.4 | 142 | F | ✅ | ☐ |
+| oes_9_5_a | 9.5 | 142 | R | ✅ | ☐ |
+| oes_9_6_a | 9.6 | 142 | F | ✅ | ☐ |
+| oes_9_9_a | 9.9 | 146 | R | ✅ | ☐ |
+
+## oesophagus · Risikofaktoren  (8)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| oes_4_1_a | 4.1 | 33 | R | ✅ | ☐ |
+| oes_4_2_a | 4.2 | 34 | F | ✅ | ☐ |
+| oes_4_3_a | 4.3 | 35 | R | ✅ | ☐ |
+| oes_4_4_a | 4.4 | 36 | R | ✅ | ☐ |
+| oes_4_6_a | 4.6 | 38 | R | ✅ | ☐ |
+| oes_4_7_a | 4.7 | 39 | R | ✅ | ☐ |
+| oes_4_8_a | 4.8 | 40 | F | ✅ | ☐ |
+| oes_4_9_a | 4.9 | 41 | R | ✅ | ☐ |
 
 ## pankreas · Chirurgische Therapie  (30)
 

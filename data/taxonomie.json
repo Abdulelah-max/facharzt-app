@@ -68,7 +68,9 @@
         "peritoneum": "Peritoneum",
         "lunge": "Lunge",
         "aeg": "Ösophagogastraler Übergang (AEG)",
-        "magen_distal": "Magen distal"
+        "magen_distal": "Magen distal",
+        "oesophagus": "Ösophagus",
+        "barrett": "Barrett-Ösophagus"
       }
     },
     "spezial": {
@@ -269,6 +271,62 @@
       "kriterien": {
         "entitaet": "magen",
         "spezial": "cdh1"
+      }
+    },
+    {
+      "name": "Ösophagus Risikofaktoren",
+      "kriterien": {
+        "entitaet": "oesophagus",
+        "phase": "vorsorge"
+      }
+    },
+    {
+      "name": "Ösophagus Diagnostik/Staging",
+      "kriterien": {
+        "entitaet": "oesophagus",
+        "phase": "diagnostik"
+      }
+    },
+    {
+      "name": "Ösophagus Frühkarzinom/Barrett endoskopisch",
+      "kriterien": {
+        "entitaet": "oesophagus",
+        "modalitaet": "endoskopie"
+      }
+    },
+    {
+      "name": "Ösophagus kurative Chirurgie",
+      "kriterien": {
+        "entitaet": "oesophagus",
+        "phase": "chirurgie"
+      }
+    },
+    {
+      "name": "Ösophagus neoadjuvant/multimodal",
+      "kriterien": {
+        "entitaet": "oesophagus",
+        "phase": "neoadjuvanz"
+      }
+    },
+    {
+      "name": "Ösophagus definitive Radiochemo",
+      "kriterien": {
+        "entitaet": "oesophagus",
+        "modalitaet": "strahlentherapie"
+      }
+    },
+    {
+      "name": "Ösophagus palliative Systemtherapie",
+      "kriterien": {
+        "entitaet": "oesophagus",
+        "phase": "metastasen"
+      }
+    },
+    {
+      "name": "Ösophagus HER2/PD-L1",
+      "kriterien": {
+        "entitaet": "oesophagus",
+        "spezial": "pdl1"
       }
     }
   ]

@@ -13211,5 +13211,2719 @@
         "ernaehrung"
       ]
     }
+  },
+  {
+    "id": "oes_4_1_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "4.1",
+    "kapitel": "Risikofaktoren",
+    "unterkapitel": "Rauchen",
+    "thema": "Risiko",
+    "statement": "Rauchen erhöht das Risiko sowohl für Plattenepithel- als auch für Adenokarzinome des Ösophagus.",
+    "answer": true,
+    "explanation": "EK 4.1. Tabak ist Risikofaktor für beide histologischen Entitäten.",
+    "leitlinie_wortlaut": "Rauchen erhöht das Risiko für Ösophaguskarzinome. Dies gilt für Plattenepithelkarzinome und für Adenokarzinome des Ösophagus und des ösophagogastralen Übergangs.",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 33,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Rauchen",
+      "Risiko"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_4_2_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "4.2",
+    "kapitel": "Risikofaktoren",
+    "unterkapitel": "Alkohol",
+    "thema": "Risiko",
+    "statement": "Alkohol erhöht vor allem das Risiko für Adenokarzinome des Ösophagus.",
+    "answer": false,
+    "explanation": "EK 4.2: Alkohol erhöht v. a. das Risiko für PLATTENEPITHELkarzinome; Adeno eher durch Reflux/Adipositas/Barrett.",
+    "leitlinie_wortlaut": "Alkohol erhöht das Risiko für Plattenepithelkarzinome des Ösophagus.",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 34,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Alkohol",
+      "Plattenepithelkarzinom"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_4_3_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "4.3",
+    "kapitel": "Risikofaktoren",
+    "unterkapitel": "Adipositas",
+    "thema": "Risiko",
+    "statement": "Übergewicht/Adipositas erhöht das Risiko für Adenokarzinome des Ösophagus und des ösophagogastralen Übergangs.",
+    "answer": true,
+    "explanation": "EK 4.3. Adipositas → Adenokarzinom (über Reflux/Barrett-Achse).",
+    "leitlinie_wortlaut": "Übergewicht/Adipositas erhöht das Risiko für Adenokarzinome des Ösophagus und des ösophagogastralen Übergangs. Eine an Obst, Gemüse und Ballaststoffen reiche Ernährung hat einen gewissen protektiven Effekt.",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 35,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Adipositas",
+      "Adenokarzinom"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "oesophagus",
+        "aeg"
+      ]
+    }
+  },
+  {
+    "id": "oes_4_4_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "4.4",
+    "kapitel": "Risikofaktoren",
+    "unterkapitel": "Achalasie",
+    "thema": "Risiko",
+    "statement": "Eine Achalasie erhöht das Risiko für Plattenepithel- und Adenokarzinome des Ösophagus.",
+    "answer": true,
+    "explanation": "EK 4.4. Achalasie als Risikofaktor für beide Entitäten.",
+    "leitlinie_wortlaut": "Eine Achalasie erhöht das Risiko für Plattenepithel- und Adenokarzinome des Ösophagus.",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 36,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Achalasie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_4_6_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "4.6",
+    "kapitel": "Risikofaktoren",
+    "unterkapitel": "Verätzung",
+    "thema": "Risiko",
+    "statement": "Stenosen nach Säure- und Laugenverätzungen erhöhen das Risiko für ein Ösophaguskarzinom.",
+    "answer": true,
+    "explanation": "EK 4.6. Narbenstenosen → erhöhtes (Plattenepithel-)Karzinomrisiko.",
+    "leitlinie_wortlaut": "Stenosen nach Säure- und Laugenverätzungen erhöhen das Risiko für das Ösophaguskarzinom.",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 38,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Verätzung",
+      "Stenose"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_4_7_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "4.7",
+    "kapitel": "Risikofaktoren",
+    "unterkapitel": "Reflux",
+    "thema": "Risiko",
+    "statement": "Gastroösophagealer Reflux erhöht das Risiko für Adenokarzinome des Ösophagus.",
+    "answer": true,
+    "explanation": "EK 4.7. Chronischer Reflux → Barrett → Adenokarzinom.",
+    "leitlinie_wortlaut": "Gastroösophagealer Reflux erhöht das Risiko für Adenokarzinome des Ösophagus.",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 39,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Reflux",
+      "Adenokarzinom"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_4_8_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "4.8",
+    "kapitel": "Risikofaktoren",
+    "unterkapitel": "Barrett",
+    "thema": "Risiko",
+    "statement": "Der Barrett-Ösophagus erhöht vor allem das Risiko für Plattenepithelkarzinome.",
+    "answer": false,
+    "explanation": "EK 4.8: Barrett ist die Präkanzerose des ADENOkarzinoms.",
+    "leitlinie_wortlaut": "Der Barrett-Ösophagus erhöht das Risiko für Adenokarzinome des Ösophagus.",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 40,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Barrett",
+      "Adenokarzinom"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "vorsorge"
+      ],
+      "lokalisation": [
+        "oesophagus",
+        "barrett"
+      ]
+    }
+  },
+  {
+    "id": "oes_4_9_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "4.9",
+    "kapitel": "Risikofaktoren",
+    "unterkapitel": "Zweittumoren",
+    "thema": "Risiko",
+    "statement": "Patienten mit Plattenepithelkarzinomen des Ösophagus haben ein erhöhtes Risiko für synchrone/metachrone Kopf-Hals-Tumoren (und umgekehrt).",
+    "answer": true,
+    "explanation": "EK 4.9. Gemeinsame Risikofaktoren (Tabak/Alkohol) → Feldkanzerisierung.",
+    "leitlinie_wortlaut": "Patienten mit Plattenepithelkarzinomen des Ösophagus besitzen ein erhöhtes Risiko für synchrone und metachrone Kopf-/Halstumoren und umgekehrt.",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 41,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Kopf-Hals-Tumor",
+      "Plattenepithelkarzinom"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "vorsorge",
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_2_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.2",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Barrett-Biopsie",
+    "thema": "Diagnostik",
+    "statement": "Beim Barrett-Ösophagus sollen bei der ÖGD zusätzlich 4-Quadranten-Biopsien entnommen werden.",
+    "answer": true,
+    "explanation": "EK 6.2. Quadrantenbiopsien zur Dysplasie-Detektion im Barrett.",
+    "leitlinie_wortlaut": "Bei der ÖGD sollen Biopsien aus allen suspekten Läsionen genommen werden. Beim Barrett-Ösophagus sollen zusätzlich 4-Quadranten-Biopsien entnommen werden. Suspekte Areale sollen getrennt asserviert und histopathologisch untersucht werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 45,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Barrett",
+      "4-Quadranten-Biopsie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "pathologie"
+      ],
+      "lokalisation": [
+        "oesophagus",
+        "barrett"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_3_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.3",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Videoendoskopie",
+    "thema": "Diagnostik",
+    "statement": "Die hochauflösende Videoendoskopie soll als Standardverfahren zur Detektion von Neoplasien des oberen GI-Trakts eingesetzt werden.",
+    "answer": true,
+    "explanation": "EK 6.3. Höchste Sensitivität/Spezifität.",
+    "leitlinie_wortlaut": "Die ÖGD mittels hochauflösender Videoendoskopie besitzt die höchste Sensitivität und Spezifität für den Nachweis von Neoplasien des oberen Gastrointestinaltraktes und soll daher als Standardverfahren zur Diagnosestellung eingesetzt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 45,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Videoendoskopie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_4_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.4",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Chromoendoskopie",
+    "thema": "Diagnostik",
+    "statement": "Bei Risikopatienten für ein Plattenepithelkarzinom sollten Chromoendoskopie (Lugol) oder digitale Filterverfahren eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.4 (Grad B). Lugol-Chromoendoskopie verbessert SCC-Detektion.",
+    "leitlinie_wortlaut": "Die Chromoendoskopie (Lugol´sche Lösung) oder die computergestützten digitalen (Filter-) Verfahren sollten bei Risiko-Patienten für ein Ösophaguskarzinom (= anamnestisch Plattenepithelkarzinom des Mundes/Nase/ Rachens/ Bronchial-Systems, Ösophagus) eingesetzt werden.",
+    "evidenz": "Grad B; LoE 2a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 47,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Chromoendoskopie",
+      "Lugol"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_6_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.6",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "EUS",
+    "thema": "Diagnostik",
+    "statement": "Der endoskopische Ultraschall (EUS) hat im Staging bei kurativer Therapieintention keine wesentliche Bedeutung.",
+    "answer": false,
+    "explanation": "Empf. 6.6 (Grad B): der EUS SOLLTE Bestandteil des Stagings sein.",
+    "leitlinie_wortlaut": "Der endoskopische Ultraschall (EUS) sollte Bestandteil des Stagings bei Patienten mit kurativer Therapieintention sein.",
+    "evidenz": "Grad B; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 50,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "EUS",
+      "Staging"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_8_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.8",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Sonographie",
+    "thema": "Diagnostik",
+    "statement": "Die B-Bild-Sonographie sollte als erstes bildgebendes Verfahren zum Ausschluss von Lebermetastasen eingesetzt werden.",
+    "answer": true,
+    "explanation": "EK 6.8. Sono als breit verfügbares Erstverfahren.",
+    "leitlinie_wortlaut": "Die B-Bild-Sonographie sollte als erstes bildgebendes Verfahren zum Ausschluss von Lebermetastasen eingesetzt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 55,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Sonographie",
+      "Lebermetastasen"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_10_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.10",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Tumormarker",
+    "thema": "Diagnostik",
+    "statement": "Zirkulierende Tumormarker sollen routinemäßig zur Therapieüberwachung des Ösophaguskarzinoms bestimmt werden.",
+    "answer": false,
+    "explanation": "EK 6.10: Tumormarker sollen NICHT zur Diagnose/Überwachung bestimmt werden.",
+    "leitlinie_wortlaut": "Die Bestimmung zirkulierender Tumormarker zur Diagnose oder zur Therapieüberwachung des Ösophaguskarzinoms soll nicht erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 57,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Tumormarker"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_11_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.11",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Breischluck",
+    "thema": "Diagnostik",
+    "statement": "Der Röntgen-Breischluck soll nicht zur Diagnosestellung des Ösophaguskarzinoms eingesetzt werden.",
+    "answer": true,
+    "explanation": "EK 6.11. Diagnose endoskopisch-bioptisch, nicht radiologisch.",
+    "leitlinie_wortlaut": "Der Röntgen-Breischluck soll nicht zur Diagnosestellung des Ösophaguskarzinoms eingesetzt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 57,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Breischluck"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_13_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.13",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "MDCT",
+    "thema": "Staging",
+    "statement": "Zum primären Staging genügt eine Röntgen-Thorax-Aufnahme; eine Computertomografie ist nicht erforderlich.",
+    "answer": false,
+    "explanation": "Empf. 6.13 (Grad B): MDCT von Hals/Thorax/Abdomen als Basis-Staging.",
+    "leitlinie_wortlaut": "Bei Patienten mit einem neu diagnostizierten Ösophaguskarzinom sollte zum primären Staging eine Multidetektor-CT (MDCT) von Hals/ Thorax und Abdomen (mit multiplanaren Rekonstruktionen und Wanddistension mit oralem negativem Kontrastmittel) und zusätzlich i.v. Kontrastmittel durchgeführt werden.",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 58,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "CT",
+      "Staging"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_14_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.14",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "PET-CT",
+    "thema": "Staging",
+    "statement": "Bei lokal fortgeschrittenen Tumoren (cT2–4 und cN+) kann zusätzlich eine PET/CT zum M-Staging eingesetzt werden, sofern potenziell kurativ behandelbar.",
+    "answer": true,
+    "explanation": "Empf. 6.14 (Grad 0). PET/CT deckt okkulte Fernmetastasen auf.",
+    "leitlinie_wortlaut": "Bei lokal fortgeschrittenen Tumoren (cT 2-4 und cN+) kann zusätzlich eine PET/CT-Untersuchung zum M-Staging eingesetzt werden, falls der Patient potenziell kurativ behandelbar ist bzw. das Ergebnis klinische Konsequenzen hat.",
+    "evidenz": "Grad 0; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 60,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "PET-CT",
+      "M-Staging"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "stadium": [
+        "ct3",
+        "ct4",
+        "cn_plus"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_15_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.15",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Bronchoskopie",
+    "thema": "Staging",
+    "statement": "Bei lokal fortgeschrittenen Tumoren mit Kontakt zum Tracheobronchialsystem auf Höhe oder oberhalb der Karina sollte eine flexible Bronchoskopie durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.15 (Grad B). Ausschluss tracheobronchialer Infiltration/Fistel.",
+    "leitlinie_wortlaut": "Eine flexible Bronchoskopie sollte bei lokal fortgeschrittenen Tumoren mit Kontakt zum Tracheo-Bronchialsystem auf Höhe - oder oberhalb - der Karina durchgeführt werden.",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 63,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Bronchoskopie",
+      "Karina"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_16_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.16",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Starre Endoskopie",
+    "thema": "Staging",
+    "statement": "Zum Staging soll routinemäßig eine starre Endoskopie der oberen Luft- und Speisewege durchgeführt werden.",
+    "answer": true,
+    "explanation": "EK 6.16. Erfasst Synchrontumoren im oberen Aerodigestivtrakt.",
+    "leitlinie_wortlaut": "Zum Staging des Ösophaguskarzinoms sollte keine starre Endoskopie der oberen Luft- und Speisewege durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 63,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "starre Endoskopie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_17_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.17",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Laparoskopie",
+    "thema": "Staging",
+    "statement": "Bei Adenokarzinomen des distalen Ösophagus/AEG kann eine diagnostische Laparoskopie zum Ausschluss von Leber-/Peritonealmetastasen erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 6.17 (Grad 0). Bei distalem Adeno/AEG zur okkulten M-Detektion.",
+    "leitlinie_wortlaut": "Eine diagnostische Laparoskopie kann bei Adenokarzinomen des distalen Ösophagus und des ösophagogastralen Überganges zum Ausschluss von Metastasen der Leber und/oder des Peritoneums in fortgeschrittenen Stadien durchgeführt werden (insbesondere im Falle einer cT3-, cT4-Kategorie).",
+    "evidenz": "Grad 0; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 64,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Laparoskopie",
+      "Metastasen"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "oesophagus",
+        "aeg"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_18_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.18",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Dysplasie-Grading",
+    "thema": "Pathologie",
+    "statement": "Dysplasien/intraepitheliale Neoplasien sollen nach WHO graduiert werden (negativ, unklar, niedriggradig, hochgradig).",
+    "answer": true,
+    "explanation": "EK 6.18. Standardisierte WHO-Graduierung.",
+    "leitlinie_wortlaut": "Dysplasien/intraepitheliale Neoplasien sollen nach der gültigen WHO- Klassifikation graduiert werden in negativ, unklar/fraglich, niedriggradige (low grade/LGD) oder hochgradige (high grade/HGD) Dysplasie.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 66,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Dysplasie",
+      "WHO"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_19_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.19",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Zweitmeinung",
+    "thema": "Pathologie",
+    "statement": "Bei histologischer Diagnose einer IEN/Dysplasie im Barrett-Ösophagus soll eine pathologische Zweitmeinung (Vier-Augen-Prinzip) erfolgen.",
+    "answer": true,
+    "explanation": "EK 6.19. Konsequenzenreiche Diagnose → dokumentierte Zweitbefundung.",
+    "leitlinie_wortlaut": "Bei histologischer Diagnose einer IEN/Dysplasie im Barrett-Ösophagus soll der Prozess einer kompetenten (dokumentierten) pathologischen Zweitmeinung im Sinne eines Vier-Augen-Prinzips durchgeführt werden. Bei Dissens oder Unsicherheit bezüglich der Dysplasiediagnose soll eine externe Begutachtung erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 66,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "IEN",
+      "Zweitmeinung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "pathologie"
+      ],
+      "lokalisation": [
+        "oesophagus",
+        "barrett"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_25_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.25",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "HER2",
+    "thema": "Molekular",
+    "statement": "Vor einer palliativen medikamentösen Tumortherapie beim Adenokarzinom soll der HER2-Status als prädiktiver Faktor für Trastuzumab bestimmt werden.",
+    "answer": true,
+    "explanation": "EK 6.25. HER2-Testung steuert Trastuzumab-Einsatz beim Adeno.",
+    "leitlinie_wortlaut": "Vor dem Einsatz einer palliativen medikamentösen Tumortherapie beim Adenokarzinom soll der HER2-Status als positiver prädiktiver Faktor für eine potenzielle Therapie mit Trastuzumab bestimmt werden. Die histopathologische Bestimmung am Tumorgewebe soll qualitätsgesichert durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 76,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "HER2",
+      "Trastuzumab"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik",
+        "metastasen"
+      ],
+      "modalitaet": [
+        "molekularpathologie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ],
+      "spezial": [
+        "her2"
+      ]
+    }
+  },
+  {
+    "id": "oes_6_5_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "6.5",
+    "kapitel": "Diagnostik / Staging / Pathologie",
+    "unterkapitel": "Dysplasie-Detektion",
+    "thema": "Diagnostik",
+    "statement": "Chromoendoskopie und computergestützte digitale Verfahren sollten zur besseren Detektion von Dysplasien/Frühkarzinomen der Speiseröhre eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.5 (Grad B, LoE 1b).",
+    "leitlinie_wortlaut": "Die Chromoendoskopie sowie neue computergestützte digitale (Filter-, Kontrast- und AI) Verfahren sollten zur Verbesserung der Detektion von Dysplasien/ Frühkarzinomen der Speiseröhre eingesetzt werden.",
+    "evidenz": "Grad B; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 47,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Dysplasie",
+      "Detektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_1_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.1",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Tumorkonferenz",
+    "thema": "Grundlagen",
+    "statement": "Therapieempfehlungen beim Ösophaguskarzinom sollen in einer interdisziplinären Tumorkonferenz getroffen werden.",
+    "answer": true,
+    "explanation": "EK 8.1. Interdisziplinäre Entscheidung obligat.",
+    "leitlinie_wortlaut": "Therapieempfehlungen sollen in einer interdisziplinären Tumorkonferenz getroffen werden. Als Grundlage für die Therapieempfehlung sollen Staging- Informationen, die Patienten-Komorbiditäten, der Ernährungsstatus und die Patientenpräferenz berücksichtigt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 79,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Tumorkonferenz"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "tumorkonferenz"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_2_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.2",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Barrett ER",
+    "thema": "Endoskopie",
+    "statement": "Bei hochgradiger IEN oder mukosalem Karzinom (L0, V0, keine Ulzeration, G1/G2) im Barrett-Ösophagus soll eine endoskopische Resektion erfolgen.",
+    "answer": true,
+    "explanation": "EK 8.2. Organerhaltende ER statt Ösophagektomie bei Niedrigrisiko-Mukosakarzinom.",
+    "leitlinie_wortlaut": "a. Bei Nachweis einer hochgradigen intraepithelialen Neoplasie oder eines mukosalen Karzinoms (L0, V0, keine Ulzerationen, Grading G1/G2) im Barrett- Ösophagus soll eine endoskopische Resektion durchgeführt werden, da hierdurch neben der Therapie auch ein Staging der Läsion mit der Frage der Tiefeninfiltration erfolgt. b. Daher ist eine endoskopisch komplette Resektion mit kurativer Intention anzustreben. c. Bei Patienten mit oberflächlicher Submukosainfiltration eines Adenokarzinoms und ohne Risikokriterien (pT1sm1; <500 µm Tiefeninvasion, L0, V0, G1/2, < 20 mm, keine Ulceration) kann die endoskopische Resektion eine ausreichende Alternative zur Operation sein. d. Nach erfolgreicher Resektion von Neoplasien im Barrett-Ösophagus soll die nicht neoplastische Barrett-Mukosa thermisch abladiert werden, um die Rate an metachronen Neoplasien zu senken.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 80,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "endoskopische Resektion",
+      "Mukosakarzinom"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus",
+        "barrett"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_3_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.3",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "SCC ER",
+    "thema": "Endoskopie",
+    "statement": "Bei hochgradiger IEN oder mukosalem Plattenepithelkarzinom (L0, V0, keine Ulzeration, G1/G2, m1/m2) soll eine endoskopische Resektion erfolgen.",
+    "answer": true,
+    "explanation": "EK 8.3. ER auch beim mukosalen SCC bei Niedrigrisiko-Kriterien.",
+    "leitlinie_wortlaut": "a. Bei Nachweis einer hochgradigen intraepithelialen Neoplasie oder eines mukosalen. Karzinoms (L0, V0, keine Ulzerationen, Grading G1/G2, Infiltrationstiefe m1/m2) im Plattenepithel sollte eine endoskopische en-bloc- Resektion angestrebt werden, da hierdurch neben der Therapie auch ein Staging der Läsion mit der Frage der Tiefeninfiltration erfolgt. b. Daher ist eine Resektion mit kurativer Intention und R0-Resektion anzustreben.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 83,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "endoskopische Resektion",
+      "Plattenepithelkarzinom"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_6_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.6",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Überwachung",
+    "thema": "Endoskopie",
+    "statement": "Nach erfolgreicher endoskopischer Therapie einer HGD oder eines Frühkarzinoms sollen regelmäßige Kontroll-Endoskopien erfolgen.",
+    "answer": true,
+    "explanation": "EK 8.6. Metachrone Läsionen/Rezidive früh erkennen.",
+    "leitlinie_wortlaut": "Nach erfolgreicher endoskopischer Therapie einer hochgradigen intraepithelialen Neoplasie oder eines Frühkarzinoms sollen regelmäßige Kontroll-Endoskopien (nach 3 Monaten, dann für 2 Jahre halbjährlich und danach jährlich) erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 86,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Überwachung",
+      "ER"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_7_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.7",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Zentren",
+    "thema": "Chirurgie",
+    "statement": "Ösophagusresektionen sollten in Kliniken mit mindestens 5 komplexen Eingriffen pro Jahr durchgeführt werden.",
+    "answer": false,
+    "explanation": "EK 8.7: mindestens 20 komplexe Ösophagusoperationen pro Jahr und Zentrum.",
+    "leitlinie_wortlaut": "Die operative Therapie von Ösophagustumoren sollte in Kliniken mit mindestens 20 komplexen Ösophagusoperationen pro Jahr und Zentrum von in dieser Operation erfahrenen Chirurgen durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 86,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Zentrum",
+      "Fallzahl"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "tumorkonferenz",
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_8_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.8",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Risikoanalyse",
+    "thema": "Chirurgie",
+    "statement": "Vor geplanter Ösophagektomie soll eine Risikoanalyse wichtiger Organfunktionen erfolgen.",
+    "answer": true,
+    "explanation": "EK 8.8. Funktionelle Operabilität prüfen (kardiopulmonal).",
+    "leitlinie_wortlaut": "Vor geplanter Ösophagektomie soll eine Risikoanalyse wichtiger Organfunktionen des Patienten erfolgen. Bei funktioneller Inoperabilität trotz onkologischer Resektabilität sollen andere Therapieverfahren eingesetzt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 88,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Risikoanalyse",
+      "Operabilität"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_9_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.9",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Resektionsziel",
+    "thema": "Chirurgie",
+    "statement": "Ziel der chirurgischen Resektion ist die vollständige Tumorentfernung (R0) mit regionärer Lymphadenektomie.",
+    "answer": true,
+    "explanation": "EK 8.9. R0 + adäquate Lymphadenektomie.",
+    "leitlinie_wortlaut": "Das Ziel der chirurgischen Resektion beim Plattenepithelkarzinom und Adenokarzinom ist die vollständige Entfernung des Tumors (oral, aboral und in der Zirkumferenz) und der regionären Lymphknoten. esektionsausmaß",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 89,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "R0",
+      "Lymphadenektomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "stadium": [
+        "resektabel"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_10_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.10",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "AEG III",
+    "thema": "Chirurgie",
+    "statement": "Bei AEG Typ III sollte eine transhiatal erweiterte Gastrektomie mit distaler Ösophagusresektion durchgeführt werden.",
+    "answer": true,
+    "explanation": "EK 8.10. OP-Ausmaß nach Siewert-Typ.",
+    "leitlinie_wortlaut": "Bei Lokalisation des Tumors • im ösophagogastralen Übergang (AEG Typ III) sollte eine transhiatal erweiterte Gastrektomie mit distaler Ösophagusresektion ausgeführt werden. • im ösophagogastralen Übergang (AEG Typ II) kann eine transhiatal erweiterte Gastrektomie mit distaler Ösophagusresektion, eine rechts transthorakale subtotale Ösophagektomie und alternativ eine transhiatale abdomino-cervicale subtotale Ösophagektomie erfolgen. Eine ausgedehnte Infiltration der unteren Speiseröhre favorisiert dabei mehr die Ösophagektomie, eine ausgedehnte Infiltration des subcardialen Magens mehr die Gastrektomie. Bei langstreckigem Befall beider Organe kann eine totale Ösophagogastrektomie erforderlich sein. • im distalen (incl. AEG Typ I) und mittleren thorakalen Ösophagus sollte eine rechts transthorakale subtotale Ösophagektomie durchgeführt werden. • im oberen thorakalen Ösophagus sollte das Resektionsausmaß zur Wahrung des Sicherheitsabstandes nach oral evtl. bis nach cervikal ausgedehnt werden. • im zervikalen Ösophagus soll die Indikation zum chirurgischen Vorgehen im Vergleich zur definitiven Radiochemotherapie unter eingehender Nutzen-/Risikoabwägung diskutiert werden (siehe hierzu auch Empfehlung 8.34). Als chirurgisches Verfahren kann entweder eine totale Ösophagektomie oder in geeigneten Fällen eine zervikale Ösophagusresektion über einen zervikalen Zugang mit oberer Sternotomie erfolgen. rogramm Onkologie | S3-Leitlinie Ösophaguskarzinom | Langversion - 4.0 | Dezember 2023 smaß der Lymphadenektomie",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 89,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "AEG",
+      "Gastrektomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "oesophagus",
+        "aeg"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_11_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.11",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Lymphadenektomie",
+    "thema": "Chirurgie",
+    "statement": "Standard beim Ösophaguskarzinom ist die Ein-Feld-Lymphadenektomie.",
+    "answer": false,
+    "explanation": "EK 8.11: Zweifeld-Lymphadenektomie (abdominal+thorakal) Standard; Dreifeld bei oberer Lokalisation.",
+    "leitlinie_wortlaut": "Das Ausmaß der Lymphadenektomie richtet sich nach der Lokalisation des Primärtumors, wobei drei Felder (abdominal, thorakal und cervikal) unterschieden werden. Die Zweifeld-Lymphadenektomie (abdominal, thorakal) stellt den Standard dar. llung der verschiedenen Felder der Lymphadenektomie und der Lokalisation der Ösophagektomie (aus: Guidelines for Clinical and Pathologic Studies of ophagus. Jap. Soc. for Esophageal Diseases, Tokyo 2001) rogramm Onkologie | S3-Leitlinie Ösophaguskarzinom | Langversion - 4.0 | Dezember 2023 ekonstruktion",
+    "evidenz": "Statement",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 90,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Lymphadenektomie",
+      "Zweifeld"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_13_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.13",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Minimalinvasiv",
+    "thema": "Chirurgie",
+    "statement": "Die Ösophagektomie soll grundsätzlich offen-chirurgisch erfolgen; minimalinvasive Verfahren werden nicht empfohlen.",
+    "answer": false,
+    "explanation": "EK 8.13: minimalinvasive oder Hybrid-Verfahren sollten bevorzugt werden.",
+    "leitlinie_wortlaut": "Die Ösophagektomie und die Rekonstruktion des Ösophagus sollten minimal invasiv oder in Kombination mit offenen Verfahren (Hybrid-Technik) ausgeführt werden, wenn keine Kontraindikationen gegen diesen Zugang bestehen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 91,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "minimalinvasiv",
+      "Ösophagektomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_15_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.15",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Screening",
+    "thema": "Ernährung",
+    "statement": "Im Rahmen der präoperativen Risikostratifizierung soll ein Screening auf Mangelernährung erfolgen.",
+    "answer": true,
+    "explanation": "EK 8.15. Mangelernährung ist Risikofaktor für Komplikationen.",
+    "leitlinie_wortlaut": "Im Rahmen der präoperativen Risikostratifizierung soll ein Screening auf Mangelernährung erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 101,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Mangelernährung",
+      "Screening"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "ernaehrung"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_17_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.17",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Präop Therapie",
+    "thema": "Ernährung",
+    "statement": "Patienten mit schwerer Mangelernährung sollen vor der Operation eine Ernährungstherapie erhalten, selbst wenn die OP dafür verschoben werden muss.",
+    "answer": true,
+    "explanation": "Empf. 8.17 (Grad A, LoE 1a). Ernährungsoptimierung priorisieren.",
+    "leitlinie_wortlaut": "Patienten mit schwerer Mangelernährung d.h. hohem metabolischen Risiko sollen vor der Operation eine Ernährungstherapie erhalten, selbst wenn die Operation verschoben werden muss.",
+    "evidenz": "Grad A; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 104,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Mangelernährung",
+      "OP-Verschiebung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "ernaehrung"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_18_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.18",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Frühe Kost",
+    "thema": "Ernährung",
+    "statement": "Nach Ösophagusresektion soll mit jeglicher enteraler Ernährung mindestens 7 Tage gewartet werden.",
+    "answer": false,
+    "explanation": "EK 8.18: enterale Ernährung innerhalb von 24 Stunden beginnen.",
+    "leitlinie_wortlaut": "Nach Ösophagusresektion sollte aufgrund des metabolischen Risikos innerhalb von 24h mit einer enteralen Ernährung begonnen werden, wenn der klinische Zustand des Patienten dies erlaubt. Eine parenterale Supplementierung kann empfohlen werden, wenn weniger als 50 % der Energiemenge auf enteralem Weg zugeführt werden können.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 105,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "frühe Kost",
+      "enteral"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "ernaehrung"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_19_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.19",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "R1",
+    "thema": "Chirurgie",
+    "statement": "Bei intraoperativ nachgewiesener R1-Resektion sollte zunächst die Möglichkeit einer kurativen Nachresektion geprüft werden.",
+    "answer": true,
+    "explanation": "EK 8.19. R1 → Nachresektion prüfen.",
+    "leitlinie_wortlaut": "Im Falle einer intraoperativ nachgewiesenen R1-Resektion sollte unabhängig von einer präoperativen Therapie zunächst die Möglichkeit einer kurativen Nachresektion geprüft werden. Wenn diese nicht möglich ist, sollte nach Diskussion in der interdisziplinären Tumorkonferenz eine postoperative Radiochemotherapie erfolgen. Bei einer postoperativ erkannten R1-Resektion sollte eine Radiochemotherapie erfolgen, da die Bedingungen für eine Nachresektion ungünstig sind. In Einzelfällen kann eine „wait and see“ Strategie empfohlen werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 106,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "R1",
+      "Nachresektion"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "stadium": [
+        "r1"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_20_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.20",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "R2",
+    "thema": "Chirurgie",
+    "statement": "Nach lokoregionärer R2-Resektion ist eine postoperative Radiochemotherapie kontraindiziert.",
+    "answer": false,
+    "explanation": "EK 8.20: nach R2 KANN eine postoperative Radiochemotherapie (nach Tumorkonferenz) erfolgen.",
+    "leitlinie_wortlaut": "Im Falle einer lokoregionären R2-Resektion kann nach Diskussion in der interdisziplinären Tumorkonferenz eine postoperative Radiochemotherapie durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 106,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "R2",
+      "Radiochemotherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_23_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.23",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Präop RT allein",
+    "thema": "Multimodal",
+    "statement": "Eine alleinige präoperative Strahlentherapie ist beim resektablen Ösophaguskarzinom Standard.",
+    "answer": false,
+    "explanation": "Empf. 8.23: alleinige präop. Strahlentherapie kann NICHT empfohlen werden.",
+    "leitlinie_wortlaut": "Eine alleinige präoperative Strahlentherapie kann beim operablen Patienten mit einem resektablen Ösophaguskarzinom nicht empfohlen werden.",
+    "evidenz": "Grad 0; LoE 2a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 110,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Strahlentherapie",
+      "neoadjuvant"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "strahlentherapie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_24_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.24",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Adeno cT2",
+    "thema": "Multimodal",
+    "statement": "Bei lokalisiertem Adenokarzinom (cT2) kann eine präoperative Chemotherapie durchgeführt und postoperativ fortgesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 8.24 (Grad 0). cT2-Adeno: perioperative Chemo als Option.",
+    "leitlinie_wortlaut": "Bei lokalisierten Adenokarzinomen des Ösophagus und des ösophagogastralen Übergangs der Kategorie cT2 kann eine präoperative Chemotherapie durchgeführt und postoperativ fortgesetzt werden.",
+    "evidenz": "Grad 0; LoE 1b",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 111,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Adenokarzinom",
+      "perioperativ"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "ct2"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_25_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.25",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Adeno cT3/4",
+    "thema": "Multimodal",
+    "statement": "Beim lokal fortgeschrittenen Adenokarzinom (cT3/T4 resektabel oder cN+) soll eine perioperative Chemotherapie oder eine neoadjuvante Radiochemotherapie erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 8.25 (Grad A, LoE 1a). FLOT (perioperativ) oder CROSS (neoadjuvante RChT).",
+    "leitlinie_wortlaut": "Beim operablen Patienten mit einem lokal fortgeschrittenen Adenokarzinom des Ösophagus oder des ösophagogastralen Übergangs (Kategorie cT3/T4 resektabel oder Kategorie cN1-3) soll eine perioperative Chemotherapie oder eine präoperative Radiochemotherapie durchgeführt werden.",
+    "evidenz": "Grad A; LoE 1a",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 113,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Adenokarzinom",
+      "FLOT",
+      "CROSS"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie",
+        "strahlentherapie"
+      ],
+      "stadium": [
+        "ct3",
+        "ct4",
+        "cn_plus"
+      ],
+      "lokalisation": [
+        "oesophagus",
+        "aeg"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_26_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.26",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "SCC Chemo allein",
+    "thema": "Multimodal",
+    "statement": "Beim Plattenepithelkarzinom ist die alleinige neoadjuvante Chemotherapie (ohne Radiotherapie) der Standard.",
+    "answer": false,
+    "explanation": "Empf. 8.26: alleinige neoadjuvante Chemo beim SCC NICHT empfohlen (RChT überlegen).",
+    "leitlinie_wortlaut": "Die Durchführung einer alleinigen neoadjuvanten Chemotherapie ohne simultane Radiotherapie beim Plattenepithelkarzinom des Ösophagus kann nicht empfohlen werden. ramm Onkologie | S3-Leitlinie Ösophaguskarzinom | Langversion - 4.0 | Dezember 2023",
+    "evidenz": "Grad B; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 113,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Plattenepithelkarzinom",
+      "neoadjuvant"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_28_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.28",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "SCC cT3/4",
+    "thema": "Multimodal",
+    "statement": "Beim lokal fortgeschrittenen Plattenepithelkarzinom (cT3/T4 oder cN+) soll primär ohne Vorbehandlung operiert werden.",
+    "answer": false,
+    "explanation": "Empf. 8.28 (Grad A): neoadjuvante Radiochemotherapie SOLL erfolgen (CROSS).",
+    "leitlinie_wortlaut": "Beim operablen Patienten mit einem lokal fortgeschrittenem Plattenepithelkarzinom des Ösophagus (Kategorie cT3/T4 resektabel oder Kategorie cN1-3) soll eine präoperative Radiochemotherapie mit anschließender kompletter Resektion durchgeführt werden. Vgl. auch Empfehlung 8.33 „Indikation zur definitiven Radiochemotherapie“",
+    "evidenz": "Grad A; LoE 1a",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 114,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Plattenepithelkarzinom",
+      "Radiochemotherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "stadium": [
+        "ct3",
+        "ct4",
+        "cn_plus"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_29_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.29",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "SEMS",
+    "thema": "Multimodal",
+    "statement": "Selbstexpandierende Metallstents (SEMS) sind das empfohlene Verfahren als „Bridge to Surgery“ vor neoadjuvanter Radiochemotherapie.",
+    "answer": false,
+    "explanation": "Empf. 8.29: SEMS sollten dabei NICHT eingesetzt werden (erhöhte Komplikationsrate).",
+    "leitlinie_wortlaut": "Selbstexpandierende Metallstents (SEMS) sollten aufgrund einer erhöhten Komplikationsrate bei geplanter neoadjuvanter Radiochemotherapie oder als „Bridge to Surgery“ nicht eingesetzt werden. Die präoperative SEMS-Einlage als „Bridge-to-surgery“ oder vor einer geplanten perioperativen Radiochemotherapie wird nicht empfohlen, da sie mit einer erhöhten Inzidenz von Komplikationen einhergeht und mit der Einlage von Ernährungssonden valide Alternativen bestehen. In einer systematischen Meta-Analyse von 9 Studien mit 180 Patienten zeigte sich, dass es zu einer hohen Rate an schweren Komplikationen ramm Onkologie | S3-Leitlinie Ösophaguskarzinom | Langversion - 4.0 | Dezember 2023 (Stentmigration in 32% und Schmerzen in 51,4%) . Eine Europäische rtenstudie mit 2944 Patienten erbrachte ähnliche negative Ergebnisse . Die perative Mortalität lag in der Stentgruppe bei 13,2 % versus 8,6 % in der rollgruppe und die Morbidität bei 63,2 % versus 59,2 %. Auch die R0- ktionsrate, die mediane Zeit bis zum Rezidiv und das 3-Jahres-Überleben war in SEMS-Gruppe deutlich schlechter als in der Gruppe ohne Stent. Die European ety of Gastrointestinal Endoscopy spricht sich demzufolge in ihren 2016 izierten Empfehlungen , gegen eine Stentimplantation bei simultaner otherapie als auch als „bridge to surgery“ oder vor einer präoperativen ochemotherapie aus. in weiteren systematischen Reviews , , wird aufgezeigt, dass die antation eines Stents die onkologischen Ergebnisse verschlechtern kann. In einer ospektiven Observationsstudie aus Finnland und Schweden , führte die perative Implantation eines Stents zu einer Erhöhung der 30 Tage Letalität (3,9 % us 1,6 %) und der 90 Tage Letalität (11,8 versus 7,0 %), ohne dass diese rschiede statistische Signifikanz erreichten. Eine retrospektive Studie aus den erlanden , zeigt, dass eine früher durchgeführte Radiochemotherapie zu hten Stentkomplikationen führt. aging nach präoperativer multimodaler Therapie",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 118,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "SEMS",
+      "Bridge to Surgery"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_30_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.30",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Restaging",
+    "thema": "Multimodal",
+    "statement": "Nach Abschluss der präoperativen Therapie soll ein erneuter Ausschluss von Fernmetastasen erfolgen.",
+    "answer": true,
+    "explanation": "EK 8.30. Re-Staging vor OP (Interval-Metastasen).",
+    "leitlinie_wortlaut": "Nach Abschluss einer präoperativen Therapie soll ein erneuter Ausschluss von Fernmetastasen erfolgen. Ein Restaging des Lokalbefundes kann zur Planung der OP erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 119,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Restaging"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "bildgebung"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_33_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.33",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "RChT",
+    "thema": "Definitiv",
+    "statement": "Eine definitive Radiochemotherapie soll – unabhängig von der Histologie – erfolgen, wenn die Tumorkonferenz dies festlegt.",
+    "answer": true,
+    "explanation": "Empf. 8.33 (Grad A, LoE 1b). Definitive RChT als kurative Alternative.",
+    "leitlinie_wortlaut": "Eine definitive Radiochemotherapie soll unabhängig von der histologischen Entität des Ösophaguskarzinoms erfolgen, wenn der Tumor im Rahmen einer interdisziplinären Tumorkonferenz als chirurgisch/endoskopisch nicht resektabel erachtet wird oder wenn ein Patient funktionell nicht operabel ist bzw. die Operation nach ausführlicher Aufklärung ablehnt.",
+    "evidenz": "Grad A; LoE 1b",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 122,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "definitive Radiochemotherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_34_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.34",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Zervikal",
+    "thema": "Definitiv",
+    "statement": "Beim zervikalen Plattenepithelkarzinom ist die primäre chirurgische Resektion der definitiven Radiochemotherapie vorzuziehen.",
+    "answer": false,
+    "explanation": "EK 8.34: definitive Radiochemotherapie wird gegenüber der primären Resektion BEVORZUGT.",
+    "leitlinie_wortlaut": "Bei Patienten mit lokalisiertem Plattenepithelkarzinom des zervikalen Ösophagus sollte die definitive Radiochemotherapie gegenüber der primären chirurgischen Resektion bevorzugt durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 123,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "zervikal",
+      "definitive Radiochemotherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_35_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.35",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Intrathorakal SCC",
+    "thema": "Definitiv",
+    "statement": "Bei resektablem intrathorakalem Plattenepithelkarzinom (cT3/cT4) kann alternativ zur Resektion eine definitive Radiochemotherapie erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 8.35 (Grad B, LoE 1a). Gleichwertige Option beim SCC.",
+    "leitlinie_wortlaut": "Bei Patienten mit resektablen Plattenepithelkarzinomen des intrathorakalen Ösophagus der Kategorie cT3/cT4 kann alternativ zur chirurgischen Resektion eine definitive Radiochemotherapie durchgeführt werden. vgl. auch Empfehlung 8.28 „Präoperative Radiochemotherapie mit anschließender kompletter Resektion“",
+    "evidenz": "Grad B; LoE 1a",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 124,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Plattenepithelkarzinom",
+      "definitive Radiochemotherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "systemtherapie"
+      ],
+      "stadium": [
+        "ct3",
+        "ct4"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_36_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.36",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Salvage-OP",
+    "thema": "Definitiv",
+    "statement": "Bei Tumorpersistenz oder Lokalrezidiv ohne Fernmetastasen nach Radiochemotherapie kann eine Salvage-Operation in kurativer Intention versucht werden.",
+    "answer": true,
+    "explanation": "EK 8.36. Salvage-Ösophagektomie bei lokoregionärem Versagen.",
+    "leitlinie_wortlaut": "Bei Tumorpersistenz oder einem Lokalrezidiv ohne Fernmetastasen nach Radiochemotherapie kann der Versuch einer Salvage-Operation in kurativer Intention unternommen werden. Die sorgfältige Evaluation der Operabilität und der Resektabilität sollte durch ein in der Ösophaguschirurgie erfahrenes Behandlungsteam vorgenommen werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 127,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Salvage-OP"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_37_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.37",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Targeted",
+    "thema": "Multimodal",
+    "statement": "Antikörper und „small molecules“ sollen in der präoperativen Therapie nicht eingesetzt werden.",
+    "answer": true,
+    "explanation": "EK 8.37. Zielgerichtete Substanzen präoperativ ohne Stellenwert (außerhalb Studien).",
+    "leitlinie_wortlaut": "Antikörper und „small molecules“ sollen in der präoperativen Therapie nicht eingesetzt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 129,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Targeted",
+      "neoadjuvant"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "neoadjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_38_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.38",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "SCC R0",
+    "thema": "Adjuvant",
+    "statement": "Nach R0-Resektion eines Plattenepithelkarzinoms soll routinemäßig eine adjuvante Radiochemotherapie durchgeführt werden.",
+    "answer": false,
+    "explanation": "Empf. 8.38: adjuvante RT/RChT sollte beim R0-SCC NICHT durchgeführt werden.",
+    "leitlinie_wortlaut": "Nach R0-Resektion eines Plattenepithelkarzinoms sollte eine adjuvante Radiotherapie oder Radiochemotherapie nicht durchgeführt werden. 1a: RT 4: CRT",
+    "evidenz": "Grad B; LoE 1a",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 130,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "adjuvant",
+      "Plattenepithelkarzinom"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "strahlentherapie"
+      ],
+      "stadium": [
+        "resektabel"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_40_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.40",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Nivolumab",
+    "thema": "Adjuvant",
+    "statement": "Nach neoadjuvanter Radiochemotherapie und R0-Resektion kann bei fehlender pathologischer Komplettremission eine adjuvante Immuntherapie erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 8.40. CheckMate-577: adjuvantes Nivolumab bei Resttumor nach CROSS.",
+    "leitlinie_wortlaut": "Wenn nach neoadjuvanter Radiochemotherapie und R0 Resektion eines Plattenepithelkarzinoms im Ösophagus oder eines Adenokarzinoms im Ösophagus bzw. im gastroösophagealen Übergang im Resektat histologisch noch ein Resttumorbefund nachgewiesen werden kann (≥ ypT1 oder ≥ ypN1), sollte eine adjuvante Immuntherapie mit Nivolumab über 1 Jahr durchgeführt werden. 2: LoE nach Oxford 2011 - einzelnes RCT Für Evidenzbewertung nach GRADE siehe Evidenztabelle (Leitlinienreport) Adjuvante Therapiemaßnahmen, zumal nach multimodaler Therapie, wurden bei Patienten mit Ösophaguskarzinom bisher kaum durchgeführt. Dies hat sich durch die Einführung der Immuntherapie geändert. Die internationale Phase III-Studie CheckMate 577 hat untersucht, ob eine einfache Checkpoint-Blockade mit Nivolumab das Rezidivrisiko nach präoperativer Radiochemotherapie und R0-Resektion für solche Patienten verbessert, bei denen keine pathologisch komplette Remission erzielt wurde . In diese Studie wurden Patienten mit einem Stadium-II/III- Ösophaguskarzinom oder Karzinom des gastroösophagealen Übergangs (71 % Adenokarzinome, 29% Plattenepithelkarzinome) aufgenommen. Wenn nach neoadjuvanter RCT und OP im Resektat noch ein Tumorbefund ≥ ypT1 oder ≥ ypN1 vorhanden war, wurden die Patienten randomisiert in den Nivolumab-Arm (n = 532; 240 mg alle 2 Wochen x 8, dann 480 mg alle 4 Wochen, Gesamttherapiedauer 1 Jahr) oder den Placebo-Arm (n = 262). Die Studie zeigt, dass eine adjuvante Immuntherapie über 12 Monate durchführbar ist (mediane Therapiedauer 10,1 Monate) und dass die Lebensqualität der Patienten gegenüber Placebo nicht negativ beeinflusst wird. Der primäre Endpunkt wurde im Verlauf der Studie (vor Auswertung) von der Kombination aus krankheitsfreiem und Gesamtüberleben auf das krankheitsfreie Überleben verändert (DFS: Ereignisse Rezidiv oder Tod). Die Auswertung ergab eine signifikante Verlängerung des DFS von median 11,0 Monate mit Placebo auf 22,4 Monate mit Nivolumab (p<0,001, HR=0,69; CI 0,56-0,86). Nivolumab reduzierte vor allem den Anteil an Fernrezidiven (29% vs. 39%). Patienten mit Karzinomen beider Histologien profitieren signifikant (Plattenepithelkarzinome: DFS 11,0 vs. 29,7 Mo., HR=0,61 (95% CI, 0,42–0,88); Adenokarzinome: DFS 11,1 vs. 19,4 Mo., HR=0,75 (96,4% CI, 0,56– 0,86)). Das Ergebnis unterschied sich nicht zwischen PD-L1 positiven (72% der Patienten) oder negativen Tumoren, wobei für die Studie abweichend von anderen Studien beim oberen GI-Trakt nur die Tumorzellen berücksichtigt wurden (TPS score ≥ 1% oder <1%). Daten zum Gesamtüberleben liegen noch nicht vor. Fernmetastasen traten unter Nivolumab seltener auf als unter Placebo (29% vs. 39%). Das galt auch für lokoregionale Rezidive (12% vs. 17%). Das mediane Fernmetastasen-freie Überleben war im Nivolumab-Arm und Placebo-Arm signifikant unterschiedlich (28,3 Mo. (95% CI:21,3–nicht erreicht) vs. 17,6 Mo. (95% CI:12,5–25,4), HR 0,74; 95% CI: 0,60 – 0,92). ramm Onkologie | S3-Leitlinie Ösophaguskarzinom | Langversion - 4.0 | Dezember 2023 DFS im Kontrollarm erscheint mit median 11 Monaten ungewöhnlich kurz. In r ebenfalls 2021 (vorläufig) publizierten Registerstudie aus den Niederlanden ägt das DFS für Patienten ohne pCR nach Radiochemotherapie und OP median rhin 19,2 Monate . Das ungünstige DFS in der CheckMate-577-Studie te am hohen Anteil von Hochrisikopatienten mit fehlendem Downsizing (ypT3-4) anhaltend positiven Lymphknoten (ypN+) liegen, der bei nahezu 60% lag. Diese ben fehlen in der vorläufigen Publikation der niederländischen Studie, was eine leichbarkeit erschwert. dem Boden der CheckMate 577-Studie wurde Nivolumab in Europa zugelassen adjuvanten Behandlung der Karzinome des Ösophagus oder des roösophagealen Übergangs bei Erwachsenen mit pathohistologisch gesicherter tumorerkrankung nach vorheriger neoadjuvanter Radiochemotherapie und hgeführter R0 Resektion. sorge und Rehabilitation",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 135,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "adjuvant",
+      "Nivolumab"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "adjuvanz"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "resektabel"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ],
+      "spezial": [
+        "pdl1"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_41_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.41",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Struktur",
+    "thema": "Nachsorge",
+    "statement": "Bei potenziell kurativ behandelten Patienten sollte eine strukturierte Nachsorge angeboten werden, sofern sich daraus Therapieentscheidungen ableiten lassen.",
+    "answer": true,
+    "explanation": "EK 8.41. Symptom-/funktionsorientierte Nachsorge.",
+    "leitlinie_wortlaut": "Bei potenziell kurativ behandelten Patienten mit Ösophaguskarzinom sollte eine strukturierte Nachsorge angeboten werden, sofern sich daraus Therapieentscheidungen ableiten lassen. In anderen Fällen soll eine symptomorientierte Nachsorge erfolgen.",
+    "evidenz": "Statement",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 136,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Nachsorge"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_4_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.4",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "LGD",
+    "thema": "Endoskopie",
+    "statement": "Bei endoskopisch nicht lokalisierbarer, referenzpathologisch bestätigter niedriggradiger IEN im Barrett-Ösophagus ist ein abladierendes/überwachendes Vorgehen möglich.",
+    "answer": true,
+    "explanation": "EK 8.4. LGD: Ablation oder engmaschige Überwachung.",
+    "leitlinie_wortlaut": "a. Bei Nachweis einer endoskopisch nicht lokalisierbaren, niedriggradigen intraepithelialen Neoplasie im Barrett-Ösophagus, die durch einen Referenzpathologen bestätigt wurde, sollen Verlaufskontrollen nach 6 Monaten und dann jährlich erfolgen. b. Eine Radiofrequenzablation des gesamten Barrett Segments zur Verhinderung einer Progression der niedriggradigen intraepitheliale Neoplasie kann erfolgen. c. Beim Nachweis einer endoskopisch nicht lokalisierbaren hochgradigen intraepithelialen Neoplasie sollte ein ablatives Verfahren zum Einsatz kommen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 84,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "LGD",
+      "Barrett"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus",
+        "barrett"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_1_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.1",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "Frühe PV",
+    "thema": "Palliativ",
+    "statement": "Allen Patienten soll nach Diagnose einer nicht-heilbaren Erkrankung eine Palliativversorgung angeboten werden – unabhängig von einer tumorspezifischen Therapie.",
+    "answer": true,
+    "explanation": "Empf. 9.1 (Grad A). Frühintegration der Palliativversorgung.",
+    "leitlinie_wortlaut": "Allen Patienten soll nach der Diagnose einer nicht-heilbaren Krebserkrankung eine Palliativversorgung angeboten werden, unabhängig davon, ob eine tumorspezifische Therapie durchgeführt wird. 1-: LoE aus S3-Palliativmedizin Palliative Erstlinientherapie: Adenokarzinom des Ösophagus und des ösophagogastralen Übergangs",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 141,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Palliativversorgung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "supportiv"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_2_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.2",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "Adeno Systemtherapie",
+    "thema": "Palliativ",
+    "statement": "Bei metastasiertem/nicht kurativ behandelbarem Adenokarzinom soll – bei geeignetem AZ – eine Systemtherapie angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 9.2 (Grad A, LoE 1a). Palliative Systemtherapie verlängert Überleben.",
+    "leitlinie_wortlaut": "Patienten mit einem metastasierten oder lokal fortgeschrittenen, nicht kurativ behandelbaren Adenokarzinom des Ösophagus und des ösophagogastralen Übergangs soll eine Systemtherapie angeboten werden. Therapieziel ist die Verlängerung der Überlebenszeit und der Erhalt der Lebensqualität.",
+    "evidenz": "Grad A; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 141,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Adenokarzinom",
+      "Systemtherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_3_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.3",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "HER2/PD-L1",
+    "thema": "Molekular",
+    "statement": "Vor palliativer Systemtherapie soll der HER2-Status (Trastuzumab) und der PD-L1 CPS (Checkpoint-Inhibitor) bestimmt werden.",
+    "answer": true,
+    "explanation": "EK 9.3. Prädiktive Marker steuern zielgerichtete/Immuntherapie.",
+    "leitlinie_wortlaut": "Vor Einleitung einer palliativen Systemtherapie soll der HER2-Status als prädiktiver Faktor für eine Therapie mit Trastuzumab und der PD-L1 CPS als prädiktiver Faktor für eine Therapie mit einem Immun-Checkpoint-Inhibitor bestimmt werden. ogramm Onkologie | S3-Leitlinie Ösophaguskarzinom | Langversion - 4.0 | Dezember 2023",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 141,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "HER2",
+      "PD-L1"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen",
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "molekularpathologie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ],
+      "spezial": [
+        "her2",
+        "pdl1"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_4_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.4",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "Erstlinie",
+    "thema": "Palliativ",
+    "statement": "Bei HER2-negativem Tumor mit PD-L1 CPS < 5 soll primär eine Immun-Checkpoint-Monotherapie statt einer Chemotherapie erfolgen.",
+    "answer": false,
+    "explanation": "Empf. 9.4: Platin-/Fluoropyrimidin-Kombination ist Standard bei niedrigem CPS.",
+    "leitlinie_wortlaut": "Bei negativem HER2-Status und einem PD-L1 CPS<5 soll eine Platin (Oxaliplatin oder Cisplatin)-/Fluoropyrimidin-haltige Zwei- oder Dreifachkombination eingesetzt werden.",
+    "evidenz": "Grad A; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 142,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Erstlinie",
+      "Platin",
+      "Fluoropyrimidin"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_5_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.5",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "Checkpoint Adeno",
+    "thema": "Palliativ",
+    "statement": "Bei HER2-negativem Adenokarzinom mit erhöhtem PD-L1 CPS (Nivolumab ≥ 5, Pembrolizumab ≥ 10) soll die Chemotherapie um einen Checkpoint-Inhibitor ergänzt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.5 (Grad A). CheckMate-649/KEYNOTE-590 bei PD-L1-hoch.",
+    "leitlinie_wortlaut": "Bei negativem HER2-Status und einem erhöhten PD-L1 CPS Cut-off Wert (für Nivolumab PD-L1 CPS≥5, für Pembrolizumab PD-L1 CPS≥10) soll eine Platin (Oxaliplatin oder Cisplatin)/Fluoropyrimidin-Kombination zusammen mit einem der genannten Immun-Checkpoint-Inhibitoren eingesetzt werden. 1b: 2: LoE nach Oxford 2011 - einzelnes RCT Für Evidenzbewertung nach GRADE siehe Evidenztabelle (Leitlinienreport)",
+    "evidenz": "Grad A; LoE 1b",
+    "konsensstaerke": "",
+    "seite_pdf": 142,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Checkpoint",
+      "PD-L1"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ],
+      "spezial": [
+        "pdl1"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_6_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.6",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "HER2+ Trastuzumab",
+    "thema": "Palliativ",
+    "statement": "Auch bei HER2-negativen Tumoren soll die Erstlinienchemotherapie um Trastuzumab ergänzt werden.",
+    "answer": false,
+    "explanation": "Empf. 9.6: Trastuzumab nur bei HER2-Überexpression (IHC 3+ oder IHC 2+/FISH+).",
+    "leitlinie_wortlaut": "Bei HER2-überexprimierenden Tumoren (IHC3+ oder IHC2+ und FISH+) soll eine Cisplatin/Fluoropyrimidinbasierte Erstlinienchemotherapie um Trastuzumab ergänzt werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 142,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "HER2",
+      "Trastuzumab"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ],
+      "spezial": [
+        "her2"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_9_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.9",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "SCC Immun",
+    "thema": "Palliativ",
+    "statement": "Beim metastasierten Plattenepithelkarzinom mit PD-L1 CPS ≥ 10 (oder TPS-positiv) soll eine Chemotherapie plus Checkpoint-Inhibitor erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 9.9 (Grad A). KEYNOTE-590/CheckMate-648 beim SCC.",
+    "leitlinie_wortlaut": "Bei Patienten mit einem metastasierten oder lokal fortgeschrittenen, nicht kurativ behandelbaren Plattenepithelkarzinom des Ösophagus mit einem PD-L1 CPS≥10 oder einem PD-L1 TPS ≥ 1% soll eine Platin-/Fluoropyrimidin-Chemotherapie zusammen mit einem Immun-Checkpoint-Inhibitor eingesetzt werden (Pembrolizumab PD-L1 CPS≥10, Nivolumab PD-L1 TPS ≥ 1%). 2: LoE nach Oxford 2011 - einzelnes RCT Für Evidenzbewertung nach GRADE siehe Evidenztabelle (Leitlinienreport 3.1) ogramm Onkologie | S3-Leitlinie Ösophaguskarzinom | Langversion - 4.0 | Dezember 2023",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 146,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Plattenepithelkarzinom",
+      "Checkpoint"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "systemtherapie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ],
+      "spezial": [
+        "pdl1"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_14_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.14",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "Perkutane RT",
+    "thema": "Palliativ",
+    "statement": "Eine perkutane Radiotherapie (ggf. mit simultaner Chemo) kann bei lokalen Symptomen (Blutung, Stenose, Kompression) eingesetzt werden.",
+    "answer": true,
+    "explanation": "EK 9.14. Symptomorientierte palliative Bestrahlung.",
+    "leitlinie_wortlaut": "Die perkutane Radiotherapie des Ösophaguskarzinoms – ggfs. in Kombination mit einer simultanen Chemotherapie – kann bei lokalen Symptomen (z. B. Blutung, Stenose, Kompression) im Rahmen der multidisziplinären Betreuung eingesetzt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 153,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "palliative RT"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "supportiv"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_15_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.15",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "Brachytherapie",
+    "thema": "Palliativ",
+    "statement": "Die palliative Brachytherapie sollte zur Linderung der Dysphagie eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.15 (Grad B, LoE 1a). Brachytherapie mit nachhaltiger Dysphagie-Linderung.",
+    "leitlinie_wortlaut": "Die palliative Brachytherapie sollte im Rahmen der multidisziplinären Betreuung von Patienten mit Ösophaguskarzinom zur Linderung der Dysphagie gegebenenfalls in Kombination einer perkutanen Radiochemotherapie oder einer Stentimplantation angeboten werden.",
+    "evidenz": "Grad B; LoE 1a",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 154,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Brachytherapie",
+      "Dysphagie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "supportiv"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_16_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.16",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "SEMS",
+    "thema": "Palliativ",
+    "statement": "Zur raschen Linderung einer Dysphagie sollte ein selbstexpandierender Metallstent (SEMS) eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 9.16 (Grad B, LoE 1a). SEMS = schnellste Dysphagie-Linderung in der Palliation.",
+    "leitlinie_wortlaut": "Zur raschen Linderung einer Dysphagie bei Patienten mit Ösophaguskarzinom sollte ein selbstexpandierender Metallstent eingesetzt werden.",
+    "evidenz": "Grad B; LoE 1a",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 155,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "SEMS",
+      "Dysphagie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "supportiv"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_17_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.17",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "SEMS + RT",
+    "thema": "Palliativ",
+    "statement": "Bei einliegendem SEMS kann problemlos simultan perkutan bestrahlt werden.",
+    "answer": false,
+    "explanation": "Empf. 9.17: simultane perkutane RT bei SEMS sollte VERMIEDEN werden.",
+    "leitlinie_wortlaut": "Bei einliegendem selbstexpandierendem Metallstent (SEMS) sollte eine simultane perkutane Radiotherapie vermieden werden, da dies mit einer erhöhten Komplikationsrate einhergeht. Die Einlage eines SEMS bei gleichzeitiger Radiatio soll aufgrund der erhöhten Komplikationsrate vermieden werden. Allerdings kann in besonderen ausgewählten Fällen zur Linderung einer ausgeprägten Dysphagie ein vollgecoverter SEMS eingelegt werden, der wieder bei Beginn einer Radiatio oder Radiochemotherapie entfernt wird. In einer retrospektiven Arbeit mit 997 Patienten zeigte sich eine Radiochemotherapie als einziger Risikofaktor für eine Stent-assoziierte Komplikation . Eine kleine asiatische Studie legt nahe, dass es dadurch zu einer signifikant erhöhten Rate an Fisteln kommt . Außerdem scheint eine maligne Fistel, die durch eine Radiatio entsteht, ein prädiktiver Faktor für ein therapeutisches Versagen eines Fistelverschlusses darzustellen . Auch die European Society of Gastrointestinal Endoscopy (ESGE) spricht sich in ihrer Leitlinie gegen eine simultane externe Radiotherapie bei einliegendem Stent unter Berücksichtigung der erhöhten Nebenwirkungsrate aus . Eine aktuelle prospektiv-randomisierte Studie aus UK mit 220 Patienten verglich die Stent-Implantation alleine mit Stent-Implantation und zusätzlicher Radiatio mit 20-30 Gy. Eine zusätzliche Radiatio erbrachte keine Verbesserung der Dysphagiefreiheit. Die Stent-bezogenen Komplikationen waren in beiden Gruppen nicht unterschiedlich. Die zusätzliche Radiatio hatte lediglich einen positiven Effekt auf tumorbezogene Blutungskomplikationen . In einer aktuell publizierten Meta-Analyse von 9 Studien mit insgesamt 851 Patienten zeigte sich hingegen eine signifikante Verbesserung der Dysphagie und des Overall-Survivals ohne eine Zunahme der Komplikationen (Blutung, Schmerzen, Stent-Migration) . gramm Onkologie | S3-Leitlinie Ösophaguskarzinom | Langversion - 4.0 | Dezember 2023 ne Alternative zur Palliation der Dysphagie bei Ösophaguskarzinomen ist die achytherapie. Im Vergleicht zu Stents tritt hier die Linderung der Dysphagie rzögert ein, allerdings war die Brachytherapie der SEMS-Implantation nach 3 naten überlegen , . e Stent-Implantation ist kosteneffektiver als die Brachytherapie . Eine mbination beider Methoden scheint effektiv und sicher zu sein, allerdings gibt es für kaum prospektive Daten . ellenwert der intraluminalen lokalen Therapie",
+    "evidenz": "Grad B; LoE 4",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 156,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "SEMS",
+      "Strahlentherapie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "strahlentherapie",
+        "endoskopie"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
   }
 ]
