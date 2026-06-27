@@ -3,7 +3,7 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 399 Fragen · ✅ 399 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 403 Fragen · ✅ 403 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
@@ -367,7 +367,7 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | oes_6_6_a | 6.6 | 50 | F | ✅ | ☐ |
 | oes_6_8_a | 6.8 | 55 | R | ✅ | ☐ |
 
-## oesophagus · Kurative Therapie  (31)
+## oesophagus · Kurative Therapie  (34)
 
 | ID | Empf. | S. | R/F | Check 1 | Check 2 |
 |---|---|---|:--:|:--:|:--:|
@@ -380,6 +380,7 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | oes_8_19_a | 8.19 | 106 | R | ✅ | ☐ |
 | oes_8_1_a | 8.1 | 79 | R | ✅ | ☐ |
 | oes_8_20_a | 8.20 | 106 | F | ✅ | ☐ |
+| oes_8_21_a | 8.21 | 108 | R | ✅ | ☐ |
 | oes_8_23_a | 8.23 | 110 | F | ✅ | ☐ |
 | oes_8_24_a | 8.24 | 111 | R | ✅ | ☐ |
 | oes_8_25_a | 8.25 | 113 | R | ✅ | ☐ |
@@ -397,13 +398,15 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | oes_8_3_a | 8.3 | 83 | R | ✅ | ☐ |
 | oes_8_40_a | 8.40 | 135 | R | ✅ | ☐ |
 | oes_8_41_a | 8.41 | 136 | R | ✅ | ☐ |
+| oes_8_42_a | 8.42 | 137 | R | ✅ | ☐ |
 | oes_8_4_a | 8.4 | 84 | R | ✅ | ☐ |
+| oes_8_5_a | 8.5 | 85 | R | ✅ | ☐ |
 | oes_8_6_a | 8.6 | 86 | R | ✅ | ☐ |
 | oes_8_7_a | 8.7 | 86 | F | ✅ | ☐ |
 | oes_8_8_a | 8.8 | 88 | R | ✅ | ☐ |
 | oes_8_9_a | 8.9 | 89 | R | ✅ | ☐ |
 
-## oesophagus · Palliativtherapie  (11)
+## oesophagus · Palliativtherapie  (12)
 
 | ID | Empf. | S. | R/F | Check 1 | Check 2 |
 |---|---|---|:--:|:--:|:--:|
@@ -411,6 +414,7 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | oes_9_15_a | 9.15 | 154 | R | ✅ | ☐ |
 | oes_9_16_a | 9.16 | 155 | R | ✅ | ☐ |
 | oes_9_17_a | 9.17 | 156 | F | ✅ | ☐ |
+| oes_9_18_a | 9.18 | 157 | R | ✅ | ☐ |
 | oes_9_1_a | 9.1 | 141 | R | ✅ | ☐ |
 | oes_9_2_a | 9.2 | 141 | R | ✅ | ☐ |
 | oes_9_3_a | 9.3 | 141 | R | ✅ | ☐ |

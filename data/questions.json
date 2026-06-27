@@ -15925,5 +15925,171 @@
         "oesophagus"
       ]
     }
+  },
+  {
+    "id": "oes_8_5_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.5",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Lokalrezidiv",
+    "thema": "Endoskopie",
+    "statement": "Ein auf die Mukosa beschränktes Lokalrezidiv (crT1a cN0 cM0) nach früherer endoskopischer Resektion eines mukosalen Karzinoms im Barrett-Ösophagus kann erneut endoskopisch behandelt werden.",
+    "answer": true,
+    "explanation": "EK 8.5. Mukosales Lokalrezidiv → erneute ER möglich (organerhaltend).",
+    "leitlinie_wortlaut": "Ein auf die Mukosa beschränktes Lokalrezidiv (crT1a cN0 cM0) nach früherer endoskopischer Resektion eines mukosalen Karzinoms im Barrett-Ösophagus kann erneut endoskopisch behandelt werden. Wenn damit keine R0-Resektion möglich ist, sollte ein chirurgisches Verfahren gewählt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 85,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Lokalrezidiv",
+      "ER"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "oesophagus",
+        "barrett"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_21_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.21",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Lokalrezidiv",
+    "thema": "Chirurgie",
+    "statement": "Bei einem isolierten Lokalrezidiv nach kurativ intendierter Operation kann nach Diskussion in der Tumorkonferenz erneut operiert werden.",
+    "answer": true,
+    "explanation": "EK 8.21. Isoliertes Lokalrezidiv → ggf. Re-Resektion (interdisziplinär).",
+    "leitlinie_wortlaut": "Bei einem isolierten Lokalrezidiv nach kurativ intendierter Operation kann nach Diskussion in einer interdisziplinären Tumorkonferenz erneut eine Operation durchgeführt werden. Die sorgfältige Evaluation der Operabilität und der Resektabilität sollte durch ein in der Ösophaguschirurgie erfahrenes Behandlungsteam vorgenommen werden. Alternativ soll eine Radiochemotherapie angeboten werden, sofern keine Vorbestrahlung im Rezidivgebiet erfolgt ist bzw. wenn eine ausreichende Normalgewebetoleranz vorhanden ist.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 108,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Lokalrezidiv",
+      "Re-Operation"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_8_42_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "8.42",
+    "kapitel": "Kurative Therapie",
+    "unterkapitel": "Ernährung",
+    "thema": "Nachsorge",
+    "statement": "In den ersten 6 Monaten nach kurativer Therapie sollten regelmäßige Verlaufskontrollen des Ernährungsstatus inkl. Diätberatung erfolgen.",
+    "answer": true,
+    "explanation": "EK 8.42. Häufige Mangelernährung nach Ösophagektomie → engmaschige Ernährungskontrolle.",
+    "leitlinie_wortlaut": "In den ersten 6 Monaten sollten regelmäßige Verlaufskontrollen des Ernährungsstatus einschließlich Diätberatung erfolgen. Die Supplementierung der oralen Energiezufuhr mit Trinklösung oder sogar Sondenernährung über eine zunächst belassene Feinnadelkatheterjejunostomie kann empfohlen werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 137,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Nachsorge",
+      "Ernährung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "modalitaet": [
+        "ernaehrung",
+        "supportiv"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
+  },
+  {
+    "id": "oes_9_18_a",
+    "leitlinie": {
+      "id": "oesophagus",
+      "name": "S3-LL Ösophaguskarzinom",
+      "version": "4.0",
+      "datum": "Dezember 2023",
+      "awmf": "021-023OL"
+    },
+    "empfehlung_nr": "9.18",
+    "kapitel": "Palliativtherapie",
+    "unterkapitel": "Thermoablation",
+    "thema": "Palliativ",
+    "statement": "Eine intraluminale thermoablative Therapie kann bei exophytischem Ösophaguskarzinom in der Palliativsituation erwogen werden.",
+    "answer": true,
+    "explanation": "EK 9.18. Thermoablation (z. B. APC/Laser) zur lokalen Tumorkontrolle bei exophytischem Wachstum.",
+    "leitlinie_wortlaut": "Eine intraluminale thermoablative Therapie bei Patienten mit exophytischem Ösophaguskarzinom in der palliativen Situation kann erwogen werden. Eine additive Brachytherapie oder Radiatio nach lokaler Tumorablation kann das dysphagiefreie Intervall verlängern.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 157,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Thermoablation",
+      "palliativ"
+    ],
+    "facetten": {
+      "entitaet": [
+        "oesophagus"
+      ],
+      "phase": [
+        "metastasen"
+      ],
+      "modalitaet": [
+        "endoskopie",
+        "supportiv"
+      ],
+      "stadium": [
+        "metastasiert"
+      ],
+      "lokalisation": [
+        "oesophagus"
+      ]
+    }
   }
 ]

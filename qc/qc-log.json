@@ -6382,5 +6382,69 @@
     "statement": "Bei einliegendem SEMS kann problemlos simultan perkutan bestrahlt werden.",
     "leitlinie_wortlaut": "Bei einliegendem selbstexpandierendem Metallstent (SEMS) sollte eine simultane perkutane Radiotherapie vermieden werden, da dies mit einer erhöhten Komplikationsrate einhergeht. Die Einlage eines SEMS bei gleichzeitiger Radiatio soll aufgrund der erhöhten Komplikationsrate vermieden werden. Allerdings kann in besonderen ausgewählten Fällen zur Linderung einer ausgeprägten Dysphagie ein vollgecoverter SEMS eingelegt werden, der wieder bei Beginn einer Radiatio oder Radiochemotherapie entfernt wird. In einer retrospektiven Arbeit mit 997 Patienten zeigte sich eine Radiochemotherapie als einziger Risikofaktor für eine Stent-assoziierte Komplikation . Eine kleine asiatische Studie legt nahe, dass es dadurch zu einer signifikant erhöhten Rate an Fisteln kommt . Außerdem scheint eine maligne Fistel, die durch eine Radiatio entsteht, ein prädiktiver Faktor für ein therapeutisches Versagen eines Fistelverschlusses darzustellen . Auch die European Society of Gastrointestinal Endoscopy (ESGE) spricht sich in ihrer Leitlinie gegen eine simultane externe Radiotherapie bei einliegendem Stent unter Berücksichtigung der erhöhten Nebenwirkungsrate aus . Eine aktuelle prospektiv-randomisierte Studie aus UK mit 220 Patienten verglich die Stent-Implantation alleine mit Stent-Implantation und zusätzlicher Radiatio mit 20-30 Gy. Eine zusätzliche Radiatio erbrachte keine Verbesserung der Dysphagiefreiheit. Die Stent-bezogenen Komplikationen waren in beiden Gruppen nicht unterschiedlich. Die zusätzliche Radiatio hatte lediglich einen positiven Effekt auf tumorbezogene Blutungskomplikationen . In einer aktuell publizierten Meta-Analyse von 9 Studien mit insgesamt 851 Patienten zeigte sich hingegen eine signifikante Verbesserung der Dysphagie und des Overall-Survivals ohne eine Zunahme der Komplikationen (Blutung, Schmerzen, Stent-Migration) . gramm Onkologie | S3-Leitlinie Ösophaguskarzinom | Langversion - 4.0 | Dezember 2023 ne Alternative zur Palliation der Dysphagie bei Ösophaguskarzinomen ist die achytherapie. Im Vergleicht zu Stents tritt hier die Linderung der Dysphagie rzögert ein, allerdings war die Brachytherapie der SEMS-Implantation nach 3 naten überlegen , . e Stent-Implantation ist kosteneffektiver als die Brachytherapie . Eine mbination beider Methoden scheint effektiv und sicher zu sein, allerdings gibt es für kaum prospektive Daten . ellenwert der intraluminalen lokalen Therapie",
     "leitlinie_pdf": "Bei einliegendem selbstexpandierendem Metallstent (SEMS) sollte eine simultane perkutane Radiotherapie vermieden werden, da dies mit einer erhöhten Komplikationsrate einhergeht. [678], [679], [493], [496] Die Einlage eines SEMS bei gleichzeitiger Radiatio soll aufgrund der erhöhten Komplikationsrate vermieden werden. Allerdings kann in besonderen ausgewählten Fällen zur Linderung einer ausgeprägten Dysphagie ein vollgecoverter SEMS eingelegt werden, der wieder bei Beginn einer Radiatio oder Radiochemotherapie entfernt wird. In einer retrospektiven Arbeit mit 997 Patienten zeigte sich eine Radiochemotherapie als einziger Risikofaktor für eine Stent-assoziierte Komplikation [493]. Eine kleine asiatische Studie legt nahe, dass es dadurch zu einer signifikant erhöhten Rate an Fisteln kommt [678]. Außerdem scheint eine maligne Fistel, die durch eine Radiatio entsteht, ein prädiktiver Faktor für ein therapeutisches Versagen eines Fistelverschlusses darzustellen [679]. Auch die European Society of Gastrointestinal Endoscopy (ESGE) spricht sich in ihrer Leitlinie gegen eine simultane externe Radiotherapie bei einliegendem Stent unter Berücksichtigung der erhöhten Nebenwirkungsrate aus [496]. Eine aktuelle prospektiv-randomisierte Studie aus UK mit 220 Patienten verglich die Stent-Implantation alleine mit Stent-Implantation und zusätzlicher Radiatio mit 20-30 Gy. Eine zusätzliche Radiatio erbrachte keine Verbesserung der Dysphagiefreiheit. Die Stent-bezogenen Komplikationen waren in beiden Gruppen nicht unterschiedlich. Die zusätzliche Radiatio hatte lediglich einen positiven Effekt auf tumorbezogene Blutungskomplikationen [680]. In einer aktuell publizierten Meta-Analyse von 9 Studien mit insgesamt 851 Patienten zeigte sich hingegen eine signifikante Verbesserung der Dysphagie und des Overall-Survivals ohne eine Zunahme der Komplikationen (Blutung, Schmerzen, Stent-Migration) [681]. Eine Alternative zur Palliation der Dysphagie bei Ösophaguskarzinomen ist die Brachytherapie. Im Vergleicht zu Stents tritt hier die Linderung der Dysphagie verzögert ein, allerdings war die Brachytherapie der SEMS-Implantation nach 3 Monaten überlegen [664], [682]. Die Stent-Implantation ist kosteneffektiver als die Brachytherapie [683]. Eine Kombination beider Methoden scheint effektiv und sicher zu sein, allerdings gibt es dafür kaum prospektive Daten [684]. 9.8 Stellenwert der intraluminalen lokalen Therapie"
+  },
+  {
+    "id": "oes_8_5_a",
+    "leitlinie": "oesophagus",
+    "empfehlung_nr": "8.5",
+    "kapitel": "Kurative Therapie",
+    "seite_pdf": 85,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Ein auf die Mukosa beschränktes Lokalrezidiv (crT1a cN0 cM0) nach früherer endoskopischer Resektion eines mukosalen Karzinoms im Barrett-Ösophagus kann erneut endoskopisch behandelt werden.",
+    "leitlinie_wortlaut": "Ein auf die Mukosa beschränktes Lokalrezidiv (crT1a cN0 cM0) nach früherer endoskopischer Resektion eines mukosalen Karzinoms im Barrett-Ösophagus kann erneut endoskopisch behandelt werden. Wenn damit keine R0-Resektion möglich ist, sollte ein chirurgisches Verfahren gewählt werden.",
+    "leitlinie_pdf": "Ein auf die Mukosa beschränktes Lokalrezidiv (crT1a cN0 cM0) nach früherer endoskopischer Resektion eines mukosalen Karzinoms im Barrett-Ösophagus kann erneut endoskopisch behandelt werden. Wenn damit keine R0-Resektion möglich ist, sollte ein chirurgisches Verfahren gewählt werden."
+  },
+  {
+    "id": "oes_8_21_a",
+    "leitlinie": "oesophagus",
+    "empfehlung_nr": "8.21",
+    "kapitel": "Kurative Therapie",
+    "seite_pdf": 108,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei einem isolierten Lokalrezidiv nach kurativ intendierter Operation kann nach Diskussion in der Tumorkonferenz erneut operiert werden.",
+    "leitlinie_wortlaut": "Bei einem isolierten Lokalrezidiv nach kurativ intendierter Operation kann nach Diskussion in einer interdisziplinären Tumorkonferenz erneut eine Operation durchgeführt werden. Die sorgfältige Evaluation der Operabilität und der Resektabilität sollte durch ein in der Ösophaguschirurgie erfahrenes Behandlungsteam vorgenommen werden. Alternativ soll eine Radiochemotherapie angeboten werden, sofern keine Vorbestrahlung im Rezidivgebiet erfolgt ist bzw. wenn eine ausreichende Normalgewebetoleranz vorhanden ist.",
+    "leitlinie_pdf": "Bei einem isolierten Lokalrezidiv nach kurativ intendierter Operation kann nach Diskussion in einer interdisziplinären Tumorkonferenz erneut eine Operation durchgeführt werden. Die sorgfältige Evaluation der Operabilität und der Resektabilität sollte durch ein in der Ösophaguschirurgie erfahrenes Behandlungsteam vorgenommen werden. Alternativ soll eine Radiochemotherapie angeboten werden, sofern keine Vorbestrahlung im Rezidivgebiet erfolgt ist bzw. wenn eine ausreichende Normalgewebetoleranz vorhanden ist."
+  },
+  {
+    "id": "oes_8_42_a",
+    "leitlinie": "oesophagus",
+    "empfehlung_nr": "8.42",
+    "kapitel": "Kurative Therapie",
+    "seite_pdf": 137,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "In den ersten 6 Monaten nach kurativer Therapie sollten regelmäßige Verlaufskontrollen des Ernährungsstatus inkl. Diätberatung erfolgen.",
+    "leitlinie_wortlaut": "In den ersten 6 Monaten sollten regelmäßige Verlaufskontrollen des Ernährungsstatus einschließlich Diätberatung erfolgen. Die Supplementierung der oralen Energiezufuhr mit Trinklösung oder sogar Sondenernährung über eine zunächst belassene Feinnadelkatheterjejunostomie kann empfohlen werden.",
+    "leitlinie_pdf": "In den ersten 6 Monaten sollten regelmäßige Verlaufskontrollen des Ernährungsstatus einschließlich Diätberatung erfolgen. Die Supplementierung der oralen Energiezufuhr mit Trinklösung oder sogar Sondenernährung über eine zunächst belassene Feinnadelkatheterjejunostomie kann empfohlen werden."
+  },
+  {
+    "id": "oes_9_18_a",
+    "leitlinie": "oesophagus",
+    "empfehlung_nr": "9.18",
+    "kapitel": "Palliativtherapie",
+    "seite_pdf": 157,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine intraluminale thermoablative Therapie kann bei exophytischem Ösophaguskarzinom in der Palliativsituation erwogen werden.",
+    "leitlinie_wortlaut": "Eine intraluminale thermoablative Therapie bei Patienten mit exophytischem Ösophaguskarzinom in der palliativen Situation kann erwogen werden. Eine additive Brachytherapie oder Radiatio nach lokaler Tumorablation kann das dysphagiefreie Intervall verlängern.",
+    "leitlinie_pdf": "Eine intraluminale thermoablative Therapie bei Patienten mit exophytischem Ösophaguskarzinom in der palliativen Situation kann erwogen werden. Eine additive Brachytherapie oder Radiatio nach lokaler Tumorablation kann das dysphagiefreie Intervall verlängern."
   }
 ]
