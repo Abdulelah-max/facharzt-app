@@ -89,6 +89,11 @@
       "id": "divertikulitis",
       "name": "Divertikelkrankheit/Divertikulitis",
       "grund": "S3 (021-020) liegt als zweispaltiges Zeitschriften-PDF vor – nicht mit dem aktuellen Box-Parser verbatim extrahierbar (Kandidat für späteren Spezial-Parser)."
+    },
+    {
+      "id": "morbus_crohn",
+      "name": "Morbus Crohn",
+      "grund": "S3 v4.0 (2024) nur als zweispaltiges Zeitschriften-PDF mit gesperrten Empfehlungs-Köpfen — nicht verbatim extrahierbar (wie Divertikulitis). 2022er-Version wäre veraltet."
     }
   ]
 }
