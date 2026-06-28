@@ -44,6 +44,7 @@ PDFS = {
     "haemorrhoiden": "leitlinien/haemorrhoiden-v2019.pdf",
     "pilonidalsinus": "leitlinien/pilonidalsinus-v3.0.pdf",
     "bariatrie": "leitlinien/bariatrie-v2018.pdf",
+    "gist": "leitlinien/weichgewebesarkome-v1.1.pdf",
 }
 OK_T, PRUEF_T = 0.85, 0.65
 

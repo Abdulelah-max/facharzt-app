@@ -9406,5 +9406,277 @@
     "statement": "Die Verfahrenswahl soll unter besonderer Berücksichtigung von BMI, Alter, Geschlecht, Komorbiditäten, Adhärenz und Beruf erfolgen.",
     "leitlinie_wortlaut": "Die Verfahrenswahl soll unter besonderer Berücksichtigung von BMI, Alter, Geschlecht, Komorbiditäten, Adhärenz und Beruf",
     "leitlinie_pdf": ""
+  },
+  {
+    "id": "gist_10_1_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.1",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 179,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei lokal fortgeschrittenem Tumor mit GIST-Verdacht soll präoperativ eine histologische Sicherung erfolgen.",
+    "leitlinie_wortlaut": "Eine präoperative histologische Sicherung von Tumoren des Verdauungstraktes mit Verdacht auf GIST",
+    "leitlinie_pdf": "Eine präoperative histologische Sicherung von Tumoren des Verdauungstraktes mit Verdacht auf GIST soll bei lokal fortgeschrittenen Tumoren vorgenommen werden, die nur durch komplette Resektion des betroffenen Organs oder durch multiviszerale Resektion zu entfernen sind. Für den Fall des bioptischen Nachweises eines lokal fortgeschrittenen GIST soll der Mutationsstatus vor dem Hintergrund des prädiktiven Wertes einer neoadjuvanten Therapie geprüft werden."
+  },
+  {
+    "id": "gist_10_2_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.2",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 179,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei lokal fortgeschrittenem GIST mit Imatinib-empfindlicher Mutation sollte eine neoadjuvante medikamentöse Therapie erwogen werden.",
+    "leitlinie_wortlaut": "Bei lokal fortgeschrittenen GIST und Nachweis einer Imatinib-empfindlichen Mutation sollte eine neoadjuvante",
+    "leitlinie_pdf": "Bei lokal fortgeschrittenen GIST und Nachweis einer Imatinib-empfindlichen Mutation sollte eine neoadjuvante medikamentöse Therapie mit Imatinib mit dem Ziel der Verkleinerung des OP-Ausmaßes vorgenommen werden."
+  },
+  {
+    "id": "gist_10_4_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.4",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 180,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei der GIST-Resektion ist ein Sicherheitsabstand von mindestens 2 cm zwingend erforderlich.",
+    "leitlinie_wortlaut": "Bei der Resektion eines primären GIST soll eine R0-Resektion erzielt werden.",
+    "leitlinie_pdf": "Bei der Resektion eines primären GIST soll eine R0-Resektion erzielt werden. Das Ausmaß des Sicherheitsabstandes kann unter einem 1cm betragen, solange eine R0-Resektion erzielt wird. GRADE [158] ⊕⊕⊕⊝ moderate Lokalrezidiv"
+  },
+  {
+    "id": "gist_10_5_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.5",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 181,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei günstiger Lage (Magen, Dünndarm) und entsprechender Expertise können GIST minimal-invasiv entfernt werden.",
+    "leitlinie_wortlaut": "Bei günstiger Lage (Magen, Dünndarm) und entsprechender Expertise können GIST auch minimal-invasiv entfernt werden.",
+    "leitlinie_pdf": "Bei günstiger Lage (Magen, Dünndarm) und entsprechender Expertise können GIST auch minimal-invasiv entfernt werden. Die onkologischen Prinzipien sollen in gleicher Form angewendet werden wie in der konventionellen offenen Chirurgie."
+  },
+  {
+    "id": "gist_10_6_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.6",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 181,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei der Resektion eines GIST soll routinemäßig eine systematische Lymphadenektomie durchgeführt werden.",
+    "leitlinie_wortlaut": "Eine systematische Lymphadenektomie soll aufgrund der niedrigen Frequenz von Lymphknotenmetastasen nicht durchgeführt werden.",
+    "leitlinie_pdf": "Eine systematische Lymphadenektomie soll aufgrund der niedrigen Frequenz von Lymphknotenmetastasen nicht durchgeführt werden. Ausgenommen sind hier Patienten mit SDH-defizienten GIST, die den klinischen Verdacht auf einen Lymphknotenbefall haben."
+  },
+  {
+    "id": "gist_10_7_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.7",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 181,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine Tumorruptur im Rahmen der Präparation oder Bergung des Präparates soll vermieden werden.",
+    "leitlinie_wortlaut": "Eine Tumorruptur im Rahmen der Präparation oder Bergung des Präparates soll vermieden werden.",
+    "leitlinie_pdf": "Eine Tumorruptur im Rahmen der Präparation oder Bergung des Präparates soll vermieden werden."
+  },
+  {
+    "id": "gist_10_9_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.9",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 181,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Jeder GIST des Magens muss unabhängig von der Größe primär reseziert werden.",
+    "leitlinie_wortlaut": "Bei einem GIST des Magens unter 2 cm Durchmesser kann eine regelmäßige Überwachung durch endoskopischen Ultraschall erfolgen.",
+    "leitlinie_pdf": "Bei einem GIST des Magens unter 2 cm Durchmesser kann eine regelmäßige Überwachung durch endoskopischen Ultraschall erfolgen."
+  },
+  {
+    "id": "gist_10_12_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.12",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 185,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Eine molekularpathologische Analyse soll für alle GIST mit mindestens intermediärem Risiko oder bei geplanter medikamentöser Therapie durchgeführt werden.",
+    "leitlinie_wortlaut": "Eine molekularpathologische Analyse soll für alle GIST durchgeführt werden, die mindestens ein intermediäres Risiko aufweisen",
+    "leitlinie_pdf": "Eine molekularpathologische Analyse soll für alle GIST durchgeführt werden, die mindestens ein intermediäres Risiko aufweisen oder für die eine medikamentöse Therapie in Betracht kommt."
+  },
+  {
+    "id": "gist_10_15_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.15",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 186,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Für die Entscheidung zur adjuvanten Imatinib-Therapie sollte eine Risiko-Klassifikation verwendet werden, die u. a. Lokalisation, Mitosezahl, Tumorgröße und Tumorruptur einbezieht.",
+    "leitlinie_wortlaut": "Für die Therapieentscheidung zu einer postoperativen adjuvanten Therapie mit Imatinib sollte eine Risiko-Klassifikation verwendet werden",
+    "leitlinie_pdf": "Für die Therapieentscheidung zu einer postoperativen adjuvanten Therapie mit Imatinib sollte eine Risiko-Klassifikation verwendet werden, die neben der Primärlokalisation, der absoluten Mitosezahl/5 mm² und der Tumorgröße auch die Tumorruptur einbezieht. Hierbei haben sich die modifizierten Konsensuskriterien und die Konturkarten am meisten bewährt. Die TNM-Klassifikation für GIST hat keinen klinischen Mehrwert."
+  },
+  {
+    "id": "gist_10_17_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.17",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 189,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Die adjuvante Imatinib-Therapie bei GIST mit hohem Rückfallrisiko wird für 1 Jahr durchgeführt.",
+    "leitlinie_wortlaut": "sollen eine adjuvante Therapie mit Imatinib für 3 Jahre erhalten",
+    "leitlinie_pdf": "Patienten mit signifikantem Rückfallrisiko nach Primärtumorresektion, die im Tumor eine Imatinib-empfindliche KIT oder PDGFRA-Mutation aufweisen, sollen eine adjuvante Therapie mit Imatinib für 3 Jahre erhalten. GRADE [654, 677] ⊕⊕⊕⊕ high Überleben (Median Follow-up: 54 Monate) ⊕⊕⊕⊕ high Rezidivfreies Überleben (Median Follow-up: 54 Monate)"
+  },
+  {
+    "id": "gist_10_20_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.20",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 191,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Ein GIST mit PDGFRA-D842V-Mutation spricht gut auf Standard-Imatinib an.",
+    "leitlinie_wortlaut": "der eine D842V Mutation im PDGFRA-Gen aufweist, sollen eine Therapie mit Avapritinib",
+    "leitlinie_pdf": "Patienten mit einem metastasierten oder inoperablen GIST, der eine D842V Mutation im PDGFRA-Gen aufweist, sollen eine Therapie mit Avapritinib in der empfohlenen Tagesdosis von 300 mg erhalten."
+  },
+  {
+    "id": "gist_10_23_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.23",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 194,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei einer KIT-Exon-9-Mutation wird Imatinib in der Standarddosis von 400 mg/Tag eingesetzt.",
+    "leitlinie_wortlaut": "Bei Patienten mit einer KIT Exon 9 Mutation sollte eine Tagesdosierung von 800 mg Imatinib eingesetzt werden.",
+    "leitlinie_pdf": "Bei Patienten mit einer KIT Exon 9 Mutation sollte eine Tagesdosierung von 800 mg Imatinib eingesetzt werden."
+  },
+  {
+    "id": "gist_10_24_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.24",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 194,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Beim metastasierten GIST soll Imatinib kontinuierlich bis zur Progression oder Intoleranz gegeben werden.",
+    "leitlinie_wortlaut": "Patienten mit metastasierter Erkrankung sollen die Therapie mit Imatinib kontinuierlich bis zur Progression oder Entwicklung von Intoleranz erhalten.",
+    "leitlinie_pdf": "Patienten mit metastasierter Erkrankung sollen die Therapie mit Imatinib kontinuierlich bis zur Progression oder Entwicklung von Intoleranz erhalten."
+  },
+  {
+    "id": "gist_10_26_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.26",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 196,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei Versagen von Imatinib ist die nächste medikamentöse Therapielinie beim GIST Regorafenib.",
+    "leitlinie_wortlaut": "Patienten, die auf eine Therapie mit Imatinib nicht oder nicht mehr ansprechen, sollen eine Therapie mit Sunitinib erhalten.",
+    "leitlinie_pdf": "Patienten, die auf eine Therapie mit Imatinib nicht oder nicht mehr ansprechen, sollen eine Therapie mit Sunitinib erhalten. GRADE [709, 710] ⊕⊕⊝⊝ low Gesamtüberleben (Median Follow-up: 41,7 Monate) ⊕⊕⊝⊝ low Progressionsfreies Überleben (Median Follow-up: 41,7 Monate) ⊕⊕⊕⊝ moderate Gesamtüberleben (Median Follow-up: NR) ⊕⊕⊝⊝ low Progressionsfreies Überleben (Follow up: NR)"
+  },
+  {
+    "id": "gist_10_27_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.27",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 197,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Bei Versagen von Sunitinib soll beim GIST eine Therapie mit Regorafenib erfolgen.",
+    "leitlinie_wortlaut": "Patienten, die auf eine Therapie mit Sunitinib nicht oder nicht mehr ansprechen, sollen eine Therapie mit Regorafenib erhalten.",
+    "leitlinie_pdf": "Patienten, die auf eine Therapie mit Sunitinib nicht oder nicht mehr ansprechen, sollen eine Therapie mit Regorafenib erhalten. GRADE [717, 718] ⊕⊕⊝⊝ low Gesamtüberleben (Median Follow-up: NR) ⊕⊕⊕⊝ moderate Progressionsfreies Überleben (Median Follow-up: NR) ⊕⊕⊝⊝ low QoL (EQ-5D, während der Behandlung)"
+  },
+  {
+    "id": "gist_10_28_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.28",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 197,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Nach Versagen von drei oder mehr Kinase-Hemmern soll beim GIST eine Therapie mit Ripretinib erfolgen.",
+    "leitlinie_wortlaut": "sollen eine Therapie mit Ripretinib in der empfohlenen Tagesdosis von 150mg erhalten",
+    "leitlinie_pdf": "Patienten, die auf eine Therapie mit drei oder mehr Kinase-Hemmern, einschließlich Imatinib, nicht oder nicht mehr ansprechen, sollen eine Therapie mit Ripretinib in der empfohlenen Tagesdosis von 150mg erhalten. GRADE [716] ⊕⊕⊝⊝ low Gesamtüberleben ⊕⊕⊕⊝ moderate Progressionsfreies Überleben ⊕⊕⊝⊝ low QoL (EQ-5D VAS) ⊕⊕⊝⊝ low EORTC QLQ-C30 (Physical Function, Role Function) Für den Fall einer Tumorprogression unter der Behandlung mit drei oder mehr KinaseHemmern, einschließlich Imatinib, wurde der Switch-Pocket-Inhibitor Ripretinib durch die EMA für die Viertlinienbehandlung zugelassen. Die INVICTUS-Studie prüfte Ripretinib randomisiert gegenüber Placebo bei Patienten nach Versagen bzw. Unverträglichkeit von Imatinib, Sunitinib und Regorafenib [716]. Im Ripretinib-Arm fand sich hierbei eine hoch-signifikante Verbesserung des progressionsfreien Überlebens (6 Monate vs. 1 Monat; p<0,0001). Das mediane Überleben lag im Behandlungsarm bei 15 Monaten und im Placebo-Arm bei 7 Monaten, was aufgrund des hierarchischen Testaufbaus nicht formell auf statistische Signifikanz hin überprüft werden konnte."
+  },
+  {
+    "id": "gist_10_10_a",
+    "leitlinie": "gist",
+    "empfehlung_nr": "10.10",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "seite_pdf": 184,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 1.0,
+      "via": "Empfehlung"
+    },
+    "statement": "Die GIST-Diagnose sollte neben der Morphologie immunhistochemisch (u. a. CD117/KIT, DOG1) gesichert werden.",
+    "leitlinie_wortlaut": "Die Diagnose eines Gastrointestinalen Stromatumors sollte neben der morphologischen Diagnose",
+    "leitlinie_pdf": "Die Diagnose eines Gastrointestinalen Stromatumors sollte neben der morphologischen Diagnose mit einem immunhistochemischen Antikörper-Panel etabliert werden (Minimum: CD117, CD34, DOG1, Ki67, SDHB)."
   }
 ]

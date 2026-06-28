@@ -575,6 +575,33 @@
         "entitaet": "bariatrie",
         "phase": "nachsorge"
       }
+    },
+    {
+      "name": "GIST (Stromatumor)",
+      "kriterien": {
+        "entitaet": "gist"
+      }
+    },
+    {
+      "name": "GIST Chirurgie",
+      "kriterien": {
+        "entitaet": "gist",
+        "phase": "chirurgie"
+      }
+    },
+    {
+      "name": "GIST Systemtherapie / TKI",
+      "kriterien": {
+        "entitaet": "gist",
+        "phase": "metastasen"
+      }
+    },
+    {
+      "name": "GIST molekular (KIT/PDGFRA)",
+      "kriterien": {
+        "entitaet": "gist",
+        "modalitaet": "molekularpathologie"
+      }
     }
   ]
 }

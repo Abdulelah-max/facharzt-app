@@ -116,9 +116,18 @@
       "version": "S3 (2018)",
       "geplante_fragen": 16,
       "status": "fertig"
+    },
+    {
+      "id": "gist",
+      "awmf": "032-044OL",
+      "kurz": "GIST",
+      "name": "Gastrointestinaler Stromatumor",
+      "version": "S3 v1.1 (2022)",
+      "geplante_fragen": 17,
+      "status": "fertig"
     }
   ],
-  "gesamt_geplant": 588,
+  "gesamt_geplant": 605,
   "nicht_aufgenommen": [
     {
       "id": "hernien",

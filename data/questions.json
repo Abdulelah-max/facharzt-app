@@ -23376,5 +23376,570 @@
         "magen"
       ]
     }
+  },
+  {
+    "id": "gist_10_1_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.1",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Biopsie",
+    "thema": "Diagnostik",
+    "statement": "Bei lokal fortgeschrittenem Tumor mit GIST-Verdacht soll präoperativ eine histologische Sicherung erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 10.1: präoperative Biopsie bei lokal fortgeschrittenem/grenzwertig resektablem GIST (Therapieplanung).",
+    "leitlinie_wortlaut": "Eine präoperative histologische Sicherung von Tumoren des Verdauungstraktes mit Verdacht auf GIST",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 179,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Biopsie",
+      "histologische Sicherung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "diagnostik"
+    }
+  },
+  {
+    "id": "gist_10_2_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.2",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Neoadjuvant",
+    "thema": "Therapie",
+    "statement": "Bei lokal fortgeschrittenem GIST mit Imatinib-empfindlicher Mutation sollte eine neoadjuvante medikamentöse Therapie erwogen werden.",
+    "answer": true,
+    "explanation": "Empf. 10.2: neoadjuvantes Imatinib senkt das Resektionsausmaß bei sensitiver Mutation.",
+    "leitlinie_wortlaut": "Bei lokal fortgeschrittenen GIST und Nachweis einer Imatinib-empfindlichen Mutation sollte eine neoadjuvante",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 179,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "neoadjuvant",
+      "Imatinib"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "neoadjuvanz"
+    }
+  },
+  {
+    "id": "gist_10_4_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.4",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Resektionsziel",
+    "thema": "Chirurgie",
+    "statement": "Bei der GIST-Resektion ist ein Sicherheitsabstand von mindestens 2 cm zwingend erforderlich.",
+    "answer": false,
+    "explanation": "Empf. 10.4: entscheidend ist die R0-Resektion; der Abstand darf unter 1 cm liegen.",
+    "leitlinie_wortlaut": "Bei der Resektion eines primären GIST soll eine R0-Resektion erzielt werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 180,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "R0-Resektion",
+      "Sicherheitsabstand"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "chirurgie",
+      "modalitaet": "op_verfahren"
+    }
+  },
+  {
+    "id": "gist_10_5_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.5",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Minimal-invasiv",
+    "thema": "Chirurgie",
+    "statement": "Bei günstiger Lage (Magen, Dünndarm) und entsprechender Expertise können GIST minimal-invasiv entfernt werden.",
+    "answer": true,
+    "explanation": "Empf. 10.5: laparoskopische Resektion bei günstiger Lage akzeptabel (Ruptur vermeiden).",
+    "leitlinie_wortlaut": "Bei günstiger Lage (Magen, Dünndarm) und entsprechender Expertise können GIST auch minimal-invasiv entfernt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 181,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "minimal-invasiv",
+      "laparoskopisch"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "chirurgie",
+      "modalitaet": "op_verfahren",
+      "lokalisation": [
+        "magen"
+      ]
+    }
+  },
+  {
+    "id": "gist_10_6_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.6",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Lymphadenektomie",
+    "thema": "Chirurgie",
+    "statement": "Bei der Resektion eines GIST soll routinemäßig eine systematische Lymphadenektomie durchgeführt werden.",
+    "answer": false,
+    "explanation": "Empf. 10.6: KEINE systematische Lymphadenektomie — GIST metastasiert nur selten lymphogen.",
+    "leitlinie_wortlaut": "Eine systematische Lymphadenektomie soll aufgrund der niedrigen Frequenz von Lymphknotenmetastasen nicht durchgeführt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 181,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Lymphadenektomie",
+      "SDH"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "chirurgie",
+      "modalitaet": "op_verfahren"
+    }
+  },
+  {
+    "id": "gist_10_7_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.7",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Tumorruptur",
+    "thema": "Chirurgie",
+    "statement": "Eine Tumorruptur im Rahmen der Präparation oder Bergung des Präparates soll vermieden werden.",
+    "answer": true,
+    "explanation": "Empf. 10.7: Ruptur = peritoneale Aussaat / drastisch erhöhtes Rezidivrisiko (Hochrisikokriterium).",
+    "leitlinie_wortlaut": "Eine Tumorruptur im Rahmen der Präparation oder Bergung des Präparates soll vermieden werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 181,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Tumorruptur",
+      "Rezidivrisiko"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "chirurgie",
+      "modalitaet": "op_verfahren"
+    }
+  },
+  {
+    "id": "gist_10_9_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.9",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Kleiner Magen-GIST",
+    "thema": "Diagnostik",
+    "statement": "Jeder GIST des Magens muss unabhängig von der Größe primär reseziert werden.",
+    "answer": false,
+    "explanation": "Empf. 10.9: GIST < 2 cm im Magen dürfen per endoskopischem Ultraschall überwacht werden.",
+    "leitlinie_wortlaut": "Bei einem GIST des Magens unter 2 cm Durchmesser kann eine regelmäßige Überwachung durch endoskopischen Ultraschall erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 181,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "EUS",
+      "Überwachung",
+      "< 2 cm"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "diagnostik",
+      "modalitaet": "endoskopie",
+      "lokalisation": [
+        "magen"
+      ]
+    }
+  },
+  {
+    "id": "gist_10_12_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.12",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Molekularpathologie",
+    "thema": "Pathologie",
+    "statement": "Eine molekularpathologische Analyse soll für alle GIST mit mindestens intermediärem Risiko oder bei geplanter medikamentöser Therapie durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 10.12: Mutationsanalyse (KIT/PDGFRA) steuert Risikoeinschätzung und TKI-Wahl.",
+    "leitlinie_wortlaut": "Eine molekularpathologische Analyse soll für alle GIST durchgeführt werden, die mindestens ein intermediäres Risiko aufweisen",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 185,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Mutationsanalyse",
+      "KIT",
+      "PDGFRA"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "metastasen",
+      "modalitaet": "molekularpathologie"
+    }
+  },
+  {
+    "id": "gist_10_15_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.15",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Risiko-Klassifikation",
+    "thema": "Adjuvanz",
+    "statement": "Für die Entscheidung zur adjuvanten Imatinib-Therapie sollte eine Risiko-Klassifikation verwendet werden, die u. a. Lokalisation, Mitosezahl, Tumorgröße und Tumorruptur einbezieht.",
+    "answer": true,
+    "explanation": "Empf. 10.15: Risikostratifizierung (modifizierte Konsensuskriterien/Miettinen) steuert die adjuvante Indikation.",
+    "leitlinie_wortlaut": "Für die Therapieentscheidung zu einer postoperativen adjuvanten Therapie mit Imatinib sollte eine Risiko-Klassifikation verwendet werden",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 186,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Risikostratifizierung",
+      "Mitosezahl"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "adjuvanz"
+    }
+  },
+  {
+    "id": "gist_10_17_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.17",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Imatinib 3 Jahre",
+    "thema": "Adjuvanz",
+    "statement": "Die adjuvante Imatinib-Therapie bei GIST mit hohem Rückfallrisiko wird für 1 Jahr durchgeführt.",
+    "answer": false,
+    "explanation": "Empf. 10.17: adjuvantes Imatinib über 3 JAHRE (1–2 Jahre ohne Überlebensvorteil).",
+    "leitlinie_wortlaut": "sollen eine adjuvante Therapie mit Imatinib für 3 Jahre erhalten",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 189,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "adjuvant",
+      "Imatinib",
+      "3 Jahre"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "adjuvanz",
+      "modalitaet": "molekularpathologie"
+    }
+  },
+  {
+    "id": "gist_10_20_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.20",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "D842V / Avapritinib",
+    "thema": "Therapie",
+    "statement": "Ein GIST mit PDGFRA-D842V-Mutation spricht gut auf Standard-Imatinib an.",
+    "answer": false,
+    "explanation": "Empf. 10.20: D842V ist Imatinib-RESISTENT → Avapritinib.",
+    "leitlinie_wortlaut": "der eine D842V Mutation im PDGFRA-Gen aufweist, sollen eine Therapie mit Avapritinib",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": 191,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "D842V",
+      "Avapritinib",
+      "PDGFRA"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "metastasen",
+      "modalitaet": "molekularpathologie"
+    }
+  },
+  {
+    "id": "gist_10_23_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.23",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "KIT Exon 9 / Dosis",
+    "thema": "Therapie",
+    "statement": "Bei einer KIT-Exon-9-Mutation wird Imatinib in der Standarddosis von 400 mg/Tag eingesetzt.",
+    "answer": false,
+    "explanation": "Empf. 10.23: bei KIT Exon 9 ist die höhere Dosis von 800 mg/Tag indiziert.",
+    "leitlinie_wortlaut": "Bei Patienten mit einer KIT Exon 9 Mutation sollte eine Tagesdosierung von 800 mg Imatinib eingesetzt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 194,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "KIT Exon 9",
+      "800 mg"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "metastasen",
+      "modalitaet": "molekularpathologie"
+    }
+  },
+  {
+    "id": "gist_10_24_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.24",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Erstlinie Imatinib",
+    "thema": "Therapie",
+    "statement": "Beim metastasierten GIST soll Imatinib kontinuierlich bis zur Progression oder Intoleranz gegeben werden.",
+    "answer": true,
+    "explanation": "Empf. 10.24: Imatinib ist die Erstlinie — keine Therapiepause (Pause → rasche Progression).",
+    "leitlinie_wortlaut": "Patienten mit metastasierter Erkrankung sollen die Therapie mit Imatinib kontinuierlich bis zur Progression oder Entwicklung von Intoleranz erhalten.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 194,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Imatinib",
+      "Erstlinie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "metastasen"
+    }
+  },
+  {
+    "id": "gist_10_26_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.26",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Zweitlinie Sunitinib",
+    "thema": "Therapie",
+    "statement": "Bei Versagen von Imatinib ist die nächste medikamentöse Therapielinie beim GIST Regorafenib.",
+    "answer": false,
+    "explanation": "Empf. 10.26/10.27: Zweitlinie ist SUNITINIB; Regorafenib erst in der Drittlinie.",
+    "leitlinie_wortlaut": "Patienten, die auf eine Therapie mit Imatinib nicht oder nicht mehr ansprechen, sollen eine Therapie mit Sunitinib erhalten.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 196,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Sunitinib",
+      "Zweitlinie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "metastasen"
+    }
+  },
+  {
+    "id": "gist_10_27_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.27",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Drittlinie Regorafenib",
+    "thema": "Therapie",
+    "statement": "Bei Versagen von Sunitinib soll beim GIST eine Therapie mit Regorafenib erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 10.27 (Grad A): Regorafenib = Drittlinie nach Sunitinib-Versagen.",
+    "leitlinie_wortlaut": "Patienten, die auf eine Therapie mit Sunitinib nicht oder nicht mehr ansprechen, sollen eine Therapie mit Regorafenib erhalten.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 197,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Regorafenib",
+      "Drittlinie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "metastasen"
+    }
+  },
+  {
+    "id": "gist_10_28_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.28",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Viertlinie Ripretinib",
+    "thema": "Therapie",
+    "statement": "Nach Versagen von drei oder mehr Kinase-Hemmern soll beim GIST eine Therapie mit Ripretinib erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 10.28 (Grad A): Ripretinib 150 mg/Tag = Viertlinie (≥ 3 TKI vorbehandelt).",
+    "leitlinie_wortlaut": "sollen eine Therapie mit Ripretinib in der empfohlenen Tagesdosis von 150mg erhalten",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 197,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Ripretinib",
+      "Viertlinie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "metastasen"
+    }
+  },
+  {
+    "id": "gist_10_10_a",
+    "leitlinie": {
+      "id": "gist",
+      "name": "S3-LL Adulte Weichgewebesarkome (GIST)",
+      "version": "1.1",
+      "datum": "2022",
+      "awmf": "032-044OL"
+    },
+    "empfehlung_nr": "10.10",
+    "kapitel": "Gastrointestinaler Stromatumor (GIST)",
+    "unterkapitel": "Immunhistochemie",
+    "thema": "Pathologie",
+    "statement": "Die GIST-Diagnose sollte neben der Morphologie immunhistochemisch (u. a. CD117/KIT, DOG1) gesichert werden.",
+    "answer": true,
+    "explanation": "Empf. 10.10: CD117 (KIT) und DOG1 sind die diagnostischen Marker des GIST.",
+    "leitlinie_wortlaut": "Die Diagnose eines Gastrointestinalen Stromatumors sollte neben der morphologischen Diagnose",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": 184,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "CD117",
+      "DOG1",
+      "Immunhistochemie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "gist"
+      ],
+      "phase": "metastasen",
+      "modalitaet": "pathologie"
+    }
   }
 ]

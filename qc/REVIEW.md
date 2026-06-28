@@ -3,7 +3,7 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 588 Fragen · ✅ 588 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 605 Fragen · ✅ 605 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
@@ -166,6 +166,28 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | div_5_1_a | 5.1 | None | R | ✅ | ☐ |
 | div_5_20_a | 5.20 | None | F | ✅ | ☐ |
 | div_5_27_a | 5.27 | None | R | ✅ | ☐ |
+
+## gist · Gastrointestinaler Stromatumor (GIST)  (17)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| gist_10_10_a | 10.10 | 184 | R | ✅ | ☐ |
+| gist_10_12_a | 10.12 | 185 | R | ✅ | ☐ |
+| gist_10_15_a | 10.15 | 186 | R | ✅ | ☐ |
+| gist_10_17_a | 10.17 | 189 | F | ✅ | ☐ |
+| gist_10_1_a | 10.1 | 179 | R | ✅ | ☐ |
+| gist_10_20_a | 10.20 | 191 | F | ✅ | ☐ |
+| gist_10_23_a | 10.23 | 194 | F | ✅ | ☐ |
+| gist_10_24_a | 10.24 | 194 | R | ✅ | ☐ |
+| gist_10_26_a | 10.26 | 196 | F | ✅ | ☐ |
+| gist_10_27_a | 10.27 | 197 | R | ✅ | ☐ |
+| gist_10_28_a | 10.28 | 197 | R | ✅ | ☐ |
+| gist_10_2_a | 10.2 | 179 | R | ✅ | ☐ |
+| gist_10_4_a | 10.4 | 180 | F | ✅ | ☐ |
+| gist_10_5_a | 10.5 | 181 | R | ✅ | ☐ |
+| gist_10_6_a | 10.6 | 181 | F | ✅ | ☐ |
+| gist_10_7_a | 10.7 | 181 | R | ✅ | ☐ |
+| gist_10_9_a | 10.9 | 181 | F | ✅ | ☐ |
 
 ## haemorrhoiden · Hämorrhoidalleiden  (10)
 
