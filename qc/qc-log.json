@@ -9150,5 +9150,261 @@
     "statement": "Bei unter 22-Jährigen sollte eine Laser-Haarentfernung zur Rezidivprophylaxe empfohlen werden.",
     "leitlinie_wortlaut": "Bei unter 22-Jährigen sollte eine Laser-Haarentfernung zur Rezidivprophylaxe empfohlen werden. Bei älteren Patientinnen und Patienten kann aufgrund der derzeitigen Evidenzlage keine Aussage gemacht werden. ORAM 2010; PRONK 2018)",
     "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_4_9_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "4.9",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Eine adipositaschirurgische Operation ist erst ab einem BMI ≥ 50 kg/m² indiziert.",
+    "leitlinie_wortlaut": "Bei Patienten mit einem BMI ≥ 40 kg/m2 ohne Begleiterkrankungen und ohne Kontraindikationen ist nach Erschöpfung der konservativen Therapie",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_4_10_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "4.10",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die konservativen Maßnahmen gelten erst dann als erschöpft, wenn nach mindestens 6 Monaten umfassender Lebensstilintervention die Gewichtsziele verfehlt wurden.",
+    "leitlinie_wortlaut": "Zur Indikationsstellung gelten die konservativen Maßnahmen als erschöpft, wenn nach mindestens 6 Monaten umfassender Lebensstilintervention in den letzten zwei Jahren",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_4_11_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "4.11",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Eine metabolische Operation bei Typ-2-Diabetes ist nur bei schlechter glykämischer Kontrolle indiziert.",
+    "leitlinie_wortlaut": "Ab einem BMI ≥ 40 kg/m² und koexistierendem Typ 2 Diabetes soll dem Betroffenen eine metabolische Operation als mögliche Therapieoption empfohlen werden",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_4_12_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "4.12",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Instabile psychopathologische Zustände, eine unbehandelte Bulimia nervosa und eine aktive Substanzabhängigkeit stellen Kontraindikationen dar.",
+    "leitlinie_wortlaut": "Instabile psychopathologische Zustände, eine unbehandelte Bulimia nervosa, aktive Substanzabhängigkeit",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_4_13_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "4.13",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei ausgeschöpfter oder aussichtsloser konservativer Therapie können auch im höheren Alter ≥ 65 Jahre adipositaschirurgische Eingriffe durchgeführt werden.",
+    "leitlinie_wortlaut": "Bei ausgeschöpfter oder aussichtsloser konservativer Therapie können auch im höheren Alter ≥ 65 Jahre adipositaschirurgische bzw. metabolische Eingriffe",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_5_1_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "5.1",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Schlauchmagenbildung und proximaler Roux-en-Y-Magenbypass gehören zu den effektiven operativen Standardverfahren der Adipositastherapie.",
+    "leitlinie_wortlaut": "Als effektive operative Verfahren zur Therapie der Adipositas sollen die Schlauchmagenbildung, der proximal Roux-en-Y Magenbypass",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_5_2_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "5.2",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Das Magenband ist heute das Standardverfahren der ersten Wahl in der Adipositaschirurgie.",
+    "leitlinie_wortlaut": "Die Implantation eines Magenbandes soll nur nach besonderer Abwägung und auf besonderen Wunsch des aufgeklärten Patienten bei einem BMI < 50 kg/m² vorgenommen werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_5_6_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "5.6",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Adipositaschirurgische Eingriffe sollen primär offen-chirurgisch (per Laparotomie) durchgeführt werden.",
+    "leitlinie_wortlaut": "Alle adipositaschirurgischen bzw. metabolischen Eingriffe einschließlich Umwandlungsoperationen und ReDo´s sollen laparoskopisch vorgenommen werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_5_35_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "5.35",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Der Magenballon kann nach Versagen der konservativen Therapie und bei Ablehnung bzw. Kontraindikation einer Operation angeboten werden.",
+    "leitlinie_wortlaut": "Der Magenballon kann Patienten mit Adipositas nach Versagen einer konservativen Therapie und bei Ablehnung einer Operation bzw. bei Kontraindikationen für eine Operation",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_5_24_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "5.24",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die Biliopankreatische Diversion mit Duodenal Switch kann aufgrund ihrer ausgeprägten Malabsorption gehäuft zu Mangelernährung führen.",
+    "leitlinie_wortlaut": "Da die Biliopankreatische Diversion mit Duodenal Switch aufgrund ihrer ausgeprägten Malabsorption gehäuft zu Mangelernährung führen kann",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_6_1_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "6.1",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die Indikationsstellung zu einem adipositaschirurgischen bzw. metabolischen Eingriff soll interdisziplinär erfolgen.",
+    "leitlinie_wortlaut": "Die Indikationsstellung zu einem adipositaschirurgischen bzw. metabolischen Eingriff soll interdisziplinär erfolgen.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_6_16_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "6.16",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Nach erfolgreicher bariatrischer Operation ist keine spezielle Langzeit-Nachsorge erforderlich.",
+    "leitlinie_wortlaut": "Für den Erfolg der Operation ist eine strukturierte, lebenslange interdisziplinäre Nachsorge essentiell.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_6_17_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "6.17",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Eine Vitamin-/Spurenelement-Substitution ist nach bariatrischer Operation nur im ersten Jahr nötig.",
+    "leitlinie_wortlaut": "soll spätestens mit der Entlassung die lebenslange Prophylaxe / Supplementation (Multivitamin und Spurenelemente)",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_3_11_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "3.11",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die operierende Klinik sollte eine lebenslange Nachsorge anbieten (ggf. mit ambulanten Kooperationspartnern).",
+    "leitlinie_wortlaut": "Die behandelnde / operierende Klinik sollte, ggf. mit ambulanten Kooperationspartnern, eine lebenslange Nachsorge anbieten.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_6_21_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "6.21",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Der Patient soll über die gängigen Operationsverfahren, deren spezifische Risiken und Langzeitfolgen aufgeklärt werden.",
+    "leitlinie_wortlaut": "Der Patient soll über die gängigen Operationsverfahren, deren spezifische Risiken und Langzeitfolgen informiert und aufgeklärt werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "bari_5_3_a",
+    "leitlinie": "bariatrie",
+    "empfehlung_nr": "5.3",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die Verfahrenswahl soll unter besonderer Berücksichtigung von BMI, Alter, Geschlecht, Komorbiditäten, Adhärenz und Beruf erfolgen.",
+    "leitlinie_wortlaut": "Die Verfahrenswahl soll unter besonderer Berücksichtigung von BMI, Alter, Geschlecht, Komorbiditäten, Adhärenz und Beruf",
+    "leitlinie_pdf": ""
   }
 ]

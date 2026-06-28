@@ -43,6 +43,7 @@ PDFS = {
     "divertikulitis": "leitlinien/divertikulitis-v3.0.pdf",
     "haemorrhoiden": "leitlinien/haemorrhoiden-v2019.pdf",
     "pilonidalsinus": "leitlinien/pilonidalsinus-v3.0.pdf",
+    "bariatrie": "leitlinien/bariatrie-v2018.pdf",
 }
 OK_T, PRUEF_T = 0.85, 0.65
 
@@ -151,6 +152,18 @@ def decolumnize(text):
     return "\n".join(out)
 
 
+# Boxen mit rechter Meta-Spalte (Grad/Konsens neben dem Text, z. B. Bariatrie):
+# rechte Spalte vor dem Korpus abtrennen, sonst landet sie mitten im Wortlaut.
+RIGHTCOL = {"bariatrie"}
+RIGHTMETA = re.compile(r"^(Empfehlungsgrad|Expertenkonsens|Evidenz(grad|level)|Starker Konsens|starker Konsens|Konsens|Mehrheitliche|Mehrheitlicher|Dissens|Kein Konsens|EK|[ABC0]|\d[ab]?)\b")
+
+def strip_rightmeta(line):
+    parts = re.split(r" {6,}", line)
+    while len(parts) > 1 and RIGHTMETA.match(parts[-1].strip()):
+        parts.pop()
+    return "    ".join(parts)
+
+
 def toks(s):
     return set(w for w in WORD.findall((s or "").lower()) if len(w) >= 4)
 
@@ -177,6 +190,8 @@ def main():
         boxes_by[ll] = parse_boxes(t) if t else None
         if t:
             base = decolumnize(t) if ll in JOURNAL else t   # Journal-PDFs entzerren
+            if ll in RIGHTCOL:                               # rechte Meta-Spalte abtrennen
+                base = "\n".join(strip_rightmeta(l) for l in base.split("\n"))
             base = re.sub(r"(?<=\w)-\n\s*(?=\w)", "", base)  # Silbentrennung über Zeilen
             cleaned = " ".join(c for c in (clean_line(l) for l in base.split("\n")) if c)
             # Silbentrennung verschmelzen, aber Aufzählungen (X- und/oder/bzw Y) bewahren

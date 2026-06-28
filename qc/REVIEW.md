@@ -3,7 +3,7 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 572 Fragen · ✅ 572 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 588 Fragen · ✅ 588 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
@@ -70,6 +70,27 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | anal_9_2_a | 9.2 | None | R | ✅ | ☐ |
 | anal_9_7_a | 9.7 | None | F | ✅ | ☐ |
 | anal_9_9_a | 9.9 | None | R | ✅ | ☐ |
+
+## bariatrie · Adipositas-/metabolische Chirurgie  (16)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| bari_3_11_a | 3.11 | None | R | ✅ | ☐ |
+| bari_4_10_a | 4.10 | None | R | ✅ | ☐ |
+| bari_4_11_a | 4.11 | None | F | ✅ | ☐ |
+| bari_4_12_a | 4.12 | None | R | ✅ | ☐ |
+| bari_4_13_a | 4.13 | None | R | ✅ | ☐ |
+| bari_4_9_a | 4.9 | None | F | ✅ | ☐ |
+| bari_5_1_a | 5.1 | None | R | ✅ | ☐ |
+| bari_5_24_a | 5.24 | None | R | ✅ | ☐ |
+| bari_5_2_a | 5.2 | None | F | ✅ | ☐ |
+| bari_5_35_a | 5.35 | None | R | ✅ | ☐ |
+| bari_5_3_a | 5.3 | None | R | ✅ | ☐ |
+| bari_5_6_a | 5.6 | None | F | ✅ | ☐ |
+| bari_6_16_a | 6.16 | None | F | ✅ | ☐ |
+| bari_6_17_a | 6.17 | None | F | ✅ | ☐ |
+| bari_6_1_a | 6.1 | None | R | ✅ | ☐ |
+| bari_6_21_a | 6.21 | None | R | ✅ | ☐ |
 
 ## colitis_ulcerosa · Besondere Situationen  (1)
 

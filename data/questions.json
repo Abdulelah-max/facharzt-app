@@ -22845,5 +22845,536 @@
         "steissbein"
       ]
     }
+  },
+  {
+    "id": "bari_4_9_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "4.9",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "BMI-Schwelle",
+    "thema": "Indikation",
+    "statement": "Eine adipositaschirurgische Operation ist erst ab einem BMI ≥ 50 kg/m² indiziert.",
+    "answer": false,
+    "explanation": "Empf. 4.9: Indikation bereits ab BMI ≥ 40 kg/m² (bzw. ≥ 35 mit Begleiterkrankung) nach erschöpfter konservativer Therapie.",
+    "leitlinie_wortlaut": "Bei Patienten mit einem BMI ≥ 40 kg/m2 ohne Begleiterkrankungen und ohne Kontraindikationen ist nach Erschöpfung der konservativen Therapie",
+    "evidenz": "Empfehlung",
+    "konsensstaerke": "",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Indikation",
+      "BMI 40"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "diagnostik"
+    }
+  },
+  {
+    "id": "bari_4_10_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "4.10",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Konservativ erschöpft",
+    "thema": "Indikation",
+    "statement": "Die konservativen Maßnahmen gelten erst dann als erschöpft, wenn nach mindestens 6 Monaten umfassender Lebensstilintervention die Gewichtsziele verfehlt wurden.",
+    "answer": true,
+    "explanation": "Empf. 4.10: „erschöpft\" = nach ≥ 6 Monaten Lebensstilintervention in den letzten 2 Jahren ohne ausreichende Gewichtsreduktion.",
+    "leitlinie_wortlaut": "Zur Indikationsstellung gelten die konservativen Maßnahmen als erschöpft, wenn nach mindestens 6 Monaten umfassender Lebensstilintervention in den letzten zwei Jahren",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "konservativ",
+      "6 Monate"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "diagnostik"
+    }
+  },
+  {
+    "id": "bari_4_11_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "4.11",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Metabolische OP / Diabetes",
+    "thema": "Indikation",
+    "statement": "Eine metabolische Operation bei Typ-2-Diabetes ist nur bei schlechter glykämischer Kontrolle indiziert.",
+    "answer": false,
+    "explanation": "Empf. 4.11: ab BMI ≥ 40 + T2DM unabhängig von glykämischer Kontrolle/Medikation zu empfehlen.",
+    "leitlinie_wortlaut": "Ab einem BMI ≥ 40 kg/m² und koexistierendem Typ 2 Diabetes soll dem Betroffenen eine metabolische Operation als mögliche Therapieoption empfohlen werden",
+    "evidenz": "Empfehlung",
+    "konsensstaerke": "",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "metabolisch",
+      "Typ-2-Diabetes"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "diagnostik"
+    }
+  },
+  {
+    "id": "bari_4_12_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "4.12",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Kontraindikationen",
+    "thema": "Indikation",
+    "statement": "Instabile psychopathologische Zustände, eine unbehandelte Bulimia nervosa und eine aktive Substanzabhängigkeit stellen Kontraindikationen dar.",
+    "answer": true,
+    "explanation": "Empf. 4.12: u. a. instabile psychopathologische Zustände, unbehandelte Bulimia nervosa, aktive Substanzabhängigkeit.",
+    "leitlinie_wortlaut": "Instabile psychopathologische Zustände, eine unbehandelte Bulimia nervosa, aktive Substanzabhängigkeit",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Kontraindikation"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "diagnostik"
+    }
+  },
+  {
+    "id": "bari_4_13_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "4.13",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Alter ≥ 65",
+    "thema": "Indikation",
+    "statement": "Bei ausgeschöpfter oder aussichtsloser konservativer Therapie können auch im höheren Alter ≥ 65 Jahre adipositaschirurgische Eingriffe durchgeführt werden.",
+    "answer": true,
+    "explanation": "Empf. 4.13: ein Alter ≥ 65 Jahre ist keine absolute Kontraindikation.",
+    "leitlinie_wortlaut": "Bei ausgeschöpfter oder aussichtsloser konservativer Therapie können auch im höheren Alter ≥ 65 Jahre adipositaschirurgische bzw. metabolische Eingriffe",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Alter 65"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "diagnostik"
+    }
+  },
+  {
+    "id": "bari_5_1_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "5.1",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Etablierte Verfahren",
+    "thema": "Verfahren",
+    "statement": "Schlauchmagenbildung und proximaler Roux-en-Y-Magenbypass gehören zu den effektiven operativen Standardverfahren der Adipositastherapie.",
+    "answer": true,
+    "explanation": "Empf. 5.1 (Grad A): effektive Verfahren = Schlauchmagen, proximaler RYGB, Omega-Loop-Bypass, BPD-DS.",
+    "leitlinie_wortlaut": "Als effektive operative Verfahren zur Therapie der Adipositas sollen die Schlauchmagenbildung, der proximal Roux-en-Y Magenbypass",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Schlauchmagen",
+      "Magenbypass"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "chirurgie",
+      "modalitaet": "op_verfahren",
+      "lokalisation": [
+        "magen"
+      ]
+    }
+  },
+  {
+    "id": "bari_5_2_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "5.2",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Magenband",
+    "thema": "Verfahren",
+    "statement": "Das Magenband ist heute das Standardverfahren der ersten Wahl in der Adipositaschirurgie.",
+    "answer": false,
+    "explanation": "Empf. 5.2: das Magenband soll NUR nach besonderer Abwägung und auf ausdrücklichen Patientenwunsch eingesetzt werden.",
+    "leitlinie_wortlaut": "Die Implantation eines Magenbandes soll nur nach besonderer Abwägung und auf besonderen Wunsch des aufgeklärten Patienten bei einem BMI < 50 kg/m² vorgenommen werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Magenband"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "chirurgie",
+      "modalitaet": "op_verfahren",
+      "lokalisation": [
+        "magen"
+      ]
+    }
+  },
+  {
+    "id": "bari_5_6_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "5.6",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Laparoskopisch",
+    "thema": "Verfahren",
+    "statement": "Adipositaschirurgische Eingriffe sollen primär offen-chirurgisch (per Laparotomie) durchgeführt werden.",
+    "answer": false,
+    "explanation": "Empf. 5.6: ALLE Eingriffe sollen laparoskopisch (minimal-invasiv) erfolgen.",
+    "leitlinie_wortlaut": "Alle adipositaschirurgischen bzw. metabolischen Eingriffe einschließlich Umwandlungsoperationen und ReDo´s sollen laparoskopisch vorgenommen werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "laparoskopisch",
+      "minimal-invasiv"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "chirurgie",
+      "modalitaet": "op_verfahren",
+      "lokalisation": [
+        "magen"
+      ]
+    }
+  },
+  {
+    "id": "bari_5_35_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "5.35",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Magenballon",
+    "thema": "Verfahren",
+    "statement": "Der Magenballon kann nach Versagen der konservativen Therapie und bei Ablehnung bzw. Kontraindikation einer Operation angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 5.35 (Grad 0): Magenballon als temporäre Option, nicht als Ersatz der Operation.",
+    "leitlinie_wortlaut": "Der Magenballon kann Patienten mit Adipositas nach Versagen einer konservativen Therapie und bei Ablehnung einer Operation bzw. bei Kontraindikationen für eine Operation",
+    "evidenz": "Grad 0",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Magenballon"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "chirurgie",
+      "modalitaet": "op_verfahren",
+      "lokalisation": [
+        "magen"
+      ]
+    }
+  },
+  {
+    "id": "bari_5_24_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "5.24",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "BPD-DS / Malabsorption",
+    "thema": "Verfahren",
+    "statement": "Die Biliopankreatische Diversion mit Duodenal Switch kann aufgrund ihrer ausgeprägten Malabsorption gehäuft zu Mangelernährung führen.",
+    "answer": true,
+    "explanation": "Empf. 5.24: BPD-DS = stärkste Malabsorption → erhöhtes Mangelernährungsrisiko, engmaschige Substitution/Laborkontrolle.",
+    "leitlinie_wortlaut": "Da die Biliopankreatische Diversion mit Duodenal Switch aufgrund ihrer ausgeprägten Malabsorption gehäuft zu Mangelernährung führen kann",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "BPD-DS",
+      "Malabsorption"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "chirurgie",
+      "modalitaet": "op_verfahren",
+      "lokalisation": [
+        "magen"
+      ]
+    }
+  },
+  {
+    "id": "bari_6_1_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "6.1",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Interdisziplinär",
+    "thema": "Management",
+    "statement": "Die Indikationsstellung zu einem adipositaschirurgischen bzw. metabolischen Eingriff soll interdisziplinär erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 6.1: interdisziplinäres Team (Internist, Chirurg, Mental-Health, Ernährung).",
+    "leitlinie_wortlaut": "Die Indikationsstellung zu einem adipositaschirurgischen bzw. metabolischen Eingriff soll interdisziplinär erfolgen.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "interdisziplinär",
+      "Indikation"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "diagnostik"
+    }
+  },
+  {
+    "id": "bari_6_16_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "6.16",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Lebenslang",
+    "thema": "Nachsorge",
+    "statement": "Nach erfolgreicher bariatrischer Operation ist keine spezielle Langzeit-Nachsorge erforderlich.",
+    "answer": false,
+    "explanation": "Empf. 6.16: eine strukturierte, LEBENSLANGE interdisziplinäre Nachsorge ist essentiell.",
+    "leitlinie_wortlaut": "Für den Erfolg der Operation ist eine strukturierte, lebenslange interdisziplinäre Nachsorge essentiell.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Nachsorge",
+      "lebenslang"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "nachsorge"
+    }
+  },
+  {
+    "id": "bari_6_17_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "6.17",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Supplementation",
+    "thema": "Nachsorge",
+    "statement": "Eine Vitamin-/Spurenelement-Substitution ist nach bariatrischer Operation nur im ersten Jahr nötig.",
+    "answer": false,
+    "explanation": "Empf. 6.17: die Supplementation ist LEBENSLANG erforderlich.",
+    "leitlinie_wortlaut": "soll spätestens mit der Entlassung die lebenslange Prophylaxe / Supplementation (Multivitamin und Spurenelemente)",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Supplementation",
+      "Vitamine"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "nachsorge"
+    }
+  },
+  {
+    "id": "bari_3_11_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "3.11",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Nachsorge-Angebot",
+    "thema": "Management",
+    "statement": "Die operierende Klinik sollte eine lebenslange Nachsorge anbieten (ggf. mit ambulanten Kooperationspartnern).",
+    "answer": true,
+    "explanation": "Empf. 3.11: die Klinik trägt Verantwortung für ein lebenslanges Nachsorgeangebot.",
+    "leitlinie_wortlaut": "Die behandelnde / operierende Klinik sollte, ggf. mit ambulanten Kooperationspartnern, eine lebenslange Nachsorge anbieten.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Nachsorge",
+      "Zentrum"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "nachsorge"
+    }
+  },
+  {
+    "id": "bari_6_21_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "6.21",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Aufklärung",
+    "thema": "Management",
+    "statement": "Der Patient soll über die gängigen Operationsverfahren, deren spezifische Risiken und Langzeitfolgen aufgeklärt werden.",
+    "answer": true,
+    "explanation": "Empf. 6.21: umfassende Aufklärung inkl. Langzeitfolgen und lebenslanger Konsequenzen.",
+    "leitlinie_wortlaut": "Der Patient soll über die gängigen Operationsverfahren, deren spezifische Risiken und Langzeitfolgen informiert und aufgeklärt werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Aufklärung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "diagnostik"
+    }
+  },
+  {
+    "id": "bari_5_3_a",
+    "leitlinie": {
+      "id": "bariatrie",
+      "name": "S3-LL Chirurgie der Adipositas und metabolischer Erkrankungen",
+      "version": "2018",
+      "datum": "2018",
+      "awmf": "088-001"
+    },
+    "empfehlung_nr": "5.3",
+    "kapitel": "Adipositas-/metabolische Chirurgie",
+    "unterkapitel": "Verfahrenswahl",
+    "thema": "Verfahren",
+    "statement": "Die Verfahrenswahl soll unter besonderer Berücksichtigung von BMI, Alter, Geschlecht, Komorbiditäten, Adhärenz und Beruf erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 5.3: kein pauschales Standardverfahren — individuelle Risiko-Nutzen-Abwägung.",
+    "leitlinie_wortlaut": "Die Verfahrenswahl soll unter besonderer Berücksichtigung von BMI, Alter, Geschlecht, Komorbiditäten, Adhärenz und Beruf",
+    "evidenz": "EK",
+    "konsensstaerke": "Starker Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Verfahrenswahl",
+      "individuell"
+    ],
+    "facetten": {
+      "entitaet": [
+        "bariatrie"
+      ],
+      "phase": "chirurgie",
+      "modalitaet": "op_verfahren",
+      "lokalisation": [
+        "magen"
+      ]
+    }
   }
 ]

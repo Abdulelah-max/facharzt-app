@@ -548,6 +548,33 @@
       "kriterien": {
         "entitaet": "pilonidalsinus"
       }
+    },
+    {
+      "name": "Adipositas-/metab. Chirurgie",
+      "kriterien": {
+        "entitaet": "bariatrie"
+      }
+    },
+    {
+      "name": "Bariatrie Indikation",
+      "kriterien": {
+        "entitaet": "bariatrie",
+        "phase": "diagnostik"
+      }
+    },
+    {
+      "name": "Bariatrie OP-Verfahren",
+      "kriterien": {
+        "entitaet": "bariatrie",
+        "phase": "chirurgie"
+      }
+    },
+    {
+      "name": "Bariatrie Nachsorge",
+      "kriterien": {
+        "entitaet": "bariatrie",
+        "phase": "nachsorge"
+      }
     }
   ]
 }

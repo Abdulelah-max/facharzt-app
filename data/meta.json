@@ -107,9 +107,18 @@
       "version": "S3 v3.0 (2026)",
       "geplante_fragen": 7,
       "status": "fertig"
+    },
+    {
+      "id": "bariatrie",
+      "awmf": "088-001",
+      "kurz": "Bariatrie",
+      "name": "Adipositas-/metabolische Chirurgie",
+      "version": "S3 (2018)",
+      "geplante_fragen": 16,
+      "status": "fertig"
     }
   ],
-  "gesamt_geplant": 572,
+  "gesamt_geplant": 588,
   "nicht_aufgenommen": [
     {
       "id": "hernien",
