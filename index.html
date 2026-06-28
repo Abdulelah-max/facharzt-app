@@ -198,10 +198,12 @@
 
   .ll-list { list-style: none; padding: 0; margin: 0; }
   .ll-row {
-    display: grid; grid-template-columns: 100px 1fr 86px;
-    gap: 10px; align-items: center; padding: 7px 0;
-    font-size: 13px; color: var(--ink-soft);
+    display: grid; grid-template-columns: 110px 1fr 70px;
+    gap: 10px; align-items: center; padding: 10px 8px; margin: 0 -8px;
+    font-size: 13px; color: var(--ink-soft); cursor: pointer; border-radius: 8px;
   }
+  .ll-row[data-ll]:active { background: var(--bg-elev); }
+  .ll-row[data-ll]:hover { background: var(--bg-elev); }
   .ll-name { font-weight: 500; color: var(--ink); }
   .ll-bar { height: 8px; background: var(--bg-elev); border-radius: 4px; overflow: hidden; }
   .ll-bar .fill { height: 100%; background: var(--accent); }
@@ -367,13 +369,13 @@
 <main id="app">
   <div id="view-dashboard" class="view">
     <div class="dash-section">
-      <h2>Gesamt-Fortschritt</h2>
+      <h2>Mein Lernfortschritt</h2>
       <div class="progress-bar"><div class="fill" id="d-total-fill" style="width:0%"></div></div>
-      <div class="progress-label"><span id="d-total-text">0 / 0</span><span class="pct" id="d-total-pct">(0 %)</span></div>
+      <div class="progress-label"><span id="d-total-text">0 / 0</span><span class="pct" id="d-total-pct"></span></div>
     </div>
 
     <div class="dash-section">
-      <h2>Pro Leitlinie</h2>
+      <h2>Nach Thema — antippen zum Üben</h2>
       <ul class="ll-list" id="d-leitlinien"></ul>
     </div>
 
@@ -661,44 +663,50 @@ async function init() {
   showView('dashboard');
 }
 
-function renderDashboard() {
-  if (!meta) {
-    // fallback: just show questions count
-    const total = questions.length;
-    $('#d-total-text').textContent = `${total} / ${total}`;
-    $('#d-total-pct').textContent = '(100 %)';
-    $('#d-total-fill').style.width = '100%';
-    $('#d-leitlinien').innerHTML = '<li class="ll-row"><span class="ll-name">Alle</span><div class="ll-bar"><div class="fill" style="width:100%"></div></div><span class="ll-num">' + total + '</span></li>';
-  } else {
-    // count questions per leitlinie.id
-    const counts = {};
-    for (const q of questions) {
-      const id = q.leitlinie?.id || 'unknown';
-      counts[id] = (counts[id] || 0) + 1;
-    }
-    const totalCurrent = questions.length;
-    const totalPlanned = meta.gesamt_geplant || meta.leitlinien.reduce((s, l) => s + l.geplante_fragen, 0);
-    const totalPct = Math.min(100, Math.round(totalCurrent / totalPlanned * 100));
-    $('#d-total-text').textContent = `${totalCurrent} / ${totalPlanned}`;
-    $('#d-total-pct').textContent = `(${totalPct} %)`;
-    $('#d-total-fill').style.width = totalPct + '%';
+function isAnswered(q) {
+  const a = state.answers[q.id];
+  return !!(a && ((a.correct || 0) + (a.wrong || 0)) > 0);
+}
 
-    // Per Leitlinie
-    const rows = meta.leitlinien.map(l => {
-      const cur = counts[l.id] || 0;
-      const planned = l.geplante_fragen;
-      const pct = planned ? Math.min(100, Math.round(cur / planned * 100)) : 0;
-      const done = cur >= planned;
-      const mark = done ? '✓' : '';
-      return `
-        <li class="ll-row${done ? ' done' : ''}">
-          <span class="ll-name">${esc(l.kurz)}</span>
-          <div class="ll-bar"><div class="fill" style="width:${pct}%"></div></div>
-          <span class="ll-num">${cur} / ${planned} ${mark}</span>
-        </li>`;
-    }).join('');
-    $('#d-leitlinien').innerHTML = rows;
+function renderDashboard() {
+  // Lernfortschritt: beantwortete Fragen / gesamt
+  const total = questions.length;
+  const answeredTotal = questions.filter(isAnswered).length;
+  const remaining = total - answeredTotal;
+  const pct = total ? Math.round(answeredTotal / total * 100) : 0;
+  $('#d-total-text').textContent = `${answeredTotal} / ${total} beantwortet`;
+  $('#d-total-pct').textContent = remaining ? `· noch ${remaining}` : '· fertig ✓';
+  $('#d-total-fill').style.width = pct + '%';
+
+  // Pro Leitlinie/Thema: beantwortet/gesamt, antippbar
+  const order = (meta && meta.leitlinien) ? meta.leitlinien.map(l => l.id) : [];
+  const kurz = {};
+  if (meta && meta.leitlinien) for (const l of meta.leitlinien) kurz[l.id] = l.kurz;
+  const byLL = {};
+  for (const q of questions) {
+    const id = q.leitlinie?.id || 'unknown';
+    if (!byLL[id]) byLL[id] = { name: (q.leitlinie?.name || id).replace(/^S3-LL\s*/, ''), total: 0, done: 0 };
+    byLL[id].total++;
+    if (isAnswered(q)) byLL[id].done++;
   }
+  const ids = Object.keys(byLL).sort((a, b) => {
+    const ia = order.indexOf(a), ib = order.indexOf(b);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
+  });
+  $('#d-leitlinien').innerHTML = ids.map(id => {
+    const d = byLL[id];
+    const p = d.total ? Math.round(d.done / d.total * 100) : 0;
+    const done = d.done >= d.total && d.total > 0;
+    return `
+      <li class="ll-row${done ? ' done' : ''}" data-ll="${esc(id)}" role="button" tabindex="0">
+        <span class="ll-name">${esc(kurz[id] || d.name)}</span>
+        <div class="ll-bar"><div class="fill" style="width:${p}%"></div></div>
+        <span class="ll-num">${d.done} / ${d.total}${done ? ' ✓' : ''}</span>
+      </li>`;
+  }).join('');
+  $('#d-leitlinien').querySelectorAll('[data-ll]').forEach(node => {
+    node.addEventListener('click', () => startLeitlinie(node.dataset.ll));
+  });
 
   // Heute
   const today = state.sessions[todayStr()] || { answered: 0, correct: 0 };
@@ -721,18 +729,22 @@ function renderDashboard() {
     el.classList.remove('active');
   }
 
-  // Resume button label dynamics
-  const lastKey = state.lastFilter ?
-    [state.lastFilter.chapter, state.lastFilter.topic, state.lastFilter.difficulty, state.lastFilter.mode].join('|') :
-    null;
-  const lastProg = lastKey ? state.progress[lastKey] : null;
+  // Haupt-CTA: Gesamt-Lernfortschritt (motivierend statt „noch X")
   const btn = $('#d-resume');
-  if (lastProg && lastProg.queue && lastProg.queue.length > (lastProg.currentIndex || 0)) {
-    const remaining = lastProg.queue.length - (lastProg.currentIndex || 0);
-    btn.textContent = `Weiter — noch ${remaining} Frage${remaining === 1 ? '' : 'n'}`;
-  } else {
-    btn.textContent = 'Quiz starten';
-  }
+  btn.textContent = answeredTotal > 0
+    ? `Weiter lernen · ${answeredTotal} / ${total} beantwortet`
+    : 'Quiz starten';
+}
+
+// Eine Leitlinie/ein Thema direkt starten (vom Dashboard aus)
+function startLeitlinie(llid) {
+  $('#f-chapter').value = ''; $('#f-topic').value = ''; $('#f-difficulty').value = ''; $('#f-mode').value = 'all';
+  searchText = ''; if ($('#f-search')) $('#f-search').value = '';
+  FACET_AXES.forEach(ax => activeFacets[ax] && activeFacets[ax].clear());
+  if (activeFacets['entitaet']) activeFacets['entitaet'].add(llid);
+  showView('quiz');
+  applyFilters();
+  window.scrollTo({ top: 0 });
 }
 
 function renderAnalytics() {
@@ -1052,7 +1064,11 @@ function syncTopicUI(count) {
   for (const ax of FACET_AXES) for (const v of (activeFacets[ax] || [])) chosen.push(facetLabel[v] || v);
   const el = $('#f-active');
   const anyFilter = chosen.length || searchText.trim();
-  const cnt = (typeof count === 'number') ? `<span class="result-count">${count} Frage${count === 1 ? '' : 'n'}</span>` : '';
+  let cnt = '';
+  if (typeof count === 'number') {
+    const done = queue.filter(isAnswered).length;
+    cnt = `<span class="result-count">${done} / ${count} beantwortet${count - done ? ` · noch ${count - done}` : ''}</span>`;
+  }
   if (anyFilter) {
     const tags = chosen.map(c => esc(c)).join(' · ');
     el.innerHTML = `${cnt}<button class="clear-all">Alle Filter löschen</button>` +

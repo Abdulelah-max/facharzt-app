@@ -1,4 +1,4 @@
-const CACHE = 'facharzt-krk-v7';
+const CACHE = 'facharzt-krk-v8';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg', './data/questions.json', './data/meta.json', './data/taxonomie.json'];
 
 self.addEventListener('install', (e) => {
