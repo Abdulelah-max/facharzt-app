@@ -41,6 +41,8 @@ PDFS = {
     "colitis_ulcerosa": "leitlinien/colitis-ulcerosa-v7.0.pdf",
     "morbus_crohn": "leitlinien/morbus-crohn-v4.0.pdf",
     "divertikulitis": "leitlinien/divertikulitis-v3.0.pdf",
+    "haemorrhoiden": "leitlinien/haemorrhoiden-v2019.pdf",
+    "pilonidalsinus": "leitlinien/pilonidalsinus-v3.0.pdf",
 }
 OK_T, PRUEF_T = 0.85, 0.65
 
@@ -177,7 +179,8 @@ def main():
             base = decolumnize(t) if ll in JOURNAL else t   # Journal-PDFs entzerren
             base = re.sub(r"(?<=\w)-\n\s*(?=\w)", "", base)  # Silbentrennung über Zeilen
             cleaned = " ".join(c for c in (clean_line(l) for l in base.split("\n")) if c)
-            corpus_by[ll] = norm(re.sub(r"(?<=\w)-\s+(?=\w)", "", cleaned))
+            # Silbentrennung verschmelzen, aber Aufzählungen (X- und/oder/bzw Y) bewahren
+            corpus_by[ll] = norm(re.sub(r"(?<=\w)-\s+(?!(?:und|oder|bzw|sowie|beziehungsweise)\b)(?=\w)", "", cleaned))
         else:
             corpus_by[ll] = None
         print(f"  {ll}: {str(len(boxes_by[ll])) + ' Empfehlungs-Boxen' if t else 'PDF fehlt'}")

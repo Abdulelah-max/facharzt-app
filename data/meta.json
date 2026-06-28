@@ -89,9 +89,27 @@
       "version": "S3 (2022)",
       "geplante_fragen": 14,
       "status": "fertig"
+    },
+    {
+      "id": "haemorrhoiden",
+      "awmf": "081-007",
+      "kurz": "Hämorrhoiden",
+      "name": "Hämorrhoidalleiden",
+      "version": "S3 (2019)",
+      "geplante_fragen": 10,
+      "status": "fertig"
+    },
+    {
+      "id": "pilonidalsinus",
+      "awmf": "081-009",
+      "kurz": "Sinus pilonidalis",
+      "name": "Sinus pilonidalis",
+      "version": "S3 v3.0 (2026)",
+      "geplante_fragen": 7,
+      "status": "fertig"
     }
   ],
-  "gesamt_geplant": 555,
+  "gesamt_geplant": 572,
   "nicht_aufgenommen": [
     {
       "id": "hernien",

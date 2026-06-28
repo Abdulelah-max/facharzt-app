@@ -78,7 +78,8 @@
         "gallenwege": "Gallenwege / Gallenblase",
         "anal": "Analkanal / Analrand",
         "duenndarm": "Dünndarm / Ileozökal",
-        "perianal": "Perianal / Fistel"
+        "perianal": "Perianal / Fistel",
+        "steissbein": "Steißbein / sakrokokzygeal"
       }
     },
     "spezial": {
@@ -534,6 +535,18 @@
       "kriterien": {
         "entitaet": "divertikulitis",
         "phase": "chirurgie"
+      }
+    },
+    {
+      "name": "Hämorrhoidalleiden",
+      "kriterien": {
+        "entitaet": "haemorrhoiden"
+      }
+    },
+    {
+      "name": "Sinus pilonidalis",
+      "kriterien": {
+        "entitaet": "pilonidalsinus"
       }
     }
   ]

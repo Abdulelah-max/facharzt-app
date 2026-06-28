@@ -8878,5 +8878,277 @@
     "statement": "Bei rezidivierender, hämodynamisch wirksamer Divertikelblutung kann eine segmentale Resektion erwogen werden.",
     "leitlinie_wortlaut": "Bei Patienten mit rezidivierender, hämodynamisch wirksamer Divertikelblutung und der Notwendigkeit der lebenslangen Antikoagulation kann es indiziert sein, im Intervall elektiv eine partielle Kolektomie durchzuführen.",
     "leitlinie_pdf": ""
+  },
+  {
+    "id": "haem_2_a",
+    "leitlinie": "haemorrhoiden",
+    "empfehlung_nr": "2",
+    "kapitel": "Hämorrhoidalleiden",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Das Hämorrhoidalleiden sollte entsprechend Größenzunahme und Prolaps-Ausmaß klassifiziert werden (Grad I–IV).",
+    "leitlinie_wortlaut": "Die Klassifikation des Hämorrhoidalleidens sollte – entsprechend ihrer Größenzunahme und dem Ausmaß des Vorfalls in den Analkanal bzw. vor den After – nach der Goligher-Einteilung in 4 Grade vorgenommen werden, die Stadien-Übergänge sind allerdings fließend.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "haem_4_a",
+    "leitlinie": "haemorrhoiden",
+    "empfehlung_nr": "4",
+    "kapitel": "Hämorrhoidalleiden",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die Diagnostik des Hämorrhoidalleidens soll die proktologische Basisuntersuchung (Anamnese, Inspektion, Palpation, Proktoskopie) umfassen.",
+    "leitlinie_wortlaut": "Die Diagnostik eines Hämorrhoidalleidens soll die proktologische Basisuntersuchung mit Anamnese, Inspektion, Palpation und Proktoskopie umfassen. Die Untersuchung selbst ist in Steinschnitt-, Linksseiten- oder Knie-Ellenbogenlage durchführbar.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "haem_5_a",
+    "leitlinie": "haemorrhoiden",
+    "empfehlung_nr": "5",
+    "kapitel": "Hämorrhoidalleiden",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Das Hämorrhoidal-Stadium soll im Rahmen einer Koloskopie beurteilt werden.",
+    "leitlinie_wortlaut": "Eine Beurteilung des Hämorrhoidal-Stadiums soll nicht im Rahmen einer Koloskopie vorgenommen werden, da dies aufgrund der Klassifikations- Definition unzuverlässig ist.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "haem_12_a",
+    "leitlinie": "haemorrhoiden",
+    "empfehlung_nr": "12",
+    "kapitel": "Hämorrhoidalleiden",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die Sklerosierungstherapie kann bei niedriggradigem Hämorrhoidalleiden (1.–2. Grades) angeboten werden.",
+    "leitlinie_wortlaut": "Die Sklerosierungstherapie kann bei niedriggradigem Hämorrhoidalleiden (1.-2. Grades) angeboten werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "haem_16_a",
+    "leitlinie": "haemorrhoiden",
+    "empfehlung_nr": "16",
+    "kapitel": "Hämorrhoidalleiden",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei Hämorrhoiden 2. Grades ist die operative Hämorrhoidektomie das Verfahren der Wahl.",
+    "leitlinie_wortlaut": "Die Gummibandligatur sollte bei Hämorhoiden 2. Grades als Therapie der Wahl eingesetzt werden. B Ib",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "haem_19_a",
+    "leitlinie": "haemorrhoiden",
+    "empfehlung_nr": "19",
+    "kapitel": "Hämorrhoidalleiden",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bereits bei Hämorrhoiden 1. Grades soll primär operiert werden.",
+    "leitlinie_wortlaut": "Die operative Therapie des Hämorrhoidalleidens sollte bei Hämorrhoiden 3. und 4. Grades oder Versagen der konservativen Therapie angeboten werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "haem_20_a",
+    "leitlinie": "haemorrhoiden",
+    "empfehlung_nr": "20",
+    "kapitel": "Hämorrhoidalleiden",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die Milligan-Morgan-Hämorrhoidektomie sollte routinemäßig mit einer Sphinkterotomie kombiniert werden.",
+    "leitlinie_wortlaut": "Die Segmentexzision nach Milligan-Morgan soll nicht mit einer Sphinkterotomie aufgrund erhöhter Inkontinenzraten kombiniert werden. A II b",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "haem_24_a",
+    "leitlinie": "haemorrhoiden",
+    "empfehlung_nr": "24",
+    "kapitel": "Hämorrhoidalleiden",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die segmentalen OP-Techniken (Milligan-Morgan, Ferguson, Parks) sollen als gleichwertig angesehen werden.",
+    "leitlinie_wortlaut": "Die segmentalen OP-Techniken (Milligan-Morgan-, Ferguson- und Parks) sollen als gleichwertig angesehen werden. A Ia",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "haem_30_a",
+    "leitlinie": "haemorrhoiden",
+    "empfehlung_nr": "30",
+    "kapitel": "Hämorrhoidalleiden",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei Hämorrhoiden 3. und 4. Grades soll die DGHAL (Doppler-geführte Hämorrhoidalarterienligatur) aufgrund erhöhter Rezidivraten nicht gegenüber konventionellen Operationen bevorzugt werden.",
+    "leitlinie_wortlaut": "Bei Hämorrhoiden 3. und 4. Grades soll die DGHAL aufgrund erhöhter Rezidivraten gegenüber den konventionellen Operationen (Milligan-Morgan / Ferguson / Parks) nicht eingesetzt werden. Ia",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "haem_9_a",
+    "leitlinie": "haemorrhoiden",
+    "empfehlung_nr": "9",
+    "kapitel": "Hämorrhoidalleiden",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Diosmin/Hesperidin kann bei akuten Hämorrhoidalbeschwerden und postoperativ eingesetzt werden.",
+    "leitlinie_wortlaut": "Die medikamentöse Therapie mit Diosmin/Hesperidin kann bei akuten Hämorrhoidalbeschwerden und postoperativ eingesetzt werden. Diese Medikamente sind in Deutschland nicht zugelassen. Ia",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "pilo_3_a",
+    "leitlinie": "pilonidalsinus",
+    "empfehlung_nr": "3",
+    "kapitel": "Sinus pilonidalis",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Ein Pilonidalabszess sollte zunächst konservativ-antibiotisch behandelt werden.",
+    "leitlinie_wortlaut": "Ein Abszess sollte zeitnah operativ ausreichend drainiert werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "pilo_9_a",
+    "leitlinie": "pilonidalsinus",
+    "empfehlung_nr": "9",
+    "kapitel": "Sinus pilonidalis",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Die Pit-Picking-Operation sollte bei lokal limitierten Befunden als minimal-invasives Verfahren angeboten werden.",
+    "leitlinie_wortlaut": "Die so genannte „Pit Picking“-Operation sollte bei lokal limitierten Befunden als minimal-invasives Operationsverfahren angeboten werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "pilo_16_a",
+    "leitlinie": "pilonidalsinus",
+    "empfehlung_nr": "16",
+    "kapitel": "Sinus pilonidalis",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Beim Sinus pilonidalis sollte der Wundverschluss in der Mittellinie erfolgen.",
+    "leitlinie_wortlaut": "Eine Mittelliniennaht sollte wegen einer erhöhten Rezidivrate und einer hohen Inzidenz von Wunddehiszenzen nicht durchgeführt werden. Lorant 2011; Lu 2024)",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "pilo_18_a",
+    "leitlinie": "pilonidalsinus",
+    "empfehlung_nr": "18",
+    "kapitel": "Sinus pilonidalis",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Das Verfahren nach Karydakis soll als eines der plastischen (off-midline) Verfahren angeboten werden.",
+    "leitlinie_wortlaut": "Das Verfahren nach Karydakis soll als eines der plastischen Verfahren angeboten werden.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "pilo_25_a",
+    "leitlinie": "pilonidalsinus",
+    "empfehlung_nr": "25",
+    "kapitel": "Sinus pilonidalis",
+    "seite_pdf": null,
+    "answer": false,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei offenen Sinus-pilonidalis-Operationen soll routinemäßig eine Single-shot-Antibiotikaprophylaxe gegeben werden.",
+    "leitlinie_wortlaut": "Nach der aktuellen",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "pilo_28_a",
+    "leitlinie": "pilonidalsinus",
+    "empfehlung_nr": "28",
+    "kapitel": "Sinus pilonidalis",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Eine Darmvorbereitung vor einer Sinus-pilonidalis-Operation sollte nicht erfolgen.",
+    "leitlinie_wortlaut": "Eine Darmvorbereitung vor einer Sinus pilonidalis-Operation sollte nicht erfolgen.",
+    "leitlinie_pdf": ""
+  },
+  {
+    "id": "pilo_35_a",
+    "leitlinie": "pilonidalsinus",
+    "empfehlung_nr": "35",
+    "kapitel": "Sinus pilonidalis",
+    "seite_pdf": null,
+    "answer": true,
+    "check1_auto": {
+      "status": "OK",
+      "coverage": 0.0,
+      "via": "Leitlinie"
+    },
+    "statement": "Bei unter 22-Jährigen sollte eine Laser-Haarentfernung zur Rezidivprophylaxe empfohlen werden.",
+    "leitlinie_wortlaut": "Bei unter 22-Jährigen sollte eine Laser-Haarentfernung zur Rezidivprophylaxe empfohlen werden. Bei älteren Patientinnen und Patienten kann aufgrund der derzeitigen Evidenzlage keine Aussage gemacht werden. ORAM 2010; PRONK 2018)",
+    "leitlinie_pdf": ""
   }
 ]

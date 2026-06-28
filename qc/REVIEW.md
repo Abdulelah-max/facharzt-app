@@ -3,7 +3,7 @@
 - **Check 1 (Wortlaut ⇄ Leitlinie):** automatisch via `python3 qc/verify.py` (Spalte unten).
 - **Check 2 (klinisch/Logik):** manuell — ☐ → ☑, wenn Fachinhalt UND Richtig/Falsch-Wertung gegen die Empfehlung geprüft.
 
-_Letzter Auto-Lauf: 555 Fragen · ✅ 555 · ⚠️ 0 · ❌ 0 · ❔ 0_
+_Letzter Auto-Lauf: 572 Fragen · ✅ 572 · ⚠️ 0 · ❌ 0 · ❔ 0_
 
 Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 
@@ -145,6 +145,21 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | div_5_1_a | 5.1 | None | R | ✅ | ☐ |
 | div_5_20_a | 5.20 | None | F | ✅ | ☐ |
 | div_5_27_a | 5.27 | None | R | ✅ | ☐ |
+
+## haemorrhoiden · Hämorrhoidalleiden  (10)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| haem_12_a | 12 | None | R | ✅ | ☐ |
+| haem_16_a | 16 | None | F | ✅ | ☐ |
+| haem_19_a | 19 | None | F | ✅ | ☐ |
+| haem_20_a | 20 | None | F | ✅ | ☐ |
+| haem_24_a | 24 | None | R | ✅ | ☐ |
+| haem_2_a | 2 | None | R | ✅ | ☐ |
+| haem_30_a | 30 | None | R | ✅ | ☐ |
+| haem_4_a | 4 | None | R | ✅ | ☐ |
+| haem_5_a | 5 | None | F | ✅ | ☐ |
+| haem_9_a | 9 | None | R | ✅ | ☐ |
 
 ## hcc · Biliäre Karzinome (CCA)  (13)
 
@@ -795,6 +810,18 @@ Details zu ⚠️/❌ siehe `qc/qc-report.md`.
 | pank_9_30_a | 9.30 | 202 | R | ✅ | ☐ |
 | pank_9_31_a | 9.31 | 202 | R | ✅ | ☐ |
 | pank_9_4_a | 9.4 | 188 | R | ✅ | ☐ |
+
+## pilonidalsinus · Sinus pilonidalis  (7)
+
+| ID | Empf. | S. | R/F | Check 1 | Check 2 |
+|---|---|---|:--:|:--:|:--:|
+| pilo_16_a | 16 | None | F | ✅ | ☐ |
+| pilo_18_a | 18 | None | R | ✅ | ☐ |
+| pilo_25_a | 25 | None | F | ✅ | ☐ |
+| pilo_28_a | 28 | None | R | ✅ | ☐ |
+| pilo_35_a | 35 | None | R | ✅ | ☐ |
+| pilo_3_a | 3 | None | F | ✅ | ☐ |
+| pilo_9_a | 9 | None | R | ✅ | ☐ |
 
 ## schilddruese · Anaplastisches SD-Ca (ATC)  (4)
 

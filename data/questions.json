@@ -22185,5 +22185,665 @@
         "kolon"
       ]
     }
+  },
+  {
+    "id": "haem_2_a",
+    "leitlinie": {
+      "id": "haemorrhoiden",
+      "name": "S3-LL Hämorrhoidalleiden",
+      "version": "2019",
+      "datum": "2019",
+      "awmf": "081-007"
+    },
+    "empfehlung_nr": "2",
+    "kapitel": "Hämorrhoidalleiden",
+    "unterkapitel": "Stadien",
+    "thema": "Klassifikation",
+    "statement": "Das Hämorrhoidalleiden sollte entsprechend Größenzunahme und Prolaps-Ausmaß klassifiziert werden (Grad I–IV).",
+    "answer": true,
+    "explanation": "Empf. 2 (Grad B). Goligher-Klassifikation Grad I–IV steuert die Therapiewahl.",
+    "leitlinie_wortlaut": "Die Klassifikation des Hämorrhoidalleidens sollte – entsprechend ihrer Größenzunahme und dem Ausmaß des Vorfalls in den Analkanal bzw. vor den After – nach der Goligher-Einteilung in 4 Grade vorgenommen werden, die Stadien-Übergänge sind allerdings fließend.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Klassifikation",
+      "Goligher"
+    ],
+    "facetten": {
+      "entitaet": [
+        "haemorrhoiden"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "haem_4_a",
+    "leitlinie": {
+      "id": "haemorrhoiden",
+      "name": "S3-LL Hämorrhoidalleiden",
+      "version": "2019",
+      "datum": "2019",
+      "awmf": "081-007"
+    },
+    "empfehlung_nr": "4",
+    "kapitel": "Hämorrhoidalleiden",
+    "unterkapitel": "Basisuntersuchung",
+    "thema": "Diagnostik",
+    "statement": "Die Diagnostik des Hämorrhoidalleidens soll die proktologische Basisuntersuchung (Anamnese, Inspektion, Palpation, Proktoskopie) umfassen.",
+    "answer": true,
+    "explanation": "Empf. 4 (EK). Proktoskopie ist Schlüsseluntersuchung.",
+    "leitlinie_wortlaut": "Die Diagnostik eines Hämorrhoidalleidens soll die proktologische Basisuntersuchung mit Anamnese, Inspektion, Palpation und Proktoskopie umfassen. Die Untersuchung selbst ist in Steinschnitt-, Linksseiten- oder Knie-Ellenbogenlage durchführbar.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Proktoskopie",
+      "Basisuntersuchung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "haemorrhoiden"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "haem_5_a",
+    "leitlinie": {
+      "id": "haemorrhoiden",
+      "name": "S3-LL Hämorrhoidalleiden",
+      "version": "2019",
+      "datum": "2019",
+      "awmf": "081-007"
+    },
+    "empfehlung_nr": "5",
+    "kapitel": "Hämorrhoidalleiden",
+    "unterkapitel": "Koloskopie",
+    "thema": "Diagnostik",
+    "statement": "Das Hämorrhoidal-Stadium soll im Rahmen einer Koloskopie beurteilt werden.",
+    "answer": false,
+    "explanation": "Empf. 5 (EK): das Stadium soll NICHT koloskopisch beurteilt werden (proktoskopisch in situ).",
+    "leitlinie_wortlaut": "Eine Beurteilung des Hämorrhoidal-Stadiums soll nicht im Rahmen einer Koloskopie vorgenommen werden, da dies aufgrund der Klassifikations- Definition unzuverlässig ist.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Stadium",
+      "Koloskopie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "haemorrhoiden"
+      ],
+      "phase": [
+        "diagnostik"
+      ],
+      "modalitaet": [
+        "endoskopie"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "haem_12_a",
+    "leitlinie": {
+      "id": "haemorrhoiden",
+      "name": "S3-LL Hämorrhoidalleiden",
+      "version": "2019",
+      "datum": "2019",
+      "awmf": "081-007"
+    },
+    "empfehlung_nr": "12",
+    "kapitel": "Hämorrhoidalleiden",
+    "unterkapitel": "Sklerosierung",
+    "thema": "Therapie",
+    "statement": "Die Sklerosierungstherapie kann bei niedriggradigem Hämorrhoidalleiden (1.–2. Grades) angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 12 (Grad 0). Sklerosierung bei Grad 1–2.",
+    "leitlinie_wortlaut": "Die Sklerosierungstherapie kann bei niedriggradigem Hämorrhoidalleiden (1.-2. Grades) angeboten werden.",
+    "evidenz": "Grad 0",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Sklerosierung",
+      "Grad 1-2"
+    ],
+    "facetten": {
+      "entitaet": [
+        "haemorrhoiden"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "haem_16_a",
+    "leitlinie": {
+      "id": "haemorrhoiden",
+      "name": "S3-LL Hämorrhoidalleiden",
+      "version": "2019",
+      "datum": "2019",
+      "awmf": "081-007"
+    },
+    "empfehlung_nr": "16",
+    "kapitel": "Hämorrhoidalleiden",
+    "unterkapitel": "Gummibandligatur",
+    "thema": "Therapie",
+    "statement": "Bei Hämorrhoiden 2. Grades ist die operative Hämorrhoidektomie das Verfahren der Wahl.",
+    "answer": false,
+    "explanation": "Empf. 16 (Grad B): die GUMMIBANDLIGATUR ist beim Grad-II-Hämorrhoidalleiden Therapie der Wahl.",
+    "leitlinie_wortlaut": "Die Gummibandligatur sollte bei Hämorhoiden 2. Grades als Therapie der Wahl eingesetzt werden. B Ib",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Gummibandligatur",
+      "Grad 2"
+    ],
+    "facetten": {
+      "entitaet": [
+        "haemorrhoiden"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "haem_19_a",
+    "leitlinie": {
+      "id": "haemorrhoiden",
+      "name": "S3-LL Hämorrhoidalleiden",
+      "version": "2019",
+      "datum": "2019",
+      "awmf": "081-007"
+    },
+    "empfehlung_nr": "19",
+    "kapitel": "Hämorrhoidalleiden",
+    "unterkapitel": "Operationsindikation",
+    "thema": "Chirurgie",
+    "statement": "Bereits bei Hämorrhoiden 1. Grades soll primär operiert werden.",
+    "answer": false,
+    "explanation": "Empf. 19 (EK): operative Therapie erst bei Grad 3–4 oder Versagen der konservativen Therapie.",
+    "leitlinie_wortlaut": "Die operative Therapie des Hämorrhoidalleidens sollte bei Hämorrhoiden 3. und 4. Grades oder Versagen der konservativen Therapie angeboten werden.",
+    "evidenz": "EK",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Operationsindikation",
+      "Grad 3-4"
+    ],
+    "facetten": {
+      "entitaet": [
+        "haemorrhoiden"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "haem_20_a",
+    "leitlinie": {
+      "id": "haemorrhoiden",
+      "name": "S3-LL Hämorrhoidalleiden",
+      "version": "2019",
+      "datum": "2019",
+      "awmf": "081-007"
+    },
+    "empfehlung_nr": "20",
+    "kapitel": "Hämorrhoidalleiden",
+    "unterkapitel": "Sphinkterotomie",
+    "thema": "Chirurgie",
+    "statement": "Die Milligan-Morgan-Hämorrhoidektomie sollte routinemäßig mit einer Sphinkterotomie kombiniert werden.",
+    "answer": false,
+    "explanation": "Empf. 20 (Grad A): NICHT kombinieren — erhöhte Inkontinenzraten.",
+    "leitlinie_wortlaut": "Die Segmentexzision nach Milligan-Morgan soll nicht mit einer Sphinkterotomie aufgrund erhöhter Inkontinenzraten kombiniert werden. A II b",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Milligan-Morgan",
+      "Sphinkterotomie"
+    ],
+    "facetten": {
+      "entitaet": [
+        "haemorrhoiden"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "haem_24_a",
+    "leitlinie": {
+      "id": "haemorrhoiden",
+      "name": "S3-LL Hämorrhoidalleiden",
+      "version": "2019",
+      "datum": "2019",
+      "awmf": "081-007"
+    },
+    "empfehlung_nr": "24",
+    "kapitel": "Hämorrhoidalleiden",
+    "unterkapitel": "Verfahren",
+    "thema": "Chirurgie",
+    "statement": "Die segmentalen OP-Techniken (Milligan-Morgan, Ferguson, Parks) sollen als gleichwertig angesehen werden.",
+    "answer": true,
+    "explanation": "Empf. 24 (Grad A). Offen vs. geschlossen onkologisch/funktionell gleichwertig.",
+    "leitlinie_wortlaut": "Die segmentalen OP-Techniken (Milligan-Morgan-, Ferguson- und Parks) sollen als gleichwertig angesehen werden. A Ia",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Milligan-Morgan",
+      "Ferguson",
+      "Parks"
+    ],
+    "facetten": {
+      "entitaet": [
+        "haemorrhoiden"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "haem_30_a",
+    "leitlinie": {
+      "id": "haemorrhoiden",
+      "name": "S3-LL Hämorrhoidalleiden",
+      "version": "2019",
+      "datum": "2019",
+      "awmf": "081-007"
+    },
+    "empfehlung_nr": "30",
+    "kapitel": "Hämorrhoidalleiden",
+    "unterkapitel": "DGHAL",
+    "thema": "Chirurgie",
+    "statement": "Bei Hämorrhoiden 3. und 4. Grades soll die DGHAL (Doppler-geführte Hämorrhoidalarterienligatur) aufgrund erhöhter Rezidivraten nicht gegenüber konventionellen Operationen bevorzugt werden.",
+    "answer": true,
+    "explanation": "Empf. 30 (Grad A). DGHAL bei höhergradigem Befund unterlegen (mehr Rezidive).",
+    "leitlinie_wortlaut": "Bei Hämorrhoiden 3. und 4. Grades soll die DGHAL aufgrund erhöhter Rezidivraten gegenüber den konventionellen Operationen (Milligan-Morgan / Ferguson / Parks) nicht eingesetzt werden. Ia",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "DGHAL",
+      "Rezidiv"
+    ],
+    "facetten": {
+      "entitaet": [
+        "haemorrhoiden"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "haem_9_a",
+    "leitlinie": {
+      "id": "haemorrhoiden",
+      "name": "S3-LL Hämorrhoidalleiden",
+      "version": "2019",
+      "datum": "2019",
+      "awmf": "081-007"
+    },
+    "empfehlung_nr": "9",
+    "kapitel": "Hämorrhoidalleiden",
+    "unterkapitel": "Phlebotonika",
+    "thema": "Therapie",
+    "statement": "Diosmin/Hesperidin kann bei akuten Hämorrhoidalbeschwerden und postoperativ eingesetzt werden.",
+    "answer": true,
+    "explanation": "Empf. 9 (Grad 0). Orale Phlebotonika als symptomatische Option.",
+    "leitlinie_wortlaut": "Die medikamentöse Therapie mit Diosmin/Hesperidin kann bei akuten Hämorrhoidalbeschwerden und postoperativ eingesetzt werden. Diese Medikamente sind in Deutschland nicht zugelassen. Ia",
+    "evidenz": "Grad 0",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Diosmin",
+      "Phlebotonika"
+    ],
+    "facetten": {
+      "entitaet": [
+        "haemorrhoiden"
+      ],
+      "phase": [
+        "medikamentoes"
+      ],
+      "lokalisation": [
+        "anal"
+      ]
+    }
+  },
+  {
+    "id": "pilo_3_a",
+    "leitlinie": {
+      "id": "pilonidalsinus",
+      "name": "S3-LL Sinus pilonidalis",
+      "version": "3.0",
+      "datum": "2026",
+      "awmf": "081-009"
+    },
+    "empfehlung_nr": "3",
+    "kapitel": "Sinus pilonidalis",
+    "unterkapitel": "Drainage",
+    "thema": "Abszess",
+    "statement": "Ein Pilonidalabszess sollte zunächst konservativ-antibiotisch behandelt werden.",
+    "answer": false,
+    "explanation": "Empf. 3: der Abszess sollte zeitnah operativ DRAINIERT werden.",
+    "leitlinie_wortlaut": "Ein Abszess sollte zeitnah operativ ausreichend drainiert werden.",
+    "evidenz": "Empfehlung",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "leicht",
+    "tags": [
+      "Pilonidalabszess",
+      "Drainage"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pilonidalsinus"
+      ],
+      "phase": [
+        "akut",
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "steissbein"
+      ]
+    }
+  },
+  {
+    "id": "pilo_9_a",
+    "leitlinie": {
+      "id": "pilonidalsinus",
+      "name": "S3-LL Sinus pilonidalis",
+      "version": "3.0",
+      "datum": "2026",
+      "awmf": "081-009"
+    },
+    "empfehlung_nr": "9",
+    "kapitel": "Sinus pilonidalis",
+    "unterkapitel": "Pit Picking",
+    "thema": "Chirurgie",
+    "statement": "Die Pit-Picking-Operation sollte bei lokal limitierten Befunden als minimal-invasives Verfahren angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 9 (Grad B). Minimal-invasiv bei limitiertem chronischem Sinus.",
+    "leitlinie_wortlaut": "Die so genannte „Pit Picking“-Operation sollte bei lokal limitierten Befunden als minimal-invasives Operationsverfahren angeboten werden.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Pit Picking",
+      "minimal-invasiv"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pilonidalsinus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "steissbein"
+      ]
+    }
+  },
+  {
+    "id": "pilo_16_a",
+    "leitlinie": {
+      "id": "pilonidalsinus",
+      "name": "S3-LL Sinus pilonidalis",
+      "version": "3.0",
+      "datum": "2026",
+      "awmf": "081-009"
+    },
+    "empfehlung_nr": "16",
+    "kapitel": "Sinus pilonidalis",
+    "unterkapitel": "Mittelliniennaht",
+    "thema": "Chirurgie",
+    "statement": "Beim Sinus pilonidalis sollte der Wundverschluss in der Mittellinie erfolgen.",
+    "answer": false,
+    "explanation": "Empf. 16 (Grad B): die Mittelliniennaht sollte VERMIEDEN werden (Rezidiv/Dehiszenz).",
+    "leitlinie_wortlaut": "Eine Mittelliniennaht sollte wegen einer erhöhten Rezidivrate und einer hohen Inzidenz von Wunddehiszenzen nicht durchgeführt werden. Lorant 2011; Lu 2024)",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Mittelliniennaht",
+      "Rezidiv"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pilonidalsinus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "steissbein"
+      ]
+    }
+  },
+  {
+    "id": "pilo_18_a",
+    "leitlinie": {
+      "id": "pilonidalsinus",
+      "name": "S3-LL Sinus pilonidalis",
+      "version": "3.0",
+      "datum": "2026",
+      "awmf": "081-009"
+    },
+    "empfehlung_nr": "18",
+    "kapitel": "Sinus pilonidalis",
+    "unterkapitel": "Karydakis",
+    "thema": "Chirurgie",
+    "statement": "Das Verfahren nach Karydakis soll als eines der plastischen (off-midline) Verfahren angeboten werden.",
+    "answer": true,
+    "explanation": "Empf. 18 (Grad A). Karydakis-Plastik = etabliertes asymmetrisches Verfahren.",
+    "leitlinie_wortlaut": "Das Verfahren nach Karydakis soll als eines der plastischen Verfahren angeboten werden.",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Karydakis",
+      "plastisch"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pilonidalsinus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "modalitaet": [
+        "op_verfahren"
+      ],
+      "lokalisation": [
+        "steissbein"
+      ]
+    }
+  },
+  {
+    "id": "pilo_25_a",
+    "leitlinie": {
+      "id": "pilonidalsinus",
+      "name": "S3-LL Sinus pilonidalis",
+      "version": "3.0",
+      "datum": "2026",
+      "awmf": "081-009"
+    },
+    "empfehlung_nr": "25",
+    "kapitel": "Sinus pilonidalis",
+    "unterkapitel": "Antibiotikaprophylaxe",
+    "thema": "Chirurgie",
+    "statement": "Bei offenen Sinus-pilonidalis-Operationen soll routinemäßig eine Single-shot-Antibiotikaprophylaxe gegeben werden.",
+    "answer": false,
+    "explanation": "Empf. 25 (Grad A): bei offenen Verfahren soll KEINE Antibiotikaprophylaxe erfolgen.",
+    "leitlinie_wortlaut": "Nach der aktuellen",
+    "evidenz": "Grad A",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "schwer",
+    "tags": [
+      "Antibiotikaprophylaxe",
+      "offen"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pilonidalsinus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "lokalisation": [
+        "steissbein"
+      ]
+    }
+  },
+  {
+    "id": "pilo_28_a",
+    "leitlinie": {
+      "id": "pilonidalsinus",
+      "name": "S3-LL Sinus pilonidalis",
+      "version": "3.0",
+      "datum": "2026",
+      "awmf": "081-009"
+    },
+    "empfehlung_nr": "28",
+    "kapitel": "Sinus pilonidalis",
+    "unterkapitel": "Darmvorbereitung",
+    "thema": "Chirurgie",
+    "statement": "Eine Darmvorbereitung vor einer Sinus-pilonidalis-Operation sollte nicht erfolgen.",
+    "answer": true,
+    "explanation": "Empf. 28 (Grad B). Keine Darmvorbereitung nötig.",
+    "leitlinie_wortlaut": "Eine Darmvorbereitung vor einer Sinus pilonidalis-Operation sollte nicht erfolgen.",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Darmvorbereitung"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pilonidalsinus"
+      ],
+      "phase": [
+        "chirurgie"
+      ],
+      "lokalisation": [
+        "steissbein"
+      ]
+    }
+  },
+  {
+    "id": "pilo_35_a",
+    "leitlinie": {
+      "id": "pilonidalsinus",
+      "name": "S3-LL Sinus pilonidalis",
+      "version": "3.0",
+      "datum": "2026",
+      "awmf": "081-009"
+    },
+    "empfehlung_nr": "35",
+    "kapitel": "Sinus pilonidalis",
+    "unterkapitel": "Laserepilation",
+    "thema": "Nachsorge",
+    "statement": "Bei unter 22-Jährigen sollte eine Laser-Haarentfernung zur Rezidivprophylaxe empfohlen werden.",
+    "answer": true,
+    "explanation": "Empf. 35 (Grad B). Laserepilation senkt Rezidive bei jungen Patienten.",
+    "leitlinie_wortlaut": "Bei unter 22-Jährigen sollte eine Laser-Haarentfernung zur Rezidivprophylaxe empfohlen werden. Bei älteren Patientinnen und Patienten kann aufgrund der derzeitigen Evidenzlage keine Aussage gemacht werden. ORAM 2010; PRONK 2018)",
+    "evidenz": "Grad B",
+    "konsensstaerke": "Konsens",
+    "seite_pdf": null,
+    "schwierigkeit": "mittel",
+    "tags": [
+      "Laserepilation",
+      "Rezidivprophylaxe"
+    ],
+    "facetten": {
+      "entitaet": [
+        "pilonidalsinus"
+      ],
+      "phase": [
+        "nachsorge"
+      ],
+      "lokalisation": [
+        "steissbein"
+      ]
+    }
   }
 ]
